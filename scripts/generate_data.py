@@ -161,6 +161,92 @@ LEVEL_COMP_MULT = {"Senior": 0.72, "Staff": 0.95, "Principal": 1.25, "Director":
                    "Senior Director": 1.95, "VP": 2.6, "SVP": 3.6, "C-Suite": 6.0}
 
 
+# ==========================================================================
+# CHARACTER METRICS
+# --------------------------------------------------------------------------
+# Three "character" dimensions are modelled for every employee. Each is a
+# 0-100 index built from named sub-traits, so the score is interpretable:
+#
+#   1. POTENTIAL        — growth ceiling: learning agility, drive/ambition,
+#                         and promotion trajectory (level reached vs tenure).
+#   2. ORIGIN / ROOTS   — "where they come from": a descriptive origin region
+#                         and socioeconomic background, summarised numerically
+#                         as an ADVERSITY-OF-ORIGIN score (higher = more
+#                         self-made / further travelled from the starting line).
+#   3. MENTAL STRENGTH  — resilience, stress tolerance and grit.
+#
+# Deliberate, defensible correlations are baked in: overcoming a harder start
+# tends to build mental strength, and mental strength feeds potential. These
+# are MODELLING CHOICES, not measurements — see the provenance note. Ascribing
+# "character" and "origins" to (fictional) individuals is pure illustration.
+# ==========================================================================
+
+# Origin-region mix per name-locale (roughly mirrors each firm's hiring base).
+ORIGIN_REGIONS = ["North America", "Latin America", "Europe", "Middle East",
+                  "Africa", "South Asia", "East Asia", "Southeast Asia", "Oceania"]
+ORIGIN_PROFILES = {
+    "us_mixed": [0.44, 0.05, 0.08, 0.03, 0.025, 0.21, 0.12, 0.03, 0.015],
+    "taiwan":   [0.04, 0.00, 0.01, 0.00, 0.005, 0.02, 0.88, 0.045, 0.00],
+    "saudi":    [0.01, 0.00, 0.02, 0.78, 0.05, 0.10, 0.005, 0.035, 0.00],
+}
+
+# Socioeconomic background of origin and its base adversity weight (0-100,
+# higher = started further back). first-generation-professional adds to it.
+SOCIO = ["Working class", "Lower-middle", "Middle", "Upper-middle", "Affluent"]
+SOCIO_WEIGHTS = [0.18, 0.25, 0.30, 0.18, 0.09]
+SOCIO_ADVERSITY = {"Working class": 82, "Lower-middle": 66, "Middle": 52,
+                   "Upper-middle": 38, "Affluent": 25}
+FIRST_GEN_PROB = {"Working class": 0.80, "Lower-middle": 0.55, "Middle": 0.30,
+                  "Upper-middle": 0.12, "Affluent": 0.05}
+
+# Per-company culture tilt on mental strength (aggressive / high-churn cultures
+# select for higher grit). Keyed by ticker stem.
+MENTAL_MEAN = {"NVDA": 72, "AAPL": 68, "GOOG": 68, "MSFT": 67, "AMZN": 73,
+               "TSM": 71, "AVGO": 70, "2222": 69, "TSLA": 75, "META": 71}
+# Per-company ambition tilt feeding potential.
+AMBITION_MEAN = {"NVDA": 74, "AAPL": 69, "GOOG": 72, "MSFT": 68, "AMZN": 73,
+                 "TSM": 70, "AVGO": 69, "2222": 67, "TSLA": 76, "META": 73}
+
+LEVEL_TRAJECTORY = {"Senior": 45, "Staff": 55, "Principal": 65, "Director": 72,
+                    "Senior Director": 78, "VP": 85, "SVP": 92, "C-Suite": 98}
+
+
+def generate_character(c: Company, levels, tenure, perf):
+    """Return (potential, origin_region, socio, first_gen, adversity, mental)."""
+    n = len(levels)
+    stem = c.ticker.split(".")[0]
+
+    # --- Origin / roots ---------------------------------------------------
+    region = rng.choice(ORIGIN_REGIONS, size=n, p=np.array(ORIGIN_PROFILES[c.name_locale]))
+    socio = rng.choice(SOCIO, size=n, p=SOCIO_WEIGHTS)
+    first_gen = np.array([rng.random() < FIRST_GEN_PROB[s] for s in socio])
+    adversity = np.array([SOCIO_ADVERSITY[s] for s in socio], dtype=float)
+    adversity += first_gen * 9.0 + rng.normal(0, 7, n)
+    adversity = np.clip(adversity, 0, 100).round(1)
+
+    # --- Mental strength (resilience + stress tolerance + grit) -----------
+    # Centred on the company culture mean; a harder start and stronger
+    # performance tilt it up (mild positive coupling, mean-preserving).
+    mental = (rng.normal(MENTAL_MEAN[stem], 9, n)
+              + 0.15 * (adversity - 55)
+              + 0.10 * (perf - 78))           # high performers a touch grittier
+    mental = np.clip(mental + rng.normal(0, 3, n), 0, 100).round(1)
+
+    # --- Potential (learning agility + ambition + trajectory + a bit of grit)
+    learning = rng.normal(70, 12, n)
+    ambition = rng.normal(AMBITION_MEAN[stem], 12, n)
+    # trajectory: reached a high level fast (relative to tenure) => high potential
+    traj = np.array([LEVEL_TRAJECTORY[l] for l in levels], dtype=float)
+    traj = traj - 1.4 * np.clip(tenure - 5, 0, None)   # slow climbers score lower
+    potential = (0.34 * learning + 0.28 * ambition + 0.22 * np.clip(traj, 0, 100)
+                 + 0.16 * mental)
+    potential = np.clip(potential + rng.normal(0, 4, n), 0, 100).round(1)
+
+    return (potential, region, socio,
+            np.where(first_gen, "Yes", "No"), adversity, mental)
+
+
+
 def make_names(locale: str, n: int) -> list[str]:
     first = rng.choice(FIRST[locale], size=n)
     last = rng.choice(LAST[locale], size=n)
@@ -198,6 +284,10 @@ def generate_company(c: Company) -> list[dict]:
                        scale=c.tenure_sd ** 2 / c.tenure_mean, size=n) + level_tenure_lift
     tenure = np.clip(tenure, 0.2, 40).round(1)
 
+    # Character metrics (depend on level / tenure / performance).
+    potential, region, socio, first_gen, adversity, mental = \
+        generate_character(c, levels, tenure, perf)
+
     rows = []
     for i in range(n):
         rows.append({
@@ -207,9 +297,17 @@ def generate_company(c: Company) -> list[dict]:
             "ticker": c.ticker,
             "department": departments[i],
             "level": levels[i],
+            # --- performance metrics ---
             "performance_score": perf[i],
             "total_compensation_usd": int(comp[i]),
             "tenure_years": tenure[i],
+            # --- character metrics ---
+            "potential_index": potential[i],
+            "origin_region": region[i],
+            "socioeconomic_origin": socio[i],
+            "first_generation_professional": first_gen[i],
+            "adversity_origin_score": adversity[i],
+            "mental_strength": mental[i],
         })
     return rows
 
@@ -227,7 +325,10 @@ def main() -> None:
     print(f"wrote {comp_path}")
 
     fieldnames = ["employee_id", "name", "company", "ticker", "department", "level",
-                  "performance_score", "total_compensation_usd", "tenure_years"]
+                  "performance_score", "total_compensation_usd", "tenure_years",
+                  "potential_index", "origin_region", "socioeconomic_origin",
+                  "first_generation_professional", "adversity_origin_score",
+                  "mental_strength"]
     all_rows = []
     for c in COMPANIES:
         rows = generate_company(c)

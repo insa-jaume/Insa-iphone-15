@@ -1,1001 +1,1001 @@
-employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
-TSM-0001,Kai Lee,TSMC,TSM,Fab/Manufacturing,Principal,84.8,224000,12.1
-TSM-0002,Chun Chang,TSMC,TSM,Legal & Policy,Principal,86.5,317500,13.3
-TSM-0003,Fang Kuo,TSMC,TSM,Engineering,Principal,64.0,84600,10.7
-TSM-0004,Bo Lee,TSMC,TSM,Quality,Senior,94.6,93000,7.3
-TSM-0005,Hui Su,TSMC,TSM,Fab/Manufacturing,Staff,81.5,222600,19.0
-TSM-0006,Cheng Chao,TSMC,TSM,Research & AI,Director,87.9,277200,33.9
-TSM-0007,Hao Chiang,TSMC,TSM,Fab/Manufacturing,Principal,73.6,216700,9.0
-TSM-0008,Li Tsai,TSMC,TSM,Fab/Manufacturing,Director,75.0,277900,15.8
-TSM-0009,Po Pan,TSMC,TSM,Engineering,SVP,100.0,715300,8.9
-TSM-0010,Zhi Huang,TSMC,TSM,Engineering,Senior,61.6,60800,8.8
-TSM-0011,Cheng Chao,TSMC,TSM,Engineering,Senior Director,74.1,309000,15.2
-TSM-0012,Chun Pan,TSMC,TSM,Sales & GTM,Staff,78.8,314900,8.8
-TSM-0013,Fang Kuo,TSMC,TSM,Engineering,Principal,97.3,212600,12.3
-TSM-0014,Qing Tsai,TSMC,TSM,Engineering,Senior,79.0,126400,13.0
-TSM-0015,Qing Wu,TSMC,TSM,Sales & GTM,Staff,80.4,174200,11.8
-TSM-0016,Bo Chao,TSMC,TSM,Engineering,Senior,86.3,142700,7.8
-TSM-0017,Bo Su,TSMC,TSM,Fab/Manufacturing,Senior,84.1,91300,8.3
-TSM-0018,Shu Chao,TSMC,TSM,Finance,Senior,75.8,100000,8.8
-TSM-0019,Yi Chang,TSMC,TSM,Operations,Staff,72.5,188700,5.5
-TSM-0020,Hui Lin,TSMC,TSM,Fab/Manufacturing,Staff,76.6,328000,13.3
-TSM-0021,Wen Lin,TSMC,TSM,Fab/Manufacturing,Senior Director,84.1,393400,17.0
-TSM-0022,Yi Lee,TSMC,TSM,Quality,Principal,75.2,221600,9.1
-TSM-0023,Hao Yang,TSMC,TSM,Engineering,Senior,72.9,65800,2.2
-TSM-0024,Po Chiang,TSMC,TSM,Fab/Manufacturing,Senior,77.1,147500,3.7
-TSM-0025,Ying Kuo,TSMC,TSM,Research & AI,Senior Director,80.6,258100,12.9
-TSM-0026,Wen Kuo,TSMC,TSM,Operations,Principal,95.6,220500,8.4
-TSM-0027,Ying Chang,TSMC,TSM,Fab/Manufacturing,Staff,85.3,161800,11.7
-TSM-0028,Fang Yeh,TSMC,TSM,Quality,Staff,80.3,177200,18.7
-TSM-0029,Wei Chao,TSMC,TSM,Fab/Manufacturing,Director,85.0,124300,9.3
-TSM-0030,Sheng Lin,TSMC,TSM,Engineering,Staff,90.4,108800,8.1
-TSM-0031,Ying Wu,TSMC,TSM,Operations,Principal,85.1,206500,4.4
-TSM-0032,Yu Hsu,TSMC,TSM,Engineering,Senior,67.7,65000,3.4
-TSM-0033,Bo Cheng,TSMC,TSM,Fab/Manufacturing,Director,92.0,557800,18.1
-TSM-0034,Qing Wu,TSMC,TSM,Operations,Senior,80.4,164200,12.4
-TSM-0035,Mei Chang,TSMC,TSM,Sales & GTM,Principal,75.2,186500,8.9
-TSM-0036,Jia Tsai,TSMC,TSM,Fab/Manufacturing,Senior,75.0,78600,4.0
-TSM-0037,Chih Tseng,TSMC,TSM,Engineering,Senior,96.5,208200,15.1
-TSM-0038,Jun Lee,TSMC,TSM,Quality,Staff,85.4,68600,9.9
-TSM-0039,Chih Chou,TSMC,TSM,Operations,Senior Director,87.0,189300,11.9
-TSM-0040,Shu Yeh,TSMC,TSM,Fab/Manufacturing,VP,77.0,688900,13.6
-TSM-0041,Yi Chiang,TSMC,TSM,Engineering,Senior,77.1,43200,13.2
-TSM-0042,Shu Chou,TSMC,TSM,Fab/Manufacturing,Senior,83.5,85200,12.6
-TSM-0043,Chih Wang,TSMC,TSM,Engineering,Staff,75.7,252900,2.2
-TSM-0044,Bo Wu,TSMC,TSM,Supply Chain,Principal,93.0,318000,6.9
-TSM-0045,Hui Chang,TSMC,TSM,Fab/Manufacturing,Senior,78.1,107000,7.1
-TSM-0046,Chun Hsu,TSMC,TSM,People/HR,Senior,85.1,42300,7.0
-TSM-0047,Fang Yeh,TSMC,TSM,Operations,Staff,87.8,203200,10.1
-TSM-0048,Ting Yeh,TSMC,TSM,Sales & GTM,Principal,75.6,422100,7.1
-TSM-0049,Qing Lu,TSMC,TSM,Sales & GTM,Director,81.6,323000,12.2
-TSM-0050,Shu Lin,TSMC,TSM,Research & AI,Senior,74.8,37200,9.9
-TSM-0051,Fang Wang,TSMC,TSM,Research & AI,Senior,89.0,127900,6.7
-TSM-0052,Chun Lu,TSMC,TSM,Engineering,Senior Director,81.2,579500,15.5
-TSM-0053,Chih Chang,TSMC,TSM,Fab/Manufacturing,Senior,81.1,147100,14.1
-TSM-0054,Ling Shen,TSMC,TSM,Fab/Manufacturing,Senior,76.6,229200,11.8
-TSM-0055,Po Fang,TSMC,TSM,Engineering,Senior,89.7,71200,8.5
-TSM-0056,Fang Fang,TSMC,TSM,Fab/Manufacturing,Staff,73.2,73600,7.7
-TSM-0057,Ling Tsai,TSMC,TSM,Finance,VP,81.2,1061700,11.6
-TSM-0058,Ling Kuo,TSMC,TSM,Fab/Manufacturing,Principal,98.8,263000,24.9
-TSM-0059,Fang Liao,TSMC,TSM,Operations,Senior,77.7,163000,8.6
-TSM-0060,Qing Kuo,TSMC,TSM,Finance,Staff,73.5,90100,15.4
-TSM-0061,Ming Huang,TSMC,TSM,Research & AI,Staff,80.9,163100,15.9
-TSM-0062,Mei Pan,TSMC,TSM,Engineering,Director,64.6,186600,12.4
-TSM-0063,Xin Tseng,TSMC,TSM,Finance,Director,78.1,200100,8.3
-TSM-0064,Sheng Hsu,TSMC,TSM,Operations,Senior,84.3,83800,9.6
-TSM-0065,Ling Tsai,TSMC,TSM,Legal & Policy,Staff,79.3,209200,3.5
-TSM-0066,Kai Yeh,TSMC,TSM,Fab/Manufacturing,Senior,76.0,133500,2.6
-TSM-0067,Wen Su,TSMC,TSM,Engineering,Senior,75.2,113400,19.8
-TSM-0068,Chih Fang,TSMC,TSM,Research & AI,Staff,77.5,166000,4.6
-TSM-0069,Jian Kuo,TSMC,TSM,Fab/Manufacturing,Staff,84.4,97000,8.8
-TSM-0070,Bo Chou,TSMC,TSM,Operations,Principal,81.6,246200,14.7
-TSM-0071,Li Tsai,TSMC,TSM,Quality,Staff,85.9,129100,13.1
-TSM-0072,Xin Chen,TSMC,TSM,Research & AI,Senior,73.8,85000,14.7
-TSM-0073,Ming Yeh,TSMC,TSM,Fab/Manufacturing,VP,82.1,267400,10.6
-TSM-0074,Bo Hsu,TSMC,TSM,Fab/Manufacturing,Principal,94.9,154100,11.5
-TSM-0075,Qing Lee,TSMC,TSM,Fab/Manufacturing,Senior,85.9,80500,7.5
-TSM-0076,Shu Lu,TSMC,TSM,Research & AI,Senior,81.4,110600,9.7
-TSM-0077,Jun Chao,TSMC,TSM,Research & AI,Senior,92.6,92000,14.8
-TSM-0078,Shu Tseng,TSMC,TSM,Fab/Manufacturing,Principal,88.7,79700,6.6
-TSM-0079,Fang Chen,TSMC,TSM,People/HR,Principal,66.1,70500,4.4
-TSM-0080,Qing Tseng,TSMC,TSM,Fab/Manufacturing,Senior Director,81.2,142400,20.5
-TSM-0081,Zhi Lu,TSMC,TSM,Sales & GTM,Principal,83.3,133500,26.4
-TSM-0082,Shu Chao,TSMC,TSM,Finance,Staff,83.8,315000,5.5
-TSM-0083,Kai Shen,TSMC,TSM,Quality,C-Suite,87.1,906800,20.5
-TSM-0084,Mei Hsu,TSMC,TSM,Engineering,Staff,86.2,127100,6.8
-TSM-0085,Mei Lin,TSMC,TSM,Engineering,Principal,73.4,90700,10.3
-TSM-0086,Ying Huang,TSMC,TSM,Engineering,Senior,77.5,90600,4.7
-TSM-0087,Zhi Fang,TSMC,TSM,Research & AI,Senior,67.9,159100,7.2
-TSM-0088,Jia Yang,TSMC,TSM,Fab/Manufacturing,VP,76.0,402400,22.4
-TSM-0089,Yi Liao,TSMC,TSM,Sales & GTM,Senior,91.7,294000,7.8
-TSM-0090,Po Chiang,TSMC,TSM,Fab/Manufacturing,Staff,71.0,106500,6.2
-TSM-0091,Jian Hung,TSMC,TSM,Research & AI,C-Suite,83.6,488600,21.3
-TSM-0092,Wen Lin,TSMC,TSM,Engineering,Principal,78.5,81500,7.8
-TSM-0093,Kai Chen,TSMC,TSM,Finance,Staff,81.1,74000,7.7
-TSM-0094,Shu Yeh,TSMC,TSM,Supply Chain,Senior,69.2,163800,8.6
-TSM-0095,Shu Yeh,TSMC,TSM,Fab/Manufacturing,Senior,83.8,91500,6.5
-TSM-0096,Shu Pan,TSMC,TSM,Fab/Manufacturing,Senior Director,78.5,356300,7.0
-TSM-0097,Cheng Kuo,TSMC,TSM,Engineering,VP,80.5,311900,16.3
-TSM-0098,Mei Lin,TSMC,TSM,Quality,Senior,89.2,125100,5.0
-TSM-0099,Ying Tseng,TSMC,TSM,Engineering,Senior,74.6,109500,8.7
-TSM-0100,Fang Chen,TSMC,TSM,Supply Chain,SVP,77.8,595300,16.2
-TSM-0101,Hui Lin,TSMC,TSM,Research & AI,Senior,94.9,96600,7.5
-TSM-0102,Jun Lu,TSMC,TSM,Fab/Manufacturing,Staff,66.8,119900,8.5
-TSM-0103,Shu Pan,TSMC,TSM,Operations,Staff,91.8,221500,20.5
-TSM-0104,Jun Hsu,TSMC,TSM,Operations,Senior,61.5,67900,0.9
-TSM-0105,Ling Hsu,TSMC,TSM,Operations,VP,85.6,797100,19.1
-TSM-0106,Jian Chiang,TSMC,TSM,Fab/Manufacturing,Principal,73.7,127000,6.2
-TSM-0107,Jun Shen,TSMC,TSM,Fab/Manufacturing,Senior,71.3,67000,7.9
-TSM-0108,Cheng Chang,TSMC,TSM,Fab/Manufacturing,Senior,97.4,160500,3.3
-TSM-0109,Xin Cheng,TSMC,TSM,Operations,Senior,80.8,106800,5.2
-TSM-0110,Kai Liu,TSMC,TSM,Engineering,Senior,79.1,333300,7.2
-TSM-0111,Wei Yang,TSMC,TSM,People/HR,Senior,85.3,240300,8.1
-TSM-0112,Kai Chen,TSMC,TSM,Operations,Principal,78.8,115300,9.3
-TSM-0113,Wei Cheng,TSMC,TSM,Operations,Staff,72.3,131600,15.7
-TSM-0114,Wei Chiang,TSMC,TSM,Engineering,SVP,84.1,1171800,12.8
-TSM-0115,Fang Su,TSMC,TSM,Engineering,VP,88.1,410500,12.1
-TSM-0116,Ying Yang,TSMC,TSM,Operations,Director,91.8,348300,9.0
-TSM-0117,Cheng Hsu,TSMC,TSM,Fab/Manufacturing,Director,80.2,276800,25.4
-TSM-0118,Po Lu,TSMC,TSM,Operations,Senior,63.6,152000,7.6
-TSM-0119,Chun Chang,TSMC,TSM,Fab/Manufacturing,Principal,92.0,316700,5.7
-TSM-0120,Jun Hsieh,TSMC,TSM,Engineering,SVP,75.8,289400,7.2
-TSM-0121,Hao Wang,TSMC,TSM,Fab/Manufacturing,Senior,65.8,81400,14.3
-TSM-0122,Chih Lin,TSMC,TSM,Research & AI,Staff,91.2,232300,13.0
-TSM-0123,Fang Hsieh,TSMC,TSM,Fab/Manufacturing,Principal,72.2,165300,9.9
-TSM-0124,Qing Hung,TSMC,TSM,Sales & GTM,Senior,77.3,94900,8.5
-TSM-0125,Ling Huang,TSMC,TSM,Sales & GTM,Staff,77.8,111400,13.3
-TSM-0126,Fang Tseng,TSMC,TSM,Fab/Manufacturing,Senior Director,83.3,546600,11.4
-TSM-0127,Xin Hung,TSMC,TSM,Legal & Policy,Principal,85.7,207000,17.1
-TSM-0128,Wen Yang,TSMC,TSM,Research & AI,Senior,58.4,93300,8.3
-TSM-0129,Ming Huang,TSMC,TSM,Engineering,Staff,96.5,159000,18.4
-TSM-0130,Hui Chang,TSMC,TSM,Supply Chain,Principal,87.3,156900,17.2
-TSM-0131,Jun Kuo,TSMC,TSM,Operations,Director,91.4,230600,8.6
-TSM-0132,Po Liu,TSMC,TSM,Fab/Manufacturing,Staff,85.4,175400,19.1
-TSM-0133,Ling Chou,TSMC,TSM,Engineering,Director,99.7,127700,15.3
-TSM-0134,Jun Chou,TSMC,TSM,Engineering,Senior,75.6,80400,14.7
-TSM-0135,Ling Huang,TSMC,TSM,Engineering,Senior Director,71.5,205700,18.9
-TSM-0136,Wen Yeh,TSMC,TSM,Engineering,Staff,86.7,345900,11.8
-TSM-0137,Po Liu,TSMC,TSM,Finance,Senior Director,83.8,334100,19.6
-TSM-0138,Chun Huang,TSMC,TSM,Fab/Manufacturing,Principal,90.5,196200,8.5
-TSM-0139,Cheng Fang,TSMC,TSM,Supply Chain,Director,83.5,134900,13.4
-TSM-0140,Sheng Kuo,TSMC,TSM,Sales & GTM,Senior,75.6,151200,7.1
-TSM-0141,Zhi Yeh,TSMC,TSM,Legal & Policy,Staff,75.6,139100,12.7
-TSM-0142,Yu Wu,TSMC,TSM,Engineering,Director,77.9,157500,11.3
-TSM-0143,Li Chiang,TSMC,TSM,Engineering,VP,87.8,252000,11.7
-TSM-0144,Bo Shen,TSMC,TSM,Operations,VP,81.9,440000,13.0
-TSM-0145,Ting Liao,TSMC,TSM,Fab/Manufacturing,VP,77.2,585000,23.0
-TSM-0146,Shu Pan,TSMC,TSM,Operations,Senior,80.5,51200,3.8
-TSM-0147,Jun Chen,TSMC,TSM,Finance,Staff,74.2,106400,4.1
-TSM-0148,Chun Cheng,TSMC,TSM,Engineering,Senior,71.1,61600,8.4
-TSM-0149,Xin Kuo,TSMC,TSM,Engineering,Principal,74.6,281700,12.8
-TSM-0150,Bo Su,TSMC,TSM,Sales & GTM,Principal,87.6,359600,8.1
-TSM-0151,Jia Liao,TSMC,TSM,Fab/Manufacturing,Director,78.1,197900,20.2
-TSM-0152,Wen Hsu,TSMC,TSM,Engineering,Director,62.2,209500,13.7
-TSM-0153,Ming Tseng,TSMC,TSM,Fab/Manufacturing,Senior,77.4,148700,13.8
-TSM-0154,Ling Yang,TSMC,TSM,Engineering,Senior,77.6,99900,4.3
-TSM-0155,Ting Hsieh,TSMC,TSM,Supply Chain,Senior,62.3,93700,11.9
-TSM-0156,Shu Wu,TSMC,TSM,Operations,Staff,80.7,160800,3.3
-TSM-0157,Ting Lu,TSMC,TSM,Finance,Senior,69.6,78900,12.2
-TSM-0158,Ming Hung,TSMC,TSM,Engineering,Senior,86.7,110500,2.9
-TSM-0159,Shu Lee,TSMC,TSM,Engineering,Principal,86.5,214300,4.5
-TSM-0160,Jun Tsai,TSMC,TSM,Fab/Manufacturing,Director,81.9,520300,15.1
-TSM-0161,Sheng Shen,TSMC,TSM,Engineering,Staff,83.1,245100,15.1
-TSM-0162,Ling Chou,TSMC,TSM,Engineering,Senior,79.7,83400,9.0
-TSM-0163,Kai Chang,TSMC,TSM,Engineering,Principal,84.3,111000,9.0
-TSM-0164,Jian Chiang,TSMC,TSM,Fab/Manufacturing,Senior,69.5,44200,16.1
-TSM-0165,Bo Liu,TSMC,TSM,Research & AI,Principal,69.7,428000,6.0
-TSM-0166,Kai Yang,TSMC,TSM,Operations,VP,80.3,513100,14.4
-TSM-0167,Fang Chou,TSMC,TSM,Fab/Manufacturing,Staff,93.5,140600,6.1
-TSM-0168,Zhi Kuo,TSMC,TSM,Supply Chain,Director,76.1,308800,10.1
-TSM-0169,Hui Chiang,TSMC,TSM,Operations,Senior,82.4,136700,14.9
-TSM-0170,Sheng Chao,TSMC,TSM,Fab/Manufacturing,Senior,55.3,93500,1.4
-TSM-0171,Bo Hung,TSMC,TSM,Research & AI,Director,74.1,376600,11.5
-TSM-0172,Wei Chou,TSMC,TSM,Operations,Senior,77.5,63800,14.0
-TSM-0173,Ting Cheng,TSMC,TSM,Fab/Manufacturing,Staff,85.3,203100,13.1
-TSM-0174,Jia Huang,TSMC,TSM,Sales & GTM,Director,80.1,257400,14.6
-TSM-0175,Xin Shen,TSMC,TSM,Engineering,Staff,77.7,132900,11.2
-TSM-0176,Li Su,TSMC,TSM,Engineering,Staff,87.7,67500,9.4
-TSM-0177,Yu Shen,TSMC,TSM,Research & AI,Principal,78.3,150400,5.6
-TSM-0178,Chun Pan,TSMC,TSM,Operations,Senior,79.4,80100,3.8
-TSM-0179,Chun Chang,TSMC,TSM,Sales & GTM,Senior,78.7,103900,4.8
-TSM-0180,Jun Liu,TSMC,TSM,Legal & Policy,Senior,85.2,103600,9.7
-TSM-0181,Wen Liu,TSMC,TSM,Quality,Senior,74.4,94800,8.6
-TSM-0182,Qing Yeh,TSMC,TSM,Sales & GTM,Senior,75.3,85800,3.5
-TSM-0183,Cheng Hsu,TSMC,TSM,Engineering,Staff,83.3,111500,17.7
-TSM-0184,Yu Yang,TSMC,TSM,Engineering,Senior,86.1,152700,4.7
-TSM-0185,Hui Chen,TSMC,TSM,Engineering,Principal,87.5,81200,3.6
-TSM-0186,Chun Tsai,TSMC,TSM,Fab/Manufacturing,Staff,73.7,170700,7.8
-TSM-0187,Li Cheng,TSMC,TSM,Quality,Senior,78.3,268100,17.1
-TSM-0188,Jun Su,TSMC,TSM,Operations,VP,79.0,411200,11.2
-TSM-0189,Cheng Cheng,TSMC,TSM,Engineering,Senior,93.4,222500,10.9
-TSM-0190,Ting Lee,TSMC,TSM,Supply Chain,Senior,86.5,329600,7.7
-TSM-0191,Sheng Pan,TSMC,TSM,Finance,Staff,74.5,38400,8.6
-TSM-0192,Hao Chou,TSMC,TSM,Sales & GTM,Senior,73.3,128500,8.3
-TSM-0193,Kai Hsieh,TSMC,TSM,Operations,Senior,79.2,156600,8.6
-TSM-0194,Yu Tsai,TSMC,TSM,Supply Chain,Staff,72.1,216000,13.0
-TSM-0195,Mei Chen,TSMC,TSM,Engineering,Director,93.1,225100,11.8
-TSM-0196,Qing Cheng,TSMC,TSM,Sales & GTM,Director,74.6,672900,6.4
-TSM-0197,Jia Chang,TSMC,TSM,Fab/Manufacturing,Senior Director,89.7,612700,16.1
-TSM-0198,Zhi Yang,TSMC,TSM,Fab/Manufacturing,Principal,88.7,272300,18.3
-TSM-0199,Hao Lin,TSMC,TSM,Fab/Manufacturing,Principal,73.8,134900,8.7
-TSM-0200,Yu Yang,TSMC,TSM,Supply Chain,Principal,74.5,49100,8.2
-TSM-0201,Shu Tsai,TSMC,TSM,Operations,Senior,73.3,42600,17.4
-TSM-0202,Hui Chen,TSMC,TSM,Sales & GTM,Principal,86.0,166900,11.4
-TSM-0203,Po Tseng,TSMC,TSM,Engineering,Director,82.4,176100,16.6
-TSM-0204,Ming Fang,TSMC,TSM,Fab/Manufacturing,Principal,85.3,317800,14.2
-TSM-0205,Ying Wang,TSMC,TSM,Engineering,Principal,73.9,176000,13.0
-TSM-0206,Qing Cheng,TSMC,TSM,Operations,Director,71.6,125000,5.8
-TSM-0207,Han Chiang,TSMC,TSM,Supply Chain,Staff,74.5,185700,12.4
-TSM-0208,Ying Liao,TSMC,TSM,Quality,Staff,97.5,225000,11.4
-TSM-0209,Jia Hsu,TSMC,TSM,Legal & Policy,Staff,83.6,285600,16.3
-TSM-0210,Ying Chou,TSMC,TSM,Fab/Manufacturing,Senior,87.1,126800,8.1
-TSM-0211,Qing Fang,TSMC,TSM,Quality,Principal,78.4,326300,12.6
-TSM-0212,Ling Liao,TSMC,TSM,Operations,VP,82.4,777700,14.9
-TSM-0213,Ying Su,TSMC,TSM,Research & AI,Staff,86.6,95700,17.9
-TSM-0214,Li Fang,TSMC,TSM,Engineering,Senior,81.1,54800,3.0
-TSM-0215,Jia Chang,TSMC,TSM,Operations,Director,96.2,654500,12.1
-TSM-0216,Yi Lee,TSMC,TSM,Fab/Manufacturing,Senior Director,79.8,245900,10.9
-TSM-0217,Jian Yang,TSMC,TSM,Operations,Principal,79.1,383300,13.4
-TSM-0218,Wen Chiang,TSMC,TSM,Operations,Senior,68.0,112900,18.8
-TSM-0219,Yi Lin,TSMC,TSM,People/HR,Senior,87.8,108500,23.7
-TSM-0220,Jian Lu,TSMC,TSM,Engineering,Staff,75.6,70500,4.8
-TSM-0221,Shu Kuo,TSMC,TSM,Sales & GTM,Director,69.5,346100,5.3
-TSM-0222,Xin Chang,TSMC,TSM,Legal & Policy,Director,87.8,341100,10.6
-TSM-0223,Ling Chen,TSMC,TSM,Engineering,Staff,93.4,107700,5.0
-TSM-0224,Fang Hung,TSMC,TSM,Fab/Manufacturing,Senior,73.0,162100,6.1
-TSM-0225,Jia Fang,TSMC,TSM,Legal & Policy,Principal,94.2,212100,8.4
-TSM-0226,Jun Kuo,TSMC,TSM,Fab/Manufacturing,Director,74.5,261600,7.2
-TSM-0227,Ting Fang,TSMC,TSM,Quality,Director,93.0,359400,13.8
-TSM-0228,Xin Chao,TSMC,TSM,Fab/Manufacturing,Principal,67.9,206800,10.7
-TSM-0229,Cheng Lee,TSMC,TSM,Fab/Manufacturing,Director,78.5,270600,7.7
-TSM-0230,Ting Pan,TSMC,TSM,Research & AI,Staff,84.3,214200,2.2
-TSM-0231,Ying Cheng,TSMC,TSM,Legal & Policy,Staff,86.0,186700,11.5
-TSM-0232,Xin Wu,TSMC,TSM,Engineering,Staff,86.2,187300,12.3
-TSM-0233,Kai Yang,TSMC,TSM,Sales & GTM,Senior,80.6,90900,5.4
-TSM-0234,Wei Wang,TSMC,TSM,Engineering,Principal,75.6,63400,10.0
-TSM-0235,Jian Su,TSMC,TSM,Engineering,SVP,80.8,810200,15.2
-TSM-0236,Zhi Wu,TSMC,TSM,Fab/Manufacturing,Director,69.7,268200,11.1
-TSM-0237,Ying Liu,TSMC,TSM,Engineering,Senior,68.8,273300,9.9
-TSM-0238,Cheng Lin,TSMC,TSM,Engineering,Senior,70.4,94000,9.3
-TSM-0239,Ling Lu,TSMC,TSM,Fab/Manufacturing,Principal,95.9,300400,11.0
-TSM-0240,Cheng Wu,TSMC,TSM,Operations,Senior,70.5,53000,4.0
-TSM-0241,Sheng Pan,TSMC,TSM,Supply Chain,VP,76.7,275300,10.3
-TSM-0242,Han Pan,TSMC,TSM,Finance,Staff,84.6,91000,8.5
-TSM-0243,Zhi Lee,TSMC,TSM,Engineering,Senior Director,100.0,181800,10.2
-TSM-0244,Chun Shen,TSMC,TSM,Research & AI,Director,80.6,501300,8.7
-TSM-0245,Fang Hsu,TSMC,TSM,Research & AI,VP,92.0,344400,16.5
-TSM-0246,Wei Lee,TSMC,TSM,Research & AI,Senior,84.2,92800,11.9
-TSM-0247,Fang Lee,TSMC,TSM,Operations,Senior,79.3,210200,11.5
-TSM-0248,Ming Hsieh,TSMC,TSM,Operations,Senior,88.0,139000,3.9
-TSM-0249,Han Yeh,TSMC,TSM,Engineering,Principal,81.5,116500,10.9
-TSM-0250,Cheng Chou,TSMC,TSM,Finance,Staff,90.9,713800,6.2
-TSM-0251,Ting Su,TSMC,TSM,Engineering,Staff,98.4,118800,6.0
-TSM-0252,Ying Lee,TSMC,TSM,Supply Chain,Principal,88.6,222900,10.4
-TSM-0253,Jian Yang,TSMC,TSM,Quality,Senior,78.8,85000,7.7
-TSM-0254,Yi Liu,TSMC,TSM,Fab/Manufacturing,Staff,81.8,124500,14.0
-TSM-0255,Po Chiang,TSMC,TSM,Engineering,C-Suite,82.6,1003400,21.3
-TSM-0256,Yu Wu,TSMC,TSM,Fab/Manufacturing,Principal,81.7,252700,11.3
-TSM-0257,Wen Wang,TSMC,TSM,Research & AI,Staff,68.4,208300,5.0
-TSM-0258,Ting Pan,TSMC,TSM,Supply Chain,Staff,84.3,87700,9.4
-TSM-0259,Qing Wang,TSMC,TSM,Engineering,Principal,71.4,154000,4.9
-TSM-0260,Zhi Chao,TSMC,TSM,Research & AI,Principal,79.1,317900,10.2
-TSM-0261,Po Lin,TSMC,TSM,Engineering,Staff,75.5,175000,6.4
-TSM-0262,Qing Tseng,TSMC,TSM,Fab/Manufacturing,Principal,89.9,308900,14.8
-TSM-0263,Yu Liao,TSMC,TSM,Operations,Director,77.2,121000,9.5
-TSM-0264,Ling Chiang,TSMC,TSM,Finance,Senior,70.8,65400,3.6
-TSM-0265,Qing Fang,TSMC,TSM,People/HR,Principal,80.0,228200,4.5
-TSM-0266,Bo Tseng,TSMC,TSM,Engineering,Principal,88.2,315100,7.5
-TSM-0267,Jian Wu,TSMC,TSM,Fab/Manufacturing,Principal,78.8,178200,10.9
-TSM-0268,Kai Chen,TSMC,TSM,Fab/Manufacturing,Senior,83.0,173700,2.7
-TSM-0269,Chih Wang,TSMC,TSM,Research & AI,Senior,88.6,136000,10.6
-TSM-0270,Hao Lee,TSMC,TSM,Finance,Senior,79.2,103600,11.0
-TSM-0271,Fang Hung,TSMC,TSM,Supply Chain,Principal,73.4,141000,14.6
-TSM-0272,Cheng Wu,TSMC,TSM,Fab/Manufacturing,Principal,90.5,256600,12.7
-TSM-0273,Ling Liao,TSMC,TSM,Supply Chain,Staff,75.3,183900,5.1
-TSM-0274,Chih Cheng,TSMC,TSM,Engineering,SVP,78.5,796400,9.7
-TSM-0275,Jian Wang,TSMC,TSM,Engineering,SVP,89.4,489900,16.8
-TSM-0276,Ying Pan,TSMC,TSM,Engineering,Staff,79.8,155900,3.6
-TSM-0277,Ying Tseng,TSMC,TSM,Operations,Director,79.3,110700,4.4
-TSM-0278,Hao Yeh,TSMC,TSM,Fab/Manufacturing,Senior,73.6,192400,9.8
-TSM-0279,Jun Shen,TSMC,TSM,Research & AI,Senior,69.5,133500,15.1
-TSM-0280,Jun Hung,TSMC,TSM,Sales & GTM,Staff,84.0,93500,8.4
-TSM-0281,Hui Yeh,TSMC,TSM,Fab/Manufacturing,Principal,89.7,212400,13.4
-TSM-0282,Ming Wu,TSMC,TSM,Legal & Policy,Principal,86.1,342900,7.1
-TSM-0283,Hui Hung,TSMC,TSM,Engineering,Principal,74.7,246900,17.8
-TSM-0284,Ling Fang,TSMC,TSM,Operations,Staff,80.1,430900,17.7
-TSM-0285,Jia Cheng,TSMC,TSM,Fab/Manufacturing,Senior,63.4,43700,13.0
-TSM-0286,Jia Liu,TSMC,TSM,Finance,Senior,80.7,87500,3.8
-TSM-0287,Yu Hung,TSMC,TSM,Sales & GTM,Senior,78.0,203400,9.1
-TSM-0288,Xin Shen,TSMC,TSM,Research & AI,Director,77.1,369400,13.3
-TSM-0289,Zhi Chiang,TSMC,TSM,Fab/Manufacturing,Senior Director,95.4,534200,14.8
-TSM-0290,Wei Hsu,TSMC,TSM,Engineering,Staff,83.0,108200,15.5
-TSM-0291,Li Chen,TSMC,TSM,Fab/Manufacturing,Senior,70.3,148100,2.3
-TSM-0292,Shu Hsu,TSMC,TSM,Research & AI,VP,78.7,301600,9.8
-TSM-0293,Fang Lee,TSMC,TSM,Engineering,Staff,70.8,167500,17.9
-TSM-0294,Shu Wang,TSMC,TSM,Fab/Manufacturing,VP,79.4,424000,13.4
-TSM-0295,Bo Chen,TSMC,TSM,Engineering,Senior,70.5,77700,25.1
-TSM-0296,Wei Tseng,TSMC,TSM,Fab/Manufacturing,Senior,74.4,75000,9.7
-TSM-0297,Yu Cheng,TSMC,TSM,Fab/Manufacturing,Senior,81.7,75400,9.4
-TSM-0298,Jun Chen,TSMC,TSM,Engineering,Principal,81.8,301100,14.7
-TSM-0299,Chun Fang,TSMC,TSM,Engineering,Staff,95.6,495300,16.5
-TSM-0300,Jia Chao,TSMC,TSM,Sales & GTM,Senior,72.5,98200,5.9
-TSM-0301,Ming Shen,TSMC,TSM,Engineering,Staff,52.1,94000,11.4
-TSM-0302,Po Tseng,TSMC,TSM,Fab/Manufacturing,Senior Director,87.6,193600,5.1
-TSM-0303,Jia Hsu,TSMC,TSM,Engineering,Senior,71.6,88500,13.0
-TSM-0304,Wei Shen,TSMC,TSM,Finance,Senior,91.6,76500,9.3
-TSM-0305,Ling Chou,TSMC,TSM,Fab/Manufacturing,Senior,90.7,95200,7.9
-TSM-0306,Bo Yeh,TSMC,TSM,Fab/Manufacturing,Senior,78.9,113200,2.4
-TSM-0307,Ying Hung,TSMC,TSM,Research & AI,Principal,76.5,260900,5.8
-TSM-0308,Ling Hsu,TSMC,TSM,Research & AI,Senior,81.4,207500,6.4
-TSM-0309,Hao Hung,TSMC,TSM,Fab/Manufacturing,Senior Director,75.8,140400,12.7
-TSM-0310,Sheng Huang,TSMC,TSM,Engineering,Director,67.0,187700,9.5
-TSM-0311,Ming Chang,TSMC,TSM,Engineering,Director,80.0,219400,13.6
-TSM-0312,Yu Shen,TSMC,TSM,Engineering,Senior,75.3,155700,8.6
-TSM-0313,Fang Wu,TSMC,TSM,Operations,Principal,68.1,476000,3.6
-TSM-0314,Wei Wang,TSMC,TSM,Fab/Manufacturing,Staff,84.6,154600,13.4
-TSM-0315,Sheng Hsieh,TSMC,TSM,Engineering,Senior,88.2,186400,3.1
-TSM-0316,Hui Liao,TSMC,TSM,Operations,Staff,70.2,129000,5.9
-TSM-0317,Po Liu,TSMC,TSM,Quality,Staff,85.3,139200,14.2
-TSM-0318,Xin Chiang,TSMC,TSM,Fab/Manufacturing,Director,86.1,482300,10.2
-TSM-0319,Jian Cheng,TSMC,TSM,Research & AI,Senior,85.4,84800,9.1
-TSM-0320,Jian Yeh,TSMC,TSM,Operations,Director,100.0,228200,8.7
-TSM-0321,Han Chiang,TSMC,TSM,Engineering,Senior,72.1,86600,15.9
-TSM-0322,Kai Wang,TSMC,TSM,Operations,Staff,81.9,140400,11.9
-TSM-0323,Yi Chang,TSMC,TSM,Fab/Manufacturing,Principal,89.8,135600,8.5
-TSM-0324,Han Wang,TSMC,TSM,Fab/Manufacturing,Staff,80.6,449600,19.4
-TSM-0325,Zhi Wu,TSMC,TSM,Fab/Manufacturing,Staff,83.0,97000,7.6
-TSM-0326,Cheng Chou,TSMC,TSM,Research & AI,VP,86.7,191800,10.0
-TSM-0327,Fang Chen,TSMC,TSM,Engineering,Principal,91.1,168300,10.9
-TSM-0328,Zhi Fang,TSMC,TSM,Finance,VP,74.5,196100,19.2
-TSM-0329,Jia Yeh,TSMC,TSM,Fab/Manufacturing,Senior,81.5,134800,4.2
-TSM-0330,Fang Lin,TSMC,TSM,Operations,Senior,91.1,124200,3.2
-TSM-0331,Ying Chang,TSMC,TSM,Fab/Manufacturing,Senior,78.3,114200,5.7
-TSM-0332,Shu Tseng,TSMC,TSM,Engineering,Staff,69.2,345900,29.1
-TSM-0333,Xin Chen,TSMC,TSM,Sales & GTM,Staff,90.9,202400,14.2
-TSM-0334,Mei Hung,TSMC,TSM,Engineering,Staff,90.5,221200,3.2
-TSM-0335,Sheng Shen,TSMC,TSM,Fab/Manufacturing,Senior Director,89.4,530500,11.6
-TSM-0336,Ling Su,TSMC,TSM,Fab/Manufacturing,Staff,84.8,163100,9.6
-TSM-0337,Ting Chen,TSMC,TSM,Finance,Principal,84.8,109000,14.1
-TSM-0338,Cheng Liu,TSMC,TSM,Sales & GTM,Principal,91.6,193200,18.5
-TSM-0339,Jia Lin,TSMC,TSM,Research & AI,Senior Director,74.8,277300,7.1
-TSM-0340,Ting Chao,TSMC,TSM,Fab/Manufacturing,Staff,76.2,283800,7.8
-TSM-0341,Qing Yeh,TSMC,TSM,Operations,Director,73.1,236700,10.4
-TSM-0342,Hao Tsai,TSMC,TSM,Engineering,Director,90.2,173700,14.4
-TSM-0343,Yi Chiang,TSMC,TSM,Engineering,Senior,75.9,175800,16.7
-TSM-0344,Po Lu,TSMC,TSM,Research & AI,Senior,83.4,264700,7.3
-TSM-0345,Chih Fang,TSMC,TSM,People/HR,Senior,76.8,82300,8.8
-TSM-0346,Ming Liu,TSMC,TSM,Engineering,Staff,84.0,120900,10.4
-TSM-0347,Ying Lu,TSMC,TSM,Fab/Manufacturing,VP,81.5,452100,10.2
-TSM-0348,Zhi Chao,TSMC,TSM,Fab/Manufacturing,VP,86.1,390300,12.4
-TSM-0349,Mei Chiang,TSMC,TSM,Research & AI,Senior,78.3,107000,26.3
-TSM-0350,Kai Cheng,TSMC,TSM,Engineering,Staff,82.2,139200,7.3
-TSM-0351,Chun Cheng,TSMC,TSM,Fab/Manufacturing,Staff,88.2,139200,5.6
-TSM-0352,Wen Kuo,TSMC,TSM,Engineering,Staff,86.4,102600,26.0
-TSM-0353,Yu Fang,TSMC,TSM,Engineering,Principal,83.9,229900,30.0
-TSM-0354,Ying Liu,TSMC,TSM,Fab/Manufacturing,Staff,87.0,130400,9.9
-TSM-0355,Jia Lin,TSMC,TSM,Sales & GTM,Senior,82.1,152800,2.2
-TSM-0356,Jian Yang,TSMC,TSM,Fab/Manufacturing,VP,87.2,418000,15.4
-TSM-0357,Hui Wang,TSMC,TSM,Fab/Manufacturing,Staff,68.5,231300,8.4
-TSM-0358,Yu Kuo,TSMC,TSM,Engineering,Director,73.3,305600,19.7
-TSM-0359,Wen Yeh,TSMC,TSM,Fab/Manufacturing,Director,74.6,244800,11.9
-TSM-0360,Zhi Cheng,TSMC,TSM,Engineering,Principal,78.5,190800,9.0
-TSM-0361,Kai Wu,TSMC,TSM,Finance,Staff,88.9,197300,7.0
-TSM-0362,Chun Pan,TSMC,TSM,Operations,Principal,76.5,307000,11.2
-TSM-0363,Wei Tseng,TSMC,TSM,Research & AI,Senior,90.4,47400,9.7
-TSM-0364,Ting Kuo,TSMC,TSM,People/HR,Staff,87.0,410400,9.0
-TSM-0365,Mei Chang,TSMC,TSM,Engineering,Senior,76.8,86300,4.0
-TSM-0366,Shu Wu,TSMC,TSM,Fab/Manufacturing,Staff,72.8,230000,6.4
-TSM-0367,Zhi Yeh,TSMC,TSM,Engineering,Staff,82.1,208100,15.2
-TSM-0368,Ying Hsieh,TSMC,TSM,Supply Chain,Senior,76.3,62900,9.6
-TSM-0369,Qing Tseng,TSMC,TSM,Fab/Manufacturing,Senior,68.8,79800,6.7
-TSM-0370,Hui Pan,TSMC,TSM,Fab/Manufacturing,Senior,87.4,243400,4.7
-TSM-0371,Wei Yang,TSMC,TSM,Engineering,Senior,84.9,59300,13.9
-TSM-0372,Yu Shen,TSMC,TSM,Engineering,Staff,73.2,223800,6.3
-TSM-0373,Xin Lee,TSMC,TSM,Finance,Staff,81.1,170200,10.6
-TSM-0374,Ying Pan,TSMC,TSM,Engineering,Senior,83.7,77700,11.1
-TSM-0375,Jia Lin,TSMC,TSM,Operations,Senior,82.4,150900,9.8
-TSM-0376,Hui Wu,TSMC,TSM,Sales & GTM,Principal,70.8,306900,23.9
-TSM-0377,Wei Tsai,TSMC,TSM,Operations,Principal,68.1,92700,10.7
-TSM-0378,Zhi Chou,TSMC,TSM,Research & AI,Director,71.2,162100,7.7
-TSM-0379,Xin Chiang,TSMC,TSM,Supply Chain,Director,88.2,229900,7.2
-TSM-0380,Jia Lu,TSMC,TSM,Sales & GTM,Senior Director,82.1,447700,6.2
-TSM-0381,Xin Chang,TSMC,TSM,Fab/Manufacturing,Senior,80.6,126400,8.5
-TSM-0382,Wen Liu,TSMC,TSM,Sales & GTM,Principal,92.5,238800,8.7
-TSM-0383,Chun Pan,TSMC,TSM,Operations,Director,96.8,165000,6.1
-TSM-0384,Cheng Tseng,TSMC,TSM,Supply Chain,Staff,85.3,151600,6.5
-TSM-0385,Ling Cheng,TSMC,TSM,Operations,Senior,81.8,313400,6.9
-TSM-0386,Ling Yeh,TSMC,TSM,Sales & GTM,Staff,74.0,182800,3.5
-TSM-0387,Ying Wu,TSMC,TSM,Engineering,Senior,69.7,163400,8.8
-TSM-0388,Chun Hung,TSMC,TSM,Engineering,Senior,83.0,85500,6.7
-TSM-0389,Ming Tseng,TSMC,TSM,Engineering,Director,85.2,305300,18.4
-TSM-0390,Po Chao,TSMC,TSM,Engineering,Director,80.2,186700,9.1
-TSM-0391,Chun Lu,TSMC,TSM,Engineering,Senior,80.9,136800,9.3
-TSM-0392,Bo Pan,TSMC,TSM,Engineering,Director,94.2,175400,8.0
-TSM-0393,Wen Hsu,TSMC,TSM,Finance,Director,91.6,131600,4.0
-TSM-0394,Jian Lu,TSMC,TSM,Finance,Staff,88.8,131300,6.7
-TSM-0395,Ming Yeh,TSMC,TSM,Fab/Manufacturing,Senior,64.3,78800,6.8
-TSM-0396,Hao Lu,TSMC,TSM,Sales & GTM,Senior Director,79.3,353600,7.9
-TSM-0397,Zhi Chao,TSMC,TSM,Research & AI,Principal,84.7,186200,8.8
-TSM-0398,Sheng Yeh,TSMC,TSM,Research & AI,Staff,66.6,185800,15.8
-TSM-0399,Yi Liao,TSMC,TSM,Engineering,Senior,84.8,166300,12.1
-TSM-0400,Han Shen,TSMC,TSM,Engineering,Director,82.1,595900,7.3
-TSM-0401,Mei Lin,TSMC,TSM,Engineering,Senior,86.4,128400,2.8
-TSM-0402,Mei Lu,TSMC,TSM,Fab/Manufacturing,Senior,70.9,135200,5.9
-TSM-0403,Bo Pan,TSMC,TSM,Fab/Manufacturing,Staff,77.4,198900,16.2
-TSM-0404,Ying Pan,TSMC,TSM,Quality,Director,84.3,219900,5.5
-TSM-0405,Mei Chen,TSMC,TSM,Supply Chain,Principal,82.6,142800,10.5
-TSM-0406,Wen Yang,TSMC,TSM,Engineering,Staff,89.2,257900,5.1
-TSM-0407,Yi Wu,TSMC,TSM,Research & AI,Principal,77.4,213000,17.6
-TSM-0408,Zhi Fang,TSMC,TSM,Engineering,Staff,91.8,134900,7.3
-TSM-0409,Yi Liao,TSMC,TSM,Fab/Manufacturing,Senior,73.2,205600,4.2
-TSM-0410,Yu Lee,TSMC,TSM,Engineering,Director,82.4,290700,10.9
-TSM-0411,Yi Shen,TSMC,TSM,Operations,VP,88.7,153500,8.2
-TSM-0412,Jun Cheng,TSMC,TSM,Engineering,Senior,71.7,58100,8.7
-TSM-0413,Bo Tseng,TSMC,TSM,Finance,Director,87.6,274000,7.5
-TSM-0414,Li Huang,TSMC,TSM,Research & AI,Staff,61.1,139300,16.3
-TSM-0415,Zhi Fang,TSMC,TSM,Supply Chain,Director,81.1,157900,9.3
-TSM-0416,Jian Tseng,TSMC,TSM,Fab/Manufacturing,Principal,76.2,120900,14.3
-TSM-0417,Jian Chiang,TSMC,TSM,Fab/Manufacturing,Staff,68.4,99300,7.4
-TSM-0418,Qing Lin,TSMC,TSM,Fab/Manufacturing,Principal,80.7,205700,11.4
-TSM-0419,Wei Lin,TSMC,TSM,Operations,Senior,88.1,125500,6.3
-TSM-0420,Wei Shen,TSMC,TSM,Fab/Manufacturing,Senior,81.3,82100,13.3
-TSM-0421,Jia Lee,TSMC,TSM,Fab/Manufacturing,Staff,73.1,171600,9.2
-TSM-0422,Li Hsu,TSMC,TSM,Engineering,Principal,83.4,263300,3.2
-TSM-0423,Bo Su,TSMC,TSM,Engineering,Senior,78.7,40500,6.0
-TSM-0424,Chih Lee,TSMC,TSM,Finance,VP,82.3,170400,14.9
-TSM-0425,Han Chiang,TSMC,TSM,Operations,Staff,74.1,301600,4.6
-TSM-0426,Cheng Chang,TSMC,TSM,Quality,Senior,71.6,84600,9.0
-TSM-0427,Bo Lee,TSMC,TSM,Fab/Manufacturing,Staff,77.1,78300,13.3
-TSM-0428,Shu Chiang,TSMC,TSM,Research & AI,Staff,81.0,152000,19.5
-TSM-0429,Cheng Shen,TSMC,TSM,Fab/Manufacturing,Senior Director,89.8,335100,16.6
-TSM-0430,Bo Yang,TSMC,TSM,Research & AI,Senior,78.3,89000,9.3
-TSM-0431,Han Pan,TSMC,TSM,Supply Chain,Director,82.5,384100,12.8
-TSM-0432,Mei Cheng,TSMC,TSM,Finance,Principal,86.2,316100,27.8
-TSM-0433,Hao Huang,TSMC,TSM,Research & AI,Senior,77.6,156600,9.0
-TSM-0434,Shu Lee,TSMC,TSM,Engineering,Senior,77.2,178800,8.2
-TSM-0435,Ming Cheng,TSMC,TSM,Sales & GTM,Senior,86.4,68700,9.6
-TSM-0436,Bo Su,TSMC,TSM,Research & AI,Senior,77.6,86100,6.9
-TSM-0437,Chun Tseng,TSMC,TSM,Engineering,Director,92.3,407800,10.7
-TSM-0438,Bo Huang,TSMC,TSM,Operations,Principal,63.8,147600,13.3
-TSM-0439,Sheng Liu,TSMC,TSM,Engineering,Director,68.7,160200,12.4
-TSM-0440,Jian Liao,TSMC,TSM,Fab/Manufacturing,Staff,82.3,72400,10.3
-TSM-0441,Yi Hsu,TSMC,TSM,Research & AI,Director,80.1,110700,7.3
-TSM-0442,Yi Hsieh,TSMC,TSM,Engineering,C-Suite,78.1,851300,15.5
-TSM-0443,Yi Su,TSMC,TSM,Research & AI,Senior,76.8,156900,14.3
-TSM-0444,Han Wu,TSMC,TSM,Sales & GTM,Senior Director,88.2,153400,16.6
-TSM-0445,Hui Lin,TSMC,TSM,Fab/Manufacturing,Director,86.6,180000,11.6
-TSM-0446,Yi Hsu,TSMC,TSM,Engineering,Senior Director,89.0,134100,8.0
-TSM-0447,Cheng Liu,TSMC,TSM,Fab/Manufacturing,VP,79.2,181900,7.8
-TSM-0448,Li Shen,TSMC,TSM,Engineering,Staff,87.5,195300,14.3
-TSM-0449,Kai Hsu,TSMC,TSM,Fab/Manufacturing,Director,72.8,173800,9.9
-TSM-0450,Ying Yang,TSMC,TSM,Engineering,Senior,84.3,112100,18.3
-TSM-0451,Wen Chou,TSMC,TSM,Engineering,Senior,89.9,176000,8.1
-TSM-0452,Wei Huang,TSMC,TSM,Engineering,Principal,82.1,435200,26.2
-TSM-0453,Wei Chiang,TSMC,TSM,Sales & GTM,Senior,79.0,128300,9.8
-TSM-0454,Wen Cheng,TSMC,TSM,Engineering,Senior,88.5,117000,3.5
-TSM-0455,Sheng Lin,TSMC,TSM,People/HR,Principal,86.6,233300,3.6
-TSM-0456,Ming Wu,TSMC,TSM,Fab/Manufacturing,Senior,75.6,87700,16.5
-TSM-0457,Hui Pan,TSMC,TSM,Research & AI,Senior Director,95.7,269300,24.2
-TSM-0458,Cheng Chang,TSMC,TSM,Sales & GTM,Senior,68.3,74100,5.2
-TSM-0459,Qing Chiang,TSMC,TSM,Sales & GTM,Senior,63.2,108300,8.9
-TSM-0460,Mei Hung,TSMC,TSM,Research & AI,Staff,79.8,87100,7.5
-TSM-0461,Mei Wang,TSMC,TSM,Fab/Manufacturing,Senior,71.4,57800,6.5
-TSM-0462,Po Lee,TSMC,TSM,Fab/Manufacturing,Principal,68.1,195900,6.1
-TSM-0463,Kai Fang,TSMC,TSM,Engineering,Staff,75.2,170300,9.8
-TSM-0464,Yu Yeh,TSMC,TSM,Fab/Manufacturing,VP,81.7,385200,14.9
-TSM-0465,Han Lu,TSMC,TSM,Operations,Senior,78.0,142200,18.0
-TSM-0466,Qing Tsai,TSMC,TSM,Research & AI,Senior,65.3,81700,3.1
-TSM-0467,Chun Hsu,TSMC,TSM,Engineering,Staff,82.1,118500,14.2
-TSM-0468,Ming Chao,TSMC,TSM,Supply Chain,Senior,75.8,73500,18.2
-TSM-0469,Wen Fang,TSMC,TSM,Fab/Manufacturing,Director,87.4,329200,26.7
-TSM-0470,Mei Tsai,TSMC,TSM,Fab/Manufacturing,Senior,78.7,114300,3.2
-TSM-0471,Xin Tseng,TSMC,TSM,Quality,Staff,85.0,147300,10.2
-TSM-0472,Li Hung,TSMC,TSM,Engineering,Principal,69.0,233700,2.8
-TSM-0473,Yi Chao,TSMC,TSM,Engineering,Senior Director,67.1,233100,17.6
-TSM-0474,Ting Hung,TSMC,TSM,Research & AI,Staff,76.5,168800,4.9
-TSM-0475,Ling Pan,TSMC,TSM,Fab/Manufacturing,Staff,84.4,119300,6.8
-TSM-0476,Fang Chang,TSMC,TSM,Research & AI,Senior,89.1,87100,6.1
-TSM-0477,Wei Chou,TSMC,TSM,Operations,Staff,80.3,294500,12.8
-TSM-0478,Wei Tsai,TSMC,TSM,Fab/Manufacturing,Director,93.8,572100,13.8
-TSM-0479,Wei Shen,TSMC,TSM,Research & AI,Principal,70.3,259400,11.4
-TSM-0480,Li Fang,TSMC,TSM,Quality,Principal,93.7,241800,5.3
-TSM-0481,Wen Lee,TSMC,TSM,Finance,VP,72.4,480200,13.3
-TSM-0482,Ling Cheng,TSMC,TSM,Finance,Senior,74.9,154400,4.6
-TSM-0483,Chih Chiang,TSMC,TSM,Fab/Manufacturing,Senior Director,99.7,1274400,18.3
-TSM-0484,Wen Lin,TSMC,TSM,Operations,Staff,85.5,118400,10.3
-TSM-0485,Kai Huang,TSMC,TSM,Sales & GTM,Staff,83.8,132200,12.7
-TSM-0486,Ting Kuo,TSMC,TSM,Fab/Manufacturing,Principal,73.4,101000,11.8
-TSM-0487,Sheng Su,TSMC,TSM,Sales & GTM,Senior Director,73.0,140000,10.9
-TSM-0488,Chun Tsai,TSMC,TSM,Sales & GTM,Senior,83.2,70700,3.5
-TSM-0489,Qing Hsieh,TSMC,TSM,Sales & GTM,Staff,66.5,141900,18.7
-TSM-0490,Ling Kuo,TSMC,TSM,Sales & GTM,Director,85.3,394500,6.3
-TSM-0491,Bo Liao,TSMC,TSM,Engineering,VP,79.7,274000,15.9
-TSM-0492,Sheng Chang,TSMC,TSM,Engineering,Principal,84.1,223700,5.7
-TSM-0493,Yu Hung,TSMC,TSM,Legal & Policy,Director,83.9,144500,3.9
-TSM-0494,Yu Chiang,TSMC,TSM,Engineering,Senior,80.0,45200,18.4
-TSM-0495,Wen Su,TSMC,TSM,Legal & Policy,Senior,69.0,90400,16.2
-TSM-0496,Kai Chen,TSMC,TSM,Operations,Senior,85.1,156600,6.3
-TSM-0497,Hui Hsu,TSMC,TSM,Research & AI,Senior,73.2,166000,7.7
-TSM-0498,Ming Pan,TSMC,TSM,Research & AI,Senior,92.9,136400,6.1
-TSM-0499,Mei Cheng,TSMC,TSM,Operations,Senior,93.2,112700,24.4
-TSM-0500,Cheng Fang,TSMC,TSM,Research & AI,Principal,70.4,117700,6.1
-TSM-0501,Yu Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,90.0,173500,6.2
-TSM-0502,Li Liao,TSMC,TSM,Engineering,Principal,88.8,126600,5.8
-TSM-0503,Cheng Liu,TSMC,TSM,Engineering,Staff,59.5,183600,15.4
-TSM-0504,Ming Chiang,TSMC,TSM,Engineering,Senior,89.2,93200,6.0
-TSM-0505,Qing Su,TSMC,TSM,Quality,Senior,69.4,47400,9.2
-TSM-0506,Han Yang,TSMC,TSM,Fab/Manufacturing,Senior,91.9,64600,12.2
-TSM-0507,Wen Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,76.5,212200,23.9
-TSM-0508,Xin Chiang,TSMC,TSM,Quality,Senior,85.5,286100,8.5
-TSM-0509,Han Chen,TSMC,TSM,Engineering,Senior Director,73.3,435700,15.7
-TSM-0510,Jia Lee,TSMC,TSM,Sales & GTM,Senior,80.5,87800,6.7
-TSM-0511,Yu Lee,TSMC,TSM,Engineering,VP,100.0,267700,18.9
-TSM-0512,Po Chiang,TSMC,TSM,Fab/Manufacturing,Principal,79.4,108200,5.0
-TSM-0513,Cheng Liao,TSMC,TSM,Operations,Senior,97.3,103200,3.5
-TSM-0514,Jian Shen,TSMC,TSM,Engineering,Director,81.1,211500,7.2
-TSM-0515,Sheng Yang,TSMC,TSM,Sales & GTM,SVP,79.9,203300,13.8
-TSM-0516,Yu Hsieh,TSMC,TSM,Engineering,Principal,78.1,189500,10.5
-TSM-0517,Bo Cheng,TSMC,TSM,Operations,Senior,71.2,79700,10.4
-TSM-0518,Jia Pan,TSMC,TSM,Engineering,VP,86.1,1408000,15.2
-TSM-0519,Han Yang,TSMC,TSM,People/HR,C-Suite,74.2,1045700,19.2
-TSM-0520,Chun Liu,TSMC,TSM,Fab/Manufacturing,Senior Director,72.5,462900,14.4
-TSM-0521,Chun Kuo,TSMC,TSM,Sales & GTM,SVP,95.1,347700,10.4
-TSM-0522,Xin Fang,TSMC,TSM,Research & AI,Senior,82.9,138200,6.6
-TSM-0523,Ling Wu,TSMC,TSM,Operations,Principal,97.6,42800,7.7
-TSM-0524,Kai Wang,TSMC,TSM,Quality,Senior,83.5,195500,10.7
-TSM-0525,Jian Wu,TSMC,TSM,Supply Chain,Principal,87.0,200200,11.7
-TSM-0526,Cheng Kuo,TSMC,TSM,Research & AI,Principal,69.0,124200,5.9
-TSM-0527,Ling Pan,TSMC,TSM,People/HR,Principal,92.1,377700,9.3
-TSM-0528,Po Chou,TSMC,TSM,Fab/Manufacturing,Principal,73.5,304200,9.8
-TSM-0529,Jun Yeh,TSMC,TSM,Fab/Manufacturing,Staff,68.9,117700,10.0
-TSM-0530,Ying Lin,TSMC,TSM,Fab/Manufacturing,Staff,80.7,132200,8.0
-TSM-0531,Jun Shen,TSMC,TSM,Engineering,Director,85.8,526600,11.5
-TSM-0532,Bo Chou,TSMC,TSM,Engineering,Senior,73.1,65500,13.5
-TSM-0533,Shu Fang,TSMC,TSM,Engineering,Senior,81.3,84400,9.9
-TSM-0534,Li Chao,TSMC,TSM,Fab/Manufacturing,Principal,71.2,207300,14.5
-TSM-0535,Sheng Pan,TSMC,TSM,Engineering,Senior,80.4,118400,3.9
-TSM-0536,Xin Fang,TSMC,TSM,Engineering,Principal,81.0,131000,11.6
-TSM-0537,Jun Chao,TSMC,TSM,Engineering,Senior Director,87.0,157300,34.5
-TSM-0538,Ming Hung,TSMC,TSM,Fab/Manufacturing,Staff,85.2,161200,4.4
-TSM-0539,Kai Chou,TSMC,TSM,Engineering,Staff,77.8,256500,13.5
-TSM-0540,Shu Chen,TSMC,TSM,Operations,Senior,70.2,144800,9.8
-TSM-0541,Han Tsai,TSMC,TSM,Engineering,Director,100.0,292800,19.5
-TSM-0542,Ying Huang,TSMC,TSM,Sales & GTM,Director,77.6,172000,6.8
-TSM-0543,Wei Yeh,TSMC,TSM,Engineering,Senior Director,93.3,176100,17.1
-TSM-0544,Qing Chiang,TSMC,TSM,People/HR,Senior,79.2,140500,6.9
-TSM-0545,Sheng Hsu,TSMC,TSM,People/HR,Staff,79.4,175900,11.6
-TSM-0546,Zhi Chiang,TSMC,TSM,Fab/Manufacturing,Staff,87.4,223900,14.3
-TSM-0547,Zhi Chou,TSMC,TSM,Operations,Principal,79.7,322000,15.9
-TSM-0548,Sheng Lu,TSMC,TSM,Legal & Policy,SVP,74.7,275500,12.1
-TSM-0549,Hui Liu,TSMC,TSM,Operations,Senior,92.3,170300,7.8
-TSM-0550,Yi Liao,TSMC,TSM,Operations,Principal,81.1,193000,6.0
-TSM-0551,Jian Tseng,TSMC,TSM,Sales & GTM,Staff,85.4,209800,17.3
-TSM-0552,Yu Chao,TSMC,TSM,Operations,Director,86.2,275100,9.7
-TSM-0553,Ying Tsai,TSMC,TSM,Operations,Staff,86.5,251200,17.9
-TSM-0554,Chih Tsai,TSMC,TSM,Finance,Senior Director,81.5,540400,6.8
-TSM-0555,Ying Hsieh,TSMC,TSM,Fab/Manufacturing,Principal,77.9,269300,11.3
-TSM-0556,Cheng Hsu,TSMC,TSM,Sales & GTM,Senior Director,85.9,478800,8.8
-TSM-0557,Jia Chang,TSMC,TSM,Fab/Manufacturing,C-Suite,69.6,465800,15.0
-TSM-0558,Kai Yeh,TSMC,TSM,Quality,Senior,63.6,66400,3.9
-TSM-0559,Cheng Kuo,TSMC,TSM,Engineering,Senior,81.9,116600,6.8
-TSM-0560,Jia Tseng,TSMC,TSM,Research & AI,Senior,75.9,87300,3.3
-TSM-0561,Li Hsu,TSMC,TSM,Quality,Principal,77.9,566300,36.4
-TSM-0562,Jian Kuo,TSMC,TSM,Research & AI,Senior,83.4,156500,2.8
-TSM-0563,Qing Lin,TSMC,TSM,Operations,Senior,86.2,37700,2.1
-TSM-0564,Li Chou,TSMC,TSM,Legal & Policy,Staff,84.8,70700,13.9
-TSM-0565,Ying Pan,TSMC,TSM,Legal & Policy,Senior,78.0,25500,8.0
-TSM-0566,Ming Wang,TSMC,TSM,Fab/Manufacturing,Senior,89.4,83800,8.6
-TSM-0567,Cheng Fang,TSMC,TSM,Research & AI,Principal,81.0,187200,5.0
-TSM-0568,Shu Tsai,TSMC,TSM,Engineering,Principal,87.9,154800,6.6
-TSM-0569,Bo Yang,TSMC,TSM,Engineering,Staff,71.6,72800,14.4
-TSM-0570,Yi Liu,TSMC,TSM,Finance,Director,79.1,254400,13.1
-TSM-0571,Chih Tseng,TSMC,TSM,Engineering,Senior,77.2,222300,14.3
-TSM-0572,Wen Lin,TSMC,TSM,Operations,Senior,76.6,84300,4.5
-TSM-0573,Qing Hung,TSMC,TSM,Operations,Senior,78.3,121600,5.0
-TSM-0574,Yu Fang,TSMC,TSM,Engineering,Staff,79.6,225100,2.7
-TSM-0575,Qing Chao,TSMC,TSM,Engineering,Staff,66.4,71300,3.4
-TSM-0576,Yu Chou,TSMC,TSM,Sales & GTM,Staff,80.1,131900,9.4
-TSM-0577,Chih Chao,TSMC,TSM,Engineering,Senior Director,98.7,424600,17.1
-TSM-0578,Li Lee,TSMC,TSM,Fab/Manufacturing,Staff,80.9,104400,10.0
-TSM-0579,Cheng Wang,TSMC,TSM,Finance,Staff,87.7,112900,3.5
-TSM-0580,Ming Wang,TSMC,TSM,Quality,Principal,80.2,186100,4.9
-TSM-0581,Ying Chiang,TSMC,TSM,Engineering,SVP,81.8,378000,9.6
-TSM-0582,Ling Liu,TSMC,TSM,Fab/Manufacturing,SVP,91.6,453100,8.5
-TSM-0583,Zhi Chao,TSMC,TSM,Finance,Principal,78.2,149500,5.2
-TSM-0584,Han Yang,TSMC,TSM,Engineering,Staff,77.0,119700,1.3
-TSM-0585,Hui Wu,TSMC,TSM,Fab/Manufacturing,Senior,69.9,90900,9.2
-TSM-0586,Ying Hsieh,TSMC,TSM,Sales & GTM,Principal,82.7,209000,9.1
-TSM-0587,Zhi Liao,TSMC,TSM,Sales & GTM,Senior Director,72.2,323200,12.0
-TSM-0588,Kai Cheng,TSMC,TSM,Fab/Manufacturing,Senior,87.7,186500,19.7
-TSM-0589,Bo Chiang,TSMC,TSM,Operations,Staff,94.9,129000,10.0
-TSM-0590,Bo Pan,TSMC,TSM,People/HR,Director,67.5,191600,11.2
-TSM-0591,Jian Hung,TSMC,TSM,Engineering,Senior Director,95.4,710600,8.1
-TSM-0592,Po Su,TSMC,TSM,Fab/Manufacturing,Senior,77.3,184100,14.0
-TSM-0593,Ting Liu,TSMC,TSM,Fab/Manufacturing,Senior,82.6,154400,6.2
-TSM-0594,Hui Chiang,TSMC,TSM,Engineering,Principal,86.5,199600,9.0
-TSM-0595,Jun Hung,TSMC,TSM,Engineering,Staff,83.9,162700,8.9
-TSM-0596,Fang Hsu,TSMC,TSM,Fab/Manufacturing,Principal,87.3,149400,5.3
-TSM-0597,Chih Liu,TSMC,TSM,Fab/Manufacturing,Senior,91.1,116700,6.4
-TSM-0598,Ying Chen,TSMC,TSM,Operations,Senior Director,69.7,291800,13.8
-TSM-0599,Xin Lu,TSMC,TSM,Supply Chain,Senior,81.4,59700,6.0
-TSM-0600,Ting Pan,TSMC,TSM,Fab/Manufacturing,Staff,62.4,120600,7.9
-TSM-0601,Xin Liu,TSMC,TSM,Engineering,Senior,67.0,75400,12.4
-TSM-0602,Jian Cheng,TSMC,TSM,Finance,Staff,86.0,202500,6.0
-TSM-0603,Mei Fang,TSMC,TSM,Supply Chain,Senior,83.1,77600,13.2
-TSM-0604,Jia Lee,TSMC,TSM,Engineering,Principal,76.0,526200,10.6
-TSM-0605,Shu Pan,TSMC,TSM,Fab/Manufacturing,Principal,86.7,303300,4.1
-TSM-0606,Chih Hung,TSMC,TSM,Research & AI,Director,69.6,256000,10.9
-TSM-0607,Li Fang,TSMC,TSM,Operations,Principal,68.1,174700,10.7
-TSM-0608,Xin Yang,TSMC,TSM,Fab/Manufacturing,Senior Director,78.1,253300,19.7
-TSM-0609,Hao Fang,TSMC,TSM,Fab/Manufacturing,Staff,86.4,107500,5.4
-TSM-0610,Yi Wu,TSMC,TSM,Finance,Staff,69.9,84800,6.1
-TSM-0611,Shu Chiang,TSMC,TSM,Finance,Senior Director,80.9,281000,11.5
-TSM-0612,Mei Lin,TSMC,TSM,Engineering,Senior,85.4,168400,3.2
-TSM-0613,Wei Lee,TSMC,TSM,Research & AI,Director,77.4,233200,12.7
-TSM-0614,Wei Pan,TSMC,TSM,Operations,Senior,91.7,224000,11.4
-TSM-0615,Hui Yang,TSMC,TSM,Operations,Senior Director,80.5,396600,7.6
-TSM-0616,Sheng Cheng,TSMC,TSM,Fab/Manufacturing,Principal,84.3,345700,7.6
-TSM-0617,Wei Shen,TSMC,TSM,Fab/Manufacturing,Staff,86.1,90400,10.8
-TSM-0618,Kai Kuo,TSMC,TSM,Engineering,Director,82.1,204200,8.9
-TSM-0619,Qing Yeh,TSMC,TSM,Finance,Director,85.0,214500,11.1
-TSM-0620,Jun Tsai,TSMC,TSM,Sales & GTM,Staff,70.9,261800,3.5
-TSM-0621,Sheng Fang,TSMC,TSM,Fab/Manufacturing,Director,85.0,144500,7.6
-TSM-0622,Jian Pan,TSMC,TSM,Supply Chain,Principal,77.6,114500,6.6
-TSM-0623,Shu Shen,TSMC,TSM,Fab/Manufacturing,Director,86.1,425200,10.4
-TSM-0624,Shu Fang,TSMC,TSM,Research & AI,VP,87.1,653100,24.3
-TSM-0625,Sheng Hsieh,TSMC,TSM,Engineering,Senior,73.2,48000,5.1
-TSM-0626,Fang Lu,TSMC,TSM,Fab/Manufacturing,Principal,81.5,158600,10.7
-TSM-0627,Wen Liu,TSMC,TSM,Supply Chain,Senior,79.8,233100,18.6
-TSM-0628,Qing Chou,TSMC,TSM,Sales & GTM,Staff,72.0,88900,5.6
-TSM-0629,Xin Wu,TSMC,TSM,Operations,Senior,74.8,82900,4.3
-TSM-0630,Wei Yang,TSMC,TSM,Legal & Policy,Director,74.8,345600,18.0
-TSM-0631,Hao Kuo,TSMC,TSM,Engineering,Senior,75.0,87500,5.2
-TSM-0632,Chun Yeh,TSMC,TSM,Fab/Manufacturing,Director,76.6,140500,12.4
-TSM-0633,Han Hung,TSMC,TSM,Operations,Senior Director,91.7,491500,27.4
-TSM-0634,Sheng Chao,TSMC,TSM,Research & AI,Senior,78.9,57500,11.4
-TSM-0635,Qing Lin,TSMC,TSM,Engineering,Staff,82.1,145800,17.0
-TSM-0636,Mei Tsai,TSMC,TSM,Operations,Staff,78.9,129100,13.8
-TSM-0637,Shu Cheng,TSMC,TSM,Engineering,Principal,94.6,220100,12.7
-TSM-0638,Chih Yang,TSMC,TSM,Operations,Principal,63.4,407900,17.7
-TSM-0639,Yi Chao,TSMC,TSM,Sales & GTM,Senior Director,71.6,371500,10.5
-TSM-0640,Fang Chao,TSMC,TSM,Quality,Principal,70.4,242800,4.6
-TSM-0641,Hao Pan,TSMC,TSM,Engineering,Staff,74.0,176300,5.2
-TSM-0642,Ling Wu,TSMC,TSM,Fab/Manufacturing,SVP,80.3,305400,17.7
-TSM-0643,Mei Yeh,TSMC,TSM,Engineering,Staff,77.6,69300,6.0
-TSM-0644,Yu Huang,TSMC,TSM,Finance,Senior Director,80.7,193300,23.1
-TSM-0645,Fang Su,TSMC,TSM,Fab/Manufacturing,Senior,84.7,69900,7.2
-TSM-0646,Ming Liao,TSMC,TSM,Sales & GTM,SVP,95.2,506500,11.5
-TSM-0647,Sheng Lee,TSMC,TSM,Operations,Staff,63.1,97400,11.3
-TSM-0648,Kai Chen,TSMC,TSM,Research & AI,Senior,67.1,73700,16.4
-TSM-0649,Yi Chiang,TSMC,TSM,Fab/Manufacturing,Principal,75.3,133600,4.0
-TSM-0650,Cheng Kuo,TSMC,TSM,Fab/Manufacturing,Staff,77.4,111700,2.5
-TSM-0651,Yi Huang,TSMC,TSM,Engineering,Principal,76.4,133100,10.2
-TSM-0652,Li Cheng,TSMC,TSM,Research & AI,Senior Director,88.8,383700,16.3
-TSM-0653,Chun Hsu,TSMC,TSM,Legal & Policy,Staff,80.5,86600,4.5
-TSM-0654,Wei Hung,TSMC,TSM,Engineering,Senior,87.7,103200,3.3
-TSM-0655,Jia Liao,TSMC,TSM,Engineering,Senior Director,75.6,659100,13.4
-TSM-0656,Fang Liu,TSMC,TSM,Engineering,Senior,79.7,130400,12.9
-TSM-0657,Kai Chang,TSMC,TSM,Engineering,Principal,98.1,167000,9.1
-TSM-0658,Chun Su,TSMC,TSM,Engineering,Principal,89.7,301400,8.5
-TSM-0659,Qing Lee,TSMC,TSM,Sales & GTM,Principal,88.8,337700,10.6
-TSM-0660,Jian Hsieh,TSMC,TSM,Fab/Manufacturing,Senior Director,89.2,322100,7.0
-TSM-0661,Mei Hsu,TSMC,TSM,Fab/Manufacturing,Senior,80.0,126500,2.2
-TSM-0662,Bo Wang,TSMC,TSM,Research & AI,Senior,66.5,89100,11.1
-TSM-0663,Ling Liao,TSMC,TSM,Engineering,Senior,75.7,79200,4.6
-TSM-0664,Hui Chou,TSMC,TSM,Operations,Staff,89.9,236800,18.4
-TSM-0665,Han Shen,TSMC,TSM,Fab/Manufacturing,Senior,84.1,128900,2.9
-TSM-0666,Sheng Wu,TSMC,TSM,Sales & GTM,VP,86.5,751700,17.0
-TSM-0667,Xin Wu,TSMC,TSM,Engineering,Senior,77.8,92800,8.0
-TSM-0668,Po Lin,TSMC,TSM,Engineering,Director,78.0,240900,9.8
-TSM-0669,Yi Chiang,TSMC,TSM,Operations,Senior,77.4,87300,3.5
-TSM-0670,Yu Liao,TSMC,TSM,People/HR,VP,89.6,309100,20.3
-TSM-0671,Wei Yang,TSMC,TSM,People/HR,Senior,88.8,174000,13.1
-TSM-0672,Yi Lee,TSMC,TSM,Research & AI,Senior Director,93.6,422700,13.0
-TSM-0673,Mei Wu,TSMC,TSM,Fab/Manufacturing,Principal,89.2,224700,14.1
-TSM-0674,Ming Su,TSMC,TSM,Fab/Manufacturing,Director,92.3,900600,6.7
-TSM-0675,Li Su,TSMC,TSM,Engineering,SVP,81.4,288100,13.5
-TSM-0676,Shu Chao,TSMC,TSM,Operations,VP,75.2,461300,17.9
-TSM-0677,Li Wang,TSMC,TSM,Legal & Policy,Senior,81.2,200100,10.6
-TSM-0678,Jia Hsu,TSMC,TSM,Supply Chain,Senior,75.6,54200,15.4
-TSM-0679,Shu Liu,TSMC,TSM,Sales & GTM,Senior,80.2,173300,3.7
-TSM-0680,Zhi Su,TSMC,TSM,Engineering,Principal,87.2,585900,18.1
-TSM-0681,Jun Hung,TSMC,TSM,Operations,Principal,70.5,242200,22.1
-TSM-0682,Shu Shen,TSMC,TSM,Quality,Staff,93.7,161400,13.0
-TSM-0683,Chih Chen,TSMC,TSM,Fab/Manufacturing,Director,95.2,376100,9.0
-TSM-0684,Hao Liu,TSMC,TSM,Engineering,VP,88.3,490500,19.5
-TSM-0685,Sheng Liao,TSMC,TSM,Engineering,Senior,78.2,62400,9.7
-TSM-0686,Fang Chao,TSMC,TSM,Research & AI,Senior Director,82.6,456600,11.2
-TSM-0687,Bo Chen,TSMC,TSM,Engineering,Principal,89.5,172600,6.0
-TSM-0688,Mei Fang,TSMC,TSM,Research & AI,Senior Director,68.1,271000,15.5
-TSM-0689,Ming Wang,TSMC,TSM,Operations,Principal,76.9,128500,7.5
-TSM-0690,Shu Chao,TSMC,TSM,Fab/Manufacturing,Senior,88.6,89900,8.9
-TSM-0691,Shu Chen,TSMC,TSM,Research & AI,Principal,75.2,82400,6.4
-TSM-0692,Fang Tseng,TSMC,TSM,Legal & Policy,Staff,84.2,188200,9.1
-TSM-0693,Li Yang,TSMC,TSM,Operations,Staff,73.6,55200,7.3
-TSM-0694,Chun Lu,TSMC,TSM,Operations,Senior,78.7,52800,9.0
-TSM-0695,Zhi Liu,TSMC,TSM,Research & AI,Staff,87.2,257800,11.5
-TSM-0696,Wei Chen,TSMC,TSM,Engineering,Principal,86.9,249800,6.5
-TSM-0697,Jun Lin,TSMC,TSM,Fab/Manufacturing,VP,90.2,745300,20.1
-TSM-0698,Hui Chou,TSMC,TSM,Fab/Manufacturing,Staff,89.2,215500,11.6
-TSM-0699,Li Fang,TSMC,TSM,Engineering,Staff,90.6,234800,14.3
-TSM-0700,Yi Pan,TSMC,TSM,Fab/Manufacturing,Senior Director,81.1,246800,21.1
-TSM-0701,Li Yeh,TSMC,TSM,Fab/Manufacturing,Senior,75.6,92600,6.4
-TSM-0702,Ting Chou,TSMC,TSM,Engineering,Principal,94.8,342600,20.5
-TSM-0703,Hui Chang,TSMC,TSM,Supply Chain,Principal,93.1,196200,9.4
-TSM-0704,Sheng Chiang,TSMC,TSM,Research & AI,Senior Director,98.9,713300,7.9
-TSM-0705,Mei Chiang,TSMC,TSM,Operations,Staff,89.6,244400,5.0
-TSM-0706,Wen Hung,TSMC,TSM,Engineering,Senior,87.9,54100,13.9
-TSM-0707,Bo Tsai,TSMC,TSM,Engineering,Senior Director,94.5,557800,12.4
-TSM-0708,Sheng Kuo,TSMC,TSM,Engineering,Director,78.0,93400,4.8
-TSM-0709,Bo Lin,TSMC,TSM,Engineering,Director,77.8,201800,10.7
-TSM-0710,Cheng Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,76.0,103500,1.1
-TSM-0711,Jian Liao,TSMC,TSM,Quality,VP,74.8,380600,12.9
-TSM-0712,Ying Shen,TSMC,TSM,Finance,Staff,80.9,100000,10.0
-TSM-0713,Cheng Liu,TSMC,TSM,Engineering,Staff,67.3,188500,14.4
-TSM-0714,Bo Tseng,TSMC,TSM,Engineering,Senior Director,84.3,222000,13.8
-TSM-0715,Cheng Shen,TSMC,TSM,Operations,Senior,97.0,107300,8.6
-TSM-0716,Chun Su,TSMC,TSM,Supply Chain,Senior,69.2,76900,7.0
-TSM-0717,Jia Hung,TSMC,TSM,Research & AI,Senior,93.8,118900,6.7
-TSM-0718,Shu Huang,TSMC,TSM,Quality,Senior,85.2,313000,17.5
-TSM-0719,Jian Yeh,TSMC,TSM,Research & AI,Principal,87.7,351800,10.4
-TSM-0720,Fang Shen,TSMC,TSM,Research & AI,Principal,81.9,312700,6.3
-TSM-0721,Shu Chou,TSMC,TSM,Engineering,VP,85.8,611800,12.0
-TSM-0722,Xin Lin,TSMC,TSM,Quality,Staff,76.4,115800,15.5
-TSM-0723,Ming Chao,TSMC,TSM,Engineering,Staff,76.6,163400,10.3
-TSM-0724,Po Tseng,TSMC,TSM,Engineering,VP,100.0,640800,15.3
-TSM-0725,Chun Chao,TSMC,TSM,Engineering,Director,72.1,728300,13.6
-TSM-0726,Ling Lee,TSMC,TSM,Quality,Principal,90.2,423600,11.1
-TSM-0727,Mei Chao,TSMC,TSM,Sales & GTM,Principal,88.3,283800,18.2
-TSM-0728,Ting Liu,TSMC,TSM,Quality,Senior,77.4,78800,11.3
-TSM-0729,Wen Wang,TSMC,TSM,Engineering,Director,82.0,164000,9.5
-TSM-0730,Xin Yeh,TSMC,TSM,Research & AI,Staff,80.5,102700,15.1
-TSM-0731,Fang Yeh,TSMC,TSM,Engineering,Director,65.5,131900,21.3
-TSM-0732,Yi Yang,TSMC,TSM,Operations,Senior,80.3,73100,14.1
-TSM-0733,Bo Yang,TSMC,TSM,Supply Chain,Senior,79.0,78900,18.3
-TSM-0734,Yu Lin,TSMC,TSM,Engineering,Staff,76.3,33600,5.9
-TSM-0735,Han Liao,TSMC,TSM,Legal & Policy,Senior,69.6,58900,13.9
-TSM-0736,Sheng Kuo,TSMC,TSM,Engineering,Staff,83.7,131400,6.9
-TSM-0737,Sheng Pan,TSMC,TSM,Quality,Senior,93.2,200900,7.3
-TSM-0738,Chih Yeh,TSMC,TSM,Operations,Staff,75.0,178200,18.2
-TSM-0739,Chun Cheng,TSMC,TSM,Research & AI,Principal,82.7,115100,11.0
-TSM-0740,Fang Tseng,TSMC,TSM,Finance,C-Suite,96.4,747600,14.0
-TSM-0741,Jian Wang,TSMC,TSM,Sales & GTM,Senior,98.0,207800,12.4
-TSM-0742,Jia Yeh,TSMC,TSM,Quality,Principal,90.6,158200,14.7
-TSM-0743,Cheng Lee,TSMC,TSM,Research & AI,VP,89.6,484900,15.0
-TSM-0744,Qing Hung,TSMC,TSM,Operations,Senior,87.3,191000,5.0
-TSM-0745,Jia Chen,TSMC,TSM,Engineering,Senior,70.3,64900,16.4
-TSM-0746,Bo Tsai,TSMC,TSM,Operations,Staff,89.1,607500,10.5
-TSM-0747,Ying Yang,TSMC,TSM,Engineering,Principal,81.7,253100,3.4
-TSM-0748,Yi Lu,TSMC,TSM,Sales & GTM,SVP,96.4,1051000,17.1
-TSM-0749,Qing Chang,TSMC,TSM,Sales & GTM,Senior,74.9,87200,5.0
-TSM-0750,Mei Wang,TSMC,TSM,Finance,Senior,87.9,50700,6.0
-TSM-0751,Hui Wu,TSMC,TSM,Engineering,Senior Director,84.3,350100,7.0
-TSM-0752,Yi Chang,TSMC,TSM,Fab/Manufacturing,Senior,86.3,112500,13.7
-TSM-0753,Ying Huang,TSMC,TSM,Research & AI,Senior,72.8,72900,4.7
-TSM-0754,Wen Lee,TSMC,TSM,Finance,Staff,86.8,106900,2.7
-TSM-0755,Mei Hung,TSMC,TSM,Engineering,Staff,99.6,198000,4.4
-TSM-0756,Sheng Chao,TSMC,TSM,Fab/Manufacturing,Principal,77.6,113600,8.8
-TSM-0757,Po Chao,TSMC,TSM,Operations,Staff,81.6,106100,6.7
-TSM-0758,Hui Chen,TSMC,TSM,Operations,Senior,80.6,93300,9.1
-TSM-0759,Fang Tseng,TSMC,TSM,Fab/Manufacturing,Principal,90.0,330900,9.3
-TSM-0760,Qing Su,TSMC,TSM,Quality,Senior,91.6,168700,7.1
-TSM-0761,Ming Hsu,TSMC,TSM,Finance,Senior,94.4,124800,6.3
-TSM-0762,Ting Hung,TSMC,TSM,Engineering,VP,81.9,867900,11.0
-TSM-0763,Hao Yeh,TSMC,TSM,Engineering,SVP,73.6,155200,13.5
-TSM-0764,Zhi Yang,TSMC,TSM,Engineering,Principal,94.9,175400,5.2
-TSM-0765,Li Chen,TSMC,TSM,Operations,Senior,86.9,164900,13.9
-TSM-0766,Yi Lin,TSMC,TSM,Operations,Senior,77.5,135700,18.7
-TSM-0767,Fang Liao,TSMC,TSM,Operations,Senior,75.2,35100,9.5
-TSM-0768,Zhi Lin,TSMC,TSM,Engineering,Principal,88.5,242600,21.8
-TSM-0769,Qing Wang,TSMC,TSM,Fab/Manufacturing,Staff,66.3,108000,15.5
-TSM-0770,Chih Chen,TSMC,TSM,Operations,Senior Director,78.0,467600,12.7
-TSM-0771,Wei Wu,TSMC,TSM,Fab/Manufacturing,Director,81.2,229400,12.1
-TSM-0772,Ling Tseng,TSMC,TSM,Finance,Principal,79.0,125200,15.2
-TSM-0773,Ying Pan,TSMC,TSM,Operations,VP,88.7,351900,8.2
-TSM-0774,Shu Chao,TSMC,TSM,Engineering,Senior,84.7,45600,6.2
-TSM-0775,Bo Su,TSMC,TSM,Engineering,Director,78.1,391200,14.1
-TSM-0776,Xin Yeh,TSMC,TSM,Engineering,Staff,75.1,155900,20.5
-TSM-0777,Ting Kuo,TSMC,TSM,Legal & Policy,Senior,83.3,211500,10.7
-TSM-0778,Chun Huang,TSMC,TSM,Engineering,Principal,79.1,277600,9.3
-TSM-0779,Hao Liao,TSMC,TSM,Finance,Director,92.7,325200,10.2
-TSM-0780,Yi Fang,TSMC,TSM,Sales & GTM,Staff,79.1,107600,6.4
-TSM-0781,Ming Tseng,TSMC,TSM,Fab/Manufacturing,Senior,77.5,106700,13.8
-TSM-0782,Yi Chiang,TSMC,TSM,Engineering,Staff,84.4,131100,14.4
-TSM-0783,Hao Chang,TSMC,TSM,Engineering,Senior Director,80.9,316100,7.7
-TSM-0784,Wen Cheng,TSMC,TSM,Fab/Manufacturing,Senior,81.7,202500,3.0
-TSM-0785,Qing Cheng,TSMC,TSM,Engineering,Director,91.2,250400,3.6
-TSM-0786,Wen Liu,TSMC,TSM,Engineering,Senior,90.9,133000,7.8
-TSM-0787,Wen Chang,TSMC,TSM,Operations,Senior,86.7,165600,10.5
-TSM-0788,Hao Wu,TSMC,TSM,Engineering,Director,81.3,207100,14.3
-TSM-0789,Hao Yang,TSMC,TSM,Operations,Senior,58.8,62800,3.6
-TSM-0790,Ying Lu,TSMC,TSM,Research & AI,C-Suite,93.8,1390400,24.1
-TSM-0791,Po Yang,TSMC,TSM,Operations,Staff,74.5,65600,5.7
-TSM-0792,Yi Huang,TSMC,TSM,Quality,Director,81.5,401200,15.3
-TSM-0793,Jia Yeh,TSMC,TSM,Quality,Staff,95.9,170400,19.0
-TSM-0794,Qing Tseng,TSMC,TSM,Engineering,Principal,79.8,138300,13.6
-TSM-0795,Ying Fang,TSMC,TSM,Operations,Senior,75.2,68600,7.9
-TSM-0796,Po Chao,TSMC,TSM,Fab/Manufacturing,Principal,79.2,143200,10.6
-TSM-0797,Bo Hsieh,TSMC,TSM,Fab/Manufacturing,Director,83.2,253500,14.5
-TSM-0798,Li Shen,TSMC,TSM,Engineering,Senior,77.5,216300,5.3
-TSM-0799,Li Chao,TSMC,TSM,Engineering,Staff,87.0,169900,4.0
-TSM-0800,Cheng Hsu,TSMC,TSM,Fab/Manufacturing,Staff,87.3,178300,5.7
-TSM-0801,Jian Hsu,TSMC,TSM,Research & AI,Senior,76.8,91400,7.5
-TSM-0802,Sheng Hsieh,TSMC,TSM,Engineering,Principal,69.4,128700,4.0
-TSM-0803,Ting Su,TSMC,TSM,Fab/Manufacturing,Staff,81.6,136400,10.9
-TSM-0804,Po Huang,TSMC,TSM,Research & AI,Principal,76.8,102500,14.9
-TSM-0805,Ying Chiang,TSMC,TSM,Fab/Manufacturing,Staff,61.2,295800,3.3
-TSM-0806,Hui Chang,TSMC,TSM,Engineering,C-Suite,75.4,503500,10.7
-TSM-0807,Jian Hsieh,TSMC,TSM,Engineering,Principal,68.0,232100,10.4
-TSM-0808,Wei Hsieh,TSMC,TSM,Engineering,Staff,66.9,110200,20.7
-TSM-0809,Jia Kuo,TSMC,TSM,Finance,Principal,91.4,123300,15.0
-TSM-0810,Han Chang,TSMC,TSM,Research & AI,Staff,77.0,89200,21.0
-TSM-0811,Bo Hsieh,TSMC,TSM,Research & AI,Principal,93.4,143700,4.3
-TSM-0812,Qing Lee,TSMC,TSM,Finance,Staff,84.3,85000,20.9
-TSM-0813,Bo Lin,TSMC,TSM,Research & AI,VP,63.0,234500,18.1
-TSM-0814,Mei Chang,TSMC,TSM,People/HR,Staff,85.4,204700,11.5
-TSM-0815,Ling Chen,TSMC,TSM,Quality,Staff,69.9,163300,8.5
-TSM-0816,Shu Fang,TSMC,TSM,Engineering,Staff,71.3,152300,3.1
-TSM-0817,Han Pan,TSMC,TSM,Engineering,Staff,89.2,227100,5.9
-TSM-0818,Ying Fang,TSMC,TSM,Supply Chain,Staff,73.6,108900,4.7
-TSM-0819,Ling Lin,TSMC,TSM,Sales & GTM,Director,77.6,226400,8.7
-TSM-0820,Sheng Chou,TSMC,TSM,Fab/Manufacturing,Director,85.0,250900,8.3
-TSM-0821,Li Lu,TSMC,TSM,Engineering,Director,87.5,242200,12.6
-TSM-0822,Chun Fang,TSMC,TSM,Engineering,Senior,83.9,192600,8.0
-TSM-0823,Jian Lin,TSMC,TSM,Quality,Senior,81.6,90700,7.4
-TSM-0824,Chih Kuo,TSMC,TSM,Sales & GTM,Director,82.9,133700,10.1
-TSM-0825,Kai Chiang,TSMC,TSM,Sales & GTM,Director,74.0,247900,9.0
-TSM-0826,Shu Huang,TSMC,TSM,Finance,Senior,75.7,44300,10.7
-TSM-0827,Han Wang,TSMC,TSM,Engineering,Senior,88.9,128800,7.0
-TSM-0828,Kai Hsu,TSMC,TSM,Quality,Staff,72.2,159300,16.9
-TSM-0829,Zhi Kuo,TSMC,TSM,Engineering,Principal,93.4,330100,10.6
-TSM-0830,Ling Lu,TSMC,TSM,Fab/Manufacturing,Principal,80.1,220200,10.2
-TSM-0831,Mei Kuo,TSMC,TSM,Engineering,Senior,66.0,95600,2.8
-TSM-0832,Ting Lu,TSMC,TSM,Research & AI,VP,81.8,462800,17.2
-TSM-0833,Xin Fang,TSMC,TSM,Finance,Principal,75.6,352800,22.0
-TSM-0834,Ying Wu,TSMC,TSM,Sales & GTM,Staff,71.2,196000,4.6
-TSM-0835,Jia Fang,TSMC,TSM,Supply Chain,Senior,95.1,223500,7.9
-TSM-0836,Chun Liu,TSMC,TSM,Operations,VP,100.0,1357800,12.2
-TSM-0837,Ming Fang,TSMC,TSM,Finance,Senior,78.4,77400,10.6
-TSM-0838,Jia Shen,TSMC,TSM,Engineering,Senior,70.9,88100,11.6
-TSM-0839,Kai Tseng,TSMC,TSM,Research & AI,Staff,75.1,76700,11.1
-TSM-0840,Ming Chao,TSMC,TSM,Operations,C-Suite,77.4,1559800,18.4
-TSM-0841,Cheng Shen,TSMC,TSM,Quality,VP,72.4,287900,15.4
-TSM-0842,Zhi Liu,TSMC,TSM,Fab/Manufacturing,Staff,86.0,292400,17.2
-TSM-0843,Bo Lu,TSMC,TSM,Operations,VP,92.1,1036200,13.8
-TSM-0844,Kai Chou,TSMC,TSM,Fab/Manufacturing,Principal,83.3,310000,12.5
-TSM-0845,Jun Liu,TSMC,TSM,Fab/Manufacturing,Director,81.4,230600,12.1
-TSM-0846,Ming Chang,TSMC,TSM,Finance,Principal,73.0,157000,11.2
-TSM-0847,Ling Yeh,TSMC,TSM,Operations,Staff,72.2,146200,5.6
-TSM-0848,Ying Hung,TSMC,TSM,Engineering,Staff,80.5,130700,4.7
-TSM-0849,Wen Tsai,TSMC,TSM,Operations,Staff,78.4,122300,9.8
-TSM-0850,Xin Wang,TSMC,TSM,Engineering,Director,80.9,114900,19.2
-TSM-0851,Xin Liu,TSMC,TSM,Operations,Staff,77.3,109600,14.4
-TSM-0852,Xin Liu,TSMC,TSM,Quality,VP,82.9,493300,8.0
-TSM-0853,Hao Huang,TSMC,TSM,Sales & GTM,Senior,77.3,80800,18.9
-TSM-0854,Ming Pan,TSMC,TSM,Engineering,Director,93.1,154100,12.4
-TSM-0855,Sheng Hsieh,TSMC,TSM,Fab/Manufacturing,Director,70.0,150100,9.2
-TSM-0856,Jun Liu,TSMC,TSM,Fab/Manufacturing,Senior Director,85.5,195100,11.2
-TSM-0857,Wen Pan,TSMC,TSM,Sales & GTM,Senior Director,82.0,141300,9.4
-TSM-0858,Han Wang,TSMC,TSM,Fab/Manufacturing,Senior,80.2,171900,2.9
-TSM-0859,Hao Tsai,TSMC,TSM,Fab/Manufacturing,Senior,81.4,105700,5.3
-TSM-0860,Xin Wang,TSMC,TSM,Engineering,Staff,80.9,187300,13.8
-TSM-0861,Jian Su,TSMC,TSM,Engineering,Senior,69.2,74200,7.1
-TSM-0862,Sheng Chou,TSMC,TSM,Fab/Manufacturing,VP,76.1,468600,16.1
-TSM-0863,Cheng Lee,TSMC,TSM,Research & AI,Senior,78.5,34400,14.3
-TSM-0864,Bo Lu,TSMC,TSM,Engineering,C-Suite,75.3,1854700,14.8
-TSM-0865,Wen Hung,TSMC,TSM,Sales & GTM,VP,95.5,157200,9.3
-TSM-0866,Jian Chen,TSMC,TSM,Engineering,Staff,91.9,67400,17.4
-TSM-0867,Po Yang,TSMC,TSM,Engineering,Staff,93.4,201100,6.8
-TSM-0868,Shu Fang,TSMC,TSM,Fab/Manufacturing,Senior Director,83.6,167600,5.9
-TSM-0869,Jun Liu,TSMC,TSM,Quality,Staff,84.4,90600,9.7
-TSM-0870,Jian Fang,TSMC,TSM,Fab/Manufacturing,Principal,78.6,119000,12.6
-TSM-0871,Li Liao,TSMC,TSM,Engineering,Director,84.7,334100,11.0
-TSM-0872,Po Yeh,TSMC,TSM,Legal & Policy,Principal,79.5,49800,8.5
-TSM-0873,Ying Wang,TSMC,TSM,Operations,Staff,88.5,118800,4.4
-TSM-0874,Mei Fang,TSMC,TSM,Engineering,Senior,70.4,98100,15.9
-TSM-0875,Jia Cheng,TSMC,TSM,Fab/Manufacturing,Senior Director,78.5,308400,9.2
-TSM-0876,Jun Liao,TSMC,TSM,Research & AI,Staff,75.2,126600,12.9
-TSM-0877,Yu Chao,TSMC,TSM,Fab/Manufacturing,Senior,85.3,70400,7.7
-TSM-0878,Li Su,TSMC,TSM,Operations,Staff,86.9,108100,10.2
-TSM-0879,Ling Lin,TSMC,TSM,Engineering,Senior,74.2,59500,2.6
-TSM-0880,Ting Cheng,TSMC,TSM,Engineering,Principal,75.9,194300,5.8
-TSM-0881,Wei Kuo,TSMC,TSM,Fab/Manufacturing,Senior,79.5,127800,9.2
-TSM-0882,Qing Fang,TSMC,TSM,Supply Chain,Senior,75.2,327000,5.9
-TSM-0883,Chun Chou,TSMC,TSM,Engineering,Senior,89.8,129800,7.9
-TSM-0884,Yi Lu,TSMC,TSM,Engineering,Principal,79.3,120300,9.5
-TSM-0885,Jian Tseng,TSMC,TSM,Finance,Staff,86.2,151800,7.4
-TSM-0886,Wei Chang,TSMC,TSM,Fab/Manufacturing,Staff,70.0,108800,7.7
-TSM-0887,Qing Chang,TSMC,TSM,Research & AI,Senior,82.0,75600,2.0
-TSM-0888,Shu Wang,TSMC,TSM,Fab/Manufacturing,Principal,92.7,252800,6.9
-TSM-0889,Po Shen,TSMC,TSM,Sales & GTM,Staff,86.4,77300,8.1
-TSM-0890,Ying Kuo,TSMC,TSM,Quality,VP,82.0,424100,12.9
-TSM-0891,Sheng Pan,TSMC,TSM,Operations,Staff,96.5,218800,14.1
-TSM-0892,Wen Yang,TSMC,TSM,Sales & GTM,Principal,88.2,151300,3.2
-TSM-0893,Ming Chang,TSMC,TSM,Operations,Senior Director,84.4,318200,12.5
-TSM-0894,Mei Su,TSMC,TSM,Fab/Manufacturing,Senior,71.1,89500,27.3
-TSM-0895,Sheng Cheng,TSMC,TSM,Supply Chain,Senior Director,87.5,246100,17.5
-TSM-0896,Chih Hsieh,TSMC,TSM,Operations,Principal,81.6,242300,6.4
-TSM-0897,Zhi Hung,TSMC,TSM,Operations,SVP,85.4,1216100,7.6
-TSM-0898,Jia Kuo,TSMC,TSM,Engineering,Principal,82.4,161000,2.8
-TSM-0899,Wei Su,TSMC,TSM,Engineering,Staff,87.5,52600,14.9
-TSM-0900,Sheng Shen,TSMC,TSM,Research & AI,Senior,86.5,155400,6.7
-TSM-0901,Cheng Liu,TSMC,TSM,Engineering,Staff,82.9,129200,2.5
-TSM-0902,Po Chiang,TSMC,TSM,Engineering,VP,77.5,390100,10.5
-TSM-0903,Shu Chang,TSMC,TSM,Operations,Staff,88.0,147500,5.2
-TSM-0904,Mei Chen,TSMC,TSM,Research & AI,Senior,73.7,124100,21.2
-TSM-0905,Fang Liao,TSMC,TSM,Finance,VP,78.0,346700,7.4
-TSM-0906,Yi Kuo,TSMC,TSM,Supply Chain,Principal,76.4,326600,15.4
-TSM-0907,Mei Pan,TSMC,TSM,Engineering,Principal,77.9,97400,15.3
-TSM-0908,Wen Yang,TSMC,TSM,Operations,Staff,77.9,190500,7.1
-TSM-0909,Kai Hsieh,TSMC,TSM,People/HR,Principal,86.6,185100,24.1
-TSM-0910,Chih Tseng,TSMC,TSM,Finance,Staff,89.2,115200,10.3
-TSM-0911,Ying Hung,TSMC,TSM,Engineering,Staff,70.9,67600,8.5
-TSM-0912,Hao Lu,TSMC,TSM,Finance,Senior,78.5,133100,10.7
-TSM-0913,Yu Su,TSMC,TSM,Engineering,Senior Director,76.2,776600,15.1
-TSM-0914,Jun Chou,TSMC,TSM,Research & AI,Senior,75.5,72700,3.6
-TSM-0915,Yi Fang,TSMC,TSM,Research & AI,Senior Director,90.6,253600,16.1
-TSM-0916,Jun Huang,TSMC,TSM,Operations,Staff,89.2,90300,6.0
-TSM-0917,Zhi Cheng,TSMC,TSM,Fab/Manufacturing,Principal,86.5,222500,11.6
-TSM-0918,Sheng Chiang,TSMC,TSM,Engineering,Staff,70.2,169400,10.6
-TSM-0919,Xin Wang,TSMC,TSM,Sales & GTM,Director,89.1,578600,9.6
-TSM-0920,Zhi Hsieh,TSMC,TSM,Finance,Principal,87.8,92400,3.0
-TSM-0921,Ling Cheng,TSMC,TSM,Legal & Policy,Senior,75.0,121600,3.3
-TSM-0922,Jian Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,81.1,144100,7.8
-TSM-0923,Yi Chen,TSMC,TSM,Finance,Principal,73.6,188200,15.5
-TSM-0924,Hao Chao,TSMC,TSM,Engineering,Staff,89.5,208300,2.8
-TSM-0925,Xin Yeh,TSMC,TSM,Operations,Principal,84.4,191900,10.3
-TSM-0926,Sheng Chao,TSMC,TSM,Sales & GTM,Senior,73.5,241300,6.3
-TSM-0927,Ling Shen,TSMC,TSM,Operations,Senior Director,78.7,121100,29.5
-TSM-0928,Ting Lee,TSMC,TSM,Engineering,Staff,86.6,98100,10.6
-TSM-0929,Hao Kuo,TSMC,TSM,Fab/Manufacturing,Staff,79.0,130100,10.3
-TSM-0930,Bo Wu,TSMC,TSM,Engineering,SVP,99.6,473400,12.9
-TSM-0931,Qing Wang,TSMC,TSM,Engineering,Staff,85.5,183700,4.6
-TSM-0932,Bo Shen,TSMC,TSM,Engineering,Principal,69.6,223000,12.1
-TSM-0933,Qing Hsieh,TSMC,TSM,Finance,Director,82.8,150800,9.2
-TSM-0934,Jun Kuo,TSMC,TSM,Fab/Manufacturing,Principal,93.5,229000,19.4
-TSM-0935,Jun Lin,TSMC,TSM,Fab/Manufacturing,Senior,76.9,66400,11.0
-TSM-0936,Jia Liao,TSMC,TSM,Fab/Manufacturing,Principal,95.3,97100,6.8
-TSM-0937,Xin Huang,TSMC,TSM,Research & AI,Senior Director,90.2,470800,6.1
-TSM-0938,Bo Lu,TSMC,TSM,Supply Chain,Staff,65.5,161900,5.9
-TSM-0939,Bo Chou,TSMC,TSM,Finance,Senior,79.4,98300,11.0
-TSM-0940,Ting Su,TSMC,TSM,Fab/Manufacturing,Senior Director,77.2,424300,11.8
-TSM-0941,Yi Chou,TSMC,TSM,Engineering,Staff,99.3,149500,6.8
-TSM-0942,Ying Chou,TSMC,TSM,Engineering,Staff,73.3,129200,8.8
-TSM-0943,Han Chou,TSMC,TSM,Operations,Staff,80.9,88500,4.2
-TSM-0944,Kai Lee,TSMC,TSM,Quality,Staff,83.0,207500,4.1
-TSM-0945,Xin Kuo,TSMC,TSM,Fab/Manufacturing,Staff,77.2,87600,8.2
-TSM-0946,Ting Hsieh,TSMC,TSM,Engineering,Principal,96.3,200700,3.2
-TSM-0947,Hui Cheng,TSMC,TSM,Fab/Manufacturing,Principal,78.3,77500,7.5
-TSM-0948,Mei Tseng,TSMC,TSM,Engineering,Staff,87.3,250700,4.7
-TSM-0949,Ying Shen,TSMC,TSM,Engineering,Senior Director,83.7,224500,10.5
-TSM-0950,Sheng Hsu,TSMC,TSM,Engineering,Senior Director,76.1,327800,10.5
-TSM-0951,Jian Shen,TSMC,TSM,Engineering,Staff,79.4,158900,8.0
-TSM-0952,Fang Lee,TSMC,TSM,Engineering,Principal,78.8,185000,3.7
-TSM-0953,Shu Wu,TSMC,TSM,Engineering,Senior,71.8,94100,9.8
-TSM-0954,Chih Liu,TSMC,TSM,Engineering,Senior Director,88.6,521700,8.4
-TSM-0955,Kai Yeh,TSMC,TSM,Engineering,Senior Director,79.5,521600,12.5
-TSM-0956,Xin Lee,TSMC,TSM,Engineering,Principal,91.5,137000,8.4
-TSM-0957,Li Fang,TSMC,TSM,Research & AI,Senior,71.8,83800,7.8
-TSM-0958,Po Cheng,TSMC,TSM,Engineering,Senior,80.9,170700,11.3
-TSM-0959,Yu Lu,TSMC,TSM,Supply Chain,VP,80.1,181400,7.3
-TSM-0960,Mei Wang,TSMC,TSM,Research & AI,Staff,85.0,385300,11.4
-TSM-0961,Jian Liao,TSMC,TSM,Research & AI,Principal,72.2,276200,12.6
-TSM-0962,Bo Liao,TSMC,TSM,Quality,Senior Director,90.3,305300,18.9
-TSM-0963,Yi Lu,TSMC,TSM,Sales & GTM,Senior,66.5,49400,2.5
-TSM-0964,Han Lu,TSMC,TSM,Operations,Staff,81.8,85900,6.3
-TSM-0965,Sheng Pan,TSMC,TSM,Engineering,Senior,58.6,59700,8.0
-TSM-0966,Zhi Yang,TSMC,TSM,Sales & GTM,Senior,90.6,78700,19.3
-TSM-0967,Kai Wu,TSMC,TSM,Research & AI,VP,87.1,489800,16.6
-TSM-0968,Mei Liao,TSMC,TSM,Fab/Manufacturing,Director,76.2,82700,8.1
-TSM-0969,Mei Lu,TSMC,TSM,Operations,Staff,92.0,160400,8.8
-TSM-0970,Ting Chao,TSMC,TSM,Legal & Policy,Principal,84.5,238000,3.6
-TSM-0971,Yu Liao,TSMC,TSM,Engineering,VP,87.4,475400,18.3
-TSM-0972,Jian Fang,TSMC,TSM,Fab/Manufacturing,Staff,72.8,122100,7.6
-TSM-0973,Yi Chou,TSMC,TSM,Operations,Principal,80.7,239600,7.8
-TSM-0974,Ying Yeh,TSMC,TSM,Fab/Manufacturing,Staff,82.3,140300,9.1
-TSM-0975,Li Hung,TSMC,TSM,Engineering,Senior,89.0,153200,3.2
-TSM-0976,Qing Yeh,TSMC,TSM,Supply Chain,Senior,88.9,211300,9.8
-TSM-0977,Chun Hsu,TSMC,TSM,Operations,VP,83.9,238200,10.9
-TSM-0978,Bo Wang,TSMC,TSM,Finance,Senior,93.5,94000,11.4
-TSM-0979,Kai Kuo,TSMC,TSM,Operations,Director,100.0,297100,12.4
-TSM-0980,Hao Shen,TSMC,TSM,Engineering,Staff,88.2,125400,4.4
-TSM-0981,Kai Liu,TSMC,TSM,Fab/Manufacturing,VP,82.1,484300,10.6
-TSM-0982,Ling Lin,TSMC,TSM,Sales & GTM,Principal,82.0,102100,2.0
-TSM-0983,Kai Liu,TSMC,TSM,Fab/Manufacturing,Senior,73.1,112100,7.7
-TSM-0984,Chih Pan,TSMC,TSM,Finance,Principal,83.6,204100,13.7
-TSM-0985,Ying Su,TSMC,TSM,Engineering,Principal,67.4,142100,7.1
-TSM-0986,Mei Hsieh,TSMC,TSM,Engineering,Director,64.1,151200,17.2
-TSM-0987,Yi Fang,TSMC,TSM,Supply Chain,Staff,86.7,151500,5.1
-TSM-0988,Bo Hsu,TSMC,TSM,Engineering,Staff,70.5,89200,5.8
-TSM-0989,Yi Wang,TSMC,TSM,Supply Chain,Staff,97.6,131400,6.7
-TSM-0990,Bo Shen,TSMC,TSM,Quality,Senior,83.1,104800,6.2
-TSM-0991,Li Shen,TSMC,TSM,Engineering,Senior Director,80.2,392700,20.6
-TSM-0992,Jian Chang,TSMC,TSM,Engineering,Staff,66.8,47800,9.0
-TSM-0993,Yu Chen,TSMC,TSM,Engineering,Staff,79.9,112000,14.9
-TSM-0994,Wen Wang,TSMC,TSM,Engineering,Principal,88.7,234300,10.8
-TSM-0995,Li Liu,TSMC,TSM,Fab/Manufacturing,Principal,77.8,198500,9.2
-TSM-0996,Chun Tseng,TSMC,TSM,Sales & GTM,Staff,78.0,60600,9.5
-TSM-0997,Cheng Tsai,TSMC,TSM,Operations,Senior,75.5,189600,12.3
-TSM-0998,Ming Lu,TSMC,TSM,Research & AI,Principal,78.0,105000,6.0
-TSM-0999,Kai Tseng,TSMC,TSM,Engineering,VP,89.6,254000,23.0
-TSM-1000,Ling Pan,TSMC,TSM,Engineering,Principal,71.7,95700,4.8
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years,potential_index,origin_region,socioeconomic_origin,first_generation_professional,adversity_origin_score,mental_strength
+TSM-0001,Li Hung,TSMC,TSM,Operations,VP,73.2,366400,13.1,68.7,Southeast Asia,Upper-middle,No,42.1,61.6
+TSM-0002,Han Tseng,TSMC,TSM,Operations,SVP,93.9,555100,12.9,74.4,East Asia,Middle,No,68.4,88.7
+TSM-0003,Yi Chiang,TSMC,TSM,People/HR,Staff,65.9,192700,10.7,65.0,East Asia,Lower-middle,No,55.4,66.5
+TSM-0004,Hao Su,TSMC,TSM,Fab/Manufacturing,Principal,86.3,159500,6.5,79.1,East Asia,Affluent,Yes,39.9,76.5
+TSM-0005,Wei Lu,TSMC,TSM,Fab/Manufacturing,Staff,73.6,199700,6.8,51.5,East Asia,Middle,No,53.9,60.5
+TSM-0006,Jun Lin,TSMC,TSM,Fab/Manufacturing,Principal,82.1,101600,16.3,69.1,East Asia,Middle,Yes,59.9,86.8
+TSM-0007,Hao Tseng,TSMC,TSM,Engineering,Staff,81.9,230200,8.4,66.3,East Asia,Middle,Yes,61.1,65.3
+TSM-0008,Hui Fang,TSMC,TSM,Research & AI,SVP,70.7,1252700,17.5,73.9,East Asia,Middle,No,44.5,79.9
+TSM-0009,Xin Lin,TSMC,TSM,Quality,Principal,67.4,136600,11.1,71.6,East Asia,Middle,No,50.2,62.1
+TSM-0010,Li Hsieh,TSMC,TSM,Fab/Manufacturing,Principal,86.6,137400,9.5,62.5,East Asia,Lower-middle,No,64.5,82.1
+TSM-0011,Hao Chen,TSMC,TSM,Quality,Senior,76.2,78300,9.1,58.6,East Asia,Middle,No,54.9,77.1
+TSM-0012,Kai Su,TSMC,TSM,Fab/Manufacturing,Staff,83.6,306500,11.6,62.6,East Asia,Lower-middle,Yes,76.4,81.5
+TSM-0013,Ling Chen,TSMC,TSM,Legal & Policy,Staff,85.4,178200,5.4,66.0,East Asia,Upper-middle,No,42.7,67.3
+TSM-0014,Po Lin,TSMC,TSM,Engineering,Director,85.3,160600,6.5,83.9,East Asia,Working class,Yes,100.0,86.8
+TSM-0015,Kai Chang,TSMC,TSM,Engineering,Senior Director,89.8,410300,6.6,66.8,East Asia,Working class,No,85.2,75.6
+TSM-0016,Shu Lin,TSMC,TSM,Finance,VP,96.4,467800,30.4,75.3,East Asia,Lower-middle,Yes,63.6,82.7
+TSM-0017,Xin Lu,TSMC,TSM,Fab/Manufacturing,Senior,73.6,73000,7.8,70.6,East Asia,Middle,No,51.1,75.4
+TSM-0018,Ting Lee,TSMC,TSM,Engineering,Director,86.4,190800,6.4,70.1,East Asia,Middle,Yes,50.8,69.6
+TSM-0019,Jian Yeh,TSMC,TSM,Quality,Director,86.6,257900,9.6,68.4,Southeast Asia,Working class,Yes,93.7,87.4
+TSM-0020,Jun Lee,TSMC,TSM,Engineering,Senior,76.0,131200,8.5,67.3,East Asia,Middle,Yes,58.3,72.5
+TSM-0021,Kai Tseng,TSMC,TSM,Operations,Senior,89.1,95200,14.0,65.1,East Asia,Middle,No,55.1,80.4
+TSM-0022,Wei Wu,TSMC,TSM,Engineering,Senior,95.7,112200,11.6,65.3,East Asia,Lower-middle,No,71.9,84.5
+TSM-0023,Jia Tsai,TSMC,TSM,Fab/Manufacturing,Senior,79.4,103100,11.1,60.7,East Asia,Working class,Yes,95.0,88.1
+TSM-0024,Shu Kuo,TSMC,TSM,Engineering,Senior,80.8,168600,15.4,63.2,East Asia,Working class,Yes,97.8,88.6
+TSM-0025,Po Liao,TSMC,TSM,Engineering,Staff,85.2,103600,17.4,68.7,East Asia,Working class,Yes,79.2,78.2
+TSM-0026,Shu Wu,TSMC,TSM,Operations,Principal,89.9,141200,9.1,67.2,East Asia,Affluent,No,21.6,76.3
+TSM-0027,Li Liao,TSMC,TSM,Quality,Senior,70.8,50100,7.6,58.6,East Asia,Middle,No,43.2,56.4
+TSM-0028,Wei Tsai,TSMC,TSM,Supply Chain,Principal,74.6,515400,11.3,73.5,East Asia,Lower-middle,Yes,74.7,89.1
+TSM-0029,Qing Cheng,TSMC,TSM,Engineering,Senior,77.2,95100,10.7,63.8,East Asia,Middle,No,51.2,73.6
+TSM-0030,Ling Lee,TSMC,TSM,Fab/Manufacturing,Staff,94.6,127400,4.3,59.1,East Asia,Working class,Yes,94.9,84.8
+TSM-0031,Hao Lin,TSMC,TSM,Fab/Manufacturing,Senior,83.9,120500,9.3,56.2,East Asia,Lower-middle,No,62.2,70.9
+TSM-0032,Cheng Hung,TSMC,TSM,Fab/Manufacturing,Staff,77.4,103800,8.7,66.0,East Asia,Upper-middle,No,27.4,76.7
+TSM-0033,Wen Yeh,TSMC,TSM,Fab/Manufacturing,Senior,79.4,125900,11.5,55.3,East Asia,Working class,Yes,88.8,81.4
+TSM-0034,Bo Chiang,TSMC,TSM,Operations,Senior,82.8,208000,15.8,70.3,East Asia,Upper-middle,No,57.8,72.8
+TSM-0035,Li Fang,TSMC,TSM,Operations,Principal,86.1,276400,14.4,55.5,East Asia,Lower-middle,Yes,59.1,64.0
+TSM-0036,Ling Lu,TSMC,TSM,Fab/Manufacturing,Senior,84.0,99700,10.0,79.0,East Asia,Lower-middle,Yes,73.2,83.6
+TSM-0037,Han Wu,TSMC,TSM,Sales & GTM,Principal,79.9,577900,18.9,64.2,East Asia,Middle,Yes,63.9,68.0
+TSM-0038,Ming Hung,TSMC,TSM,Engineering,Senior Director,84.7,496100,16.2,57.5,East Asia,Lower-middle,Yes,69.7,87.5
+TSM-0039,Wen Lin,TSMC,TSM,Engineering,Senior,78.5,216000,9.3,62.7,East Asia,Middle,Yes,59.4,67.5
+TSM-0040,Cheng Su,TSMC,TSM,Sales & GTM,Staff,83.6,98800,8.1,60.0,East Asia,Lower-middle,No,59.7,75.6
+TSM-0041,Jian Wu,TSMC,TSM,Finance,Senior,86.5,75900,16.5,61.5,East Asia,Upper-middle,No,33.6,76.5
+TSM-0042,Wei Yeh,TSMC,TSM,Engineering,Principal,76.7,146500,8.4,73.5,South Asia,Middle,No,55.6,85.2
+TSM-0043,Sheng Lin,TSMC,TSM,Fab/Manufacturing,Principal,83.7,312000,2.4,62.7,East Asia,Lower-middle,Yes,70.0,73.8
+TSM-0044,Kai Cheng,TSMC,TSM,Engineering,Staff,81.3,140200,8.5,68.0,East Asia,Lower-middle,No,72.0,99.6
+TSM-0045,Po Hsieh,TSMC,TSM,Fab/Manufacturing,Principal,100.0,173700,5.6,72.5,East Asia,Middle,No,50.0,63.0
+TSM-0046,Jun Yeh,TSMC,TSM,Engineering,Staff,82.1,424600,14.0,72.1,East Asia,Middle,No,48.0,59.9
+TSM-0047,Fang Cheng,TSMC,TSM,Finance,Staff,87.1,218600,8.2,65.0,East Asia,Lower-middle,Yes,77.7,71.9
+TSM-0048,Fang Hung,TSMC,TSM,Fab/Manufacturing,Senior,91.4,64200,9.4,63.3,East Asia,Upper-middle,No,34.4,78.7
+TSM-0049,Shu Huang,TSMC,TSM,Engineering,Staff,84.1,85300,4.7,69.3,East Asia,Lower-middle,Yes,73.1,61.6
+TSM-0050,Ming Lu,TSMC,TSM,Engineering,Staff,95.5,256200,8.3,62.1,East Asia,Upper-middle,No,41.5,92.0
+TSM-0051,Chun Yang,TSMC,TSM,Engineering,Senior,79.8,131900,8.6,70.7,North America,Middle,No,49.1,81.3
+TSM-0052,Po Chen,TSMC,TSM,Sales & GTM,Senior,73.4,136100,5.6,56.1,East Asia,Affluent,No,28.7,60.9
+TSM-0053,Xin Chang,TSMC,TSM,Research & AI,Staff,80.9,87900,16.3,54.3,East Asia,Upper-middle,No,36.6,72.4
+TSM-0054,Kai Wang,TSMC,TSM,Engineering,Senior Director,82.4,357000,6.5,71.1,Southeast Asia,Upper-middle,No,22.6,58.8
+TSM-0055,Jia Hsu,TSMC,TSM,Engineering,Staff,84.7,121600,10.6,69.1,East Asia,Lower-middle,No,61.3,93.8
+TSM-0056,Jia Hsieh,TSMC,TSM,Research & AI,Senior,78.5,217400,4.9,71.5,East Asia,Lower-middle,Yes,79.9,78.4
+TSM-0057,Hao Wang,TSMC,TSM,Engineering,Staff,73.2,310000,9.7,63.2,East Asia,Middle,No,70.1,55.3
+TSM-0058,Hui Liu,TSMC,TSM,Engineering,Senior,87.5,102900,9.6,65.2,East Asia,Middle,Yes,66.0,62.3
+TSM-0059,Ling Lu,TSMC,TSM,Operations,Senior,87.7,203700,11.1,55.7,East Asia,Upper-middle,No,42.3,76.1
+TSM-0060,Yu Su,TSMC,TSM,Operations,Senior,81.0,142800,5.8,66.5,East Asia,Lower-middle,No,68.0,76.2
+TSM-0061,Jun Hsu,TSMC,TSM,Engineering,Director,65.8,402500,6.7,70.7,East Asia,Middle,No,53.6,80.9
+TSM-0062,Xin Hung,TSMC,TSM,Fab/Manufacturing,Staff,68.4,84600,12.9,52.0,East Asia,Lower-middle,No,65.2,71.0
+TSM-0063,Hui Tsai,TSMC,TSM,Research & AI,Senior,71.5,118100,5.4,66.3,East Asia,Middle,Yes,57.9,89.6
+TSM-0064,Cheng Cheng,TSMC,TSM,Fab/Manufacturing,Senior,71.7,186400,8.9,84.2,East Asia,Middle,Yes,59.1,69.0
+TSM-0065,Jun Lee,TSMC,TSM,Operations,Staff,85.5,121800,9.2,57.8,East Asia,Lower-middle,Yes,76.1,66.0
+TSM-0066,Ling Wang,TSMC,TSM,Operations,Senior,77.0,199500,12.8,66.1,East Asia,Lower-middle,Yes,78.4,76.8
+TSM-0067,Cheng Chen,TSMC,TSM,Engineering,Senior,92.4,203200,3.6,85.2,East Asia,Lower-middle,Yes,74.7,90.2
+TSM-0068,Xin Chen,TSMC,TSM,Operations,Principal,90.2,298600,6.9,72.7,East Asia,Middle,Yes,65.2,86.1
+TSM-0069,Jun Lu,TSMC,TSM,Engineering,Senior Director,81.4,206900,10.3,75.2,East Asia,Upper-middle,Yes,43.5,75.4
+TSM-0070,Yu Pan,TSMC,TSM,Sales & GTM,Senior Director,100.0,117000,6.9,71.5,East Asia,Lower-middle,Yes,87.2,84.3
+TSM-0071,Kai Huang,TSMC,TSM,Research & AI,VP,96.3,515800,17.4,68.3,East Asia,Working class,No,84.0,82.4
+TSM-0072,Ling Tseng,TSMC,TSM,Fab/Manufacturing,Senior,76.8,75300,6.0,71.1,East Asia,Lower-middle,Yes,82.5,78.1
+TSM-0073,Chih Chang,TSMC,TSM,Sales & GTM,Senior,75.9,69900,16.7,50.8,East Asia,Lower-middle,Yes,74.5,57.9
+TSM-0074,Ming Wu,TSMC,TSM,Supply Chain,Principal,76.9,331000,12.3,55.8,East Asia,Working class,Yes,93.5,70.1
+TSM-0075,Fang Yang,TSMC,TSM,Operations,Principal,79.5,121400,14.8,65.6,East Asia,Affluent,No,30.3,61.1
+TSM-0076,Chun Hsu,TSMC,TSM,Engineering,Senior,77.4,99700,5.7,65.8,South Asia,Lower-middle,No,63.5,70.0
+TSM-0077,Han Yeh,TSMC,TSM,Research & AI,Senior,82.5,261600,20.5,65.5,East Asia,Lower-middle,Yes,64.5,85.6
+TSM-0078,Xin Chang,TSMC,TSM,Fab/Manufacturing,SVP,84.7,633300,12.3,74.0,South Asia,Upper-middle,Yes,33.0,70.2
+TSM-0079,Qing Su,TSMC,TSM,Fab/Manufacturing,Director,82.9,523400,7.1,70.0,East Asia,Upper-middle,No,45.4,57.8
+TSM-0080,Cheng Hung,TSMC,TSM,Engineering,Senior,82.8,91700,11.9,61.0,East Asia,Middle,No,60.0,63.1
+TSM-0081,Wen Kuo,TSMC,TSM,Operations,Senior,78.7,111600,6.6,61.8,East Asia,Middle,Yes,66.0,65.0
+TSM-0082,Chih Chou,TSMC,TSM,Engineering,Senior,80.0,188600,9.6,62.0,East Asia,Upper-middle,No,51.2,74.6
+TSM-0083,Yi Huang,TSMC,TSM,Engineering,Principal,69.8,230000,15.3,62.4,East Asia,Middle,Yes,64.4,64.1
+TSM-0084,Sheng Tsai,TSMC,TSM,Sales & GTM,Senior,85.7,44900,21.1,43.0,East Asia,Affluent,No,18.2,70.2
+TSM-0085,Kai Chou,TSMC,TSM,Engineering,Senior,79.4,90700,10.5,55.6,East Asia,Middle,Yes,53.7,80.3
+TSM-0086,Cheng Yeh,TSMC,TSM,Sales & GTM,Senior,84.1,179800,10.1,56.5,East Asia,Middle,Yes,69.4,75.0
+TSM-0087,Yi Wu,TSMC,TSM,Operations,Senior,89.4,77300,8.7,59.6,East Asia,Lower-middle,Yes,82.6,72.5
+TSM-0088,Han Lin,TSMC,TSM,Finance,Senior,70.7,66600,7.2,59.1,East Asia,Middle,No,50.7,58.9
+TSM-0089,Cheng Wang,TSMC,TSM,Engineering,Director,100.0,450900,10.9,68.5,East Asia,Middle,No,57.4,67.9
+TSM-0090,Kai Liao,TSMC,TSM,Engineering,Senior,74.1,107000,6.0,68.2,Southeast Asia,Middle,Yes,60.3,80.9
+TSM-0091,Bo Wang,TSMC,TSM,Fab/Manufacturing,Principal,78.4,196200,6.2,65.7,East Asia,Affluent,No,21.6,71.4
+TSM-0092,Yu Lee,TSMC,TSM,People/HR,Senior Director,86.2,481000,12.7,68.0,East Asia,Middle,No,68.1,95.0
+TSM-0093,Yi Liu,TSMC,TSM,Fab/Manufacturing,Principal,84.1,480600,9.1,56.2,North America,Lower-middle,No,64.9,64.5
+TSM-0094,Kai Cheng,TSMC,TSM,Supply Chain,Director,94.9,244000,5.0,75.3,East Asia,Working class,Yes,94.7,93.2
+TSM-0095,Wen Hung,TSMC,TSM,Engineering,Senior,90.6,86400,10.5,58.5,East Asia,Working class,Yes,92.6,72.8
+TSM-0096,Cheng Yang,TSMC,TSM,Operations,Senior,77.7,97400,12.2,58.2,North America,Middle,Yes,62.2,63.2
+TSM-0097,Chih Lee,TSMC,TSM,Fab/Manufacturing,Principal,80.6,389900,10.6,69.4,East Asia,Working class,Yes,100.0,86.9
+TSM-0098,Yu Chao,TSMC,TSM,Operations,Staff,100.0,196200,17.7,65.2,East Asia,Working class,Yes,76.9,71.1
+TSM-0099,Zhi Liu,TSMC,TSM,Research & AI,Director,74.9,209300,11.2,65.5,East Asia,Working class,No,71.8,78.4
+TSM-0100,Yu Cheng,TSMC,TSM,Quality,Senior,65.0,59900,7.6,69.2,East Asia,Lower-middle,No,70.7,61.1
+TSM-0101,Jian Yang,TSMC,TSM,Quality,Staff,73.4,82300,9.6,70.6,East Asia,Working class,Yes,84.9,78.3
+TSM-0102,Hao Lin,TSMC,TSM,Operations,Senior,73.6,116900,7.5,73.0,East Asia,Lower-middle,Yes,73.0,72.3
+TSM-0103,Ling Chang,TSMC,TSM,Operations,C-Suite,84.6,1950100,22.4,73.2,East Asia,Middle,No,44.9,58.1
+TSM-0104,Xin Chang,TSMC,TSM,Engineering,VP,86.2,532700,10.5,81.6,East Asia,Lower-middle,No,53.5,100.0
+TSM-0105,Han Wu,TSMC,TSM,Operations,Staff,82.1,114000,21.0,64.5,East Asia,Upper-middle,No,31.8,69.7
+TSM-0106,Shu Hsu,TSMC,TSM,Fab/Manufacturing,Senior,82.1,172000,24.5,61.4,East Asia,Upper-middle,No,23.9,70.5
+TSM-0107,Ting Tseng,TSMC,TSM,Fab/Manufacturing,Principal,80.0,80900,4.4,80.5,East Asia,Lower-middle,Yes,63.6,80.7
+TSM-0108,Shu Yeh,TSMC,TSM,Quality,Staff,84.1,376300,5.6,71.7,East Asia,Working class,Yes,80.1,74.0
+TSM-0109,Ming Chen,TSMC,TSM,Engineering,Principal,76.0,96900,12.9,65.2,East Asia,Affluent,No,29.7,81.6
+TSM-0110,Ting Lin,TSMC,TSM,Operations,Director,89.0,404700,11.5,65.8,East Asia,Affluent,No,28.0,62.3
+TSM-0111,Kai Cheng,TSMC,TSM,Research & AI,Staff,92.9,211300,11.9,55.6,East Asia,Upper-middle,No,36.7,65.6
+TSM-0112,Ting Hsu,TSMC,TSM,Operations,Staff,82.5,196900,6.9,56.2,East Asia,Lower-middle,Yes,69.9,59.9
+TSM-0113,Yi Chen,TSMC,TSM,Engineering,Senior Director,97.5,353700,16.1,72.8,East Asia,Upper-middle,No,46.7,63.3
+TSM-0114,Wei Lin,TSMC,TSM,Engineering,Senior Director,96.5,285200,13.9,60.6,East Asia,Upper-middle,No,30.8,77.3
+TSM-0115,Sheng Tsai,TSMC,TSM,Engineering,Staff,89.0,324500,8.8,57.6,Southeast Asia,Lower-middle,No,72.5,69.8
+TSM-0116,Yi Chang,TSMC,TSM,Engineering,Senior,82.0,196200,4.3,65.9,North America,Working class,No,90.7,85.9
+TSM-0117,Hao Yeh,TSMC,TSM,Engineering,Staff,84.1,91400,13.4,61.0,East Asia,Lower-middle,Yes,78.9,85.6
+TSM-0118,Shu Chen,TSMC,TSM,Sales & GTM,Staff,75.6,160900,15.4,57.2,East Asia,Working class,Yes,88.6,63.8
+TSM-0119,Yi Liao,TSMC,TSM,Research & AI,Senior Director,84.7,257700,16.6,65.5,East Asia,Upper-middle,No,41.3,88.3
+TSM-0120,Hao Tseng,TSMC,TSM,Operations,Senior,90.5,229200,19.1,53.8,East Asia,Middle,Yes,60.9,54.1
+TSM-0121,Jia Hsu,TSMC,TSM,Fab/Manufacturing,VP,73.2,353200,8.5,71.1,East Asia,Working class,Yes,83.7,82.1
+TSM-0122,Han Shen,TSMC,TSM,Legal & Policy,Principal,83.5,138400,18.8,69.6,North America,Middle,No,53.5,76.2
+TSM-0123,Mei Yeh,TSMC,TSM,Engineering,Senior Director,86.6,127400,26.0,66.5,North America,Upper-middle,No,33.6,52.6
+TSM-0124,Yi Lu,TSMC,TSM,Engineering,Senior,88.0,368600,11.1,59.9,East Asia,Lower-middle,No,64.9,60.4
+TSM-0125,Jia Tseng,TSMC,TSM,Quality,Senior,71.2,48700,13.9,55.6,East Asia,Affluent,No,16.1,62.7
+TSM-0126,Sheng Lee,TSMC,TSM,Fab/Manufacturing,Principal,78.6,198900,4.4,59.6,East Asia,Working class,Yes,97.7,75.3
+TSM-0127,Ming Hung,TSMC,TSM,Supply Chain,Senior Director,78.4,429000,17.2,66.9,East Asia,Upper-middle,No,34.0,79.5
+TSM-0128,Mei Su,TSMC,TSM,Supply Chain,Director,73.9,204100,12.6,74.9,East Asia,Affluent,No,31.8,73.3
+TSM-0129,Shu Hsieh,TSMC,TSM,Finance,Senior Director,90.8,384400,11.1,78.6,East Asia,Working class,No,77.6,83.0
+TSM-0130,Chih Chao,TSMC,TSM,Supply Chain,Staff,83.8,128200,7.9,67.8,East Asia,Affluent,No,26.0,46.3
+TSM-0131,Jian Chang,TSMC,TSM,Supply Chain,Senior,81.6,127000,8.1,59.5,East Asia,Middle,Yes,65.2,78.8
+TSM-0132,Fang Liu,TSMC,TSM,Engineering,Senior Director,81.5,269700,12.5,69.0,East Asia,Middle,No,49.0,62.8
+TSM-0133,Chun Pan,TSMC,TSM,Supply Chain,Principal,92.7,134500,11.0,73.8,North America,Upper-middle,No,38.7,68.4
+TSM-0134,Mei Su,TSMC,TSM,Quality,Senior,72.0,159800,10.9,70.6,Southeast Asia,Middle,No,51.1,71.1
+TSM-0135,Han Chou,TSMC,TSM,Engineering,Senior,73.5,81500,5.7,64.2,East Asia,Middle,No,49.7,62.8
+TSM-0136,Yu Chiang,TSMC,TSM,Sales & GTM,VP,97.9,531700,9.1,64.5,East Asia,Lower-middle,No,66.3,85.8
+TSM-0137,Po Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,82.9,34700,11.8,69.1,East Asia,Lower-middle,Yes,83.1,73.1
+TSM-0138,Chih Chao,TSMC,TSM,Fab/Manufacturing,Director,80.0,196400,18.2,60.3,East Asia,Middle,No,59.0,59.0
+TSM-0139,Hui Lin,TSMC,TSM,Engineering,Senior Director,86.4,204700,23.2,65.1,East Asia,Middle,No,45.0,81.5
+TSM-0140,Wei Su,TSMC,TSM,Operations,Staff,80.1,98800,14.1,64.0,South Asia,Middle,No,55.2,77.4
+TSM-0141,Hao Wang,TSMC,TSM,Sales & GTM,Principal,94.7,159500,6.7,64.5,East Asia,Middle,Yes,59.8,87.0
+TSM-0142,Ying Liu,TSMC,TSM,Engineering,Principal,75.1,55800,9.8,70.0,East Asia,Working class,Yes,94.1,69.8
+TSM-0143,Hao Pan,TSMC,TSM,Fab/Manufacturing,Senior,62.8,113200,9.6,65.0,East Asia,Middle,No,45.3,55.9
+TSM-0144,Yi Lin,TSMC,TSM,Research & AI,Principal,84.3,123400,5.2,77.0,East Asia,Middle,No,46.7,80.6
+TSM-0145,Sheng Hung,TSMC,TSM,Engineering,Senior,89.3,80800,9.0,75.9,East Asia,Upper-middle,No,44.8,76.7
+TSM-0146,Yu Yeh,TSMC,TSM,Sales & GTM,Staff,91.1,122900,6.8,53.4,East Asia,Middle,No,49.3,60.2
+TSM-0147,Fang Yang,TSMC,TSM,Supply Chain,Staff,87.0,244300,7.4,52.1,Southeast Asia,Middle,No,54.8,58.7
+TSM-0148,Hao Su,TSMC,TSM,Sales & GTM,Director,80.5,347900,8.6,55.7,East Asia,Upper-middle,No,41.7,57.9
+TSM-0149,Li Chang,TSMC,TSM,Sales & GTM,Director,81.8,212400,9.4,65.7,East Asia,Upper-middle,No,40.3,81.9
+TSM-0150,Han Hung,TSMC,TSM,Research & AI,Director,78.7,194500,9.7,57.3,East Asia,Lower-middle,Yes,63.1,79.0
+TSM-0151,Po Yang,TSMC,TSM,Research & AI,VP,79.4,364400,12.1,67.0,East Asia,Middle,No,51.1,60.3
+TSM-0152,Ming Hsieh,TSMC,TSM,Engineering,Staff,91.8,166300,14.1,65.8,East Asia,Working class,No,74.5,74.8
+TSM-0153,Xin Wu,TSMC,TSM,People/HR,Principal,90.3,499300,22.3,72.2,Southeast Asia,Middle,No,52.2,66.6
+TSM-0154,Han Kuo,TSMC,TSM,Engineering,Senior,83.3,210700,7.4,58.6,East Asia,Upper-middle,No,35.0,64.0
+TSM-0155,Hui Yang,TSMC,TSM,Finance,Director,95.3,307800,11.6,71.4,East Asia,Lower-middle,Yes,70.6,77.2
+TSM-0156,Mei Tseng,TSMC,TSM,Sales & GTM,Principal,82.2,390100,10.0,72.7,East Asia,Working class,No,80.8,85.4
+TSM-0157,Xin Kuo,TSMC,TSM,Engineering,Staff,97.7,148000,11.1,60.3,East Asia,Affluent,No,20.5,70.2
+TSM-0158,Ying Lin,TSMC,TSM,Engineering,Principal,82.7,97100,7.7,72.1,East Asia,Middle,Yes,62.9,79.2
+TSM-0159,Ting Liu,TSMC,TSM,Supply Chain,Principal,72.0,162800,27.4,46.1,East Asia,Affluent,No,20.7,94.2
+TSM-0160,Qing Pan,TSMC,TSM,Engineering,Senior,76.5,106400,10.7,58.4,East Asia,Working class,No,85.5,82.5
+TSM-0161,Zhi Wu,TSMC,TSM,Sales & GTM,Staff,78.9,172200,5.7,75.0,East Asia,Upper-middle,No,35.1,81.0
+TSM-0162,Ying Chiang,TSMC,TSM,Fab/Manufacturing,Director,73.6,319800,9.8,61.6,East Asia,Working class,Yes,92.1,79.6
+TSM-0163,Wen Liao,TSMC,TSM,People/HR,Staff,81.2,150600,8.4,57.3,East Asia,Middle,No,45.6,57.8
+TSM-0164,Jia Tseng,TSMC,TSM,Fab/Manufacturing,Principal,94.6,311700,9.8,72.8,East Asia,Lower-middle,Yes,79.4,85.8
+TSM-0165,Jia Chiang,TSMC,TSM,Fab/Manufacturing,Principal,94.2,153200,9.8,59.8,East Asia,Middle,Yes,60.4,76.7
+TSM-0166,Wen Kuo,TSMC,TSM,Engineering,Director,74.8,638700,12.8,57.9,South Asia,Upper-middle,No,36.4,61.2
+TSM-0167,Ling Cheng,TSMC,TSM,Engineering,Staff,80.0,228300,9.8,71.5,Southeast Asia,Lower-middle,No,67.9,81.1
+TSM-0168,Yu Chang,TSMC,TSM,Quality,Director,86.5,376000,11.1,76.8,East Asia,Working class,Yes,81.8,91.6
+TSM-0169,Hao Shen,TSMC,TSM,Operations,Director,81.4,168400,9.6,62.8,East Asia,Working class,Yes,74.1,70.7
+TSM-0170,Yi Chao,TSMC,TSM,Sales & GTM,Senior,72.2,67200,9.1,71.3,East Asia,Middle,No,51.5,74.4
+TSM-0171,Bo Hung,TSMC,TSM,Engineering,Staff,87.3,257300,11.9,58.2,East Asia,Lower-middle,Yes,81.7,67.4
+TSM-0172,Hui Yang,TSMC,TSM,Engineering,Staff,82.2,290700,5.9,59.7,East Asia,Middle,No,46.6,67.0
+TSM-0173,Jia Liao,TSMC,TSM,Research & AI,Staff,81.4,271500,9.9,71.2,East Asia,Middle,Yes,59.3,86.3
+TSM-0174,Ling Kuo,TSMC,TSM,Engineering,Staff,84.3,242100,10.8,59.7,South Asia,Working class,Yes,81.9,70.1
+TSM-0175,Xin Su,TSMC,TSM,Engineering,Staff,77.7,214100,19.7,68.1,East Asia,Lower-middle,No,67.3,74.2
+TSM-0176,Bo Chiang,TSMC,TSM,Sales & GTM,VP,77.7,847800,10.6,67.6,Southeast Asia,Upper-middle,No,38.1,61.7
+TSM-0177,Shu Liu,TSMC,TSM,Research & AI,Staff,74.1,132500,5.2,70.1,East Asia,Upper-middle,No,37.3,59.7
+TSM-0178,Mei Cheng,TSMC,TSM,Fab/Manufacturing,Director,76.6,893100,8.5,69.6,East Asia,Lower-middle,Yes,81.3,87.8
+TSM-0179,Hui Yang,TSMC,TSM,Research & AI,C-Suite,94.5,1700000,11.2,77.0,East Asia,Middle,Yes,63.6,76.5
+TSM-0180,Yi Wang,TSMC,TSM,Quality,Senior,70.8,130800,12.2,62.1,Southeast Asia,Working class,Yes,85.2,70.7
+TSM-0181,Fang Shen,TSMC,TSM,Fab/Manufacturing,Staff,73.1,301000,8.2,72.0,East Asia,Working class,Yes,94.4,86.1
+TSM-0182,Qing Pan,TSMC,TSM,Fab/Manufacturing,Principal,80.0,187700,20.0,61.2,North America,Affluent,No,24.3,59.6
+TSM-0183,Xin Yang,TSMC,TSM,Engineering,VP,83.7,657000,8.2,69.3,East Asia,Middle,No,48.2,77.5
+TSM-0184,Hao Cheng,TSMC,TSM,Fab/Manufacturing,Staff,100.0,147900,8.9,57.6,East Asia,Upper-middle,No,25.1,62.8
+TSM-0185,Jia Wu,TSMC,TSM,Finance,Principal,78.0,458900,22.0,74.8,East Asia,Upper-middle,No,36.6,100.0
+TSM-0186,Po Lee,TSMC,TSM,Engineering,SVP,72.1,222700,14.0,69.8,East Asia,Working class,Yes,77.6,51.6
+TSM-0187,Cheng Wu,TSMC,TSM,Research & AI,SVP,84.4,671200,28.2,76.3,East Asia,Affluent,No,17.4,51.0
+TSM-0188,Chih Chiang,TSMC,TSM,Fab/Manufacturing,Senior,84.1,226600,13.2,59.6,East Asia,Affluent,No,31.7,71.1
+TSM-0189,Mei Yang,TSMC,TSM,Engineering,Director,75.8,206100,23.1,60.3,East Asia,Lower-middle,Yes,72.2,66.9
+TSM-0190,Chun Kuo,TSMC,TSM,Supply Chain,Senior,89.3,59500,8.2,53.2,East Asia,Lower-middle,Yes,81.4,75.2
+TSM-0191,Cheng Hsieh,TSMC,TSM,Engineering,Senior,75.6,74000,13.7,60.1,East Asia,Middle,Yes,54.7,61.1
+TSM-0192,Wei Kuo,TSMC,TSM,Engineering,Director,92.3,268900,28.6,60.7,East Asia,Lower-middle,Yes,69.0,69.5
+TSM-0193,Sheng Liu,TSMC,TSM,Engineering,Principal,86.6,427700,9.3,72.5,East Asia,Upper-middle,No,48.4,75.7
+TSM-0194,Mei Liao,TSMC,TSM,Engineering,Senior,73.4,116100,8.1,53.6,East Asia,Upper-middle,No,43.5,66.6
+TSM-0195,Mei Wu,TSMC,TSM,Research & AI,Principal,76.8,154600,11.2,66.1,East Asia,Middle,No,65.5,90.1
+TSM-0196,Cheng Chao,TSMC,TSM,Engineering,Director,84.9,464000,4.8,73.6,East Asia,Upper-middle,Yes,49.1,87.3
+TSM-0197,Ting Kuo,TSMC,TSM,Research & AI,Director,90.6,322800,9.7,68.5,North America,Middle,No,39.6,45.8
+TSM-0198,Sheng Chiang,TSMC,TSM,Sales & GTM,Staff,87.0,86200,10.1,71.9,East Asia,Lower-middle,Yes,78.6,72.5
+TSM-0199,Sheng Yang,TSMC,TSM,Engineering,Senior Director,98.0,231300,13.3,69.5,East Asia,Upper-middle,No,37.5,66.1
+TSM-0200,Yi Kuo,TSMC,TSM,Engineering,Senior,90.0,115800,5.4,67.7,North America,Lower-middle,No,70.2,63.6
+TSM-0201,Chih Yeh,TSMC,TSM,Engineering,Director,68.6,92900,19.6,68.4,East Asia,Upper-middle,No,47.3,74.3
+TSM-0202,Jia Yeh,TSMC,TSM,Research & AI,Staff,76.7,125500,9.6,64.9,East Asia,Working class,No,83.3,83.0
+TSM-0203,Ling Tseng,TSMC,TSM,Engineering,Principal,84.7,137200,12.6,61.6,East Asia,Upper-middle,No,42.3,86.2
+TSM-0204,Ming Shen,TSMC,TSM,Sales & GTM,VP,75.2,604800,11.4,80.5,Africa,Working class,Yes,92.1,78.1
+TSM-0205,Hui Chang,TSMC,TSM,Fab/Manufacturing,Principal,85.1,158100,10.4,67.7,East Asia,Upper-middle,No,27.3,68.6
+TSM-0206,Qing Wu,TSMC,TSM,Operations,Director,79.2,559400,16.0,54.7,East Asia,Working class,Yes,84.6,72.2
+TSM-0207,Yu Hung,TSMC,TSM,Engineering,Senior,84.6,135400,12.8,66.3,Southeast Asia,Lower-middle,Yes,80.5,75.4
+TSM-0208,Qing Tseng,TSMC,TSM,Operations,Director,91.8,113400,18.7,55.0,East Asia,Middle,Yes,64.9,74.4
+TSM-0209,Hao Kuo,TSMC,TSM,Engineering,Principal,75.7,212400,15.2,68.4,East Asia,Affluent,No,27.2,69.9
+TSM-0210,Chun Wu,TSMC,TSM,Research & AI,VP,76.7,613600,13.8,49.6,East Asia,Working class,No,80.2,62.3
+TSM-0211,Ting Tseng,TSMC,TSM,Supply Chain,VP,83.6,327300,7.7,64.2,East Asia,Working class,No,79.8,75.8
+TSM-0212,Qing Chen,TSMC,TSM,Engineering,Senior,67.1,178300,2.2,59.3,East Asia,Upper-middle,No,33.8,53.4
+TSM-0213,Xin Wu,TSMC,TSM,Fab/Manufacturing,Principal,87.9,324500,7.2,58.2,East Asia,Upper-middle,No,39.5,68.3
+TSM-0214,Yi Chou,TSMC,TSM,Operations,Staff,80.6,354700,7.1,77.0,East Asia,Working class,Yes,80.5,88.0
+TSM-0215,Ming Chou,TSMC,TSM,Research & AI,Senior Director,87.4,274000,12.5,62.6,East Asia,Working class,Yes,81.8,66.3
+TSM-0216,Shu Lee,TSMC,TSM,Fab/Manufacturing,Senior,79.5,258000,4.9,60.5,East Asia,Working class,No,84.8,80.9
+TSM-0217,Jun Yeh,TSMC,TSM,Sales & GTM,Principal,80.4,300800,13.3,68.0,East Asia,Lower-middle,No,71.6,67.4
+TSM-0218,Kai Pan,TSMC,TSM,Engineering,Senior,77.8,94000,11.6,73.7,North America,Lower-middle,Yes,62.7,81.2
+TSM-0219,Xin Tsai,TSMC,TSM,Fab/Manufacturing,SVP,85.3,810900,23.2,68.7,East Asia,Working class,No,70.5,76.4
+TSM-0220,Li Liao,TSMC,TSM,Fab/Manufacturing,Staff,83.0,131500,6.9,51.9,East Asia,Affluent,No,28.2,72.2
+TSM-0221,Fang Shen,TSMC,TSM,Research & AI,Senior,68.3,105600,1.8,64.4,East Asia,Middle,Yes,60.8,64.2
+TSM-0222,Sheng Lin,TSMC,TSM,Engineering,Senior,77.5,104200,10.4,71.5,East Asia,Upper-middle,No,38.0,64.1
+TSM-0223,Chih Chiang,TSMC,TSM,Engineering,Senior,78.0,80900,8.7,72.4,East Asia,Working class,Yes,94.8,85.1
+TSM-0224,Ting Chiang,TSMC,TSM,Engineering,Senior,83.4,153700,2.5,55.2,East Asia,Working class,Yes,87.8,77.1
+TSM-0225,Xin Chiang,TSMC,TSM,Engineering,Senior,75.4,233100,5.0,68.7,East Asia,Working class,No,83.5,81.9
+TSM-0226,Zhi Yang,TSMC,TSM,Quality,Director,71.0,227900,8.8,69.0,East Asia,Lower-middle,No,75.5,72.5
+TSM-0227,Ting Fang,TSMC,TSM,Fab/Manufacturing,Staff,81.0,408600,7.6,70.4,East Asia,Upper-middle,No,42.1,76.4
+TSM-0228,Li Liu,TSMC,TSM,Fab/Manufacturing,VP,79.0,782400,14.0,68.7,East Asia,Middle,No,62.5,64.9
+TSM-0229,Hui Tsai,TSMC,TSM,Supply Chain,Principal,82.7,55600,7.5,69.7,East Asia,Lower-middle,Yes,69.4,59.7
+TSM-0230,Ying Su,TSMC,TSM,Engineering,Staff,80.0,117100,6.9,70.7,East Asia,Working class,Yes,94.5,65.1
+TSM-0231,Jun Su,TSMC,TSM,Fab/Manufacturing,Director,90.0,526900,8.1,67.8,East Asia,Lower-middle,No,74.1,84.3
+TSM-0232,Ying Pan,TSMC,TSM,Engineering,Senior,82.4,175700,14.2,61.1,East Asia,Working class,Yes,100.0,85.8
+TSM-0233,Fang Hsu,TSMC,TSM,Research & AI,Staff,83.0,148300,3.5,80.6,East Asia,Middle,Yes,62.0,95.1
+TSM-0234,Xin Chou,TSMC,TSM,Supply Chain,VP,83.1,222400,7.4,75.9,East Asia,Working class,No,83.4,64.8
+TSM-0235,Jun Lee,TSMC,TSM,Operations,Senior,85.6,174400,9.9,63.8,East Asia,Working class,Yes,75.2,78.8
+TSM-0236,Jun Chiang,TSMC,TSM,Supply Chain,Senior,95.0,76400,18.2,68.7,East Asia,Affluent,No,28.8,80.4
+TSM-0237,Fang Pan,TSMC,TSM,Fab/Manufacturing,Director,84.5,270800,20.4,79.6,East Asia,Working class,Yes,83.3,77.7
+TSM-0238,Po Chang,TSMC,TSM,Engineering,Senior Director,84.1,164700,19.9,71.5,East Asia,Working class,Yes,98.7,75.5
+TSM-0239,Shu Hsieh,TSMC,TSM,Operations,Director,75.5,486600,6.1,80.6,East Asia,Upper-middle,Yes,46.8,76.8
+TSM-0240,Shu Fang,TSMC,TSM,Engineering,Senior Director,86.0,399600,17.4,74.3,East Asia,Middle,No,48.1,76.0
+TSM-0241,Chun Lee,TSMC,TSM,Operations,Senior,89.3,191900,4.6,59.9,East Asia,Upper-middle,No,35.9,75.9
+TSM-0242,Ting Hung,TSMC,TSM,Fab/Manufacturing,Senior,78.6,78000,12.3,69.2,East Asia,Upper-middle,No,35.3,82.6
+TSM-0243,Kai Pan,TSMC,TSM,Fab/Manufacturing,Principal,79.4,195900,4.1,65.3,East Asia,Middle,No,42.6,50.3
+TSM-0244,Hao Lee,TSMC,TSM,Fab/Manufacturing,VP,86.7,171600,11.5,83.6,East Asia,Working class,Yes,92.7,75.4
+TSM-0245,Mei Hsieh,TSMC,TSM,Legal & Policy,Principal,92.9,248200,17.4,64.0,East Asia,Upper-middle,No,30.3,73.8
+TSM-0246,Chun Shen,TSMC,TSM,Engineering,Principal,90.1,50100,7.9,73.6,East Asia,Lower-middle,No,79.7,70.2
+TSM-0247,Bo Tsai,TSMC,TSM,Operations,Principal,73.8,257600,7.1,52.2,East Asia,Affluent,No,14.7,62.4
+TSM-0248,Yi Chiang,TSMC,TSM,Research & AI,Senior,82.1,79200,4.1,51.1,East Asia,Middle,No,47.3,64.3
+TSM-0249,Ting Hsieh,TSMC,TSM,Fab/Manufacturing,Director,72.6,491300,9.0,65.9,East Asia,Lower-middle,Yes,77.6,68.4
+TSM-0250,Li Wang,TSMC,TSM,Quality,Staff,93.9,124200,21.8,56.8,East Asia,Middle,Yes,59.5,75.8
+TSM-0251,Qing Hsieh,TSMC,TSM,Research & AI,Senior,62.3,115100,16.4,58.2,East Asia,Lower-middle,Yes,65.1,73.2
+TSM-0252,Zhi Huang,TSMC,TSM,Fab/Manufacturing,Staff,79.6,133200,6.7,64.6,East Asia,Middle,No,36.4,51.7
+TSM-0253,Han Yeh,TSMC,TSM,Sales & GTM,Senior Director,79.2,813500,7.5,66.8,East Asia,Middle,No,42.7,77.6
+TSM-0254,Po Hsu,TSMC,TSM,Finance,Senior,83.4,144300,3.5,67.7,East Asia,Affluent,No,21.2,61.5
+TSM-0255,Kai Chang,TSMC,TSM,Fab/Manufacturing,Senior,88.5,77800,6.5,72.0,Southeast Asia,Working class,No,85.2,65.3
+TSM-0256,Ying Chen,TSMC,TSM,Fab/Manufacturing,Director,80.6,630700,21.4,70.7,East Asia,Working class,Yes,86.1,92.5
+TSM-0257,Ming Liao,TSMC,TSM,Fab/Manufacturing,Senior,74.3,102600,13.3,63.2,East Asia,Middle,No,46.2,54.2
+TSM-0258,Ling Chao,TSMC,TSM,Engineering,Director,94.9,221300,12.6,59.8,East Asia,Middle,No,56.5,78.0
+TSM-0259,Ting Chou,TSMC,TSM,Engineering,Senior,90.0,157400,6.1,57.9,East Asia,Upper-middle,Yes,40.6,69.9
+TSM-0260,Ling Su,TSMC,TSM,Engineering,Director,71.0,251800,11.0,63.3,North America,Working class,Yes,83.3,79.8
+TSM-0261,Fang Liu,TSMC,TSM,Quality,Staff,77.4,148200,5.1,65.1,South Asia,Working class,Yes,83.8,83.7
+TSM-0262,Chih Fang,TSMC,TSM,Research & AI,Staff,76.1,56000,7.5,77.0,East Asia,Upper-middle,Yes,40.4,86.8
+TSM-0263,Hui Liu,TSMC,TSM,Quality,Senior,52.5,105500,7.8,64.5,East Asia,Upper-middle,Yes,44.8,60.8
+TSM-0264,Ming Chao,TSMC,TSM,Engineering,Senior,76.2,68400,7.1,61.7,East Asia,Working class,Yes,86.5,66.1
+TSM-0265,Fang Liu,TSMC,TSM,Engineering,Senior,82.4,62500,1.4,64.6,East Asia,Working class,Yes,100.0,84.7
+TSM-0266,Xin Chao,TSMC,TSM,Research & AI,SVP,83.6,531300,12.4,81.7,East Asia,Upper-middle,Yes,55.6,75.5
+TSM-0267,Ling Chiang,TSMC,TSM,Fab/Manufacturing,Staff,63.1,194900,16.9,58.8,East Asia,Working class,Yes,100.0,72.3
+TSM-0268,Zhi Shen,TSMC,TSM,Fab/Manufacturing,Director,79.0,219700,7.3,66.9,East Asia,Working class,Yes,88.2,81.3
+TSM-0269,Wen Lu,TSMC,TSM,Engineering,Staff,100.0,104100,1.9,64.4,East Asia,Middle,No,50.5,80.7
+TSM-0270,Li Tsai,TSMC,TSM,Fab/Manufacturing,Principal,96.5,527400,5.8,68.3,South Asia,Upper-middle,Yes,45.9,65.0
+TSM-0271,Hui Hsu,TSMC,TSM,Operations,Staff,77.3,209100,11.9,68.3,East Asia,Upper-middle,No,34.4,74.3
+TSM-0272,Han Wang,TSMC,TSM,Operations,Senior,82.2,113200,12.1,60.4,East Asia,Lower-middle,No,60.6,74.2
+TSM-0273,Wei Shen,TSMC,TSM,Engineering,Staff,86.0,191500,13.1,59.5,East Asia,Lower-middle,Yes,85.4,76.1
+TSM-0274,Ying Kuo,TSMC,TSM,Operations,VP,84.5,503800,9.9,71.4,Southeast Asia,Working class,No,82.5,70.5
+TSM-0275,Qing Lee,TSMC,TSM,Supply Chain,Senior,72.0,214100,14.4,68.6,East Asia,Upper-middle,No,39.6,70.3
+TSM-0276,Ming Hsu,TSMC,TSM,Engineering,Senior,85.9,208500,14.2,67.2,Southeast Asia,Lower-middle,Yes,75.3,71.8
+TSM-0277,Mei Wang,TSMC,TSM,Engineering,Staff,77.4,242000,4.8,61.7,East Asia,Upper-middle,No,43.3,76.9
+TSM-0278,Hao Cheng,TSMC,TSM,People/HR,Director,81.4,226700,7.8,75.2,East Asia,Middle,Yes,66.8,69.2
+TSM-0279,Wen Liao,TSMC,TSM,Fab/Manufacturing,Senior,61.0,125400,12.3,61.7,East Asia,Lower-middle,No,85.7,56.5
+TSM-0280,Yu Yang,TSMC,TSM,Operations,VP,81.4,1232300,11.6,68.1,East Asia,Upper-middle,No,32.7,73.5
+TSM-0281,Kai Wu,TSMC,TSM,Engineering,Staff,75.6,340700,4.8,63.5,East Asia,Affluent,Yes,37.5,63.4
+TSM-0282,Mei Fang,TSMC,TSM,Sales & GTM,Senior Director,77.4,576400,8.2,72.5,East Asia,Working class,No,81.6,71.7
+TSM-0283,Zhi Liu,TSMC,TSM,Fab/Manufacturing,Senior Director,85.2,230600,9.7,64.2,East Asia,Upper-middle,No,49.6,55.9
+TSM-0284,Fang Chang,TSMC,TSM,Supply Chain,Principal,68.8,92200,16.2,57.9,East Asia,Affluent,No,29.0,72.8
+TSM-0285,Hui Chou,TSMC,TSM,Engineering,Senior,57.3,116600,5.2,62.1,Southeast Asia,Lower-middle,Yes,78.8,77.1
+TSM-0286,Han Su,TSMC,TSM,Engineering,Director,70.2,170200,13.5,73.8,East Asia,Lower-middle,Yes,71.6,66.8
+TSM-0287,Han Hung,TSMC,TSM,Operations,Senior Director,91.7,601700,15.0,67.7,East Asia,Affluent,No,22.3,82.4
+TSM-0288,Sheng Su,TSMC,TSM,Operations,Senior,90.2,76800,8.6,49.1,North America,Middle,No,50.4,73.2
+TSM-0289,Chun Kuo,TSMC,TSM,Fab/Manufacturing,Senior,82.2,327600,4.4,72.0,East Asia,Affluent,No,20.7,83.2
+TSM-0290,Jian Lin,TSMC,TSM,Engineering,Staff,83.2,68300,11.9,65.2,East Asia,Middle,Yes,66.0,80.3
+TSM-0291,Jian Yeh,TSMC,TSM,Legal & Policy,Principal,82.7,137500,6.5,65.0,East Asia,Middle,No,54.0,70.4
+TSM-0292,Jian Liu,TSMC,TSM,Engineering,Director,75.4,180200,6.6,72.2,East Asia,Middle,No,55.6,68.1
+TSM-0293,Wei Tseng,TSMC,TSM,Engineering,Senior,83.0,136600,14.2,64.7,East Asia,Working class,No,98.9,79.0
+TSM-0294,Po Lin,TSMC,TSM,Engineering,Senior,64.5,65700,16.8,55.4,East Asia,Upper-middle,No,50.9,78.3
+TSM-0295,Bo Hsieh,TSMC,TSM,Legal & Policy,Staff,81.3,188000,7.3,76.7,East Asia,Affluent,No,21.9,71.0
+TSM-0296,Sheng Su,TSMC,TSM,Research & AI,Principal,69.2,253300,8.9,74.5,South Asia,Lower-middle,No,56.2,69.7
+TSM-0297,Sheng Kuo,TSMC,TSM,Fab/Manufacturing,Staff,77.3,108500,10.6,62.2,East Asia,Lower-middle,Yes,80.3,59.5
+TSM-0298,Mei Chao,TSMC,TSM,Operations,Staff,75.6,163300,9.0,67.4,East Asia,Middle,No,49.6,70.9
+TSM-0299,Jun Liu,TSMC,TSM,Quality,Senior Director,79.0,400700,9.0,76.1,East Asia,Upper-middle,No,40.0,78.5
+TSM-0300,Han Shen,TSMC,TSM,Operations,Senior,68.4,93100,3.7,57.7,East Asia,Lower-middle,Yes,77.1,76.0
+TSM-0301,Bo Tseng,TSMC,TSM,Finance,Senior,77.8,181600,4.6,61.6,East Asia,Working class,Yes,77.7,84.5
+TSM-0302,Cheng Tsai,TSMC,TSM,Engineering,Staff,72.1,160600,10.0,64.5,East Asia,Middle,Yes,58.9,74.5
+TSM-0303,Li Tsai,TSMC,TSM,Operations,Staff,83.8,170200,9.7,71.5,East Asia,Working class,Yes,93.8,78.7
+TSM-0304,Sheng Hsieh,TSMC,TSM,Supply Chain,Principal,83.4,395000,8.8,48.5,East Asia,Lower-middle,Yes,67.6,68.2
+TSM-0305,Han Kuo,TSMC,TSM,Sales & GTM,Staff,78.3,95200,13.8,68.5,East Asia,Working class,No,98.7,80.1
+TSM-0306,Shu Chang,TSMC,TSM,Engineering,Staff,92.7,83400,3.5,71.5,East Asia,Upper-middle,No,39.2,77.3
+TSM-0307,Han Lin,TSMC,TSM,Engineering,Senior,75.5,110700,4.9,57.5,East Asia,Upper-middle,No,45.4,71.8
+TSM-0308,Li Chiang,TSMC,TSM,Fab/Manufacturing,Staff,73.6,105500,7.3,59.2,East Asia,Upper-middle,No,37.3,68.6
+TSM-0309,Jun Hung,TSMC,TSM,Engineering,Staff,93.5,235400,14.2,68.2,East Asia,Upper-middle,No,43.4,89.4
+TSM-0310,Ling Hsieh,TSMC,TSM,Quality,Principal,80.5,112000,6.6,66.6,East Asia,Upper-middle,No,47.4,68.7
+TSM-0311,Po Yang,TSMC,TSM,Quality,Staff,82.4,98800,13.2,63.9,East Asia,Working class,Yes,96.8,80.5
+TSM-0312,Bo Wu,TSMC,TSM,Fab/Manufacturing,Senior,79.9,70000,6.9,83.3,East Asia,Working class,Yes,95.9,81.6
+TSM-0313,Han Chiang,TSMC,TSM,Research & AI,Director,95.0,187000,7.0,58.7,East Asia,Upper-middle,No,43.0,67.8
+TSM-0314,Mei Chao,TSMC,TSM,Engineering,Director,65.6,215300,10.2,63.2,East Asia,Lower-middle,Yes,75.0,77.4
+TSM-0315,Hui Wang,TSMC,TSM,Engineering,Director,91.3,375600,12.5,58.6,East Asia,Middle,No,52.2,72.7
+TSM-0316,Po Lee,TSMC,TSM,Fab/Manufacturing,Senior Director,74.5,303100,14.8,64.3,East Asia,Middle,No,62.0,68.9
+TSM-0317,Po Wu,TSMC,TSM,Operations,Staff,74.1,145300,6.3,62.4,East Asia,Working class,Yes,86.7,71.3
+TSM-0318,Kai Lu,TSMC,TSM,Sales & GTM,Senior,81.8,313500,14.8,59.2,East Asia,Lower-middle,Yes,71.6,65.9
+TSM-0319,Wei Wang,TSMC,TSM,Engineering,Director,75.2,380900,5.0,76.6,East Asia,Lower-middle,Yes,60.6,81.6
+TSM-0320,Han Chao,TSMC,TSM,Quality,Staff,79.1,128700,5.2,57.6,East Asia,Lower-middle,Yes,75.6,61.3
+TSM-0321,Wei Chao,TSMC,TSM,Research & AI,Senior,76.1,248300,12.5,63.3,East Asia,Working class,Yes,83.5,66.2
+TSM-0322,Wen Wang,TSMC,TSM,Engineering,Senior Director,82.6,438400,22.7,67.9,East Asia,Working class,Yes,85.5,98.0
+TSM-0323,Mei Huang,TSMC,TSM,Sales & GTM,Director,78.8,202100,8.4,68.7,East Asia,Working class,Yes,100.0,69.0
+TSM-0324,Yi Chen,TSMC,TSM,Engineering,Director,80.5,607400,10.1,72.1,East Asia,Upper-middle,Yes,37.9,63.4
+TSM-0325,Shu Hung,TSMC,TSM,Legal & Policy,VP,77.1,658700,16.2,64.8,East Asia,Middle,No,56.2,63.1
+TSM-0326,Mei Tseng,TSMC,TSM,Supply Chain,Senior,88.1,64100,14.9,59.9,East Asia,Affluent,No,34.7,59.6
+TSM-0327,Hui Chiang,TSMC,TSM,Fab/Manufacturing,Senior,71.9,201500,10.8,64.5,East Asia,Middle,No,43.6,77.0
+TSM-0328,Ting Kuo,TSMC,TSM,Engineering,Staff,78.9,179300,9.0,60.6,East Asia,Affluent,No,26.6,62.6
+TSM-0329,Ying Huang,TSMC,TSM,Fab/Manufacturing,Principal,73.2,97500,11.2,63.8,East Asia,Working class,No,69.7,70.6
+TSM-0330,Zhi Chen,TSMC,TSM,Sales & GTM,Principal,83.6,264400,10.0,63.4,Southeast Asia,Lower-middle,No,66.5,82.5
+TSM-0331,Hui Chen,TSMC,TSM,Engineering,Senior Director,71.5,160700,21.1,72.2,East Asia,Working class,Yes,88.0,76.4
+TSM-0332,Han Liu,TSMC,TSM,Quality,Director,91.6,462600,21.8,58.8,East Asia,Middle,No,50.6,68.0
+TSM-0333,Li Hsieh,TSMC,TSM,Fab/Manufacturing,Senior Director,80.1,525400,14.1,77.6,East Asia,Upper-middle,No,28.4,76.7
+TSM-0334,Qing Kuo,TSMC,TSM,Engineering,Director,88.1,112400,11.9,69.1,East Asia,Middle,Yes,69.4,65.0
+TSM-0335,Ting Wang,TSMC,TSM,Sales & GTM,Senior,76.3,130400,13.9,61.9,East Asia,Upper-middle,No,25.8,77.3
+TSM-0336,Jian Chang,TSMC,TSM,People/HR,Principal,77.6,162000,9.0,61.5,East Asia,Middle,Yes,64.3,57.2
+TSM-0337,Jia Tseng,TSMC,TSM,Engineering,VP,89.3,460700,16.4,67.4,East Asia,Lower-middle,No,65.7,76.8
+TSM-0338,Qing Pan,TSMC,TSM,Quality,Staff,81.9,240100,16.7,56.4,East Asia,Affluent,No,32.9,83.5
+TSM-0339,Jun Wu,TSMC,TSM,Research & AI,Staff,79.8,152000,8.9,67.4,East Asia,Middle,No,46.4,75.1
+TSM-0340,Hao Huang,TSMC,TSM,Research & AI,Senior Director,90.7,457200,6.8,72.7,East Asia,Middle,No,60.0,62.3
+TSM-0341,Li Chao,TSMC,TSM,Legal & Policy,Senior,86.9,105700,4.5,79.6,East Asia,Lower-middle,Yes,73.9,82.2
+TSM-0342,Wen Cheng,TSMC,TSM,Engineering,Principal,71.2,87500,5.6,75.1,East Asia,Upper-middle,No,35.7,78.9
+TSM-0343,Hui Chen,TSMC,TSM,Engineering,SVP,82.0,566900,19.8,68.1,East Asia,Upper-middle,No,24.6,79.0
+TSM-0344,Wei Wang,TSMC,TSM,Legal & Policy,Staff,86.0,111800,5.6,55.7,East Asia,Upper-middle,Yes,44.4,78.0
+TSM-0345,Jian Huang,TSMC,TSM,Research & AI,Principal,84.2,189200,12.3,71.8,East Asia,Middle,Yes,61.1,69.4
+TSM-0346,Sheng Wu,TSMC,TSM,Quality,Staff,80.3,98300,10.7,60.2,East Asia,Middle,No,60.9,68.1
+TSM-0347,Bo Shen,TSMC,TSM,Sales & GTM,Staff,70.1,112500,11.3,65.6,East Asia,Middle,Yes,64.3,90.0
+TSM-0348,Ting Chao,TSMC,TSM,Sales & GTM,Senior Director,77.6,182100,18.2,66.1,East Asia,Working class,Yes,92.7,67.0
+TSM-0349,Hui Chao,TSMC,TSM,Research & AI,Senior,81.8,175900,9.5,59.9,East Asia,Lower-middle,Yes,78.1,68.2
+TSM-0350,Yi Fang,TSMC,TSM,Engineering,Staff,82.2,280000,10.5,70.1,East Asia,Middle,Yes,79.0,64.3
+TSM-0351,Ming Chao,TSMC,TSM,Operations,Director,68.6,567900,6.4,53.3,Europe,Upper-middle,No,39.1,79.2
+TSM-0352,Cheng Wu,TSMC,TSM,Engineering,Staff,76.3,95800,3.3,79.7,East Asia,Working class,Yes,100.0,90.7
+TSM-0353,Cheng Hsieh,TSMC,TSM,Fab/Manufacturing,Principal,74.8,294400,5.4,80.0,East Asia,Middle,Yes,69.1,74.7
+TSM-0354,Jian Pan,TSMC,TSM,Operations,Principal,68.7,82700,3.5,74.0,East Asia,Affluent,No,21.6,70.4
+TSM-0355,Mei Tsai,TSMC,TSM,Engineering,Staff,89.8,154900,5.6,69.1,East Asia,Working class,Yes,84.9,75.7
+TSM-0356,Chih Chiang,TSMC,TSM,Research & AI,Senior,84.5,102000,6.8,59.5,East Asia,Lower-middle,No,61.6,70.5
+TSM-0357,Xin Kuo,TSMC,TSM,Finance,Senior,84.5,120400,16.0,61.9,East Asia,Working class,Yes,88.8,69.3
+TSM-0358,Wen Chen,TSMC,TSM,Quality,Senior,92.3,160300,6.9,52.5,East Asia,Upper-middle,No,40.9,82.5
+TSM-0359,Qing Liao,TSMC,TSM,Fab/Manufacturing,Senior,72.7,54700,7.4,71.2,East Asia,Lower-middle,No,66.4,69.4
+TSM-0360,Hui Cheng,TSMC,TSM,Research & AI,Senior,68.1,55700,3.6,67.9,East Asia,Working class,Yes,100.0,83.7
+TSM-0361,Hao Lin,TSMC,TSM,People/HR,Senior,80.0,85600,7.0,61.9,North America,Working class,Yes,88.8,77.2
+TSM-0362,Qing Hsu,TSMC,TSM,Fab/Manufacturing,C-Suite,100.0,1366400,19.2,74.0,East Asia,Middle,Yes,65.9,76.5
+TSM-0363,Wei Hung,TSMC,TSM,Engineering,Senior,86.9,85900,2.7,56.3,East Asia,Upper-middle,No,20.4,56.2
+TSM-0364,Ming Kuo,TSMC,TSM,Operations,Director,86.7,163200,10.6,68.4,East Asia,Lower-middle,Yes,67.2,68.0
+TSM-0365,Hui Huang,TSMC,TSM,Engineering,Staff,83.2,204700,5.7,60.5,East Asia,Upper-middle,No,25.8,50.2
+TSM-0366,Qing Chao,TSMC,TSM,Fab/Manufacturing,Staff,71.1,91800,8.8,60.3,East Asia,Middle,No,49.5,68.3
+TSM-0367,Xin Chang,TSMC,TSM,Operations,VP,82.5,412900,6.7,66.4,East Asia,Upper-middle,No,31.1,65.7
+TSM-0368,Sheng Huang,TSMC,TSM,Operations,Senior,83.9,113400,13.1,52.5,North America,Affluent,No,20.8,60.7
+TSM-0369,Ting Liu,TSMC,TSM,Fab/Manufacturing,Senior,83.9,154800,4.3,69.1,East Asia,Upper-middle,No,46.8,74.3
+TSM-0370,Fang Shen,TSMC,TSM,Sales & GTM,Principal,89.2,343000,10.8,60.0,East Asia,Lower-middle,No,66.6,77.4
+TSM-0371,Xin Tsai,TSMC,TSM,Sales & GTM,Principal,94.5,224500,9.6,68.8,East Asia,Middle,No,52.2,71.0
+TSM-0372,Sheng Chou,TSMC,TSM,Engineering,Staff,91.4,110300,8.9,59.6,East Asia,Upper-middle,No,42.8,68.5
+TSM-0373,Mei Yeh,TSMC,TSM,Fab/Manufacturing,Principal,63.5,110100,10.6,61.3,Southeast Asia,Middle,No,46.9,68.1
+TSM-0374,Jian Chang,TSMC,TSM,Finance,Director,94.6,337100,21.7,67.8,East Asia,Middle,No,54.3,73.8
+TSM-0375,Xin Yang,TSMC,TSM,Supply Chain,Principal,89.9,266600,13.9,80.7,East Asia,Lower-middle,Yes,76.0,75.3
+TSM-0376,Ying Yeh,TSMC,TSM,Research & AI,Director,82.2,120200,13.9,75.5,East Asia,Lower-middle,No,68.1,76.9
+TSM-0377,Hui Pan,TSMC,TSM,Fab/Manufacturing,Staff,93.9,222000,3.2,70.0,East Asia,Lower-middle,No,55.0,76.3
+TSM-0378,Qing Liu,TSMC,TSM,Engineering,Senior,76.8,111400,5.0,67.0,East Asia,Upper-middle,No,43.8,65.9
+TSM-0379,Hao Wang,TSMC,TSM,Engineering,Staff,66.0,212900,9.4,62.2,East Asia,Middle,No,64.4,74.3
+TSM-0380,Hui Yeh,TSMC,TSM,Operations,Senior,84.6,112100,9.6,56.1,East Asia,Upper-middle,No,39.5,72.7
+TSM-0381,Jun Huang,TSMC,TSM,Finance,Director,87.8,299400,7.7,71.7,East Asia,Lower-middle,Yes,89.1,73.9
+TSM-0382,Sheng Chen,TSMC,TSM,Sales & GTM,Senior,64.1,95200,10.5,69.3,East Asia,Middle,No,51.1,71.6
+TSM-0383,Ting Shen,TSMC,TSM,Legal & Policy,Senior Director,92.4,301500,16.9,69.2,East Asia,Middle,No,42.9,77.4
+TSM-0384,Po Huang,TSMC,TSM,Engineering,Principal,78.9,126700,32.0,56.1,East Asia,Middle,No,40.8,60.4
+TSM-0385,Jun Lu,TSMC,TSM,Research & AI,Senior Director,89.2,516700,9.5,77.5,East Asia,Upper-middle,No,37.2,56.8
+TSM-0386,Yu Wu,TSMC,TSM,Fab/Manufacturing,VP,79.8,1520300,15.6,67.2,East Asia,Lower-middle,Yes,73.3,81.5
+TSM-0387,Han Chang,TSMC,TSM,Engineering,Senior,83.5,109700,18.0,47.9,East Asia,Middle,Yes,59.7,67.9
+TSM-0388,Sheng Cheng,TSMC,TSM,Engineering,Senior Director,90.3,351700,8.0,63.5,East Asia,Lower-middle,Yes,68.7,76.5
+TSM-0389,Hao Liu,TSMC,TSM,Engineering,Director,83.4,115300,10.4,62.8,East Asia,Middle,No,54.4,83.9
+TSM-0390,Li Chang,TSMC,TSM,Engineering,Staff,70.0,120000,7.8,58.3,East Asia,Working class,Yes,97.0,60.2
+TSM-0391,Kai Shen,TSMC,TSM,Finance,Director,90.9,151300,17.0,63.2,East Asia,Middle,No,49.3,61.4
+TSM-0392,Jun Lee,TSMC,TSM,Operations,C-Suite,81.2,1581100,22.8,84.8,East Asia,Working class,Yes,90.3,67.1
+TSM-0393,Hui Hung,TSMC,TSM,Sales & GTM,Director,77.4,184700,5.2,79.6,East Asia,Lower-middle,Yes,70.1,83.0
+TSM-0394,Ting Fang,TSMC,TSM,Operations,Senior Director,83.2,273500,11.9,72.0,Southeast Asia,Lower-middle,Yes,81.9,67.7
+TSM-0395,Yu Tseng,TSMC,TSM,Operations,Principal,80.7,123800,16.9,74.5,Southeast Asia,Upper-middle,No,37.0,84.5
+TSM-0396,Wen Kuo,TSMC,TSM,Legal & Policy,Senior,88.2,145600,3.9,73.6,East Asia,Middle,No,41.7,66.3
+TSM-0397,Yi Kuo,TSMC,TSM,Fab/Manufacturing,Senior,82.7,130100,3.9,76.0,East Asia,Working class,Yes,86.0,81.4
+TSM-0398,Kai Liu,TSMC,TSM,Engineering,Principal,81.0,124700,17.3,70.7,East Asia,Affluent,No,14.8,59.7
+TSM-0399,Po Lu,TSMC,TSM,Research & AI,Senior Director,80.1,171600,23.2,72.6,East Asia,Upper-middle,No,44.3,60.7
+TSM-0400,Hao Wu,TSMC,TSM,Sales & GTM,Senior,81.2,89000,19.0,71.2,East Asia,Working class,No,78.3,80.4
+TSM-0401,Mei Yeh,TSMC,TSM,Fab/Manufacturing,Senior,78.2,158700,14.6,47.8,East Asia,Lower-middle,Yes,71.5,65.1
+TSM-0402,Mei Yeh,TSMC,TSM,Engineering,Principal,80.2,89400,16.4,63.6,East Asia,Middle,No,47.1,67.7
+TSM-0403,Li Wang,TSMC,TSM,Sales & GTM,Staff,88.4,232000,5.6,64.2,East Asia,Middle,No,48.4,60.3
+TSM-0404,Hao Lee,TSMC,TSM,Engineering,Principal,80.3,228300,14.2,69.1,East Asia,Affluent,No,27.0,65.1
+TSM-0405,Fang Fang,TSMC,TSM,Operations,Director,87.2,131100,10.5,73.0,East Asia,Working class,No,83.0,72.9
+TSM-0406,Jia Wu,TSMC,TSM,Engineering,Director,81.5,213700,5.0,79.8,East Asia,Middle,No,56.9,77.7
+TSM-0407,Chih Huang,TSMC,TSM,Fab/Manufacturing,Senior,76.8,117300,7.5,49.9,North America,Working class,Yes,88.1,61.9
+TSM-0408,Shu Su,TSMC,TSM,Engineering,Staff,86.2,136400,4.7,55.6,East Asia,Upper-middle,No,28.1,53.9
+TSM-0409,Chih Chen,TSMC,TSM,Operations,Senior,79.0,83600,19.7,56.3,East Asia,Affluent,No,29.6,69.3
+TSM-0410,Jun Hsieh,TSMC,TSM,Fab/Manufacturing,VP,89.5,202900,9.1,79.1,East Asia,Lower-middle,No,70.3,89.8
+TSM-0411,Ling Hung,TSMC,TSM,Operations,Staff,89.6,199300,11.5,59.0,North America,Upper-middle,No,36.3,59.3
+TSM-0412,Yu Chiang,TSMC,TSM,Fab/Manufacturing,Principal,82.2,251300,18.4,59.5,East Asia,Lower-middle,No,64.2,65.4
+TSM-0413,Fang Yeh,TSMC,TSM,Engineering,Staff,89.1,80100,5.3,72.5,East Asia,Working class,Yes,79.6,65.4
+TSM-0414,Qing Chiang,TSMC,TSM,Engineering,Staff,74.6,136500,10.1,64.8,East Asia,Lower-middle,No,49.6,71.2
+TSM-0415,Ting Pan,TSMC,TSM,Research & AI,Senior,100.0,103300,14.6,63.9,East Asia,Middle,No,54.1,84.3
+TSM-0416,Po Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,90.0,252000,5.9,69.6,East Asia,Lower-middle,Yes,74.2,75.2
+TSM-0417,Fang Chen,TSMC,TSM,Operations,Director,77.0,409800,18.5,71.4,East Asia,Middle,No,49.8,81.0
+TSM-0418,Cheng Wang,TSMC,TSM,Fab/Manufacturing,Director,79.9,181000,9.6,61.9,East Asia,Upper-middle,Yes,39.4,70.2
+TSM-0419,Jun Yeh,TSMC,TSM,Legal & Policy,Senior,74.8,114500,7.7,63.8,East Asia,Affluent,No,27.6,63.0
+TSM-0420,Wen Lee,TSMC,TSM,Engineering,Senior,81.1,414200,2.1,67.5,East Asia,Lower-middle,No,70.5,67.2
+TSM-0421,Han Chang,TSMC,TSM,Engineering,Staff,85.2,151800,8.3,52.5,East Asia,Middle,Yes,49.6,71.3
+TSM-0422,Fang Su,TSMC,TSM,Operations,Staff,92.1,115100,9.6,72.8,East Asia,Lower-middle,No,72.3,79.4
+TSM-0423,Fang Yeh,TSMC,TSM,Operations,Principal,69.7,206100,7.9,75.3,East Asia,Middle,Yes,58.3,78.8
+TSM-0424,Cheng Huang,TSMC,TSM,Engineering,Director,88.3,81000,7.7,68.7,East Asia,Middle,No,74.5,63.3
+TSM-0425,Ting Chang,TSMC,TSM,Fab/Manufacturing,Staff,79.3,293400,5.5,67.6,East Asia,Working class,No,80.8,71.6
+TSM-0426,Jia Hung,TSMC,TSM,Supply Chain,C-Suite,93.2,726000,17.0,70.3,North America,Upper-middle,No,42.6,62.6
+TSM-0427,Qing Hung,TSMC,TSM,Quality,Principal,78.0,139200,29.7,58.7,East Asia,Upper-middle,No,36.6,67.9
+TSM-0428,Zhi Hung,TSMC,TSM,Operations,Principal,81.3,209500,8.1,61.0,East Asia,Middle,No,55.9,72.4
+TSM-0429,Cheng Chang,TSMC,TSM,Engineering,Senior,70.6,114300,7.9,71.5,North America,Working class,No,79.7,75.3
+TSM-0430,Wei Kuo,TSMC,TSM,Research & AI,Staff,89.1,316100,22.5,62.0,East Asia,Lower-middle,No,57.6,57.2
+TSM-0431,Ling Shen,TSMC,TSM,Sales & GTM,Staff,58.9,141000,6.3,64.0,East Asia,Middle,Yes,55.5,67.1
+TSM-0432,Chun Pan,TSMC,TSM,Engineering,Senior Director,78.5,395200,11.2,58.9,North America,Middle,No,59.4,70.6
+TSM-0433,Cheng Yang,TSMC,TSM,Operations,Director,70.0,214000,13.4,72.3,East Asia,Middle,No,67.3,58.7
+TSM-0434,Wen Pan,TSMC,TSM,Operations,Staff,79.7,310000,11.3,51.8,East Asia,Lower-middle,Yes,84.4,73.9
+TSM-0435,Yu Kuo,TSMC,TSM,Operations,Staff,76.5,271500,6.6,59.4,East Asia,Upper-middle,No,41.3,53.9
+TSM-0436,Chih Cheng,TSMC,TSM,Engineering,Director,81.4,269900,8.7,75.7,East Asia,Working class,Yes,90.9,91.0
+TSM-0437,Wei Chang,TSMC,TSM,Operations,Senior Director,88.4,201100,11.9,72.4,East Asia,Upper-middle,No,34.5,62.9
+TSM-0438,Kai Lee,TSMC,TSM,Fab/Manufacturing,Director,88.5,136600,8.9,72.1,North America,Working class,Yes,100.0,81.3
+TSM-0439,Chun Fang,TSMC,TSM,Engineering,Staff,80.0,96900,2.4,71.4,East Asia,Working class,Yes,83.5,83.1
+TSM-0440,Wei Hsieh,TSMC,TSM,Engineering,Director,90.4,296500,6.3,77.7,East Asia,Middle,Yes,56.4,79.3
+TSM-0441,Yu Chiang,TSMC,TSM,Fab/Manufacturing,Director,84.0,123100,11.4,79.5,East Asia,Lower-middle,No,66.5,75.5
+TSM-0442,Shu Hsu,TSMC,TSM,Operations,Senior,88.1,198300,17.8,59.4,East Asia,Lower-middle,No,62.8,76.7
+TSM-0443,Wen Chiang,TSMC,TSM,Finance,VP,90.4,1001500,10.4,84.2,South Asia,Lower-middle,No,51.6,82.8
+TSM-0444,Ling Wu,TSMC,TSM,Quality,Principal,93.5,300200,6.9,71.7,South Asia,Middle,No,52.1,83.1
+TSM-0445,Wen Chou,TSMC,TSM,Research & AI,Senior,69.4,112200,4.2,67.6,East Asia,Middle,Yes,61.6,77.8
+TSM-0446,Li Chen,TSMC,TSM,Engineering,Principal,75.2,172500,11.6,61.6,East Asia,Middle,No,54.7,61.6
+TSM-0447,Po Pan,TSMC,TSM,Operations,Staff,65.5,245600,6.9,62.2,East Asia,Upper-middle,No,37.6,61.3
+TSM-0448,Ling Liao,TSMC,TSM,Research & AI,Senior,72.3,78500,6.7,64.7,East Asia,Upper-middle,Yes,34.8,85.6
+TSM-0449,Ling Fang,TSMC,TSM,Research & AI,Staff,71.9,252600,4.3,64.1,East Asia,Middle,Yes,59.0,67.7
+TSM-0450,Yu Wang,TSMC,TSM,Engineering,Staff,75.5,81300,5.6,59.4,East Asia,Middle,Yes,62.0,76.9
+TSM-0451,Yu Pan,TSMC,TSM,Engineering,Director,85.5,85000,7.4,73.2,East Asia,Working class,Yes,100.0,68.5
+TSM-0452,Yu Wang,TSMC,TSM,Sales & GTM,Senior,60.4,88200,10.3,63.1,East Asia,Middle,Yes,55.5,65.4
+TSM-0453,Ying Liu,TSMC,TSM,Operations,Staff,84.0,104900,11.2,68.8,East Asia,Lower-middle,No,62.4,79.2
+TSM-0454,Shu Kuo,TSMC,TSM,Fab/Manufacturing,Staff,89.0,235300,13.2,61.0,East Asia,Middle,No,40.0,48.2
+TSM-0455,Kai Chiang,TSMC,TSM,Fab/Manufacturing,Principal,85.0,186000,8.5,66.4,East Asia,Upper-middle,No,43.3,67.4
+TSM-0456,Kai Wu,TSMC,TSM,Sales & GTM,Senior,90.8,68300,6.2,68.2,East Asia,Lower-middle,No,75.5,84.4
+TSM-0457,Jian Hung,TSMC,TSM,Engineering,Senior Director,83.6,142400,25.6,65.2,East Asia,Lower-middle,No,69.4,76.7
+TSM-0458,Bo Fang,TSMC,TSM,Sales & GTM,Director,89.8,275900,3.1,82.2,East Asia,Lower-middle,Yes,80.8,75.2
+TSM-0459,Qing Tseng,TSMC,TSM,Supply Chain,Director,89.2,256800,11.2,65.9,South Asia,Middle,Yes,65.1,89.1
+TSM-0460,Ting Lin,TSMC,TSM,Engineering,Principal,72.9,129000,7.6,63.0,East Asia,Lower-middle,Yes,70.1,67.4
+TSM-0461,Wei Hsu,TSMC,TSM,Fab/Manufacturing,Staff,67.5,136200,17.4,68.2,Europe,Working class,Yes,90.5,63.1
+TSM-0462,Mei Lin,TSMC,TSM,Fab/Manufacturing,Senior Director,73.9,353700,21.8,64.4,Southeast Asia,Middle,No,48.5,65.9
+TSM-0463,Ting Lu,TSMC,TSM,Sales & GTM,Staff,69.6,143600,10.2,57.9,East Asia,Upper-middle,No,32.3,66.0
+TSM-0464,Ming Fang,TSMC,TSM,Engineering,Staff,80.7,160100,9.0,71.5,East Asia,Upper-middle,No,31.6,74.8
+TSM-0465,Qing Liao,TSMC,TSM,Engineering,Staff,98.1,210400,13.7,72.3,East Asia,Lower-middle,No,66.5,91.1
+TSM-0466,Kai Hsu,TSMC,TSM,Engineering,Principal,80.5,208400,12.9,62.0,East Asia,Middle,No,46.5,72.1
+TSM-0467,Ming Pan,TSMC,TSM,Supply Chain,Principal,84.7,493100,15.8,64.3,East Asia,Lower-middle,No,74.2,59.7
+TSM-0468,Sheng Fang,TSMC,TSM,Operations,Senior,74.6,60600,5.8,49.8,Europe,Upper-middle,Yes,48.3,56.5
+TSM-0469,Hao Hsieh,TSMC,TSM,Fab/Manufacturing,Director,87.1,335400,7.0,55.0,East Asia,Upper-middle,No,43.2,59.4
+TSM-0470,Bo Lin,TSMC,TSM,Fab/Manufacturing,Principal,79.6,84300,9.2,71.1,East Asia,Middle,Yes,61.9,79.9
+TSM-0471,Hui Lee,TSMC,TSM,Research & AI,Principal,85.9,171900,7.6,74.2,East Asia,Lower-middle,Yes,78.2,71.9
+TSM-0472,Fang Liu,TSMC,TSM,Engineering,Director,78.4,376700,13.9,59.9,East Asia,Upper-middle,No,43.3,69.5
+TSM-0473,Chih Su,TSMC,TSM,Research & AI,Staff,87.1,304000,14.7,62.1,East Asia,Working class,Yes,83.1,83.1
+TSM-0474,Wei Yeh,TSMC,TSM,Fab/Manufacturing,Staff,85.6,200000,4.4,72.2,East Asia,Upper-middle,Yes,51.9,70.4
+TSM-0475,Zhi Chang,TSMC,TSM,Fab/Manufacturing,Senior,77.7,43700,9.7,65.4,East Asia,Affluent,No,27.6,62.6
+TSM-0476,Chun Chen,TSMC,TSM,Operations,Senior,69.7,76000,11.6,66.1,East Asia,Lower-middle,Yes,78.0,73.7
+TSM-0477,Xin Wu,TSMC,TSM,Engineering,Senior Director,96.0,260000,17.2,81.7,East Asia,Middle,No,52.7,80.7
+TSM-0478,Sheng Lin,TSMC,TSM,Fab/Manufacturing,Principal,89.3,199700,8.0,75.8,East Asia,Middle,No,64.0,74.4
+TSM-0479,Ling Fang,TSMC,TSM,Fab/Manufacturing,Staff,95.8,168800,4.6,68.0,East Asia,Lower-middle,Yes,70.6,78.2
+TSM-0480,Chih Wu,TSMC,TSM,Engineering,Senior,70.8,118900,5.9,61.0,East Asia,Middle,No,43.5,54.6
+TSM-0481,Hao Tseng,TSMC,TSM,Fab/Manufacturing,VP,80.6,126500,10.2,68.5,East Asia,Middle,No,43.8,85.5
+TSM-0482,Jian Su,TSMC,TSM,Supply Chain,Senior,87.7,266800,12.9,58.3,East Asia,Lower-middle,Yes,81.0,90.8
+TSM-0483,Ting Kuo,TSMC,TSM,Fab/Manufacturing,Senior Director,97.3,294700,13.1,71.7,East Asia,Middle,No,38.7,83.1
+TSM-0484,Hui Chen,TSMC,TSM,Supply Chain,Senior,81.8,215900,3.5,69.4,East Asia,Affluent,No,34.0,62.5
+TSM-0485,Mei Huang,TSMC,TSM,Sales & GTM,Staff,80.3,234700,16.3,56.8,East Asia,Lower-middle,No,87.5,74.4
+TSM-0486,Bo Liao,TSMC,TSM,Sales & GTM,Staff,71.8,79600,8.6,73.8,East Asia,Middle,No,59.3,67.4
+TSM-0487,Mei Shen,TSMC,TSM,Fab/Manufacturing,Principal,87.9,333000,13.7,70.0,Southeast Asia,Middle,No,47.1,77.8
+TSM-0488,Wen Lee,TSMC,TSM,Engineering,Senior Director,89.8,444600,6.5,68.2,East Asia,Upper-middle,No,32.9,63.4
+TSM-0489,Ming Hsieh,TSMC,TSM,Engineering,Staff,70.1,99900,5.0,66.7,East Asia,Lower-middle,Yes,62.9,88.5
+TSM-0490,Yi Hung,TSMC,TSM,Sales & GTM,Senior,73.0,103100,10.4,55.2,East Asia,Lower-middle,No,73.3,65.5
+TSM-0491,Wei Chen,TSMC,TSM,Supply Chain,Senior,86.5,189700,14.3,56.9,East Asia,Lower-middle,Yes,68.2,85.8
+TSM-0492,Xin Chen,TSMC,TSM,Sales & GTM,Director,82.6,138100,18.4,69.3,East Asia,Middle,No,50.5,79.5
+TSM-0493,Hao Pan,TSMC,TSM,Fab/Manufacturing,Staff,84.7,289500,9.2,47.5,East Asia,Middle,No,57.3,67.9
+TSM-0494,Mei Chang,TSMC,TSM,Research & AI,Senior,83.3,47100,4.4,69.0,East Asia,Lower-middle,No,68.8,74.4
+TSM-0495,Jia Chou,TSMC,TSM,Operations,Director,75.7,418400,12.2,72.5,East Asia,Middle,Yes,72.7,81.2
+TSM-0496,Wen Shen,TSMC,TSM,Fab/Manufacturing,Principal,74.1,411500,16.2,59.2,East Asia,Middle,No,51.7,76.8
+TSM-0497,Jia Hsu,TSMC,TSM,Fab/Manufacturing,Staff,86.4,86200,10.5,72.7,East Asia,Middle,Yes,65.1,66.7
+TSM-0498,Jia Cheng,TSMC,TSM,Engineering,Senior,78.3,177900,10.0,54.7,East Asia,Lower-middle,No,65.9,54.0
+TSM-0499,Wen Wang,TSMC,TSM,Fab/Manufacturing,Staff,78.0,90600,3.9,77.9,East Asia,Working class,Yes,100.0,93.4
+TSM-0500,Li Hung,TSMC,TSM,Engineering,Senior Director,87.3,230000,22.8,66.9,Africa,Middle,No,42.8,62.4
+TSM-0501,Wen Chang,TSMC,TSM,Supply Chain,Staff,82.1,85000,7.5,63.7,East Asia,Upper-middle,No,45.1,69.3
+TSM-0502,Han Hsieh,TSMC,TSM,Engineering,Senior Director,67.5,261700,8.4,64.5,East Asia,Affluent,No,18.0,59.8
+TSM-0503,Chih Hsu,TSMC,TSM,Engineering,Senior,77.2,76400,7.6,62.6,East Asia,Affluent,No,37.4,50.5
+TSM-0504,Shu Lee,TSMC,TSM,Fab/Manufacturing,Senior,90.7,97700,5.1,61.9,East Asia,Lower-middle,No,67.8,64.8
+TSM-0505,Wei Wu,TSMC,TSM,Engineering,Director,99.7,259000,20.1,68.2,East Asia,Upper-middle,No,37.4,78.7
+TSM-0506,Sheng Liu,TSMC,TSM,Research & AI,Senior,85.5,236400,13.0,63.4,East Asia,Lower-middle,No,70.3,67.4
+TSM-0507,Mei Wang,TSMC,TSM,People/HR,Staff,74.9,74500,7.9,66.1,East Asia,Affluent,No,29.1,69.9
+TSM-0508,Shu Lu,TSMC,TSM,Sales & GTM,Senior,82.3,77900,4.4,63.5,East Asia,Middle,No,57.3,85.4
+TSM-0509,Jia Lee,TSMC,TSM,Engineering,Senior,92.8,177900,9.2,61.1,East Asia,Middle,No,54.5,68.0
+TSM-0510,Ming Yang,TSMC,TSM,Fab/Manufacturing,Senior,72.1,90700,6.7,60.9,East Asia,Lower-middle,No,71.8,68.2
+TSM-0511,Hao Shen,TSMC,TSM,Fab/Manufacturing,Staff,77.2,60600,11.3,61.2,East Asia,Middle,No,53.3,62.9
+TSM-0512,Fang Liu,TSMC,TSM,Fab/Manufacturing,Senior,81.1,96000,5.4,69.1,South Asia,Working class,Yes,96.5,71.5
+TSM-0513,Kai Hung,TSMC,TSM,Fab/Manufacturing,Senior,88.7,200300,7.3,75.7,East Asia,Middle,Yes,66.9,91.3
+TSM-0514,Qing Chou,TSMC,TSM,Engineering,Senior,63.7,74700,3.6,55.1,East Asia,Working class,Yes,100.0,78.9
+TSM-0515,Po Tsai,TSMC,TSM,Sales & GTM,VP,80.7,573100,11.2,67.3,East Asia,Middle,No,42.7,59.1
+TSM-0516,Ling Su,TSMC,TSM,Engineering,Principal,84.9,145200,11.0,60.2,East Asia,Affluent,No,26.9,57.0
+TSM-0517,Ying Tseng,TSMC,TSM,Fab/Manufacturing,Director,64.3,204600,15.5,63.3,East Asia,Working class,Yes,83.6,62.0
+TSM-0518,Jun Shen,TSMC,TSM,Engineering,SVP,89.3,696500,13.9,71.0,East Asia,Middle,No,50.7,44.4
+TSM-0519,Wei Hsu,TSMC,TSM,Fab/Manufacturing,Principal,78.0,134300,2.0,65.5,East Asia,Upper-middle,No,42.3,52.9
+TSM-0520,Cheng Chang,TSMC,TSM,Research & AI,Staff,83.0,120700,13.6,55.0,East Asia,Middle,No,45.9,53.3
+TSM-0521,Ling Tsai,TSMC,TSM,Operations,Senior Director,85.2,361000,7.9,73.5,East Asia,Lower-middle,Yes,66.7,63.0
+TSM-0522,Li Wu,TSMC,TSM,Operations,Staff,76.7,271100,10.0,72.5,East Asia,Affluent,No,14.4,78.1
+TSM-0523,Yi Chiang,TSMC,TSM,Engineering,Staff,90.3,379300,9.4,64.4,East Asia,Lower-middle,Yes,81.9,80.1
+TSM-0524,Chun Shen,TSMC,TSM,Engineering,Director,79.8,349500,8.0,77.0,East Asia,Working class,Yes,84.4,83.3
+TSM-0525,Han Chou,TSMC,TSM,Sales & GTM,Staff,83.7,102400,9.8,58.6,East Asia,Upper-middle,No,25.8,60.6
+TSM-0526,Hui Yang,TSMC,TSM,Engineering,Staff,88.4,120000,11.1,69.5,North America,Working class,No,75.3,87.6
+TSM-0527,Shu Cheng,TSMC,TSM,Operations,Staff,86.7,180400,4.9,55.4,East Asia,Upper-middle,No,37.2,85.1
+TSM-0528,Cheng Chang,TSMC,TSM,Engineering,Principal,73.3,164600,7.2,74.8,East Asia,Working class,No,81.6,88.8
+TSM-0529,Qing Chao,TSMC,TSM,Engineering,Principal,92.8,157500,10.6,76.3,East Asia,Lower-middle,Yes,83.6,85.0
+TSM-0530,Fang Hsu,TSMC,TSM,Fab/Manufacturing,Director,84.6,190600,14.5,67.6,East Asia,Working class,No,92.6,79.4
+TSM-0531,Bo Yeh,TSMC,TSM,Engineering,Senior,90.0,119500,10.1,57.9,East Asia,Upper-middle,Yes,49.8,67.8
+TSM-0532,Jun Huang,TSMC,TSM,Fab/Manufacturing,Staff,75.3,105300,5.7,74.8,East Asia,Middle,No,43.3,65.5
+TSM-0533,Bo Kuo,TSMC,TSM,Engineering,Senior Director,78.6,599000,8.9,75.4,East Asia,Middle,No,49.5,67.8
+TSM-0534,Po Tseng,TSMC,TSM,Fab/Manufacturing,Senior,86.7,121300,6.5,71.4,South Asia,Working class,Yes,82.4,83.2
+TSM-0535,Qing Huang,TSMC,TSM,Engineering,Senior,73.5,87800,3.4,63.3,East Asia,Lower-middle,Yes,61.8,81.9
+TSM-0536,Chih Tseng,TSMC,TSM,Operations,Senior,87.0,111400,9.1,73.1,East Asia,Working class,No,91.1,74.6
+TSM-0537,Yi Wang,TSMC,TSM,Supply Chain,Principal,89.1,122100,10.2,58.8,East Asia,Lower-middle,No,69.3,65.2
+TSM-0538,Mei Yeh,TSMC,TSM,Engineering,Principal,83.5,254500,9.4,68.8,East Asia,Affluent,No,18.5,66.5
+TSM-0539,Wen Yang,TSMC,TSM,Fab/Manufacturing,Senior,97.6,101500,10.4,71.0,East Asia,Affluent,No,13.9,62.9
+TSM-0540,Cheng Wu,TSMC,TSM,Fab/Manufacturing,Senior,88.3,108200,6.6,67.5,East Asia,Affluent,No,26.7,60.3
+TSM-0541,Sheng Chen,TSMC,TSM,Engineering,SVP,77.7,671600,15.4,78.5,East Asia,Working class,Yes,99.9,55.8
+TSM-0542,Yi Yang,TSMC,TSM,Engineering,Staff,95.7,134300,14.6,79.6,East Asia,Middle,No,40.7,73.4
+TSM-0543,Jia Yeh,TSMC,TSM,Supply Chain,Staff,78.3,142900,11.7,65.7,East Asia,Affluent,No,18.4,77.6
+TSM-0544,Sheng Kuo,TSMC,TSM,Quality,SVP,83.8,246400,13.4,77.8,East Asia,Working class,Yes,93.6,79.8
+TSM-0545,Qing Lu,TSMC,TSM,Fab/Manufacturing,Senior,85.7,52900,5.7,66.2,East Asia,Middle,Yes,61.0,75.4
+TSM-0546,Hao Liao,TSMC,TSM,Supply Chain,Senior Director,78.6,279200,12.8,72.9,East Asia,Middle,No,53.3,76.9
+TSM-0547,Qing Tsai,TSMC,TSM,Engineering,Senior Director,81.7,757600,11.3,82.7,East Asia,Working class,Yes,88.5,62.0
+TSM-0548,Ling Chiang,TSMC,TSM,Research & AI,Staff,85.2,110100,5.6,61.7,East Asia,Working class,No,80.0,73.6
+TSM-0549,Han Kuo,TSMC,TSM,Operations,VP,73.3,219100,19.9,71.0,East Asia,Middle,No,45.0,82.2
+TSM-0550,Yi Chao,TSMC,TSM,Fab/Manufacturing,Director,85.6,413000,11.8,70.1,East Asia,Lower-middle,No,72.0,64.6
+TSM-0551,Jian Chang,TSMC,TSM,Engineering,VP,96.0,432200,13.1,73.5,Southeast Asia,Upper-middle,No,42.8,73.9
+TSM-0552,Jun Cheng,TSMC,TSM,Operations,Senior,80.1,131100,6.9,61.4,East Asia,Middle,No,58.9,88.9
+TSM-0553,Shu Liu,TSMC,TSM,Research & AI,Senior Director,82.8,237700,12.5,81.0,East Asia,Working class,Yes,83.0,81.6
+TSM-0554,Jia Cheng,TSMC,TSM,Fab/Manufacturing,Principal,86.5,263700,7.3,62.4,Southeast Asia,Middle,Yes,62.1,66.6
+TSM-0555,Jian Yang,TSMC,TSM,Engineering,VP,100.0,204800,24.5,80.2,East Asia,Working class,No,90.4,78.4
+TSM-0556,Jia Liu,TSMC,TSM,Operations,Staff,81.2,114800,9.2,67.1,East Asia,Middle,No,57.3,96.2
+TSM-0557,Bo Wang,TSMC,TSM,Sales & GTM,Senior,80.3,67500,2.6,59.1,East Asia,Working class,Yes,100.0,73.7
+TSM-0558,Hui Hung,TSMC,TSM,Finance,Principal,86.4,84600,3.4,77.0,East Asia,Middle,No,54.0,80.8
+TSM-0559,Ming Tsai,TSMC,TSM,Engineering,Staff,71.3,121600,12.9,61.8,East Asia,Working class,Yes,87.7,74.3
+TSM-0560,Wen Fang,TSMC,TSM,Engineering,Staff,85.2,195300,21.1,70.0,East Asia,Working class,No,74.5,71.9
+TSM-0561,Hui Chang,TSMC,TSM,Research & AI,Principal,88.7,179900,13.2,76.2,East Asia,Upper-middle,Yes,59.1,82.5
+TSM-0562,Chih Wu,TSMC,TSM,Fab/Manufacturing,Staff,77.9,182100,9.8,77.0,East Asia,Middle,No,40.8,67.1
+TSM-0563,Jun Wu,TSMC,TSM,Engineering,Staff,75.2,82200,18.9,65.8,East Asia,Upper-middle,No,32.4,74.8
+TSM-0564,Han Tseng,TSMC,TSM,Research & AI,Senior Director,80.9,348400,12.9,75.6,East Asia,Affluent,No,20.6,64.3
+TSM-0565,Ming Chao,TSMC,TSM,Finance,Senior Director,77.7,491500,9.7,72.1,East Asia,Middle,Yes,71.6,69.1
+TSM-0566,Mei Hsieh,TSMC,TSM,Operations,Principal,91.4,162600,18.2,62.3,East Asia,Lower-middle,Yes,65.7,75.7
+TSM-0567,Po Yang,TSMC,TSM,Engineering,Principal,83.8,132200,16.8,77.0,East Asia,Lower-middle,No,62.0,68.0
+TSM-0568,Mei Shen,TSMC,TSM,Engineering,Principal,76.1,272200,13.5,66.9,East Asia,Middle,No,50.2,73.0
+TSM-0569,Li Tsai,TSMC,TSM,Engineering,Principal,76.3,201600,5.4,68.1,East Asia,Lower-middle,No,83.8,66.6
+TSM-0570,Jia Chou,TSMC,TSM,Engineering,Staff,87.6,239000,11.7,67.8,North America,Upper-middle,No,37.6,67.1
+TSM-0571,Ling Yeh,TSMC,TSM,Research & AI,Senior Director,86.5,114400,14.7,83.7,East Asia,Working class,Yes,88.9,93.8
+TSM-0572,Han Fang,TSMC,TSM,Legal & Policy,Senior,73.1,217100,4.4,56.6,East Asia,Middle,No,40.6,89.7
+TSM-0573,Chih Tseng,TSMC,TSM,Engineering,Senior,65.5,70500,7.9,57.2,East Asia,Middle,No,61.0,71.5
+TSM-0574,Shu Yang,TSMC,TSM,Fab/Manufacturing,Staff,75.7,79900,6.2,65.5,East Asia,Affluent,No,25.5,65.2
+TSM-0575,Zhi Hsieh,TSMC,TSM,Operations,Senior,90.6,218200,19.2,54.7,East Asia,Upper-middle,Yes,38.3,73.8
+TSM-0576,Yu Pan,TSMC,TSM,Engineering,Director,82.4,135700,8.8,71.0,East Asia,Middle,No,50.2,68.5
+TSM-0577,Sheng Hsu,TSMC,TSM,Fab/Manufacturing,Principal,87.0,142600,9.7,72.6,East Asia,Working class,Yes,94.4,58.5
+TSM-0578,Jun Tsai,TSMC,TSM,Supply Chain,Senior,87.3,107000,4.9,54.6,East Asia,Middle,No,42.9,68.3
+TSM-0579,Yu Hsieh,TSMC,TSM,Engineering,Principal,74.9,193200,12.7,72.8,East Asia,Lower-middle,Yes,67.5,49.7
+TSM-0580,Yu Yang,TSMC,TSM,Engineering,Director,68.9,185100,8.4,69.5,East Asia,Middle,Yes,51.5,53.3
+TSM-0581,Ming Hung,TSMC,TSM,Engineering,Principal,87.9,611400,10.7,73.4,North America,Middle,No,68.9,89.3
+TSM-0582,Li Liao,TSMC,TSM,Sales & GTM,Senior,83.1,211300,13.4,70.8,East Asia,Middle,No,52.2,81.1
+TSM-0583,Wei Liu,TSMC,TSM,Research & AI,Senior,71.8,73000,8.4,45.8,East Asia,Lower-middle,Yes,78.0,77.0
+TSM-0584,Shu Chao,TSMC,TSM,Engineering,Director,82.1,360600,10.0,70.2,East Asia,Affluent,No,25.8,76.8
+TSM-0585,Kai Lin,TSMC,TSM,Engineering,Senior,72.6,39400,15.2,66.2,East Asia,Lower-middle,No,60.7,83.0
+TSM-0586,Wen Tseng,TSMC,TSM,Operations,Director,91.4,390600,15.6,58.2,East Asia,Upper-middle,No,31.7,56.7
+TSM-0587,Bo Hsu,TSMC,TSM,Quality,Senior Director,74.9,466700,24.2,79.8,East Asia,Working class,Yes,97.0,64.7
+TSM-0588,Wen Shen,TSMC,TSM,Sales & GTM,Director,68.4,322600,13.7,66.8,East Asia,Upper-middle,No,24.5,63.2
+TSM-0589,Yu Hsu,TSMC,TSM,Engineering,Staff,81.2,127100,7.6,69.5,East Asia,Affluent,No,29.2,53.5
+TSM-0590,Wen Fang,TSMC,TSM,Fab/Manufacturing,Staff,70.0,305700,3.9,54.2,East Asia,Lower-middle,Yes,79.7,67.1
+TSM-0591,Ling Tseng,TSMC,TSM,Engineering,Principal,67.4,173200,12.6,68.2,East Asia,Lower-middle,Yes,76.8,77.0
+TSM-0592,Kai Lu,TSMC,TSM,Fab/Manufacturing,Staff,72.3,149800,8.8,56.4,East Asia,Affluent,No,24.7,77.7
+TSM-0593,Chun Wu,TSMC,TSM,Fab/Manufacturing,Senior,81.4,109600,3.8,49.6,East Asia,Lower-middle,No,76.3,65.9
+TSM-0594,Qing Chiang,TSMC,TSM,Fab/Manufacturing,Senior,70.5,87700,7.9,49.7,South Asia,Middle,No,55.8,54.3
+TSM-0595,Fang Liao,TSMC,TSM,Research & AI,Staff,75.4,175300,9.7,71.4,East Asia,Working class,Yes,91.9,77.6
+TSM-0596,Ling Liu,TSMC,TSM,Sales & GTM,Principal,82.6,163600,9.7,65.1,East Asia,Upper-middle,No,42.8,72.7
+TSM-0597,Yu Chang,TSMC,TSM,Engineering,Staff,81.1,193800,2.3,61.2,East Asia,Middle,No,51.1,56.3
+TSM-0598,Qing Yeh,TSMC,TSM,Operations,Senior,76.9,76100,3.3,47.3,Southeast Asia,Lower-middle,Yes,69.0,65.8
+TSM-0599,Wei Liao,TSMC,TSM,Sales & GTM,Staff,79.2,93800,8.1,67.4,East Asia,Affluent,No,26.4,79.0
+TSM-0600,Xin Su,TSMC,TSM,Operations,VP,86.7,422600,15.8,65.3,East Asia,Affluent,No,25.8,68.0
+TSM-0601,Fang Lin,TSMC,TSM,Fab/Manufacturing,Senior,65.1,111200,21.4,52.2,East Asia,Working class,Yes,91.5,59.3
+TSM-0602,Jun Liao,TSMC,TSM,Engineering,Staff,94.6,144900,10.6,72.9,East Asia,Upper-middle,No,48.9,83.5
+TSM-0603,Sheng Lee,TSMC,TSM,Engineering,Senior Director,84.5,246700,13.3,78.7,East Asia,Middle,Yes,59.5,84.6
+TSM-0604,Kai Su,TSMC,TSM,Fab/Manufacturing,Director,92.2,134800,14.5,85.0,East Asia,Middle,No,53.9,97.5
+TSM-0605,Ling Chen,TSMC,TSM,Engineering,Senior Director,78.5,451300,13.4,75.6,Southeast Asia,Working class,Yes,88.9,70.4
+TSM-0606,Ling Wang,TSMC,TSM,Engineering,Senior,86.0,170600,4.8,56.5,East Asia,Middle,No,43.4,82.1
+TSM-0607,Wen Wu,TSMC,TSM,Engineering,Director,96.2,495000,14.1,69.7,East Asia,Affluent,No,25.6,64.8
+TSM-0608,Cheng Tseng,TSMC,TSM,Engineering,Senior,77.1,80400,5.6,64.8,East Asia,Working class,Yes,97.6,91.3
+TSM-0609,Yi Lee,TSMC,TSM,Operations,Senior,55.7,59600,13.1,58.4,East Asia,Working class,Yes,93.4,62.5
+TSM-0610,Shu Lin,TSMC,TSM,Operations,Director,85.0,532500,11.8,81.1,East Asia,Affluent,No,25.6,79.0
+TSM-0611,Chih Chang,TSMC,TSM,Finance,Staff,71.2,195800,16.4,59.2,East Asia,Lower-middle,No,72.8,81.8
+TSM-0612,Yu Chen,TSMC,TSM,Engineering,Senior Director,92.6,309000,7.2,77.1,East Asia,Middle,Yes,49.5,72.9
+TSM-0613,Ling Kuo,TSMC,TSM,Legal & Policy,Staff,86.4,115500,12.6,69.9,East Asia,Middle,No,51.0,49.3
+TSM-0614,Fang Lee,TSMC,TSM,Fab/Manufacturing,Senior,88.9,274300,10.4,69.7,East Asia,Upper-middle,No,43.8,62.4
+TSM-0615,Cheng Pan,TSMC,TSM,Sales & GTM,Senior,68.8,45700,11.8,67.1,East Asia,Middle,Yes,55.4,64.9
+TSM-0616,Hao Yang,TSMC,TSM,Fab/Manufacturing,Director,88.5,268900,6.5,69.6,North America,Affluent,No,23.1,51.8
+TSM-0617,Cheng Liao,TSMC,TSM,Sales & GTM,Director,90.3,202300,7.7,77.8,East Asia,Upper-middle,No,36.0,75.6
+TSM-0618,Fang Lu,TSMC,TSM,Finance,Senior,72.1,197800,11.9,64.9,East Asia,Lower-middle,Yes,66.2,66.9
+TSM-0619,Wei Chao,TSMC,TSM,Operations,Senior,76.4,116500,3.5,66.5,East Asia,Lower-middle,No,74.6,70.7
+TSM-0620,Wen Lee,TSMC,TSM,Quality,Staff,70.3,123000,4.1,70.3,East Asia,Lower-middle,No,72.3,68.2
+TSM-0621,Jia Chao,TSMC,TSM,Engineering,VP,77.2,346600,10.7,69.9,East Asia,Middle,No,46.7,69.6
+TSM-0622,Shu Chen,TSMC,TSM,Fab/Manufacturing,Staff,81.2,363000,7.4,65.4,East Asia,Working class,No,80.5,62.3
+TSM-0623,Shu Chen,TSMC,TSM,Engineering,Director,80.7,363500,19.5,81.0,East Asia,Lower-middle,No,61.9,97.6
+TSM-0624,Hui Fang,TSMC,TSM,Fab/Manufacturing,Staff,86.2,239800,17.5,57.5,East Asia,Affluent,Yes,34.0,52.5
+TSM-0625,Fang Lee,TSMC,TSM,Engineering,Principal,100.0,190500,10.4,62.6,East Asia,Middle,Yes,62.8,57.0
+TSM-0626,Chun Yang,TSMC,TSM,Engineering,Senior Director,100.0,347200,8.2,83.3,East Asia,Middle,No,53.0,91.9
+TSM-0627,Yi Chiang,TSMC,TSM,Fab/Manufacturing,Senior,75.0,66400,4.7,63.2,East Asia,Upper-middle,No,45.9,77.0
+TSM-0628,Mei Chiang,TSMC,TSM,Fab/Manufacturing,Principal,94.4,192400,6.7,76.4,East Asia,Upper-middle,No,42.0,76.6
+TSM-0629,Ting Pan,TSMC,TSM,Research & AI,Senior,77.5,216100,7.4,64.3,East Asia,Working class,No,85.6,72.1
+TSM-0630,Jia Wang,TSMC,TSM,Sales & GTM,Staff,70.8,276100,2.7,66.1,Europe,Lower-middle,No,64.7,58.8
+TSM-0631,Bo Lin,TSMC,TSM,Fab/Manufacturing,Staff,69.7,317400,4.5,70.4,East Asia,Lower-middle,Yes,75.4,89.2
+TSM-0632,Ying Fang,TSMC,TSM,Fab/Manufacturing,Principal,86.6,163400,7.9,66.1,East Asia,Middle,No,56.1,74.9
+TSM-0633,Sheng Chiang,TSMC,TSM,People/HR,Staff,92.3,69600,16.2,46.7,East Asia,Working class,Yes,88.9,56.8
+TSM-0634,Sheng Hung,TSMC,TSM,Fab/Manufacturing,Principal,74.2,102800,11.4,47.4,East Asia,Affluent,No,36.6,63.5
+TSM-0635,Hui Wang,TSMC,TSM,Engineering,Senior,91.1,116300,14.8,59.6,East Asia,Working class,Yes,96.0,84.8
+TSM-0636,Jun Tseng,TSMC,TSM,Engineering,Senior Director,81.2,405300,11.8,60.9,East Asia,Working class,Yes,88.6,80.4
+TSM-0637,Qing Chen,TSMC,TSM,Operations,Senior,79.1,100800,7.2,68.9,North America,Upper-middle,No,36.2,66.8
+TSM-0638,Hao Yeh,TSMC,TSM,Engineering,Staff,96.9,261900,4.0,55.5,East Asia,Working class,Yes,80.6,63.4
+TSM-0639,Ling Tsai,TSMC,TSM,Research & AI,Principal,78.8,223600,13.3,70.5,Southeast Asia,Affluent,No,26.6,60.5
+TSM-0640,Bo Lin,TSMC,TSM,Engineering,Director,93.5,194700,9.5,79.4,Southeast Asia,Middle,No,56.3,80.1
+TSM-0641,Chun Shen,TSMC,TSM,Quality,Staff,92.3,124700,13.6,57.4,Europe,Working class,No,74.7,64.8
+TSM-0642,Jia Chen,TSMC,TSM,Fab/Manufacturing,Director,84.1,243400,9.4,70.2,East Asia,Working class,No,80.0,73.1
+TSM-0643,Ling Huang,TSMC,TSM,Research & AI,Senior,86.3,114500,7.4,72.5,East Asia,Middle,No,48.6,86.7
+TSM-0644,Zhi Liu,TSMC,TSM,Research & AI,Senior,83.8,148300,7.1,74.3,East Asia,Lower-middle,Yes,71.0,66.2
+TSM-0645,Ting Hsu,TSMC,TSM,Research & AI,Principal,89.3,314300,13.3,77.3,East Asia,Middle,Yes,60.6,93.8
+TSM-0646,Chih Tsai,TSMC,TSM,Fab/Manufacturing,Senior Director,88.5,1084500,9.5,71.9,East Asia,Middle,No,45.5,95.4
+TSM-0647,Fang Lee,TSMC,TSM,Sales & GTM,Principal,74.0,67200,21.0,66.9,East Asia,Lower-middle,Yes,70.8,63.6
+TSM-0648,Hui Chou,TSMC,TSM,Finance,Senior,74.7,154000,18.6,57.6,East Asia,Middle,No,41.1,73.1
+TSM-0649,Bo Chou,TSMC,TSM,Engineering,Director,78.9,266300,8.2,69.5,East Asia,Middle,Yes,67.7,67.3
+TSM-0650,Ling Hung,TSMC,TSM,Finance,Staff,72.5,100400,8.4,63.4,East Asia,Middle,Yes,56.6,67.5
+TSM-0651,Po Su,TSMC,TSM,Operations,Staff,79.0,165700,3.2,58.3,East Asia,Lower-middle,Yes,88.9,76.8
+TSM-0652,Yi Tseng,TSMC,TSM,Research & AI,Senior,78.9,88400,11.8,57.6,East Asia,Affluent,No,32.6,58.6
+TSM-0653,Ming Lee,TSMC,TSM,Fab/Manufacturing,Principal,74.2,266400,8.5,58.2,Africa,Upper-middle,No,38.2,61.5
+TSM-0654,Jun Kuo,TSMC,TSM,Operations,Staff,67.6,100700,8.4,67.4,East Asia,Upper-middle,No,34.0,56.7
+TSM-0655,Ying Kuo,TSMC,TSM,Engineering,Director,74.9,142300,9.3,83.4,East Asia,Lower-middle,No,72.9,75.1
+TSM-0656,Mei Fang,TSMC,TSM,Quality,Principal,79.8,140300,4.4,60.0,East Asia,Middle,No,54.4,57.7
+TSM-0657,Kai Chiang,TSMC,TSM,Engineering,VP,89.2,285800,14.1,72.6,East Asia,Lower-middle,Yes,71.6,74.0
+TSM-0658,Wei Liu,TSMC,TSM,Engineering,Senior,69.6,84600,14.5,64.4,East Asia,Middle,Yes,67.4,78.5
+TSM-0659,Fang Huang,TSMC,TSM,Engineering,Staff,74.5,82900,3.7,62.0,Africa,Upper-middle,No,19.8,49.5
+TSM-0660,Po Huang,TSMC,TSM,People/HR,Senior,100.0,86100,26.3,56.0,Southeast Asia,Working class,No,76.9,72.0
+TSM-0661,Qing Chao,TSMC,TSM,Research & AI,Senior Director,80.2,300900,18.1,62.3,East Asia,Middle,No,46.2,51.3
+TSM-0662,Qing Hung,TSMC,TSM,Operations,VP,99.4,486700,10.5,60.3,East Asia,Lower-middle,No,62.9,59.2
+TSM-0663,Mei Su,TSMC,TSM,Fab/Manufacturing,Staff,85.0,122400,13.0,66.4,Southeast Asia,Middle,No,54.9,87.1
+TSM-0664,Cheng Lu,TSMC,TSM,Engineering,Staff,74.6,75600,8.7,60.4,East Asia,Lower-middle,Yes,67.5,71.3
+TSM-0665,Kai Lu,TSMC,TSM,Finance,Principal,100.0,427700,8.8,70.3,East Asia,Working class,Yes,93.0,79.6
+TSM-0666,Han Kuo,TSMC,TSM,Fab/Manufacturing,Senior,72.8,157200,13.0,57.9,East Asia,Upper-middle,No,36.8,79.1
+TSM-0667,Chih Hsu,TSMC,TSM,Engineering,VP,81.9,236500,12.5,72.0,East Asia,Lower-middle,No,67.0,69.9
+TSM-0668,Ming Su,TSMC,TSM,Operations,Senior,84.8,97600,4.7,57.2,East Asia,Lower-middle,Yes,81.0,59.8
+TSM-0669,Ling Cheng,TSMC,TSM,Operations,Principal,83.1,97100,8.9,61.3,East Asia,Lower-middle,Yes,82.0,82.3
+TSM-0670,Xin Yang,TSMC,TSM,Fab/Manufacturing,VP,73.8,356300,8.7,79.2,East Asia,Upper-middle,Yes,44.3,65.9
+TSM-0671,Jun Pan,TSMC,TSM,Fab/Manufacturing,Senior,91.9,153200,10.8,58.7,East Asia,Middle,Yes,64.9,80.8
+TSM-0672,Sheng Pan,TSMC,TSM,Sales & GTM,C-Suite,88.9,1629700,14.2,77.5,East Asia,Working class,Yes,96.9,75.4
+TSM-0673,Jia Hung,TSMC,TSM,Quality,Senior,71.6,100000,3.2,58.6,East Asia,Lower-middle,No,47.8,64.8
+TSM-0674,Po Su,TSMC,TSM,Fab/Manufacturing,Senior,70.2,113300,16.2,55.3,North America,Middle,No,64.7,69.9
+TSM-0675,Hao Huang,TSMC,TSM,Sales & GTM,Senior,69.9,150300,6.9,59.6,East Asia,Middle,No,49.4,63.2
+TSM-0676,Yu Tseng,TSMC,TSM,Research & AI,Principal,95.9,355400,5.5,62.3,North America,Middle,Yes,59.1,65.5
+TSM-0677,Yi Chiang,TSMC,TSM,Research & AI,Staff,63.6,68000,6.8,68.6,East Asia,Upper-middle,No,38.4,69.9
+TSM-0678,Xin Hsu,TSMC,TSM,Supply Chain,Staff,90.8,194200,8.0,70.0,East Asia,Lower-middle,Yes,82.8,61.7
+TSM-0679,Po Cheng,TSMC,TSM,Research & AI,Director,81.2,175500,10.1,67.5,East Asia,Middle,No,57.6,82.8
+TSM-0680,Ting Su,TSMC,TSM,Fab/Manufacturing,Principal,100.0,303800,11.8,74.2,East Asia,Lower-middle,No,67.0,65.5
+TSM-0681,Yu Fang,TSMC,TSM,Sales & GTM,Director,79.3,178900,8.2,56.4,East Asia,Lower-middle,Yes,88.6,71.3
+TSM-0682,Ting Su,TSMC,TSM,Fab/Manufacturing,Staff,87.6,155100,10.1,66.4,East Asia,Working class,Yes,93.4,92.8
+TSM-0683,Jun Lee,TSMC,TSM,Engineering,Staff,80.5,417800,8.3,63.0,East Asia,Lower-middle,No,73.2,80.3
+TSM-0684,Bo Huang,TSMC,TSM,Engineering,Senior,61.6,279700,7.9,65.9,East Asia,Middle,No,43.3,76.3
+TSM-0685,Jia Chang,TSMC,TSM,Engineering,Staff,68.7,273400,8.8,58.7,East Asia,Lower-middle,Yes,63.5,79.9
+TSM-0686,Po Liu,TSMC,TSM,Supply Chain,Staff,77.8,294800,4.8,69.0,East Asia,Upper-middle,No,27.6,47.0
+TSM-0687,Ying Lee,TSMC,TSM,People/HR,Senior,75.0,138800,7.9,62.4,East Asia,Upper-middle,Yes,56.8,66.1
+TSM-0688,Fang Su,TSMC,TSM,Fab/Manufacturing,Staff,68.9,172400,12.1,62.1,East Asia,Upper-middle,No,46.2,81.5
+TSM-0689,Bo Pan,TSMC,TSM,Supply Chain,Principal,77.1,198700,4.3,60.6,East Asia,Upper-middle,No,30.3,59.7
+TSM-0690,Cheng Chao,TSMC,TSM,People/HR,Principal,87.7,372400,20.6,58.6,East Asia,Upper-middle,No,47.0,77.9
+TSM-0691,Cheng Chang,TSMC,TSM,Fab/Manufacturing,Senior,79.2,168400,10.1,73.3,East Asia,Upper-middle,No,46.5,77.1
+TSM-0692,Ting Tseng,TSMC,TSM,Quality,Principal,87.7,104500,5.7,66.9,East Asia,Working class,Yes,96.5,85.7
+TSM-0693,Mei Lin,TSMC,TSM,Research & AI,Senior Director,90.0,330300,13.4,68.8,East Asia,Upper-middle,No,46.4,79.4
+TSM-0694,Chih Liu,TSMC,TSM,Fab/Manufacturing,Staff,67.6,93600,6.0,74.1,East Asia,Middle,No,50.6,68.0
+TSM-0695,Wei Chao,TSMC,TSM,Sales & GTM,Principal,89.6,150400,5.6,73.6,East Asia,Affluent,No,31.6,85.8
+TSM-0696,Cheng Wu,TSMC,TSM,Fab/Manufacturing,Principal,92.4,335700,10.6,73.0,East Asia,Middle,No,56.5,73.7
+TSM-0697,Hao Hsu,TSMC,TSM,Research & AI,Senior,83.3,136800,5.1,74.8,East Asia,Middle,No,57.3,68.6
+TSM-0698,Ming Pan,TSMC,TSM,Engineering,VP,76.8,503500,25.6,69.7,South Asia,Upper-middle,No,29.0,60.0
+TSM-0699,Han Lu,TSMC,TSM,Fab/Manufacturing,Principal,83.1,315600,6.7,62.6,East Asia,Lower-middle,Yes,85.6,66.5
+TSM-0700,Mei Kuo,TSMC,TSM,Fab/Manufacturing,Senior Director,88.9,434300,13.4,61.7,East Asia,Upper-middle,No,50.2,70.8
+TSM-0701,Han Liao,TSMC,TSM,Fab/Manufacturing,Principal,68.9,237600,6.1,82.3,East Asia,Working class,Yes,85.2,78.4
+TSM-0702,Po Chen,TSMC,TSM,Fab/Manufacturing,Staff,75.3,109400,9.4,66.0,East Asia,Middle,No,55.6,69.8
+TSM-0703,Cheng Hsieh,TSMC,TSM,Operations,Senior,80.3,205700,6.4,59.9,East Asia,Affluent,No,28.2,68.9
+TSM-0704,Li Hung,TSMC,TSM,Research & AI,Senior,72.1,39600,7.2,62.4,East Asia,Lower-middle,Yes,68.6,69.4
+TSM-0705,Mei Hsieh,TSMC,TSM,Fab/Manufacturing,Director,89.7,252200,31.7,55.5,East Asia,Affluent,No,15.2,63.1
+TSM-0706,Wei Shen,TSMC,TSM,Operations,Staff,71.4,89200,16.6,68.0,East Asia,Affluent,No,39.1,74.3
+TSM-0707,Mei Yeh,TSMC,TSM,Operations,Principal,93.5,320600,15.0,66.3,East Asia,Upper-middle,No,49.3,66.4
+TSM-0708,Ming Yeh,TSMC,TSM,Fab/Manufacturing,VP,96.0,808200,6.8,80.3,Southeast Asia,Middle,No,41.5,84.4
+TSM-0709,Jian Shen,TSMC,TSM,Fab/Manufacturing,Staff,96.5,329800,8.4,62.3,East Asia,Lower-middle,Yes,74.8,84.5
+TSM-0710,Ling Kuo,TSMC,TSM,Operations,Staff,86.4,494600,6.8,69.1,East Asia,Middle,No,48.1,64.4
+TSM-0711,Chih Chen,TSMC,TSM,Finance,Senior,85.6,294500,16.2,72.7,East Asia,Middle,Yes,59.5,64.4
+TSM-0712,Hui Chang,TSMC,TSM,Supply Chain,Principal,83.6,209100,10.3,74.9,East Asia,Middle,Yes,77.2,70.2
+TSM-0713,Sheng Tsai,TSMC,TSM,Quality,Staff,88.4,118300,5.3,65.9,East Asia,Middle,No,49.0,81.2
+TSM-0714,Bo Chang,TSMC,TSM,Fab/Manufacturing,Senior,82.6,45700,5.2,66.8,East Asia,Affluent,No,28.1,80.5
+TSM-0715,Ting Yang,TSMC,TSM,Fab/Manufacturing,Staff,80.5,100800,9.9,58.9,East Asia,Affluent,No,30.4,53.5
+TSM-0716,Ming Lee,TSMC,TSM,Fab/Manufacturing,Principal,87.0,131100,7.8,81.0,North America,Middle,Yes,75.5,87.6
+TSM-0717,Ling Wang,TSMC,TSM,Fab/Manufacturing,Principal,90.8,232300,8.4,62.6,East Asia,Affluent,No,32.7,56.4
+TSM-0718,Shu Tsai,TSMC,TSM,Research & AI,SVP,84.9,510600,16.2,78.9,East Asia,Middle,No,50.5,87.0
+TSM-0719,Yi Liao,TSMC,TSM,Quality,VP,82.4,251000,13.4,84.3,East Asia,Middle,Yes,61.6,78.9
+TSM-0720,Chih Liao,TSMC,TSM,Engineering,Director,84.1,345600,9.7,64.2,East Asia,Middle,No,48.0,67.3
+TSM-0721,Qing Huang,TSMC,TSM,Research & AI,Senior,76.0,223500,6.6,58.6,East Asia,Upper-middle,Yes,43.3,83.1
+TSM-0722,Jian Yang,TSMC,TSM,Fab/Manufacturing,Staff,70.6,92400,6.7,65.1,East Asia,Upper-middle,No,33.7,56.7
+TSM-0723,Li Shen,TSMC,TSM,Fab/Manufacturing,VP,78.7,924300,18.5,73.9,North America,Middle,No,58.5,52.3
+TSM-0724,Li Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,77.1,99200,12.2,62.2,Southeast Asia,Affluent,No,15.7,64.2
+TSM-0725,Hui Liu,TSMC,TSM,Sales & GTM,Director,80.9,220000,7.4,78.3,East Asia,Lower-middle,Yes,77.2,77.5
+TSM-0726,Jian Liu,TSMC,TSM,Engineering,Senior,82.6,151100,7.9,82.2,East Asia,Working class,Yes,98.8,80.8
+TSM-0727,Shu Hung,TSMC,TSM,Sales & GTM,Senior Director,78.2,164200,13.6,72.9,East Asia,Middle,No,50.8,72.6
+TSM-0728,Bo Lee,TSMC,TSM,Operations,Principal,87.8,321100,4.2,67.3,Southeast Asia,Lower-middle,Yes,73.0,77.7
+TSM-0729,Wei Shen,TSMC,TSM,Operations,Senior,81.7,28800,4.5,75.5,East Asia,Working class,Yes,80.0,80.9
+TSM-0730,Jian Liu,TSMC,TSM,Operations,Staff,79.2,121500,13.7,56.2,East Asia,Working class,No,85.7,58.5
+TSM-0731,Ying Fang,TSMC,TSM,Research & AI,Senior Director,84.4,451900,10.2,74.3,East Asia,Upper-middle,No,50.6,61.7
+TSM-0732,Jun Lee,TSMC,TSM,Operations,Staff,78.7,262300,7.2,68.7,East Asia,Middle,Yes,65.3,76.1
+TSM-0733,Qing Chou,TSMC,TSM,Engineering,Senior Director,71.0,456400,17.9,60.0,East Asia,Middle,No,53.4,65.6
+TSM-0734,Yu Chiang,TSMC,TSM,Engineering,Senior Director,99.0,152300,11.0,73.9,East Asia,Lower-middle,Yes,87.1,93.4
+TSM-0735,Yu Chou,TSMC,TSM,Sales & GTM,Senior Director,83.1,576900,17.0,76.0,East Asia,Working class,Yes,100.0,83.6
+TSM-0736,Kai Tsai,TSMC,TSM,Finance,Senior Director,78.6,152900,9.5,70.4,East Asia,Working class,Yes,94.4,80.6
+TSM-0737,Sheng Lu,TSMC,TSM,Engineering,Senior,85.4,157000,5.2,55.6,East Asia,Middle,No,63.5,78.8
+TSM-0738,Wen Hsieh,TSMC,TSM,Supply Chain,Senior,70.8,55800,14.2,60.7,East Asia,Lower-middle,Yes,83.5,68.8
+TSM-0739,Fang Lu,TSMC,TSM,Engineering,Senior,73.5,93300,6.0,50.8,East Asia,Affluent,No,21.3,75.3
+TSM-0740,Chih Wang,TSMC,TSM,Engineering,Staff,73.5,97700,10.3,61.5,East Asia,Lower-middle,No,59.7,72.6
+TSM-0741,Li Cheng,TSMC,TSM,Sales & GTM,Senior Director,81.9,240400,14.1,69.1,East Asia,Upper-middle,No,42.7,55.7
+TSM-0742,Shu Wu,TSMC,TSM,Fab/Manufacturing,Senior,79.4,132800,9.4,48.2,East Asia,Working class,No,76.7,59.5
+TSM-0743,Mei Liu,TSMC,TSM,Research & AI,Staff,72.5,99500,6.7,54.0,East Asia,Middle,No,50.5,74.3
+TSM-0744,Mei Chao,TSMC,TSM,Engineering,Staff,84.5,125400,5.3,68.2,East Asia,Affluent,No,33.2,72.8
+TSM-0745,Zhi Chen,TSMC,TSM,Engineering,VP,90.3,310500,7.3,71.4,East Asia,Working class,Yes,82.6,67.7
+TSM-0746,Yu Huang,TSMC,TSM,Quality,Principal,86.8,289500,6.8,72.3,East Asia,Middle,No,56.4,75.2
+TSM-0747,Shu Tsai,TSMC,TSM,Fab/Manufacturing,Senior,84.6,282600,5.6,64.9,East Asia,Upper-middle,Yes,39.5,79.1
+TSM-0748,Ying Pan,TSMC,TSM,Engineering,Director,94.6,430900,6.8,64.5,North America,Upper-middle,No,41.0,69.8
+TSM-0749,Yi Chen,TSMC,TSM,Research & AI,Staff,84.3,146100,5.2,63.3,East Asia,Working class,Yes,98.5,59.8
+TSM-0750,Fang Hsieh,TSMC,TSM,Fab/Manufacturing,Staff,81.1,97300,13.4,59.3,East Asia,Working class,Yes,89.5,80.0
+TSM-0751,Jia Lin,TSMC,TSM,Fab/Manufacturing,Principal,83.0,169400,12.3,61.2,Europe,Affluent,No,43.5,67.6
+TSM-0752,Hao Cheng,TSMC,TSM,Research & AI,Senior,65.7,132500,16.8,68.3,East Asia,Upper-middle,No,50.5,67.8
+TSM-0753,Hui Lin,TSMC,TSM,Finance,Senior,76.0,55800,7.0,64.4,East Asia,Upper-middle,No,15.5,44.4
+TSM-0754,Li Su,TSMC,TSM,Fab/Manufacturing,Senior,84.9,60400,3.5,69.0,East Asia,Affluent,No,21.6,61.9
+TSM-0755,Wen Chen,TSMC,TSM,Engineering,Senior Director,96.3,343600,9.6,71.2,East Asia,Middle,Yes,55.1,77.8
+TSM-0756,Yu Huang,TSMC,TSM,Engineering,Senior,79.9,129000,4.4,59.9,East Asia,Middle,No,48.3,71.8
+TSM-0757,Qing Liu,TSMC,TSM,Engineering,Principal,90.6,137900,3.4,64.1,East Asia,Lower-middle,Yes,68.3,73.8
+TSM-0758,Shu Liu,TSMC,TSM,Engineering,Senior,69.9,155700,13.9,65.7,East Asia,Middle,No,60.2,79.7
+TSM-0759,Qing Lin,TSMC,TSM,Engineering,Senior,82.7,112100,15.0,62.0,East Asia,Upper-middle,No,44.5,82.8
+TSM-0760,Ying Lin,TSMC,TSM,Engineering,Senior,69.3,106900,8.1,61.9,East Asia,Lower-middle,No,68.2,64.6
+TSM-0761,Yi Chiang,TSMC,TSM,Engineering,Principal,89.8,144600,12.5,64.0,East Asia,Working class,Yes,90.0,93.8
+TSM-0762,Shu Huang,TSMC,TSM,Operations,Senior,77.3,72700,8.3,69.8,East Asia,Affluent,No,19.1,72.5
+TSM-0763,Ying Chen,TSMC,TSM,Engineering,Senior,66.9,88800,7.0,59.6,North America,Middle,No,57.7,71.6
+TSM-0764,Wen Chen,TSMC,TSM,Research & AI,Staff,74.1,160200,20.5,77.7,East Asia,Affluent,No,14.9,78.2
+TSM-0765,Sheng Tsai,TSMC,TSM,Engineering,Staff,85.1,94400,14.1,66.1,East Asia,Upper-middle,No,26.4,74.9
+TSM-0766,Ting Tseng,TSMC,TSM,Operations,Staff,79.6,290800,7.0,60.9,East Asia,Upper-middle,No,44.5,56.1
+TSM-0767,Bo Liao,TSMC,TSM,Sales & GTM,Staff,78.9,373600,16.1,70.9,East Asia,Upper-middle,Yes,45.1,88.7
+TSM-0768,Zhi Fang,TSMC,TSM,Operations,VP,86.6,211600,21.5,73.7,East Asia,Middle,Yes,60.0,73.4
+TSM-0769,Fang Wu,TSMC,TSM,Engineering,Senior,92.7,247500,5.2,65.7,East Asia,Lower-middle,No,70.7,84.7
+TSM-0770,Wen Chiang,TSMC,TSM,Research & AI,Director,74.8,281600,11.6,70.1,East Asia,Lower-middle,No,64.0,72.1
+TSM-0771,Wei Liu,TSMC,TSM,Fab/Manufacturing,Principal,73.7,197400,9.1,65.3,East Asia,Upper-middle,No,29.0,63.0
+TSM-0772,Chih Kuo,TSMC,TSM,Research & AI,Senior,74.4,151400,17.6,55.8,East Asia,Upper-middle,No,44.5,67.3
+TSM-0773,Kai Chang,TSMC,TSM,Engineering,Staff,83.8,489500,6.5,70.9,East Asia,Affluent,No,16.4,52.3
+TSM-0774,Yu Chen,TSMC,TSM,Engineering,Director,82.4,129200,3.7,78.6,East Asia,Upper-middle,No,27.5,78.3
+TSM-0775,Hui Liu,TSMC,TSM,Supply Chain,Senior,74.8,49900,3.1,68.7,East Asia,Middle,No,43.5,70.8
+TSM-0776,Cheng Hsieh,TSMC,TSM,Engineering,Senior,79.1,87800,13.4,56.5,East Asia,Lower-middle,No,58.7,75.1
+TSM-0777,Hao Tsai,TSMC,TSM,Engineering,Staff,83.3,159100,10.6,68.4,East Asia,Middle,Yes,49.8,64.2
+TSM-0778,Han Lin,TSMC,TSM,Engineering,Senior,70.2,59400,12.1,56.3,East Asia,Upper-middle,No,35.7,44.8
+TSM-0779,Ling Shen,TSMC,TSM,Quality,Principal,87.4,83600,8.1,81.3,East Asia,Upper-middle,Yes,44.0,60.4
+TSM-0780,Shu Tseng,TSMC,TSM,Operations,Senior,79.5,209800,10.1,56.4,East Asia,Lower-middle,No,55.5,79.3
+TSM-0781,Jian Tseng,TSMC,TSM,Fab/Manufacturing,Staff,89.8,116500,11.6,67.9,East Asia,Upper-middle,No,36.6,64.4
+TSM-0782,Zhi Tsai,TSMC,TSM,Engineering,Principal,85.5,186500,13.6,62.9,North America,Middle,Yes,61.6,64.6
+TSM-0783,Chun Wang,TSMC,TSM,Sales & GTM,Principal,70.6,86200,10.5,64.4,East Asia,Lower-middle,Yes,78.3,79.7
+TSM-0784,Qing Lu,TSMC,TSM,Sales & GTM,Principal,78.2,188400,13.8,66.6,East Asia,Working class,No,83.5,77.9
+TSM-0785,Po Chang,TSMC,TSM,Fab/Manufacturing,Staff,79.8,95900,6.9,68.1,East Asia,Affluent,No,37.0,60.7
+TSM-0786,Qing Yang,TSMC,TSM,Engineering,Senior,73.4,96800,9.9,70.5,East Asia,Upper-middle,No,24.3,60.9
+TSM-0787,Jian Tsai,TSMC,TSM,People/HR,Principal,94.9,174400,9.8,60.9,East Asia,Affluent,No,24.0,53.2
+TSM-0788,Kai Chou,TSMC,TSM,Sales & GTM,Principal,76.9,177500,10.4,53.3,East Asia,Affluent,No,15.7,79.6
+TSM-0789,Yu Pan,TSMC,TSM,Quality,Staff,93.0,237200,12.1,63.8,East Asia,Working class,Yes,84.8,78.0
+TSM-0790,Jun Liu,TSMC,TSM,Research & AI,Staff,88.7,124600,8.2,66.0,East Asia,Lower-middle,Yes,60.7,64.3
+TSM-0791,Jian Tsai,TSMC,TSM,Quality,Director,80.4,405500,14.9,71.0,East Asia,Middle,No,52.3,77.5
+TSM-0792,Ming Cheng,TSMC,TSM,Engineering,Director,77.6,104700,6.8,77.2,East Asia,Working class,Yes,100.0,78.7
+TSM-0793,Yu Shen,TSMC,TSM,Engineering,Director,79.6,152600,29.1,72.6,East Asia,Lower-middle,Yes,73.1,76.1
+TSM-0794,Mei Kuo,TSMC,TSM,Sales & GTM,Senior Director,92.4,234200,13.4,72.0,North America,Affluent,No,32.5,73.7
+TSM-0795,Jia Kuo,TSMC,TSM,Fab/Manufacturing,VP,80.5,375300,18.1,70.4,East Asia,Upper-middle,No,35.0,62.7
+TSM-0796,Qing Liu,TSMC,TSM,Engineering,Senior,69.3,67400,7.2,68.6,East Asia,Affluent,No,18.8,64.8
+TSM-0797,Ling Hsieh,TSMC,TSM,Quality,Senior,86.7,96200,3.9,72.3,East Asia,Middle,Yes,62.1,71.0
+TSM-0798,Wei Yeh,TSMC,TSM,Fab/Manufacturing,VP,97.6,562200,14.8,69.8,East Asia,Lower-middle,No,75.8,76.6
+TSM-0799,Chih Lee,TSMC,TSM,Sales & GTM,Senior,77.1,152200,12.4,59.0,East Asia,Lower-middle,No,60.0,72.6
+TSM-0800,Zhi Lee,TSMC,TSM,Fab/Manufacturing,Senior,84.9,62000,6.0,74.2,East Asia,Middle,No,49.5,78.5
+TSM-0801,Bo Huang,TSMC,TSM,Fab/Manufacturing,Staff,81.1,178600,10.0,75.5,East Asia,Upper-middle,No,32.1,79.7
+TSM-0802,Chun Tseng,TSMC,TSM,Research & AI,Staff,89.5,159100,6.4,71.1,East Asia,Middle,Yes,56.0,68.4
+TSM-0803,Ting Tsai,TSMC,TSM,Fab/Manufacturing,Director,67.5,421200,5.0,67.9,East Asia,Upper-middle,No,31.2,69.4
+TSM-0804,Po Fang,TSMC,TSM,Fab/Manufacturing,Senior Director,67.2,266700,8.5,68.9,East Asia,Lower-middle,No,62.7,63.7
+TSM-0805,Han Hsu,TSMC,TSM,Engineering,Director,76.2,125700,11.5,75.5,East Asia,Upper-middle,No,42.6,66.1
+TSM-0806,Han Pan,TSMC,TSM,Engineering,Principal,83.5,405400,13.0,67.3,East Asia,Middle,Yes,77.8,64.6
+TSM-0807,Han Chang,TSMC,TSM,Engineering,Staff,84.6,251300,5.7,75.9,East Asia,Upper-middle,Yes,42.4,77.8
+TSM-0808,Cheng Huang,TSMC,TSM,Engineering,Senior,69.2,73200,9.1,76.7,East Asia,Lower-middle,Yes,72.3,72.4
+TSM-0809,Po Chen,TSMC,TSM,Engineering,Principal,82.3,152000,7.6,77.8,East Asia,Lower-middle,No,72.2,72.8
+TSM-0810,Chih Liao,TSMC,TSM,Quality,Director,75.7,265700,18.2,70.2,East Asia,Lower-middle,Yes,85.6,85.6
+TSM-0811,Wei Lu,TSMC,TSM,Engineering,Principal,78.1,117100,14.6,85.2,East Asia,Lower-middle,Yes,68.3,77.5
+TSM-0812,Ming Su,TSMC,TSM,Engineering,Staff,80.6,177500,6.9,77.8,East Asia,Middle,No,58.6,57.0
+TSM-0813,Yu Liu,TSMC,TSM,Research & AI,Senior,75.4,71000,5.1,60.3,East Asia,Middle,Yes,54.9,63.0
+TSM-0814,Jun Wu,TSMC,TSM,Fab/Manufacturing,Staff,75.4,130500,4.2,60.0,East Asia,Working class,Yes,92.0,86.9
+TSM-0815,Sheng Cheng,TSMC,TSM,Quality,Staff,68.3,174600,5.6,66.3,East Asia,Upper-middle,No,26.1,68.0
+TSM-0816,Shu Pan,TSMC,TSM,Operations,VP,75.9,282600,21.3,81.4,East Asia,Working class,Yes,86.7,71.7
+TSM-0817,Cheng Chiang,TSMC,TSM,Operations,Senior,83.3,246100,10.6,72.0,East Asia,Lower-middle,No,66.9,57.3
+TSM-0818,Li Hung,TSMC,TSM,Sales & GTM,Staff,80.2,132200,8.0,78.0,East Asia,Affluent,No,27.5,73.1
+TSM-0819,Bo Liu,TSMC,TSM,Finance,Staff,83.3,132500,15.1,57.1,East Asia,Upper-middle,No,33.4,60.2
+TSM-0820,Ling Chang,TSMC,TSM,Engineering,Senior,77.2,76500,3.0,60.2,East Asia,Working class,Yes,100.0,86.9
+TSM-0821,Hao Chou,TSMC,TSM,People/HR,Senior,78.3,113200,3.0,65.1,East Asia,Lower-middle,No,54.5,75.3
+TSM-0822,Shu Lee,TSMC,TSM,Engineering,Senior Director,85.3,416400,7.5,64.7,East Asia,Middle,No,54.0,63.4
+TSM-0823,Cheng Hsu,TSMC,TSM,Engineering,Senior,77.1,118800,6.7,53.7,East Asia,Working class,Yes,99.7,68.8
+TSM-0824,Bo Lu,TSMC,TSM,Legal & Policy,Senior Director,74.9,507100,13.2,69.7,East Asia,Lower-middle,Yes,79.0,58.4
+TSM-0825,Ling Hung,TSMC,TSM,Engineering,Staff,73.8,156400,7.9,58.9,East Asia,Affluent,No,34.4,57.5
+TSM-0826,Mei Huang,TSMC,TSM,Operations,Staff,82.2,146300,7.4,70.6,East Asia,Middle,Yes,63.4,84.8
+TSM-0827,Jia Lu,TSMC,TSM,Operations,Senior Director,77.1,352900,14.6,65.9,East Asia,Upper-middle,No,35.5,61.9
+TSM-0828,Ying Huang,TSMC,TSM,Engineering,Staff,75.6,115200,9.8,80.5,East Asia,Working class,Yes,80.5,82.1
+TSM-0829,Jian Yang,TSMC,TSM,Engineering,Director,72.7,668700,13.1,64.8,East Asia,Middle,No,54.9,84.0
+TSM-0830,Wei Cheng,TSMC,TSM,Fab/Manufacturing,Senior Director,79.9,225300,8.9,71.4,East Asia,Affluent,No,32.3,56.6
+TSM-0831,Jian Kuo,TSMC,TSM,Fab/Manufacturing,Director,76.1,183600,9.4,75.8,East Asia,Upper-middle,No,38.9,58.9
+TSM-0832,Chun Huang,TSMC,TSM,Engineering,VP,85.6,882700,20.1,74.1,East Asia,Affluent,No,18.0,78.2
+TSM-0833,Wei Tsai,TSMC,TSM,Research & AI,Staff,64.7,76500,7.6,64.7,East Asia,Working class,Yes,94.0,69.4
+TSM-0834,Han Chou,TSMC,TSM,Engineering,Senior,68.2,138700,8.9,56.2,East Asia,Lower-middle,Yes,58.8,50.2
+TSM-0835,Bo Lin,TSMC,TSM,Engineering,Principal,80.4,325600,7.6,71.1,East Asia,Middle,Yes,51.1,66.3
+TSM-0836,Mei Kuo,TSMC,TSM,Quality,Principal,75.4,154000,10.2,64.4,East Asia,Lower-middle,Yes,70.1,79.4
+TSM-0837,Jun Chiang,TSMC,TSM,Research & AI,Senior,61.8,105500,11.4,51.3,East Asia,Middle,Yes,61.6,65.5
+TSM-0838,Ying Chang,TSMC,TSM,Fab/Manufacturing,Senior,76.7,255400,16.5,55.1,East Asia,Working class,Yes,94.2,72.8
+TSM-0839,Jia Yang,TSMC,TSM,Engineering,Senior Director,98.4,354800,10.3,68.3,East Asia,Lower-middle,No,67.8,64.8
+TSM-0840,Ting Hsieh,TSMC,TSM,Fab/Manufacturing,Staff,78.0,70600,2.4,58.3,East Asia,Working class,Yes,90.2,81.1
+TSM-0841,Han Lin,TSMC,TSM,Research & AI,Staff,70.6,76600,10.5,60.7,South Asia,Working class,Yes,96.7,76.8
+TSM-0842,Li Huang,TSMC,TSM,Engineering,Director,83.0,237900,22.2,61.9,East Asia,Working class,Yes,93.2,72.4
+TSM-0843,Qing Kuo,TSMC,TSM,Legal & Policy,Principal,67.9,284400,6.6,62.8,East Asia,Middle,No,51.2,60.2
+TSM-0844,Xin Chou,TSMC,TSM,Fab/Manufacturing,Senior,78.6,180800,11.3,69.0,East Asia,Middle,Yes,70.0,88.0
+TSM-0845,Sheng Yang,TSMC,TSM,Sales & GTM,Senior,71.1,100100,8.7,61.6,East Asia,Middle,Yes,64.2,76.7
+TSM-0846,Qing Lee,TSMC,TSM,Fab/Manufacturing,Senior,88.4,157100,2.7,61.6,East Asia,Middle,No,44.9,78.0
+TSM-0847,Bo Shen,TSMC,TSM,Quality,VP,87.8,196500,16.0,59.6,East Asia,Lower-middle,No,61.5,74.9
+TSM-0848,Cheng Liao,TSMC,TSM,Operations,SVP,82.0,643400,14.9,63.3,North America,Lower-middle,No,63.3,58.2
+TSM-0849,Wen Kuo,TSMC,TSM,Engineering,Senior,94.3,134700,9.3,67.0,East Asia,Middle,Yes,62.0,78.9
+TSM-0850,Wei Hsu,TSMC,TSM,Research & AI,VP,96.5,322400,7.8,82.9,East Asia,Lower-middle,Yes,63.0,73.2
+TSM-0851,Qing Hung,TSMC,TSM,Research & AI,Staff,82.4,98700,13.0,63.9,East Asia,Lower-middle,No,70.0,73.3
+TSM-0852,Hui Tseng,TSMC,TSM,Operations,Senior Director,80.8,176100,5.8,63.9,North America,Middle,Yes,66.6,84.1
+TSM-0853,Wen Tseng,TSMC,TSM,Supply Chain,Senior Director,85.2,206900,12.5,67.3,North America,Middle,No,52.5,65.9
+TSM-0854,Qing Chen,TSMC,TSM,Operations,VP,84.7,684600,12.7,60.2,East Asia,Working class,Yes,95.1,82.2
+TSM-0855,Cheng Hsu,TSMC,TSM,Operations,Principal,69.7,234200,19.9,61.0,East Asia,Middle,No,68.9,56.5
+TSM-0856,Li Tsai,TSMC,TSM,Supply Chain,Senior Director,84.0,295300,16.3,67.6,East Asia,Lower-middle,No,66.6,70.7
+TSM-0857,Kai Tseng,TSMC,TSM,Operations,Principal,76.1,261700,10.0,66.1,East Asia,Lower-middle,No,68.9,78.1
+TSM-0858,Yu Hung,TSMC,TSM,Operations,Principal,75.9,161200,7.5,71.8,East Asia,Upper-middle,No,35.6,56.3
+TSM-0859,Xin Kuo,TSMC,TSM,Fab/Manufacturing,Staff,85.8,481900,3.4,61.4,East Asia,Middle,Yes,65.8,78.4
+TSM-0860,Wen Yang,TSMC,TSM,Sales & GTM,VP,87.0,1096400,6.4,76.7,East Asia,Upper-middle,No,32.6,70.9
+TSM-0861,Hao Liao,TSMC,TSM,Fab/Manufacturing,Staff,80.1,172100,8.6,56.8,East Asia,Affluent,No,28.3,56.2
+TSM-0862,Wei Lee,TSMC,TSM,Quality,Principal,83.5,328600,10.0,72.0,East Asia,Lower-middle,Yes,73.7,90.3
+TSM-0863,Wen Pan,TSMC,TSM,Fab/Manufacturing,Director,80.9,157600,5.8,76.3,East Asia,Middle,No,47.2,71.0
+TSM-0864,Wei Tseng,TSMC,TSM,Legal & Policy,Staff,68.1,261900,10.7,57.9,East Asia,Lower-middle,Yes,70.4,63.7
+TSM-0865,Mei Yang,TSMC,TSM,Fab/Manufacturing,Staff,82.0,205500,7.1,60.5,East Asia,Lower-middle,No,72.5,69.4
+TSM-0866,Xin Liao,TSMC,TSM,Engineering,Staff,83.5,272600,16.3,70.7,East Asia,Middle,No,53.4,68.4
+TSM-0867,Fang Fang,TSMC,TSM,Finance,Senior Director,87.9,139000,12.4,58.5,East Asia,Upper-middle,No,41.9,56.7
+TSM-0868,Chun Chen,TSMC,TSM,Engineering,Senior,78.7,207200,14.5,55.6,East Asia,Lower-middle,Yes,77.8,77.5
+TSM-0869,Ying Cheng,TSMC,TSM,Operations,Senior,95.1,132700,4.0,69.6,East Asia,Upper-middle,Yes,31.8,51.6
+TSM-0870,Cheng Tsai,TSMC,TSM,Legal & Policy,SVP,82.3,388500,11.8,71.1,East Asia,Lower-middle,Yes,63.6,77.0
+TSM-0871,Li Wu,TSMC,TSM,Fab/Manufacturing,Director,84.2,101300,10.3,84.3,North America,Middle,No,56.9,80.1
+TSM-0872,Chih Liao,TSMC,TSM,Fab/Manufacturing,C-Suite,84.0,659700,13.7,79.1,Europe,Lower-middle,Yes,79.4,77.8
+TSM-0873,Jia Chao,TSMC,TSM,Finance,Senior,77.2,123700,13.9,76.3,Southeast Asia,Lower-middle,No,81.5,85.3
+TSM-0874,Shu Kuo,TSMC,TSM,Legal & Policy,Staff,82.8,233200,8.8,55.8,East Asia,Lower-middle,Yes,68.9,73.5
+TSM-0875,Chun Hsu,TSMC,TSM,Finance,Principal,75.2,117500,12.5,65.1,East Asia,Working class,Yes,83.6,65.6
+TSM-0876,Zhi Kuo,TSMC,TSM,Engineering,Senior,89.6,104500,12.5,81.0,East Asia,Working class,Yes,100.0,76.9
+TSM-0877,Mei Su,TSMC,TSM,Fab/Manufacturing,Senior,85.3,286900,6.6,62.6,Southeast Asia,Middle,No,66.3,84.5
+TSM-0878,Hao Lu,TSMC,TSM,Operations,Senior,66.9,150300,5.9,55.4,East Asia,Middle,Yes,46.8,65.4
+TSM-0879,Kai Liao,TSMC,TSM,Engineering,Staff,70.7,107600,10.8,61.5,East Asia,Lower-middle,No,70.9,73.3
+TSM-0880,Qing Chiang,TSMC,TSM,Engineering,Principal,82.7,356800,17.9,64.9,North America,Upper-middle,No,46.0,67.5
+TSM-0881,Ying Chang,TSMC,TSM,Sales & GTM,Principal,90.4,282000,12.8,65.6,East Asia,Middle,No,41.7,69.1
+TSM-0882,Ting Lee,TSMC,TSM,Operations,Senior,78.9,195600,9.8,61.0,East Asia,Affluent,No,21.1,69.0
+TSM-0883,Ting Yang,TSMC,TSM,Fab/Manufacturing,Staff,79.0,158700,7.0,72.7,East Asia,Lower-middle,Yes,86.5,79.9
+TSM-0884,Sheng Hung,TSMC,TSM,Fab/Manufacturing,Senior,82.8,101900,4.6,53.2,East Asia,Upper-middle,No,36.7,76.5
+TSM-0885,Wei Wu,TSMC,TSM,Supply Chain,Director,82.1,241500,9.5,55.5,East Asia,Middle,No,49.8,61.5
+TSM-0886,Qing Shen,TSMC,TSM,Fab/Manufacturing,Principal,79.4,188300,14.8,66.7,East Asia,Affluent,No,20.0,72.9
+TSM-0887,Hui Yeh,TSMC,TSM,Sales & GTM,Principal,77.8,174200,11.1,80.0,East Asia,Lower-middle,No,72.9,80.4
+TSM-0888,Mei Hsieh,TSMC,TSM,Fab/Manufacturing,Senior Director,71.3,162300,10.8,73.1,East Asia,Middle,No,58.9,58.1
+TSM-0889,Po Liu,TSMC,TSM,Supply Chain,Senior,65.7,182200,15.1,52.1,East Asia,Upper-middle,No,36.6,78.2
+TSM-0890,Sheng Chen,TSMC,TSM,Engineering,Principal,93.8,168700,3.4,63.5,East Asia,Lower-middle,Yes,84.9,61.3
+TSM-0891,Yu Tsai,TSMC,TSM,Fab/Manufacturing,Senior,71.9,99300,8.7,68.1,East Asia,Working class,Yes,90.5,72.6
+TSM-0892,Po Huang,TSMC,TSM,Engineering,Staff,90.2,212300,13.2,58.1,East Asia,Affluent,No,27.3,81.3
+TSM-0893,Sheng Lin,TSMC,TSM,Research & AI,Director,72.7,478400,22.0,75.4,East Asia,Upper-middle,No,38.3,79.7
+TSM-0894,Yi Su,TSMC,TSM,Operations,Staff,81.5,228100,2.4,71.3,East Asia,Affluent,No,24.8,72.9
+TSM-0895,Hui Chen,TSMC,TSM,Operations,Director,87.3,203900,9.0,60.6,East Asia,Upper-middle,No,33.2,48.7
+TSM-0896,Wei Fang,TSMC,TSM,Quality,Director,79.7,341300,12.4,63.6,East Asia,Working class,Yes,95.0,81.6
+TSM-0897,Yi Wu,TSMC,TSM,Engineering,Staff,81.7,416200,3.3,66.5,East Asia,Upper-middle,No,37.6,64.1
+TSM-0898,Ming Pan,TSMC,TSM,Engineering,Director,86.2,421500,12.1,56.0,East Asia,Lower-middle,Yes,71.1,67.0
+TSM-0899,Wen Su,TSMC,TSM,Quality,Senior,65.8,199100,7.7,56.9,East Asia,Upper-middle,No,40.9,49.8
+TSM-0900,Ting Shen,TSMC,TSM,Fab/Manufacturing,SVP,89.1,650500,22.8,75.3,East Asia,Lower-middle,Yes,58.7,69.4
+TSM-0901,Hao Tsai,TSMC,TSM,Fab/Manufacturing,Senior,82.4,98200,6.3,58.7,East Asia,Working class,No,83.9,78.7
+TSM-0902,Hao Su,TSMC,TSM,Sales & GTM,VP,74.1,431500,13.6,70.8,East Asia,Middle,No,59.7,90.6
+TSM-0903,Jian Wang,TSMC,TSM,Engineering,Director,79.3,496500,13.0,70.9,Africa,Lower-middle,Yes,77.4,81.1
+TSM-0904,Fang Hung,TSMC,TSM,Engineering,Director,69.6,244900,15.5,64.5,East Asia,Lower-middle,No,67.0,72.0
+TSM-0905,Hui Chou,TSMC,TSM,Engineering,Staff,75.9,85500,4.1,61.9,East Asia,Middle,No,64.4,69.9
+TSM-0906,Shu Tseng,TSMC,TSM,Engineering,Staff,70.9,145600,12.8,70.6,East Asia,Working class,Yes,94.5,59.6
+TSM-0907,Fang Yeh,TSMC,TSM,Fab/Manufacturing,Staff,69.5,292100,6.6,58.8,East Asia,Middle,No,39.9,53.2
+TSM-0908,Xin Shen,TSMC,TSM,Engineering,SVP,99.3,654500,9.9,66.1,East Asia,Lower-middle,Yes,62.9,70.2
+TSM-0909,Yi Chiang,TSMC,TSM,Fab/Manufacturing,C-Suite,87.8,895000,15.5,69.6,East Asia,Upper-middle,No,34.8,65.2
+TSM-0910,Ling Tsai,TSMC,TSM,Engineering,Staff,67.0,162100,14.3,54.6,East Asia,Affluent,No,26.4,57.8
+TSM-0911,Po Tsai,TSMC,TSM,Supply Chain,Staff,79.1,259000,14.5,78.4,East Asia,Middle,No,64.8,68.2
+TSM-0912,Wei Lee,TSMC,TSM,Engineering,Senior Director,90.2,667200,8.5,80.6,East Asia,Lower-middle,No,75.5,83.0
+TSM-0913,Chih Lin,TSMC,TSM,Fab/Manufacturing,Director,86.9,312900,13.3,60.2,East Asia,Middle,No,49.3,69.5
+TSM-0914,Sheng Wang,TSMC,TSM,Fab/Manufacturing,Senior,79.0,102600,5.8,63.2,East Asia,Lower-middle,No,68.9,73.5
+TSM-0915,Yu Shen,TSMC,TSM,Operations,Principal,91.3,397300,3.2,71.5,East Asia,Lower-middle,Yes,84.6,83.9
+TSM-0916,Ying Hsu,TSMC,TSM,Research & AI,Principal,79.5,221500,14.7,69.8,East Asia,Upper-middle,No,42.3,72.9
+TSM-0917,Jian Chang,TSMC,TSM,Operations,Senior Director,76.5,195200,18.6,63.7,East Asia,Working class,No,73.1,70.9
+TSM-0918,Wen Hsu,TSMC,TSM,Engineering,Senior,97.1,172300,11.0,59.3,East Asia,Middle,Yes,54.9,63.7
+TSM-0919,Sheng Chou,TSMC,TSM,Fab/Manufacturing,Staff,83.4,195500,4.6,71.4,East Asia,Lower-middle,Yes,80.8,75.6
+TSM-0920,Li Tsai,TSMC,TSM,Engineering,Staff,88.6,130500,3.8,68.7,East Asia,Upper-middle,No,35.4,73.7
+TSM-0921,Chih Lee,TSMC,TSM,Fab/Manufacturing,Principal,77.7,183700,8.6,73.9,East Asia,Lower-middle,Yes,61.4,78.0
+TSM-0922,Yi Tsai,TSMC,TSM,Fab/Manufacturing,Principal,76.9,211300,8.8,66.7,East Asia,Upper-middle,No,40.3,71.1
+TSM-0923,Jian Hsu,TSMC,TSM,Engineering,Staff,89.9,175700,8.3,68.6,East Asia,Affluent,No,24.3,54.9
+TSM-0924,Ming Cheng,TSMC,TSM,Quality,Senior,84.0,108900,5.6,67.7,East Asia,Lower-middle,Yes,57.7,78.0
+TSM-0925,Jia Liu,TSMC,TSM,Fab/Manufacturing,Principal,78.5,266700,10.4,66.9,East Asia,Middle,No,53.4,74.2
+TSM-0926,Jia Cheng,TSMC,TSM,Engineering,Director,80.0,239700,19.3,70.9,East Asia,Middle,Yes,68.6,74.5
+TSM-0927,Wei Chiang,TSMC,TSM,Fab/Manufacturing,Senior,88.1,134700,7.5,62.6,East Asia,Middle,No,49.0,72.4
+TSM-0928,Zhi Chiang,TSMC,TSM,Engineering,Staff,86.2,81000,7.6,73.6,East Asia,Middle,Yes,61.6,70.7
+TSM-0929,Sheng Huang,TSMC,TSM,Sales & GTM,Director,71.7,258000,5.1,77.7,East Asia,Working class,No,91.0,72.5
+TSM-0930,Fang Cheng,TSMC,TSM,Engineering,VP,100.0,421700,22.2,77.4,North America,Middle,No,55.8,62.7
+TSM-0931,Cheng Huang,TSMC,TSM,Operations,Staff,70.7,160100,10.3,65.3,East Asia,Working class,Yes,82.3,58.6
+TSM-0932,Qing Yeh,TSMC,TSM,Research & AI,Staff,79.9,214400,9.1,60.0,East Asia,Lower-middle,Yes,60.2,66.1
+TSM-0933,Sheng Chao,TSMC,TSM,Finance,Director,94.8,179000,11.6,73.9,East Asia,Middle,No,52.3,71.2
+TSM-0934,Yi Lu,TSMC,TSM,Finance,Senior,85.4,169200,7.7,63.8,East Asia,Working class,Yes,92.5,80.7
+TSM-0935,Zhi Lin,TSMC,TSM,Engineering,VP,89.2,667500,17.1,65.8,East Asia,Upper-middle,No,29.9,72.6
+TSM-0936,Wei Lu,TSMC,TSM,Supply Chain,Senior,74.6,107800,8.0,62.3,East Asia,Working class,Yes,96.6,62.6
+TSM-0937,Chih Kuo,TSMC,TSM,Engineering,Senior,71.9,158300,16.9,44.8,East Asia,Working class,Yes,91.1,71.1
+TSM-0938,Sheng Chen,TSMC,TSM,Fab/Manufacturing,Staff,95.9,221000,21.3,63.5,East Asia,Upper-middle,Yes,50.7,81.6
+TSM-0939,Qing Wu,TSMC,TSM,Operations,Principal,88.7,218100,4.6,69.9,East Asia,Working class,Yes,99.4,75.2
+TSM-0940,Hao Chiang,TSMC,TSM,Research & AI,Director,73.3,261800,5.3,74.5,South Asia,Lower-middle,Yes,86.1,89.7
+TSM-0941,Ting Liu,TSMC,TSM,Sales & GTM,Principal,91.0,137600,12.9,70.9,East Asia,Upper-middle,No,35.7,71.3
+TSM-0942,Bo Chiang,TSMC,TSM,Engineering,Director,83.9,187800,13.6,66.4,East Asia,Lower-middle,Yes,83.6,75.0
+TSM-0943,Yi Yang,TSMC,TSM,Sales & GTM,Director,88.6,685800,16.5,66.3,East Asia,Middle,No,50.5,82.3
+TSM-0944,Wen Chang,TSMC,TSM,Fab/Manufacturing,VP,80.7,414000,30.1,67.2,East Asia,Upper-middle,Yes,55.3,75.8
+TSM-0945,Ming Hsu,TSMC,TSM,Engineering,Principal,83.4,153500,11.1,63.0,East Asia,Working class,Yes,89.0,78.9
+TSM-0946,Chun Lin,TSMC,TSM,Operations,Staff,79.5,235700,16.7,48.1,East Asia,Upper-middle,No,39.2,74.2
+TSM-0947,Kai Kuo,TSMC,TSM,Fab/Manufacturing,Principal,75.6,136700,8.6,71.9,East Asia,Middle,Yes,68.0,85.2
+TSM-0948,Chih Yang,TSMC,TSM,Fab/Manufacturing,Senior Director,79.3,243000,11.9,68.5,East Asia,Lower-middle,Yes,96.2,75.0
+TSM-0949,Chun Chiang,TSMC,TSM,Supply Chain,Director,85.8,250200,15.4,53.7,East Asia,Upper-middle,No,36.1,65.5
+TSM-0950,Po Cheng,TSMC,TSM,Engineering,Principal,70.0,525900,23.2,65.4,East Asia,Middle,Yes,45.5,63.7
+TSM-0951,Han Pan,TSMC,TSM,Operations,Senior,78.4,188500,14.1,56.8,East Asia,Middle,No,58.2,74.5
+TSM-0952,Ting Su,TSMC,TSM,Quality,Staff,83.6,119000,5.9,62.1,East Asia,Working class,Yes,90.5,83.7
+TSM-0953,Chun Lee,TSMC,TSM,Supply Chain,Senior,77.7,159000,7.9,64.5,East Asia,Working class,Yes,87.1,76.0
+TSM-0954,Xin Liao,TSMC,TSM,Research & AI,Senior,81.3,266900,8.4,56.5,East Asia,Lower-middle,Yes,71.5,88.2
+TSM-0955,Jian Chou,TSMC,TSM,Fab/Manufacturing,Senior,70.9,60600,2.4,76.6,East Asia,Working class,No,91.8,95.9
+TSM-0956,Xin Lee,TSMC,TSM,Fab/Manufacturing,Principal,75.2,274300,19.5,61.6,East Asia,Middle,No,52.5,58.1
+TSM-0957,Yu Hsu,TSMC,TSM,Engineering,Senior,76.6,84200,9.7,55.3,South Asia,Upper-middle,No,35.0,88.3
+TSM-0958,Kai Hung,TSMC,TSM,Quality,Director,92.6,277300,8.6,69.2,East Asia,Working class,Yes,96.0,87.5
+TSM-0959,Shu Tsai,TSMC,TSM,Operations,Senior,83.6,235100,15.4,56.4,East Asia,Upper-middle,No,38.8,91.6
+TSM-0960,Hui Tsai,TSMC,TSM,Sales & GTM,Senior Director,80.4,549800,9.7,70.6,East Asia,Upper-middle,Yes,34.8,62.1
+TSM-0961,Sheng Yang,TSMC,TSM,Fab/Manufacturing,SVP,73.1,536700,25.1,66.1,East Asia,Middle,No,46.4,87.7
+TSM-0962,Ying Wu,TSMC,TSM,Engineering,Principal,87.1,436600,7.9,75.1,East Asia,Upper-middle,Yes,45.0,66.7
+TSM-0963,Chun Liao,TSMC,TSM,Quality,Senior,77.2,45000,6.8,67.2,East Asia,Working class,Yes,87.3,83.2
+TSM-0964,Chun Hsieh,TSMC,TSM,Fab/Manufacturing,Senior,83.3,73100,4.8,80.7,East Asia,Working class,Yes,95.8,89.8
+TSM-0965,Bo Su,TSMC,TSM,Engineering,Staff,85.8,123000,23.0,60.9,East Asia,Lower-middle,Yes,74.4,87.7
+TSM-0966,Xin Yang,TSMC,TSM,People/HR,Principal,81.0,266500,10.3,81.0,North America,Middle,Yes,51.4,69.6
+TSM-0967,Chih Chiang,TSMC,TSM,Engineering,Director,99.6,632100,13.9,59.8,East Asia,Lower-middle,Yes,76.0,94.5
+TSM-0968,Jian Chou,TSMC,TSM,Fab/Manufacturing,Senior,75.8,146900,5.2,62.9,East Asia,Working class,Yes,91.9,46.9
+TSM-0969,Li Fang,TSMC,TSM,Sales & GTM,Senior Director,89.4,128000,25.4,78.0,East Asia,Upper-middle,No,49.4,75.2
+TSM-0970,Cheng Tseng,TSMC,TSM,People/HR,Principal,81.3,156000,7.7,64.8,East Asia,Middle,Yes,60.4,68.1
+TSM-0971,Jia Yang,TSMC,TSM,Quality,Senior,69.2,75200,6.6,77.2,East Asia,Working class,Yes,78.1,68.2
+TSM-0972,Wen Liu,TSMC,TSM,Engineering,Staff,75.8,185300,5.6,67.9,East Asia,Upper-middle,No,33.1,60.3
+TSM-0973,Han Hsu,TSMC,TSM,Quality,Director,95.5,275900,9.6,60.5,East Asia,Working class,Yes,97.9,70.4
+TSM-0974,Wen Su,TSMC,TSM,Engineering,Director,77.3,180500,12.7,67.2,East Asia,Working class,Yes,100.0,71.3
+TSM-0975,Han Lee,TSMC,TSM,Operations,Director,85.0,123700,16.9,65.6,North America,Lower-middle,Yes,75.5,72.2
+TSM-0976,Chih Wu,TSMC,TSM,Fab/Manufacturing,Senior Director,87.3,381500,6.3,72.2,East Asia,Lower-middle,Yes,61.9,75.8
+TSM-0977,Kai Wu,TSMC,TSM,Fab/Manufacturing,Staff,75.8,113300,4.9,72.6,East Asia,Working class,Yes,94.6,75.7
+TSM-0978,Ting Lu,TSMC,TSM,Engineering,Principal,88.2,310400,9.8,59.6,East Asia,Upper-middle,No,37.8,68.5
+TSM-0979,Wei Su,TSMC,TSM,Sales & GTM,Director,80.0,438300,14.2,83.6,East Asia,Lower-middle,Yes,73.6,92.1
+TSM-0980,Yu Chiang,TSMC,TSM,Legal & Policy,Staff,80.7,163600,3.8,67.3,East Asia,Lower-middle,Yes,58.6,60.7
+TSM-0981,Cheng Cheng,TSMC,TSM,Sales & GTM,VP,97.4,974800,9.6,82.1,East Asia,Lower-middle,Yes,72.7,50.1
+TSM-0982,Qing Chou,TSMC,TSM,Sales & GTM,Staff,86.2,126500,13.7,55.4,East Asia,Upper-middle,No,28.5,67.9
+TSM-0983,Cheng Tseng,TSMC,TSM,Engineering,Staff,84.4,118400,3.7,55.9,East Asia,Lower-middle,No,57.9,54.6
+TSM-0984,Chih Cheng,TSMC,TSM,Engineering,Senior,79.8,237600,13.9,62.9,Southeast Asia,Middle,No,46.2,52.9
+TSM-0985,Po Tsai,TSMC,TSM,Fab/Manufacturing,Senior,92.5,94500,17.3,51.4,East Asia,Middle,Yes,58.9,61.0
+TSM-0986,Jia Chen,TSMC,TSM,Fab/Manufacturing,Senior,90.2,520800,10.9,60.6,East Asia,Upper-middle,No,36.2,74.0
+TSM-0987,Shu Chou,TSMC,TSM,Finance,Staff,87.5,182600,6.7,75.5,East Asia,Working class,Yes,94.1,80.0
+TSM-0988,Kai Hsu,TSMC,TSM,Fab/Manufacturing,Senior,83.6,245100,7.1,69.4,East Asia,Affluent,No,14.4,66.0
+TSM-0989,Chun Liao,TSMC,TSM,Engineering,Principal,96.4,79500,16.1,58.5,East Asia,Working class,Yes,90.8,71.7
+TSM-0990,Jun Chen,TSMC,TSM,Engineering,Principal,90.6,276000,4.7,59.4,East Asia,Affluent,No,21.9,78.2
+TSM-0991,Li Shen,TSMC,TSM,Engineering,Senior,86.3,203800,5.2,76.0,East Asia,Middle,No,50.9,95.5
+TSM-0992,Qing Chao,TSMC,TSM,Operations,Principal,78.9,170600,24.0,65.8,East Asia,Lower-middle,Yes,79.7,81.1
+TSM-0993,Bo Wang,TSMC,TSM,Quality,Director,73.5,431600,9.3,62.6,East Asia,Working class,Yes,83.4,82.1
+TSM-0994,Sheng Cheng,TSMC,TSM,Research & AI,Principal,92.6,342700,5.3,58.6,East Asia,Lower-middle,No,70.6,76.3
+TSM-0995,Jun Hung,TSMC,TSM,Engineering,Staff,82.6,214600,3.5,66.2,East Asia,Lower-middle,Yes,74.0,77.6
+TSM-0996,Yu Hsu,TSMC,TSM,Quality,Director,87.5,236200,10.9,65.0,East Asia,Lower-middle,Yes,84.4,69.1
+TSM-0997,Fang Liu,TSMC,TSM,Supply Chain,C-Suite,77.5,1142200,12.7,81.8,East Asia,Upper-middle,No,41.4,98.7
+TSM-0998,Ting Chang,TSMC,TSM,Fab/Manufacturing,Staff,90.0,67400,13.6,67.2,East Asia,Middle,Yes,56.1,78.0
+TSM-0999,Kai Liu,TSMC,TSM,Supply Chain,Principal,78.3,181800,8.2,65.4,Southeast Asia,Middle,No,53.0,67.0
+TSM-1000,Yu Wang,TSMC,TSM,Engineering,Principal,78.8,346400,10.3,65.7,North America,Middle,Yes,68.8,70.5

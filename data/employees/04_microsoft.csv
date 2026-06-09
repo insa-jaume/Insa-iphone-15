@@ -1,1001 +1,1001 @@
-employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
-MSFT-0001,Ahmed Singh,Microsoft,MSFT,Sales & GTM,Staff,78.6,477400,8.4
-MSFT-0002,Arjun Singh,Microsoft,MSFT,Engineering,Principal,73.0,432800,11.5
-MSFT-0003,Olivia Ali,Microsoft,MSFT,Design,Senior,81.8,175800,7.2
-MSFT-0004,Zoe Wilson,Microsoft,MSFT,Engineering,Principal,94.4,474000,6.5
-MSFT-0005,Chen Lopez,Microsoft,MSFT,Research & AI,VP,83.4,743700,10.4
-MSFT-0006,Kevin Lopez,Microsoft,MSFT,Sales & GTM,Senior Director,88.8,1030800,20.3
-MSFT-0007,Yuki Rossi,Microsoft,MSFT,Operations,Senior,72.4,476200,4.0
-MSFT-0008,Hiroshi Chen,Microsoft,MSFT,Sales & GTM,Senior,75.1,54700,6.4
-MSFT-0009,Olivia Lee,Microsoft,MSFT,Product,Principal,84.7,260700,7.1
-MSFT-0010,Linda Rossi,Microsoft,MSFT,Research & AI,Staff,79.6,297600,3.6
-MSFT-0011,Raj Petrov,Microsoft,MSFT,Engineering,Senior,74.0,420000,16.8
-MSFT-0012,Arjun Cohen,Microsoft,MSFT,Operations,Senior Director,76.2,916900,7.5
-MSFT-0013,James Rossi,Microsoft,MSFT,Product,Senior,80.7,354700,8.2
-MSFT-0014,Mary Park,Microsoft,MSFT,Research & AI,Staff,83.6,288800,8.2
-MSFT-0015,Samuel Wang,Microsoft,MSFT,Finance,Principal,67.4,193300,5.5
-MSFT-0016,Raj Garcia,Microsoft,MSFT,Design,Senior,75.8,143300,5.5
-MSFT-0017,Hiroshi Silva,Microsoft,MSFT,Engineering,Principal,75.9,884200,6.5
-MSFT-0018,David Murphy,Microsoft,MSFT,Product,Staff,68.9,249800,11.6
-MSFT-0019,Hiroshi Smith,Microsoft,MSFT,Engineering,Principal,77.9,322200,9.6
-MSFT-0020,Priya Wilson,Microsoft,MSFT,Sales & GTM,Senior,76.6,160900,4.2
-MSFT-0021,Thomas Schmidt,Microsoft,MSFT,Engineering,Senior Director,81.1,1304200,7.0
-MSFT-0022,Ahmed Wilson,Microsoft,MSFT,Operations,Principal,79.5,626300,10.3
-MSFT-0023,Fatima Wilson,Microsoft,MSFT,Operations,Director,83.0,288300,9.1
-MSFT-0024,Zoe Ali,Microsoft,MSFT,Research & AI,Senior Director,95.7,1299500,13.8
-MSFT-0025,Raj Schmidt,Microsoft,MSFT,Sales & GTM,Senior,68.2,247500,8.6
-MSFT-0026,Fatima Lopez,Microsoft,MSFT,Engineering,Principal,67.7,438500,9.4
-MSFT-0027,Yuki Tanaka,Microsoft,MSFT,Engineering,Director,68.8,288000,13.7
-MSFT-0028,Daniel Anderson,Microsoft,MSFT,Research & AI,C-Suite,91.4,1372900,11.6
-MSFT-0029,Priya Wilson,Microsoft,MSFT,Operations,Senior,92.6,138500,8.3
-MSFT-0030,John Smith,Microsoft,MSFT,Research & AI,Senior,81.9,250100,2.8
-MSFT-0031,Grace Hassan,Microsoft,MSFT,Engineering,Senior,76.4,208300,3.4
-MSFT-0032,Wei Okafor,Microsoft,MSFT,Engineering,Principal,76.8,423300,7.3
-MSFT-0033,Grace Reyes,Microsoft,MSFT,Operations,Staff,73.2,131000,4.1
-MSFT-0034,Samuel Park,Microsoft,MSFT,Research & AI,Senior,71.4,147200,2.7
-MSFT-0035,Kevin Martinez,Microsoft,MSFT,Sales & GTM,Director,87.0,477600,6.7
-MSFT-0036,Wei Johnson,Microsoft,MSFT,Research & AI,Senior,65.0,153200,7.0
-MSFT-0037,Olivia Wilson,Microsoft,MSFT,Research & AI,Staff,83.3,454900,12.1
-MSFT-0038,Fatima Hassan,Microsoft,MSFT,Engineering,C-Suite,84.0,4711600,23.2
-MSFT-0039,Maria Ali,Microsoft,MSFT,People/HR,Senior,74.3,587400,1.7
-MSFT-0040,James Lopez,Microsoft,MSFT,Product,Staff,89.9,255500,9.4
-MSFT-0041,Raj Chen,Microsoft,MSFT,Engineering,Staff,69.2,190200,1.4
-MSFT-0042,Aisha Park,Microsoft,MSFT,Research & AI,Director,88.3,836800,11.1
-MSFT-0043,Olivia Lee,Microsoft,MSFT,Engineering,Staff,78.9,286300,21.1
-MSFT-0044,Linda Schmidt,Microsoft,MSFT,Sales & GTM,Senior,66.7,226800,6.1
-MSFT-0045,Zoe Kim,Microsoft,MSFT,Legal & Policy,Staff,74.0,175200,10.0
-MSFT-0046,Fatima Park,Microsoft,MSFT,Legal & Policy,Staff,100.0,472500,16.8
-MSFT-0047,Sofia Brown,Microsoft,MSFT,Engineering,Staff,79.0,201800,16.6
-MSFT-0048,Hiroshi Wang,Microsoft,MSFT,Engineering,Senior,78.7,321100,5.1
-MSFT-0049,Yuki Garcia,Microsoft,MSFT,Engineering,Principal,80.1,350200,4.5
-MSFT-0050,Chen Singh,Microsoft,MSFT,Engineering,Senior,81.9,263200,10.9
-MSFT-0051,Wei Tanaka,Microsoft,MSFT,People/HR,SVP,83.7,2061400,15.0
-MSFT-0052,Fatima Tanaka,Microsoft,MSFT,Engineering,Senior,84.5,595200,17.0
-MSFT-0053,John Reyes,Microsoft,MSFT,Engineering,Senior,66.8,228200,11.7
-MSFT-0054,John Johnson,Microsoft,MSFT,People/HR,Staff,75.6,1232000,3.1
-MSFT-0055,Carlos Cohen,Microsoft,MSFT,Engineering,Staff,72.4,413000,14.4
-MSFT-0056,Arjun Petrov,Microsoft,MSFT,Legal & Policy,Staff,66.3,303900,6.4
-MSFT-0057,Linda Okafor,Microsoft,MSFT,Operations,Senior,69.9,312200,11.1
-MSFT-0058,Emily Martinez,Microsoft,MSFT,Research & AI,Principal,85.2,449300,12.6
-MSFT-0059,James Yamamoto,Microsoft,MSFT,Engineering,Senior,83.6,445800,16.1
-MSFT-0060,Yuki Reyes,Microsoft,MSFT,Operations,VP,88.5,1199700,7.0
-MSFT-0061,Linda Ali,Microsoft,MSFT,Engineering,Senior,85.6,467300,15.1
-MSFT-0062,Linda Murphy,Microsoft,MSFT,Engineering,Director,92.0,692500,11.7
-MSFT-0063,James Yamamoto,Microsoft,MSFT,Finance,SVP,82.2,412800,11.8
-MSFT-0064,Daniel Wilson,Microsoft,MSFT,Sales & GTM,Senior,85.6,149600,5.2
-MSFT-0065,Carlos Schmidt,Microsoft,MSFT,Product,Senior,84.7,240300,7.0
-MSFT-0066,Wei Brown,Microsoft,MSFT,Engineering,Principal,94.9,406500,7.5
-MSFT-0067,Raj Garcia,Microsoft,MSFT,Research & AI,Principal,93.1,526700,8.5
-MSFT-0068,Linda Martinez,Microsoft,MSFT,Sales & GTM,Staff,89.1,305800,6.8
-MSFT-0069,Chen Martinez,Microsoft,MSFT,Engineering,Staff,81.8,470400,2.4
-MSFT-0070,David Smith,Microsoft,MSFT,Engineering,Senior,70.9,261800,15.6
-MSFT-0071,Sofia Rossi,Microsoft,MSFT,Engineering,Senior,84.6,166300,6.9
-MSFT-0072,Ahmed Kim,Microsoft,MSFT,Engineering,Senior,79.2,91200,8.3
-MSFT-0073,Daniel Davis,Microsoft,MSFT,Engineering,Senior,79.3,102600,8.1
-MSFT-0074,Carlos Martinez,Microsoft,MSFT,Engineering,Director,71.4,1018000,4.2
-MSFT-0075,Daniel Lopez,Microsoft,MSFT,Engineering,Director,84.4,514400,8.5
-MSFT-0076,Linda Wilson,Microsoft,MSFT,Engineering,Director,88.1,535400,5.8
-MSFT-0077,John Brown,Microsoft,MSFT,Engineering,Principal,96.7,173200,16.8
-MSFT-0078,Hannah Okafor,Microsoft,MSFT,Engineering,Staff,73.6,249400,22.7
-MSFT-0079,Fatima Hassan,Microsoft,MSFT,Operations,Staff,100.0,249100,2.3
-MSFT-0080,Zoe Rossi,Microsoft,MSFT,Engineering,SVP,83.7,2169900,22.5
-MSFT-0081,Hiroshi Patel,Microsoft,MSFT,Sales & GTM,VP,71.4,321100,7.8
-MSFT-0082,Carlos Martinez,Microsoft,MSFT,People/HR,Principal,70.0,307100,5.9
-MSFT-0083,Elena Khan,Microsoft,MSFT,Operations,Staff,78.5,677900,8.5
-MSFT-0084,Raj Petrov,Microsoft,MSFT,Engineering,Staff,86.8,548400,11.2
-MSFT-0085,Thomas Brown,Microsoft,MSFT,Engineering,Staff,67.5,144600,9.3
-MSFT-0086,Chen Martinez,Microsoft,MSFT,Legal & Policy,Staff,82.3,171100,13.4
-MSFT-0087,Mary Schmidt,Microsoft,MSFT,Product,Principal,86.6,750800,14.8
-MSFT-0088,Grace Anderson,Microsoft,MSFT,Engineering,Principal,61.5,397700,4.4
-MSFT-0089,Chen Lee,Microsoft,MSFT,Engineering,Director,85.1,672300,5.0
-MSFT-0090,David Lee,Microsoft,MSFT,Product,Senior,68.3,114800,4.5
-MSFT-0091,Michael Khan,Microsoft,MSFT,Product,Staff,73.2,239200,6.6
-MSFT-0092,Elena Hassan,Microsoft,MSFT,Engineering,Staff,90.8,387800,3.6
-MSFT-0093,Arjun Khan,Microsoft,MSFT,Engineering,Senior,85.2,483600,2.6
-MSFT-0094,Kevin Ali,Microsoft,MSFT,Engineering,Principal,74.3,335700,6.1
-MSFT-0095,Ahmed Brown,Microsoft,MSFT,Sales & GTM,Staff,71.4,143900,10.4
-MSFT-0096,Mary Anderson,Microsoft,MSFT,Engineering,VP,74.9,333000,11.8
-MSFT-0097,John Chen,Microsoft,MSFT,People/HR,Director,67.0,517900,6.6
-MSFT-0098,Ahmed Garcia,Microsoft,MSFT,Engineering,Principal,90.9,392000,11.5
-MSFT-0099,Nina Singh,Microsoft,MSFT,Engineering,Director,78.7,955000,4.7
-MSFT-0100,John Lee,Microsoft,MSFT,Engineering,Principal,87.0,374900,11.2
-MSFT-0101,Aisha Rossi,Microsoft,MSFT,Engineering,Staff,68.9,236000,8.5
-MSFT-0102,Yuki Davis,Microsoft,MSFT,Engineering,Principal,72.2,155600,10.9
-MSFT-0103,Michael Tanaka,Microsoft,MSFT,Operations,Staff,52.8,183100,21.9
-MSFT-0104,Sofia Khan,Microsoft,MSFT,Engineering,Principal,77.0,281500,5.4
-MSFT-0105,Chen Garcia,Microsoft,MSFT,Finance,Principal,66.8,271800,4.8
-MSFT-0106,Priya Davis,Microsoft,MSFT,Legal & Policy,Staff,77.5,441200,15.0
-MSFT-0107,Sofia Lopez,Microsoft,MSFT,Research & AI,Senior,63.5,184400,12.1
-MSFT-0108,Hiroshi Hassan,Microsoft,MSFT,Engineering,Staff,78.2,533300,3.6
-MSFT-0109,Hiroshi Rossi,Microsoft,MSFT,Operations,Senior,73.0,232300,3.1
-MSFT-0110,Elena Wang,Microsoft,MSFT,Design,Director,91.7,871600,10.7
-MSFT-0111,Thomas Patel,Microsoft,MSFT,Engineering,Director,78.8,692400,12.3
-MSFT-0112,Chen Cohen,Microsoft,MSFT,Sales & GTM,Senior Director,71.5,928400,7.8
-MSFT-0113,Raj Cohen,Microsoft,MSFT,Product,Senior,85.5,326500,7.7
-MSFT-0114,Wei Wilson,Microsoft,MSFT,People/HR,Senior,99.4,566100,2.0
-MSFT-0115,Raj Brown,Microsoft,MSFT,Design,Staff,83.4,795900,6.2
-MSFT-0116,Sofia Garcia,Microsoft,MSFT,Product,Staff,61.9,427300,4.2
-MSFT-0117,Mary Tanaka,Microsoft,MSFT,Research & AI,Staff,85.2,359900,8.6
-MSFT-0118,Carlos Ali,Microsoft,MSFT,People/HR,Staff,89.0,215100,14.4
-MSFT-0119,Hannah Okafor,Microsoft,MSFT,Engineering,Senior,76.5,266000,2.0
-MSFT-0120,James Schmidt,Microsoft,MSFT,Research & AI,Staff,82.0,824900,3.7
-MSFT-0121,Priya Lee,Microsoft,MSFT,Research & AI,Principal,88.5,367300,6.8
-MSFT-0122,Aisha Wang,Microsoft,MSFT,Engineering,Principal,99.7,339300,10.1
-MSFT-0123,Elena Silva,Microsoft,MSFT,Sales & GTM,Principal,85.8,518400,22.4
-MSFT-0124,Michael Cohen,Microsoft,MSFT,Engineering,Senior,83.0,330700,10.2
-MSFT-0125,Olivia Hassan,Microsoft,MSFT,Marketing,Principal,75.6,366200,8.6
-MSFT-0126,Michael Garcia,Microsoft,MSFT,Finance,SVP,79.6,1519900,8.5
-MSFT-0127,Linda Okafor,Microsoft,MSFT,Research & AI,Senior,75.9,298900,3.7
-MSFT-0128,Wei Smith,Microsoft,MSFT,Engineering,Principal,82.5,559100,7.2
-MSFT-0129,Raj Tanaka,Microsoft,MSFT,Design,Staff,74.5,295700,10.0
-MSFT-0130,Wei Nguyen,Microsoft,MSFT,Operations,C-Suite,72.2,4722600,8.5
-MSFT-0131,Wei Schmidt,Microsoft,MSFT,Engineering,Director,77.4,1038400,5.1
-MSFT-0132,Olivia Okafor,Microsoft,MSFT,Engineering,Senior Director,96.0,293200,8.8
-MSFT-0133,Sofia Murphy,Microsoft,MSFT,Research & AI,Director,74.2,563400,16.4
-MSFT-0134,Hiroshi Wang,Microsoft,MSFT,Finance,Senior,96.9,137500,9.8
-MSFT-0135,Nina Murphy,Microsoft,MSFT,Engineering,Senior,65.3,116500,14.2
-MSFT-0136,Ahmed Yamamoto,Microsoft,MSFT,Research & AI,Staff,59.3,330500,3.7
-MSFT-0137,Zoe Petrov,Microsoft,MSFT,Engineering,Staff,81.1,438100,3.5
-MSFT-0138,Priya Cohen,Microsoft,MSFT,Engineering,SVP,85.1,1305400,15.1
-MSFT-0139,James Smith,Microsoft,MSFT,Finance,Senior,76.8,130100,16.9
-MSFT-0140,David Hassan,Microsoft,MSFT,Research & AI,Staff,81.9,105900,3.0
-MSFT-0141,Nina Kim,Microsoft,MSFT,Sales & GTM,Senior,78.0,243800,10.6
-MSFT-0142,John Ali,Microsoft,MSFT,Engineering,Staff,79.7,175100,8.2
-MSFT-0143,Nina Lopez,Microsoft,MSFT,People/HR,Senior,76.5,150200,7.2
-MSFT-0144,Hannah Lopez,Microsoft,MSFT,Engineering,Director,89.9,1065500,4.2
-MSFT-0145,Maria Khan,Microsoft,MSFT,Sales & GTM,Senior,81.1,218400,13.5
-MSFT-0146,Zoe Chen,Microsoft,MSFT,Sales & GTM,Senior,62.3,92600,2.2
-MSFT-0147,David Martinez,Microsoft,MSFT,People/HR,Director,75.1,283900,11.2
-MSFT-0148,Sofia Silva,Microsoft,MSFT,Engineering,Staff,88.0,355600,4.4
-MSFT-0149,Michael Anderson,Microsoft,MSFT,People/HR,Principal,79.8,262000,3.8
-MSFT-0150,Grace Kim,Microsoft,MSFT,Legal & Policy,Senior Director,74.6,371800,11.9
-MSFT-0151,Ahmed Murphy,Microsoft,MSFT,Engineering,Director,78.3,300300,9.8
-MSFT-0152,Elena Okafor,Microsoft,MSFT,Sales & GTM,Senior Director,78.8,1323400,11.1
-MSFT-0153,Nina Schmidt,Microsoft,MSFT,Sales & GTM,Director,86.2,634800,6.1
-MSFT-0154,David Chen,Microsoft,MSFT,Engineering,Senior,63.0,51400,11.7
-MSFT-0155,Raj Lopez,Microsoft,MSFT,Engineering,Senior,90.6,173200,5.4
-MSFT-0156,Chen Anderson,Microsoft,MSFT,Product,Principal,81.4,315000,7.9
-MSFT-0157,Ahmed Rossi,Microsoft,MSFT,Research & AI,Principal,72.2,129500,13.9
-MSFT-0158,Thomas Nguyen,Microsoft,MSFT,Engineering,Senior,70.7,141500,4.7
-MSFT-0159,Arjun Schmidt,Microsoft,MSFT,Sales & GTM,Senior,69.6,176000,3.4
-MSFT-0160,Hiroshi Murphy,Microsoft,MSFT,Engineering,Principal,81.1,1454900,7.6
-MSFT-0161,Linda Kim,Microsoft,MSFT,Engineering,Senior,89.1,223300,9.2
-MSFT-0162,Olivia Park,Microsoft,MSFT,Engineering,Staff,84.4,365600,5.8
-MSFT-0163,John Park,Microsoft,MSFT,Engineering,Principal,70.0,560500,7.7
-MSFT-0164,Priya Yamamoto,Microsoft,MSFT,Legal & Policy,Senior Director,79.6,618100,13.4
-MSFT-0165,Ahmed Okafor,Microsoft,MSFT,Product,Senior,73.8,585400,8.3
-MSFT-0166,John Murphy,Microsoft,MSFT,Operations,Senior,77.0,277700,6.1
-MSFT-0167,Wei Tanaka,Microsoft,MSFT,Product,Senior,91.7,294600,9.2
-MSFT-0168,Mary Nguyen,Microsoft,MSFT,Research & AI,Staff,86.1,125100,14.9
-MSFT-0169,Elena Wilson,Microsoft,MSFT,Engineering,Senior Director,87.1,829700,15.3
-MSFT-0170,Hannah Tanaka,Microsoft,MSFT,Engineering,Director,77.1,508000,6.2
-MSFT-0171,Arjun Garcia,Microsoft,MSFT,Product,Senior,82.2,273200,5.9
-MSFT-0172,Elena Khan,Microsoft,MSFT,Product,Director,88.2,1246400,12.7
-MSFT-0173,Aisha Park,Microsoft,MSFT,Engineering,Senior,81.8,284900,3.6
-MSFT-0174,Fatima Smith,Microsoft,MSFT,Product,Director,95.4,310200,7.3
-MSFT-0175,Grace Garcia,Microsoft,MSFT,Engineering,Senior,83.1,218400,5.7
-MSFT-0176,Hiroshi Okafor,Microsoft,MSFT,Sales & GTM,Director,94.5,632700,9.7
-MSFT-0177,Daniel Okafor,Microsoft,MSFT,People/HR,Staff,82.5,333300,5.1
-MSFT-0178,Carlos Wang,Microsoft,MSFT,Product,Staff,74.5,292600,14.6
-MSFT-0179,Thomas Silva,Microsoft,MSFT,Sales & GTM,Senior,69.3,219200,6.0
-MSFT-0180,Hannah Rossi,Microsoft,MSFT,Legal & Policy,Senior,76.3,498200,3.1
-MSFT-0181,Linda Schmidt,Microsoft,MSFT,Research & AI,Principal,71.1,451900,6.5
-MSFT-0182,Thomas Nguyen,Microsoft,MSFT,Product,Senior,73.2,140200,2.7
-MSFT-0183,John Murphy,Microsoft,MSFT,Engineering,Director,100.0,846000,9.3
-MSFT-0184,Grace Johnson,Microsoft,MSFT,Product,Staff,91.4,191800,5.3
-MSFT-0185,Chen Murphy,Microsoft,MSFT,Engineering,Senior,70.4,130900,2.1
-MSFT-0186,Elena Ali,Microsoft,MSFT,Engineering,Senior,85.2,252300,6.3
-MSFT-0187,Wei Schmidt,Microsoft,MSFT,Sales & GTM,Staff,87.4,120700,26.7
-MSFT-0188,Carlos Wilson,Microsoft,MSFT,Marketing,VP,82.4,803000,15.3
-MSFT-0189,Priya Johnson,Microsoft,MSFT,Engineering,Staff,74.8,297600,9.9
-MSFT-0190,Thomas Silva,Microsoft,MSFT,Engineering,VP,86.5,1760000,20.1
-MSFT-0191,Aisha Hassan,Microsoft,MSFT,Engineering,Senior,77.5,189500,10.1
-MSFT-0192,Hiroshi Kim,Microsoft,MSFT,Product,Senior,86.3,395600,9.4
-MSFT-0193,Mary Silva,Microsoft,MSFT,Engineering,Senior,86.3,474900,16.5
-MSFT-0194,James Schmidt,Microsoft,MSFT,Engineering,Senior,76.3,432700,5.8
-MSFT-0195,Elena Silva,Microsoft,MSFT,Engineering,Principal,78.2,586800,5.6
-MSFT-0196,Samuel Okafor,Microsoft,MSFT,People/HR,VP,84.4,1724600,6.9
-MSFT-0197,Thomas Rossi,Microsoft,MSFT,Engineering,Staff,84.0,861700,16.3
-MSFT-0198,Michael Reyes,Microsoft,MSFT,Engineering,VP,70.9,848400,7.5
-MSFT-0199,Olivia Kim,Microsoft,MSFT,People/HR,Senior,66.8,296700,21.2
-MSFT-0200,Fatima Khan,Microsoft,MSFT,Research & AI,Staff,64.7,278200,7.4
-MSFT-0201,Samuel Brown,Microsoft,MSFT,Marketing,Principal,62.2,170100,5.8
-MSFT-0202,Michael Schmidt,Microsoft,MSFT,Engineering,Director,77.7,1036400,4.7
-MSFT-0203,Daniel Anderson,Microsoft,MSFT,Engineering,Director,74.3,646700,10.6
-MSFT-0204,Fatima Davis,Microsoft,MSFT,Engineering,Staff,85.6,656200,7.4
-MSFT-0205,Mary Yamamoto,Microsoft,MSFT,Engineering,Staff,70.1,512000,4.4
-MSFT-0206,Carlos Kim,Microsoft,MSFT,Engineering,Staff,74.0,189600,11.6
-MSFT-0207,Nina Khan,Microsoft,MSFT,Engineering,Staff,79.4,410500,3.4
-MSFT-0208,John Wilson,Microsoft,MSFT,Engineering,Senior,75.1,200100,2.2
-MSFT-0209,Maria Brown,Microsoft,MSFT,Product,Senior,85.4,306000,6.3
-MSFT-0210,Nina Anderson,Microsoft,MSFT,Research & AI,Senior,84.7,386300,5.7
-MSFT-0211,Zoe Ali,Microsoft,MSFT,Sales & GTM,Staff,67.0,134500,3.2
-MSFT-0212,Yuki Petrov,Microsoft,MSFT,Engineering,Principal,78.2,444900,9.3
-MSFT-0213,Hannah Lee,Microsoft,MSFT,Engineering,Senior,76.9,208000,7.3
-MSFT-0214,Michael Yamamoto,Microsoft,MSFT,Operations,Director,80.8,911200,8.4
-MSFT-0215,James Anderson,Microsoft,MSFT,Marketing,Senior,77.1,551400,10.5
-MSFT-0216,Carlos Schmidt,Microsoft,MSFT,Sales & GTM,Senior,83.6,745400,9.6
-MSFT-0217,Michael Chen,Microsoft,MSFT,Finance,Principal,71.7,281100,16.9
-MSFT-0218,Wei Nguyen,Microsoft,MSFT,Marketing,Principal,94.7,318500,5.8
-MSFT-0219,Priya Garcia,Microsoft,MSFT,Sales & GTM,VP,73.9,826300,16.7
-MSFT-0220,Samuel Schmidt,Microsoft,MSFT,Operations,Senior,65.3,123100,2.3
-MSFT-0221,Aisha Murphy,Microsoft,MSFT,Design,Senior,87.1,95100,2.2
-MSFT-0222,Hiroshi Wang,Microsoft,MSFT,Design,Director,91.3,528200,7.7
-MSFT-0223,Hannah Park,Microsoft,MSFT,Design,VP,86.3,1937200,6.7
-MSFT-0224,James Martinez,Microsoft,MSFT,Product,Director,82.5,346400,5.2
-MSFT-0225,Kevin Rossi,Microsoft,MSFT,Engineering,Principal,93.5,292100,10.6
-MSFT-0226,Arjun Khan,Microsoft,MSFT,Engineering,Staff,87.3,268800,5.1
-MSFT-0227,Mary Wilson,Microsoft,MSFT,Research & AI,Principal,73.1,1043400,11.5
-MSFT-0228,Elena Reyes,Microsoft,MSFT,Engineering,Staff,89.5,882600,18.2
-MSFT-0229,Samuel Yamamoto,Microsoft,MSFT,Engineering,Senior Director,73.6,667700,11.8
-MSFT-0230,Arjun Cohen,Microsoft,MSFT,Engineering,Senior Director,79.5,830400,6.4
-MSFT-0231,Wei Garcia,Microsoft,MSFT,Product,SVP,68.2,484200,18.6
-MSFT-0232,Emily Wang,Microsoft,MSFT,Product,Senior,79.5,455600,3.1
-MSFT-0233,Carlos Lopez,Microsoft,MSFT,Sales & GTM,Staff,93.3,418900,1.6
-MSFT-0234,Maria Patel,Microsoft,MSFT,Sales & GTM,Senior,81.2,280800,13.9
-MSFT-0235,Mary Khan,Microsoft,MSFT,Product,Senior,76.3,432300,1.8
-MSFT-0236,Emily Tanaka,Microsoft,MSFT,Engineering,Senior Director,82.7,965600,5.1
-MSFT-0237,Mary Davis,Microsoft,MSFT,Engineering,Senior,74.5,235800,9.9
-MSFT-0238,Olivia Johnson,Microsoft,MSFT,Product,Senior Director,91.0,1727900,13.7
-MSFT-0239,Carlos Davis,Microsoft,MSFT,Sales & GTM,Principal,82.5,264600,8.3
-MSFT-0240,Olivia Khan,Microsoft,MSFT,Engineering,Principal,75.5,274900,8.0
-MSFT-0241,Linda Patel,Microsoft,MSFT,Marketing,Staff,78.3,249800,15.6
-MSFT-0242,Elena Hassan,Microsoft,MSFT,Product,Staff,81.6,303500,5.6
-MSFT-0243,Kevin Rossi,Microsoft,MSFT,Research & AI,Principal,81.5,342700,7.7
-MSFT-0244,John Tanaka,Microsoft,MSFT,Engineering,Senior,71.1,385200,7.5
-MSFT-0245,Emily Wang,Microsoft,MSFT,Research & AI,Staff,86.8,303400,10.4
-MSFT-0246,Arjun Ali,Microsoft,MSFT,Engineering,Principal,76.6,407200,8.3
-MSFT-0247,Daniel Johnson,Microsoft,MSFT,Product,Senior,85.9,149600,9.5
-MSFT-0248,James Patel,Microsoft,MSFT,Sales & GTM,Principal,94.9,269100,3.8
-MSFT-0249,John Tanaka,Microsoft,MSFT,Sales & GTM,Senior,86.3,292100,13.6
-MSFT-0250,Maria Wang,Microsoft,MSFT,Engineering,SVP,86.4,816200,10.8
-MSFT-0251,Thomas Singh,Microsoft,MSFT,Product,Staff,81.3,161800,3.2
-MSFT-0252,Grace Johnson,Microsoft,MSFT,Research & AI,Senior,77.2,152200,8.6
-MSFT-0253,Raj Yamamoto,Microsoft,MSFT,Operations,VP,90.1,967100,10.8
-MSFT-0254,Mary Davis,Microsoft,MSFT,Operations,Senior,92.1,212300,14.1
-MSFT-0255,Hiroshi Silva,Microsoft,MSFT,Engineering,Senior,89.2,522300,4.6
-MSFT-0256,Aisha Petrov,Microsoft,MSFT,People/HR,Principal,82.8,292100,10.0
-MSFT-0257,James Garcia,Microsoft,MSFT,Engineering,Senior,86.0,160400,9.7
-MSFT-0258,James Silva,Microsoft,MSFT,Marketing,Senior,85.1,219400,13.7
-MSFT-0259,David Petrov,Microsoft,MSFT,Engineering,Staff,74.1,144900,10.9
-MSFT-0260,Aisha Petrov,Microsoft,MSFT,Engineering,Staff,73.7,653800,1.5
-MSFT-0261,Zoe Wilson,Microsoft,MSFT,Engineering,Staff,77.2,200900,6.7
-MSFT-0262,Michael Khan,Microsoft,MSFT,Research & AI,Director,86.7,908300,25.0
-MSFT-0263,Raj Reyes,Microsoft,MSFT,Engineering,Director,72.3,347500,5.4
-MSFT-0264,Aisha Anderson,Microsoft,MSFT,Design,Staff,90.0,200500,7.0
-MSFT-0265,Kevin Chen,Microsoft,MSFT,Engineering,VP,83.1,388600,6.6
-MSFT-0266,Kevin Martinez,Microsoft,MSFT,Engineering,VP,72.9,1302400,11.7
-MSFT-0267,Michael Johnson,Microsoft,MSFT,Operations,Principal,88.1,981200,5.7
-MSFT-0268,Chen Singh,Microsoft,MSFT,Engineering,Senior,68.2,83800,1.6
-MSFT-0269,James Okafor,Microsoft,MSFT,Operations,Senior,89.2,554400,4.3
-MSFT-0270,Michael Ali,Microsoft,MSFT,Product,Staff,77.9,234900,4.5
-MSFT-0271,Raj Anderson,Microsoft,MSFT,Engineering,Senior Director,76.3,1264000,13.9
-MSFT-0272,Olivia Johnson,Microsoft,MSFT,Legal & Policy,Staff,62.0,209400,15.7
-MSFT-0273,Hannah Park,Microsoft,MSFT,People/HR,Senior Director,87.7,310300,10.0
-MSFT-0274,Raj Schmidt,Microsoft,MSFT,Legal & Policy,Director,85.1,480600,8.0
-MSFT-0275,Thomas Park,Microsoft,MSFT,Engineering,Staff,76.5,189800,3.6
-MSFT-0276,Thomas Singh,Microsoft,MSFT,Marketing,Director,91.1,379200,12.3
-MSFT-0277,Aisha Hassan,Microsoft,MSFT,Engineering,Staff,81.5,234200,10.0
-MSFT-0278,Michael Khan,Microsoft,MSFT,Engineering,VP,79.5,1649900,9.3
-MSFT-0279,Aisha Cohen,Microsoft,MSFT,Marketing,VP,72.1,1007200,8.8
-MSFT-0280,John Anderson,Microsoft,MSFT,Legal & Policy,Staff,93.9,631000,14.2
-MSFT-0281,Wei Wilson,Microsoft,MSFT,Engineering,Principal,87.3,338300,3.9
-MSFT-0282,Carlos Murphy,Microsoft,MSFT,Research & AI,Senior,74.9,306400,7.9
-MSFT-0283,Thomas Reyes,Microsoft,MSFT,Engineering,Director,96.1,850800,7.7
-MSFT-0284,Ahmed Lee,Microsoft,MSFT,Sales & GTM,Director,80.4,481100,7.4
-MSFT-0285,Zoe Khan,Microsoft,MSFT,Finance,Senior,74.8,379600,5.1
-MSFT-0286,Nina Johnson,Microsoft,MSFT,Product,Principal,69.1,425700,12.3
-MSFT-0287,Linda Silva,Microsoft,MSFT,Engineering,Principal,81.9,312400,12.9
-MSFT-0288,Hannah Yamamoto,Microsoft,MSFT,Sales & GTM,Senior,100.0,307900,10.1
-MSFT-0289,Fatima Silva,Microsoft,MSFT,Engineering,Principal,68.2,412500,10.3
-MSFT-0290,Michael Murphy,Microsoft,MSFT,Engineering,Senior,82.9,94200,3.0
-MSFT-0291,Grace Smith,Microsoft,MSFT,Research & AI,Director,74.6,845500,7.3
-MSFT-0292,Chen Yamamoto,Microsoft,MSFT,Marketing,Staff,78.1,478900,4.9
-MSFT-0293,Elena Garcia,Microsoft,MSFT,Engineering,Senior,84.0,201900,5.1
-MSFT-0294,Maria Smith,Microsoft,MSFT,Engineering,Senior,76.4,265600,6.5
-MSFT-0295,Hannah Patel,Microsoft,MSFT,Engineering,VP,75.8,797400,16.7
-MSFT-0296,Emily Petrov,Microsoft,MSFT,Operations,Senior,87.4,337100,7.3
-MSFT-0297,David Garcia,Microsoft,MSFT,Engineering,Staff,82.8,147600,10.1
-MSFT-0298,Elena Patel,Microsoft,MSFT,Engineering,Principal,92.9,267300,11.4
-MSFT-0299,Ahmed Khan,Microsoft,MSFT,Engineering,Staff,74.9,486000,10.0
-MSFT-0300,Yuki Patel,Microsoft,MSFT,Engineering,Director,70.9,530800,7.0
-MSFT-0301,Samuel Yamamoto,Microsoft,MSFT,Finance,Senior,78.3,211800,8.2
-MSFT-0302,Emily Singh,Microsoft,MSFT,Design,Staff,74.9,238700,8.1
-MSFT-0303,Thomas Hassan,Microsoft,MSFT,Engineering,SVP,91.6,1120500,12.4
-MSFT-0304,Hiroshi Garcia,Microsoft,MSFT,Sales & GTM,Staff,91.0,399700,2.2
-MSFT-0305,Grace Chen,Microsoft,MSFT,Sales & GTM,Staff,75.8,312600,9.9
-MSFT-0306,Kevin Brown,Microsoft,MSFT,Operations,Senior,84.0,329800,5.5
-MSFT-0307,Samuel Yamamoto,Microsoft,MSFT,Engineering,Staff,78.7,180400,14.3
-MSFT-0308,Hiroshi Schmidt,Microsoft,MSFT,Engineering,VP,90.1,941000,21.6
-MSFT-0309,James Kim,Microsoft,MSFT,Finance,Senior Director,83.1,879600,11.0
-MSFT-0310,John Petrov,Microsoft,MSFT,Sales & GTM,Senior,74.0,281200,22.5
-MSFT-0311,Daniel Kim,Microsoft,MSFT,Marketing,Staff,86.8,312100,8.3
-MSFT-0312,James Schmidt,Microsoft,MSFT,Research & AI,Senior Director,85.5,245600,8.5
-MSFT-0313,Hannah Lee,Microsoft,MSFT,People/HR,Staff,83.9,785500,4.7
-MSFT-0314,James Brown,Microsoft,MSFT,Legal & Policy,Senior,67.7,622400,7.7
-MSFT-0315,Raj Yamamoto,Microsoft,MSFT,Marketing,Senior,78.5,227400,11.0
-MSFT-0316,Hiroshi Hassan,Microsoft,MSFT,Design,Senior,71.5,491500,4.0
-MSFT-0317,Kevin Patel,Microsoft,MSFT,Engineering,VP,98.8,814300,9.1
-MSFT-0318,Samuel Yamamoto,Microsoft,MSFT,Engineering,Senior,83.8,357200,8.6
-MSFT-0319,Michael Patel,Microsoft,MSFT,Sales & GTM,Senior,67.6,297000,6.9
-MSFT-0320,Aisha Chen,Microsoft,MSFT,Sales & GTM,Senior,77.6,258700,2.6
-MSFT-0321,Arjun Silva,Microsoft,MSFT,Engineering,Staff,96.9,347400,4.6
-MSFT-0322,Michael Martinez,Microsoft,MSFT,Engineering,Principal,87.8,1027000,10.5
-MSFT-0323,Ahmed Johnson,Microsoft,MSFT,Sales & GTM,Senior Director,74.6,909900,16.7
-MSFT-0324,Yuki Schmidt,Microsoft,MSFT,Sales & GTM,Senior Director,79.1,989600,10.1
-MSFT-0325,Daniel Lee,Microsoft,MSFT,Product,Senior Director,78.9,426400,9.0
-MSFT-0326,Daniel Wang,Microsoft,MSFT,Research & AI,Senior,78.8,260100,6.9
-MSFT-0327,John Tanaka,Microsoft,MSFT,Engineering,Staff,84.7,225100,4.5
-MSFT-0328,Yuki Wilson,Microsoft,MSFT,Sales & GTM,Senior,72.6,235100,7.1
-MSFT-0329,Sofia Patel,Microsoft,MSFT,Finance,Senior,77.0,278900,10.7
-MSFT-0330,Carlos Lee,Microsoft,MSFT,Engineering,Senior Director,86.1,1353600,6.4
-MSFT-0331,James Smith,Microsoft,MSFT,Operations,Principal,83.1,1178300,4.4
-MSFT-0332,Zoe Lopez,Microsoft,MSFT,Engineering,Staff,76.3,660300,4.4
-MSFT-0333,Zoe Ali,Microsoft,MSFT,Legal & Policy,Principal,69.9,674200,12.3
-MSFT-0334,Nina Khan,Microsoft,MSFT,Sales & GTM,Senior,63.5,308800,13.1
-MSFT-0335,Daniel Lopez,Microsoft,MSFT,Operations,Staff,75.6,380500,9.4
-MSFT-0336,Priya Lee,Microsoft,MSFT,Engineering,Senior,89.4,567900,16.0
-MSFT-0337,Arjun Kim,Microsoft,MSFT,Engineering,Principal,71.1,695000,3.7
-MSFT-0338,Chen Okafor,Microsoft,MSFT,Research & AI,Senior,63.2,134600,6.8
-MSFT-0339,Maria Lee,Microsoft,MSFT,Engineering,Staff,83.1,545700,7.4
-MSFT-0340,Daniel Schmidt,Microsoft,MSFT,Research & AI,Principal,84.8,475800,12.7
-MSFT-0341,Mary Nguyen,Microsoft,MSFT,Sales & GTM,Staff,74.4,329400,30.6
-MSFT-0342,Thomas Wilson,Microsoft,MSFT,People/HR,Senior,76.9,149800,6.1
-MSFT-0343,Kevin Hassan,Microsoft,MSFT,Engineering,Staff,77.4,289700,1.0
-MSFT-0344,Yuki Kim,Microsoft,MSFT,Research & AI,Staff,66.6,176600,14.8
-MSFT-0345,Wei Silva,Microsoft,MSFT,Research & AI,Staff,83.0,297600,6.2
-MSFT-0346,Yuki Tanaka,Microsoft,MSFT,Legal & Policy,Senior Director,77.7,636800,8.9
-MSFT-0347,Linda Okafor,Microsoft,MSFT,Marketing,Staff,85.6,604700,9.2
-MSFT-0348,Thomas Wang,Microsoft,MSFT,Sales & GTM,Principal,81.5,292700,9.7
-MSFT-0349,James Martinez,Microsoft,MSFT,Sales & GTM,Director,87.7,633300,5.8
-MSFT-0350,Maria Chen,Microsoft,MSFT,People/HR,Senior,71.0,189100,29.8
-MSFT-0351,Zoe Lee,Microsoft,MSFT,Operations,Director,100.0,382000,12.9
-MSFT-0352,James Ali,Microsoft,MSFT,Research & AI,Senior Director,90.3,592200,6.7
-MSFT-0353,Priya Murphy,Microsoft,MSFT,Operations,Senior Director,79.4,252400,11.4
-MSFT-0354,Raj Patel,Microsoft,MSFT,Engineering,Senior,86.2,287200,7.9
-MSFT-0355,Michael Anderson,Microsoft,MSFT,Sales & GTM,Director,80.6,412400,6.0
-MSFT-0356,Hiroshi Petrov,Microsoft,MSFT,Sales & GTM,Director,77.5,579000,18.6
-MSFT-0357,Hiroshi Smith,Microsoft,MSFT,Engineering,Staff,91.5,257100,9.9
-MSFT-0358,Raj Nguyen,Microsoft,MSFT,Engineering,SVP,76.8,1433200,7.1
-MSFT-0359,David Wilson,Microsoft,MSFT,Research & AI,Staff,90.4,621900,9.8
-MSFT-0360,Yuki Hassan,Microsoft,MSFT,Engineering,Staff,82.6,150500,7.4
-MSFT-0361,David Silva,Microsoft,MSFT,Engineering,Staff,68.8,219500,4.0
-MSFT-0362,Grace Kim,Microsoft,MSFT,Research & AI,Senior,78.6,98800,2.3
-MSFT-0363,Michael Petrov,Microsoft,MSFT,Finance,Senior,84.0,265500,5.2
-MSFT-0364,Kevin Tanaka,Microsoft,MSFT,People/HR,Senior,85.8,116300,6.9
-MSFT-0365,Daniel Okafor,Microsoft,MSFT,Operations,Senior,74.5,178300,4.2
-MSFT-0366,Grace Park,Microsoft,MSFT,Sales & GTM,Senior,71.8,225200,1.6
-MSFT-0367,Hiroshi Schmidt,Microsoft,MSFT,Engineering,Senior Director,77.1,576700,12.1
-MSFT-0368,Arjun Kim,Microsoft,MSFT,Research & AI,Senior,79.4,69500,5.7
-MSFT-0369,Olivia Park,Microsoft,MSFT,Research & AI,Principal,64.2,486900,1.9
-MSFT-0370,Kevin Chen,Microsoft,MSFT,Research & AI,Principal,78.1,862300,11.0
-MSFT-0371,Ahmed Hassan,Microsoft,MSFT,Research & AI,Staff,75.9,432000,11.8
-MSFT-0372,Elena Wilson,Microsoft,MSFT,Engineering,Principal,75.6,552500,15.3
-MSFT-0373,Sofia Singh,Microsoft,MSFT,Marketing,Senior,76.6,159600,7.1
-MSFT-0374,Grace Reyes,Microsoft,MSFT,Operations,C-Suite,95.8,2211800,22.9
-MSFT-0375,Grace Yamamoto,Microsoft,MSFT,Marketing,Director,88.0,839000,3.7
-MSFT-0376,Raj Wang,Microsoft,MSFT,Research & AI,Director,59.7,697900,11.0
-MSFT-0377,Raj Nguyen,Microsoft,MSFT,Product,Director,73.7,341500,15.0
-MSFT-0378,Fatima Murphy,Microsoft,MSFT,Marketing,Senior Director,72.0,909000,16.2
-MSFT-0379,Wei Silva,Microsoft,MSFT,Product,SVP,78.4,2378400,25.6
-MSFT-0380,Priya Okafor,Microsoft,MSFT,Product,Director,86.3,1699300,8.1
-MSFT-0381,Hiroshi Lopez,Microsoft,MSFT,Engineering,Senior Director,91.0,469500,8.5
-MSFT-0382,Grace Martinez,Microsoft,MSFT,Research & AI,VP,78.5,950200,23.0
-MSFT-0383,Carlos Okafor,Microsoft,MSFT,Research & AI,Senior,70.4,579800,9.0
-MSFT-0384,Fatima Rossi,Microsoft,MSFT,People/HR,C-Suite,77.9,2889700,16.9
-MSFT-0385,Hiroshi Murphy,Microsoft,MSFT,Sales & GTM,Senior,63.6,389600,7.5
-MSFT-0386,Olivia Schmidt,Microsoft,MSFT,Engineering,Staff,57.5,467500,8.1
-MSFT-0387,Sofia Tanaka,Microsoft,MSFT,Operations,Principal,85.6,765400,14.6
-MSFT-0388,Fatima Wang,Microsoft,MSFT,Engineering,SVP,80.9,2053200,10.9
-MSFT-0389,Thomas Anderson,Microsoft,MSFT,Engineering,Staff,89.6,470300,5.1
-MSFT-0390,Maria Patel,Microsoft,MSFT,Design,Principal,71.7,432200,15.4
-MSFT-0391,Wei Patel,Microsoft,MSFT,Engineering,Senior,90.1,103300,6.2
-MSFT-0392,Michael Reyes,Microsoft,MSFT,Engineering,Staff,81.8,333900,4.6
-MSFT-0393,Daniel Anderson,Microsoft,MSFT,Engineering,Principal,80.8,589900,11.4
-MSFT-0394,Ahmed Hassan,Microsoft,MSFT,Finance,Staff,77.9,382100,6.9
-MSFT-0395,Sofia Davis,Microsoft,MSFT,Operations,Senior,73.5,270000,1.7
-MSFT-0396,Fatima Reyes,Microsoft,MSFT,Research & AI,Senior,91.0,266600,3.7
-MSFT-0397,Carlos Kim,Microsoft,MSFT,Engineering,Principal,94.4,448000,10.1
-MSFT-0398,Samuel Schmidt,Microsoft,MSFT,Engineering,Principal,68.5,223900,5.4
-MSFT-0399,Ahmed Khan,Microsoft,MSFT,Engineering,Staff,93.2,555200,5.6
-MSFT-0400,Chen Khan,Microsoft,MSFT,Marketing,Senior,76.8,455500,8.0
-MSFT-0401,Michael Singh,Microsoft,MSFT,Research & AI,Staff,76.5,343200,3.2
-MSFT-0402,Nina Khan,Microsoft,MSFT,Legal & Policy,Senior,73.0,133900,4.7
-MSFT-0403,James Garcia,Microsoft,MSFT,Operations,Staff,75.2,458700,6.8
-MSFT-0404,Sofia Smith,Microsoft,MSFT,Operations,Principal,76.4,714100,18.9
-MSFT-0405,Olivia Ali,Microsoft,MSFT,Marketing,Staff,88.3,278700,9.9
-MSFT-0406,Wei Reyes,Microsoft,MSFT,Legal & Policy,Staff,77.5,701500,8.1
-MSFT-0407,Nina Chen,Microsoft,MSFT,Design,VP,77.7,616100,14.7
-MSFT-0408,Linda Hassan,Microsoft,MSFT,Engineering,Senior,83.5,230000,8.3
-MSFT-0409,Hiroshi Kim,Microsoft,MSFT,Marketing,Senior,88.9,322700,15.0
-MSFT-0410,James Kim,Microsoft,MSFT,Research & AI,Director,88.5,1052300,11.9
-MSFT-0411,Thomas Wilson,Microsoft,MSFT,Product,Senior,75.9,358400,7.7
-MSFT-0412,John Petrov,Microsoft,MSFT,Research & AI,Staff,80.6,392800,8.8
-MSFT-0413,Emily Murphy,Microsoft,MSFT,Engineering,Staff,77.6,240700,13.9
-MSFT-0414,Olivia Lopez,Microsoft,MSFT,Engineering,Senior,56.7,90200,4.3
-MSFT-0415,Sofia Schmidt,Microsoft,MSFT,Research & AI,Senior,67.6,209200,13.3
-MSFT-0416,Mary Yamamoto,Microsoft,MSFT,Product,Senior Director,81.6,420400,6.8
-MSFT-0417,Hiroshi Yamamoto,Microsoft,MSFT,Engineering,Staff,76.8,254300,22.5
-MSFT-0418,Emily Murphy,Microsoft,MSFT,Engineering,Staff,89.4,395300,1.1
-MSFT-0419,Olivia Okafor,Microsoft,MSFT,Sales & GTM,Senior,79.9,249100,4.9
-MSFT-0420,Olivia Patel,Microsoft,MSFT,Sales & GTM,Principal,78.8,1041300,5.8
-MSFT-0421,Thomas Chen,Microsoft,MSFT,Engineering,Director,81.5,710500,7.5
-MSFT-0422,Thomas Tanaka,Microsoft,MSFT,Design,Staff,70.5,408000,13.7
-MSFT-0423,Samuel Park,Microsoft,MSFT,People/HR,Staff,50.1,229000,6.0
-MSFT-0424,Zoe Wang,Microsoft,MSFT,Research & AI,Principal,79.0,333500,4.4
-MSFT-0425,Hiroshi Hassan,Microsoft,MSFT,Sales & GTM,Senior,67.1,422900,16.6
-MSFT-0426,Daniel Davis,Microsoft,MSFT,Legal & Policy,Senior Director,83.7,393900,9.5
-MSFT-0427,Elena Lee,Microsoft,MSFT,Marketing,Senior,66.8,178300,5.6
-MSFT-0428,Elena Anderson,Microsoft,MSFT,Design,Senior,70.6,158700,3.8
-MSFT-0429,Maria Anderson,Microsoft,MSFT,Sales & GTM,Principal,82.1,603600,16.0
-MSFT-0430,David Hassan,Microsoft,MSFT,Engineering,Staff,72.5,512200,10.6
-MSFT-0431,Sofia Johnson,Microsoft,MSFT,Engineering,Staff,72.2,259600,9.1
-MSFT-0432,Michael Yamamoto,Microsoft,MSFT,Engineering,Senior,62.9,198600,8.0
-MSFT-0433,Hiroshi Patel,Microsoft,MSFT,Sales & GTM,Principal,86.0,534400,14.9
-MSFT-0434,Maria Smith,Microsoft,MSFT,Legal & Policy,Principal,100.0,692500,12.2
-MSFT-0435,Chen Silva,Microsoft,MSFT,Research & AI,Senior,85.0,388400,4.3
-MSFT-0436,Linda Kim,Microsoft,MSFT,Research & AI,Principal,87.7,572600,9.9
-MSFT-0437,Aisha Tanaka,Microsoft,MSFT,Engineering,VP,86.5,919600,17.8
-MSFT-0438,Yuki Martinez,Microsoft,MSFT,Legal & Policy,Principal,84.2,410000,9.6
-MSFT-0439,Elena Petrov,Microsoft,MSFT,Engineering,Senior,79.3,270900,4.7
-MSFT-0440,Grace Yamamoto,Microsoft,MSFT,Research & AI,Senior,79.0,593000,4.4
-MSFT-0441,Maria Singh,Microsoft,MSFT,Sales & GTM,Staff,78.9,359800,4.7
-MSFT-0442,Priya Reyes,Microsoft,MSFT,Engineering,Senior,78.4,136600,10.5
-MSFT-0443,Aisha Davis,Microsoft,MSFT,Product,Senior,64.4,247400,6.9
-MSFT-0444,Nina Petrov,Microsoft,MSFT,Research & AI,Director,80.0,770900,7.7
-MSFT-0445,Maria Patel,Microsoft,MSFT,Engineering,SVP,83.2,1853300,11.3
-MSFT-0446,Maria Reyes,Microsoft,MSFT,Research & AI,Principal,89.2,840600,16.3
-MSFT-0447,Hannah Cohen,Microsoft,MSFT,Operations,Staff,83.7,196300,5.1
-MSFT-0448,Daniel Khan,Microsoft,MSFT,Engineering,Staff,88.2,689100,7.9
-MSFT-0449,Yuki Cohen,Microsoft,MSFT,Operations,Staff,69.5,205000,9.1
-MSFT-0450,Maria Petrov,Microsoft,MSFT,People/HR,Staff,82.7,264200,7.1
-MSFT-0451,Grace Yamamoto,Microsoft,MSFT,Operations,Principal,80.7,609600,5.9
-MSFT-0452,Hiroshi Garcia,Microsoft,MSFT,Research & AI,Senior,76.7,292000,5.9
-MSFT-0453,Grace Reyes,Microsoft,MSFT,People/HR,Senior,78.6,619500,2.1
-MSFT-0454,John Murphy,Microsoft,MSFT,Engineering,Senior,70.5,224800,6.5
-MSFT-0455,Ahmed Hassan,Microsoft,MSFT,Product,Senior Director,72.0,645800,14.0
-MSFT-0456,Sofia Brown,Microsoft,MSFT,Engineering,Senior Director,71.5,666900,9.7
-MSFT-0457,Mary Khan,Microsoft,MSFT,People/HR,Staff,81.6,508900,4.3
-MSFT-0458,Linda Patel,Microsoft,MSFT,Design,Senior,76.3,173100,14.0
-MSFT-0459,Daniel Hassan,Microsoft,MSFT,Operations,Senior,72.8,172200,11.7
-MSFT-0460,Grace Johnson,Microsoft,MSFT,Research & AI,Senior,85.6,727800,4.2
-MSFT-0461,Michael Yamamoto,Microsoft,MSFT,Engineering,Director,68.0,337300,7.3
-MSFT-0462,Chen Khan,Microsoft,MSFT,Engineering,Principal,65.6,500000,14.0
-MSFT-0463,Nina Khan,Microsoft,MSFT,Engineering,Staff,87.2,432600,3.9
-MSFT-0464,Hannah Wilson,Microsoft,MSFT,Engineering,Staff,79.3,107000,8.4
-MSFT-0465,Linda Smith,Microsoft,MSFT,Product,VP,88.8,757000,6.6
-MSFT-0466,Samuel Johnson,Microsoft,MSFT,Engineering,Principal,82.1,888600,5.9
-MSFT-0467,Carlos Davis,Microsoft,MSFT,Research & AI,Principal,68.5,549800,10.7
-MSFT-0468,Michael Martinez,Microsoft,MSFT,Engineering,Staff,89.2,432400,4.9
-MSFT-0469,Grace Chen,Microsoft,MSFT,Research & AI,SVP,80.5,1428600,8.9
-MSFT-0470,Arjun Khan,Microsoft,MSFT,Engineering,C-Suite,100.0,1152600,14.2
-MSFT-0471,Nina Petrov,Microsoft,MSFT,Engineering,Senior,69.5,479700,4.5
-MSFT-0472,David Johnson,Microsoft,MSFT,Research & AI,Director,80.7,302500,11.4
-MSFT-0473,Daniel Brown,Microsoft,MSFT,Legal & Policy,Staff,73.1,283600,8.4
-MSFT-0474,Ahmed Anderson,Microsoft,MSFT,Operations,Senior,100.0,404500,8.1
-MSFT-0475,Kevin Okafor,Microsoft,MSFT,Design,Senior,67.8,355400,6.8
-MSFT-0476,David Johnson,Microsoft,MSFT,Legal & Policy,Senior,75.9,593800,9.8
-MSFT-0477,Arjun Cohen,Microsoft,MSFT,Sales & GTM,Senior,96.2,188100,17.0
-MSFT-0478,Daniel Johnson,Microsoft,MSFT,Sales & GTM,Staff,85.4,509300,4.3
-MSFT-0479,Sofia Garcia,Microsoft,MSFT,Engineering,Senior Director,74.4,1341200,4.8
-MSFT-0480,Elena Reyes,Microsoft,MSFT,Design,Principal,72.8,603100,6.6
-MSFT-0481,David Rossi,Microsoft,MSFT,Engineering,Principal,78.3,792600,8.5
-MSFT-0482,Raj Petrov,Microsoft,MSFT,Engineering,Staff,71.2,170800,10.5
-MSFT-0483,Daniel Kim,Microsoft,MSFT,Legal & Policy,Staff,74.7,245900,6.9
-MSFT-0484,Olivia Reyes,Microsoft,MSFT,Engineering,Senior Director,94.2,504800,16.2
-MSFT-0485,Thomas Park,Microsoft,MSFT,Design,Senior Director,83.3,366900,12.1
-MSFT-0486,David Nguyen,Microsoft,MSFT,Engineering,Senior Director,86.8,855700,5.9
-MSFT-0487,David Rossi,Microsoft,MSFT,Engineering,Principal,86.6,343100,4.8
-MSFT-0488,Mary Wang,Microsoft,MSFT,Operations,Senior,71.2,300500,3.4
-MSFT-0489,Priya Smith,Microsoft,MSFT,Operations,Senior,77.5,112400,3.1
-MSFT-0490,Hiroshi Lopez,Microsoft,MSFT,Operations,Senior,87.4,264000,7.8
-MSFT-0491,Nina Cohen,Microsoft,MSFT,Engineering,Principal,89.6,450500,14.6
-MSFT-0492,Fatima Nguyen,Microsoft,MSFT,Research & AI,Principal,66.0,317900,15.5
-MSFT-0493,Sofia Garcia,Microsoft,MSFT,Design,VP,88.4,627100,15.5
-MSFT-0494,Zoe Lee,Microsoft,MSFT,Engineering,Senior,81.5,96200,15.7
-MSFT-0495,Yuki Wang,Microsoft,MSFT,People/HR,Director,65.9,546500,9.2
-MSFT-0496,John Khan,Microsoft,MSFT,Engineering,VP,58.3,493500,12.3
-MSFT-0497,Priya Murphy,Microsoft,MSFT,Operations,Senior,83.8,234800,8.6
-MSFT-0498,Kevin Khan,Microsoft,MSFT,Sales & GTM,Principal,74.3,429600,12.6
-MSFT-0499,Priya Anderson,Microsoft,MSFT,Sales & GTM,Principal,74.6,759900,7.4
-MSFT-0500,Fatima Hassan,Microsoft,MSFT,Operations,Staff,51.1,299100,8.6
-MSFT-0501,Arjun Singh,Microsoft,MSFT,Research & AI,VP,82.6,1315800,13.7
-MSFT-0502,Daniel Lopez,Microsoft,MSFT,Engineering,SVP,86.2,1722900,11.5
-MSFT-0503,Aisha Chen,Microsoft,MSFT,People/HR,Principal,94.4,582700,13.2
-MSFT-0504,Carlos Murphy,Microsoft,MSFT,Marketing,VP,90.7,962100,13.9
-MSFT-0505,Grace Johnson,Microsoft,MSFT,Finance,Staff,94.7,327700,9.6
-MSFT-0506,Nina Tanaka,Microsoft,MSFT,Engineering,Senior,94.8,269500,5.1
-MSFT-0507,Wei Kim,Microsoft,MSFT,Operations,Staff,80.1,273200,11.0
-MSFT-0508,Chen Murphy,Microsoft,MSFT,Marketing,C-Suite,73.5,1426300,12.0
-MSFT-0509,Carlos Murphy,Microsoft,MSFT,Sales & GTM,Senior,72.0,206500,5.1
-MSFT-0510,Michael Tanaka,Microsoft,MSFT,Research & AI,Principal,71.7,455400,7.8
-MSFT-0511,Daniel Khan,Microsoft,MSFT,Operations,Senior Director,85.7,2343100,14.7
-MSFT-0512,Michael Murphy,Microsoft,MSFT,Sales & GTM,Staff,85.7,403800,5.0
-MSFT-0513,Daniel Wilson,Microsoft,MSFT,Legal & Policy,Senior,89.5,373000,7.1
-MSFT-0514,Carlos Nguyen,Microsoft,MSFT,Operations,Staff,68.2,250300,16.5
-MSFT-0515,Sofia Okafor,Microsoft,MSFT,Engineering,Senior Director,85.7,539000,10.4
-MSFT-0516,James Petrov,Microsoft,MSFT,Research & AI,Senior,87.0,389300,7.8
-MSFT-0517,Kevin Cohen,Microsoft,MSFT,Operations,Senior Director,85.3,363400,24.4
-MSFT-0518,Hiroshi Johnson,Microsoft,MSFT,Operations,Director,62.2,520500,8.2
-MSFT-0519,Maria Wilson,Microsoft,MSFT,Legal & Policy,Senior Director,94.9,1210900,7.8
-MSFT-0520,Sofia Reyes,Microsoft,MSFT,Engineering,Principal,68.9,296500,8.9
-MSFT-0521,David Yamamoto,Microsoft,MSFT,Sales & GTM,Senior,79.4,152200,9.3
-MSFT-0522,Priya Singh,Microsoft,MSFT,Engineering,Senior,73.4,177200,3.3
-MSFT-0523,James Ali,Microsoft,MSFT,Engineering,Staff,70.1,395300,5.1
-MSFT-0524,Fatima Petrov,Microsoft,MSFT,Product,Staff,79.7,229900,8.0
-MSFT-0525,Ahmed Yamamoto,Microsoft,MSFT,Engineering,Principal,83.3,369500,13.5
-MSFT-0526,Olivia Wang,Microsoft,MSFT,Engineering,VP,90.3,467100,14.0
-MSFT-0527,Priya Chen,Microsoft,MSFT,Engineering,Staff,87.4,273400,8.0
-MSFT-0528,Chen Park,Microsoft,MSFT,People/HR,Principal,80.6,942300,7.1
-MSFT-0529,David Anderson,Microsoft,MSFT,Engineering,Principal,71.9,1054200,12.3
-MSFT-0530,Hiroshi Cohen,Microsoft,MSFT,Finance,Principal,83.1,316400,10.3
-MSFT-0531,Aisha Chen,Microsoft,MSFT,Design,Senior,81.6,168000,6.3
-MSFT-0532,Chen Chen,Microsoft,MSFT,Operations,Senior,82.1,120100,8.0
-MSFT-0533,Elena Reyes,Microsoft,MSFT,Research & AI,Senior,84.7,451400,9.1
-MSFT-0534,Thomas Davis,Microsoft,MSFT,Finance,Principal,91.4,510800,10.7
-MSFT-0535,Olivia Reyes,Microsoft,MSFT,Engineering,Staff,83.6,543600,3.3
-MSFT-0536,Thomas Silva,Microsoft,MSFT,Engineering,Principal,90.2,150600,4.7
-MSFT-0537,Zoe Tanaka,Microsoft,MSFT,Engineering,Staff,75.1,190400,19.2
-MSFT-0538,Daniel Singh,Microsoft,MSFT,Engineering,VP,79.6,799900,11.5
-MSFT-0539,Thomas Wilson,Microsoft,MSFT,Design,Staff,93.2,432700,10.3
-MSFT-0540,Maria Tanaka,Microsoft,MSFT,Research & AI,Principal,81.5,222000,9.0
-MSFT-0541,Wei Ali,Microsoft,MSFT,Design,Senior,68.4,247700,4.9
-MSFT-0542,Ahmed Johnson,Microsoft,MSFT,Sales & GTM,Staff,58.8,281400,3.3
-MSFT-0543,James Davis,Microsoft,MSFT,Finance,Principal,65.2,375200,6.3
-MSFT-0544,Aisha Garcia,Microsoft,MSFT,Operations,Staff,74.1,253400,2.9
-MSFT-0545,John Davis,Microsoft,MSFT,Finance,Director,81.1,743700,5.5
-MSFT-0546,Hiroshi Lee,Microsoft,MSFT,Engineering,Director,85.1,1084700,11.9
-MSFT-0547,Thomas Schmidt,Microsoft,MSFT,Legal & Policy,Principal,79.3,284400,13.6
-MSFT-0548,Chen Patel,Microsoft,MSFT,Research & AI,Principal,84.3,165900,9.5
-MSFT-0549,Aisha Lopez,Microsoft,MSFT,Engineering,Senior,76.6,348100,4.2
-MSFT-0550,Grace Kim,Microsoft,MSFT,Product,VP,84.5,1749200,9.2
-MSFT-0551,Arjun Okafor,Microsoft,MSFT,Engineering,Principal,71.2,451900,7.2
-MSFT-0552,Chen Silva,Microsoft,MSFT,Research & AI,Senior,86.1,569500,2.5
-MSFT-0553,Zoe Ali,Microsoft,MSFT,Operations,Senior,87.7,77000,8.2
-MSFT-0554,James Smith,Microsoft,MSFT,Engineering,Senior,83.1,245300,3.2
-MSFT-0555,Kevin Silva,Microsoft,MSFT,Product,Senior,84.3,259300,2.4
-MSFT-0556,Elena Martinez,Microsoft,MSFT,Engineering,Principal,73.1,284600,5.8
-MSFT-0557,Hiroshi Okafor,Microsoft,MSFT,Engineering,Staff,72.1,532900,11.7
-MSFT-0558,James Reyes,Microsoft,MSFT,People/HR,Staff,74.9,458800,9.4
-MSFT-0559,Daniel Murphy,Microsoft,MSFT,Engineering,Principal,98.3,618700,4.0
-MSFT-0560,Arjun Davis,Microsoft,MSFT,Marketing,Senior Director,84.9,480800,5.4
-MSFT-0561,Raj Anderson,Microsoft,MSFT,Finance,Principal,77.1,505000,5.9
-MSFT-0562,Sofia Okafor,Microsoft,MSFT,Research & AI,Senior,92.7,264200,5.9
-MSFT-0563,Sofia Wang,Microsoft,MSFT,Engineering,SVP,72.0,639400,13.1
-MSFT-0564,Chen Hassan,Microsoft,MSFT,Engineering,Senior Director,82.9,1428200,4.3
-MSFT-0565,Raj Reyes,Microsoft,MSFT,People/HR,Director,95.0,204200,8.6
-MSFT-0566,James Schmidt,Microsoft,MSFT,Legal & Policy,Senior Director,82.5,534500,16.3
-MSFT-0567,Ahmed Smith,Microsoft,MSFT,Marketing,Director,74.0,434500,5.4
-MSFT-0568,Priya Brown,Microsoft,MSFT,Sales & GTM,Senior,89.0,330200,6.9
-MSFT-0569,Hannah Singh,Microsoft,MSFT,Product,VP,77.2,1473100,9.4
-MSFT-0570,Zoe Brown,Microsoft,MSFT,Engineering,Senior,83.7,159300,6.4
-MSFT-0571,Elena Johnson,Microsoft,MSFT,Finance,Senior,68.6,937900,7.0
-MSFT-0572,David Yamamoto,Microsoft,MSFT,Engineering,Principal,77.2,332200,11.6
-MSFT-0573,Aisha Khan,Microsoft,MSFT,Research & AI,Staff,80.1,295000,2.8
-MSFT-0574,Wei Ali,Microsoft,MSFT,Finance,Principal,77.0,331500,12.1
-MSFT-0575,Zoe Lopez,Microsoft,MSFT,Engineering,Senior,67.1,185100,7.1
-MSFT-0576,Kevin Petrov,Microsoft,MSFT,Engineering,Senior,77.1,165200,12.8
-MSFT-0577,Samuel Patel,Microsoft,MSFT,Sales & GTM,Senior,67.5,850400,4.6
-MSFT-0578,Emily Park,Microsoft,MSFT,Engineering,Senior,91.5,220000,4.1
-MSFT-0579,Michael Cohen,Microsoft,MSFT,Research & AI,Senior,83.0,411000,6.0
-MSFT-0580,Yuki Rossi,Microsoft,MSFT,Finance,Senior,87.2,430000,5.0
-MSFT-0581,James Chen,Microsoft,MSFT,Engineering,Principal,77.0,851600,3.5
-MSFT-0582,Carlos Ali,Microsoft,MSFT,Engineering,Director,82.5,259700,4.4
-MSFT-0583,Grace Khan,Microsoft,MSFT,Engineering,Staff,95.5,647500,7.3
-MSFT-0584,Chen Khan,Microsoft,MSFT,Research & AI,SVP,77.0,1560700,26.7
-MSFT-0585,Mary Brown,Microsoft,MSFT,Operations,Senior,96.5,84600,2.0
-MSFT-0586,Carlos Patel,Microsoft,MSFT,Product,Senior Director,86.5,1264100,11.7
-MSFT-0587,Daniel Cohen,Microsoft,MSFT,Engineering,C-Suite,92.2,1460500,14.4
-MSFT-0588,Aisha Wilson,Microsoft,MSFT,Marketing,Principal,68.6,669100,11.0
-MSFT-0589,Hiroshi Petrov,Microsoft,MSFT,Engineering,Senior,80.3,239100,12.2
-MSFT-0590,Daniel Patel,Microsoft,MSFT,Operations,Senior,77.6,446100,2.6
-MSFT-0591,Wei Silva,Microsoft,MSFT,Engineering,Principal,58.0,481400,8.2
-MSFT-0592,Thomas Anderson,Microsoft,MSFT,Engineering,Senior Director,100.0,407200,5.4
-MSFT-0593,Carlos Nguyen,Microsoft,MSFT,Engineering,Senior,64.3,86700,3.4
-MSFT-0594,James Schmidt,Microsoft,MSFT,Operations,Director,82.8,253400,7.0
-MSFT-0595,Zoe Ali,Microsoft,MSFT,Sales & GTM,Senior,89.6,217800,3.2
-MSFT-0596,Kevin Yamamoto,Microsoft,MSFT,Sales & GTM,Director,100.0,709800,7.5
-MSFT-0597,Hiroshi Reyes,Microsoft,MSFT,Product,Senior Director,78.1,891700,5.9
-MSFT-0598,Daniel Ali,Microsoft,MSFT,Research & AI,Director,91.4,290200,8.3
-MSFT-0599,Michael Schmidt,Microsoft,MSFT,Sales & GTM,Staff,73.0,289500,3.9
-MSFT-0600,Olivia Nguyen,Microsoft,MSFT,Research & AI,VP,87.5,1030800,9.6
-MSFT-0601,Zoe Patel,Microsoft,MSFT,Engineering,Senior,83.8,260200,13.6
-MSFT-0602,Michael Garcia,Microsoft,MSFT,Research & AI,Senior,69.6,123200,9.8
-MSFT-0603,Yuki Reyes,Microsoft,MSFT,Engineering,Senior,83.5,490700,8.7
-MSFT-0604,Kevin Smith,Microsoft,MSFT,Engineering,Senior,81.7,367200,7.2
-MSFT-0605,Linda Garcia,Microsoft,MSFT,Design,Senior,70.1,149300,3.2
-MSFT-0606,Elena Yamamoto,Microsoft,MSFT,Engineering,Senior Director,78.6,881000,8.3
-MSFT-0607,Nina Brown,Microsoft,MSFT,Sales & GTM,Staff,66.3,147400,4.0
-MSFT-0608,James Singh,Microsoft,MSFT,Operations,Senior,72.9,130800,7.0
-MSFT-0609,Aisha Wang,Microsoft,MSFT,Research & AI,Staff,76.1,761300,11.3
-MSFT-0610,James Wilson,Microsoft,MSFT,Finance,Senior,80.9,230800,12.5
-MSFT-0611,Priya Martinez,Microsoft,MSFT,Research & AI,VP,82.6,507100,8.4
-MSFT-0612,Zoe Okafor,Microsoft,MSFT,Sales & GTM,SVP,73.4,937900,12.5
-MSFT-0613,Arjun Anderson,Microsoft,MSFT,Engineering,Staff,53.4,64000,7.2
-MSFT-0614,Wei Martinez,Microsoft,MSFT,Operations,Director,73.4,321000,16.1
-MSFT-0615,Elena Schmidt,Microsoft,MSFT,Legal & Policy,Senior,64.3,144000,1.5
-MSFT-0616,Sofia Chen,Microsoft,MSFT,Legal & Policy,Principal,85.1,265200,4.4
-MSFT-0617,Wei Okafor,Microsoft,MSFT,Design,Principal,74.5,148700,7.2
-MSFT-0618,Michael Singh,Microsoft,MSFT,Design,Principal,69.4,273700,8.4
-MSFT-0619,James Lee,Microsoft,MSFT,Sales & GTM,C-Suite,82.2,2139800,11.4
-MSFT-0620,Grace Rossi,Microsoft,MSFT,Sales & GTM,VP,86.8,1931800,5.6
-MSFT-0621,Aisha Park,Microsoft,MSFT,People/HR,Senior Director,87.6,1455400,7.9
-MSFT-0622,Thomas Reyes,Microsoft,MSFT,Engineering,Senior,86.0,189400,5.0
-MSFT-0623,Kevin Murphy,Microsoft,MSFT,Finance,Senior,73.4,313200,7.3
-MSFT-0624,David Silva,Microsoft,MSFT,Engineering,Principal,81.9,300800,10.3
-MSFT-0625,Fatima Murphy,Microsoft,MSFT,Research & AI,Senior Director,78.5,1394600,8.6
-MSFT-0626,David Lopez,Microsoft,MSFT,Finance,C-Suite,77.8,791600,18.4
-MSFT-0627,John Johnson,Microsoft,MSFT,Operations,VP,90.5,2080100,12.0
-MSFT-0628,Maria Garcia,Microsoft,MSFT,Sales & GTM,Staff,85.2,158500,9.0
-MSFT-0629,Daniel Petrov,Microsoft,MSFT,Product,Principal,81.8,1336600,6.8
-MSFT-0630,Samuel Schmidt,Microsoft,MSFT,Research & AI,Senior Director,78.5,823100,22.6
-MSFT-0631,Kevin Yamamoto,Microsoft,MSFT,Finance,Staff,74.1,208100,20.4
-MSFT-0632,Emily Lee,Microsoft,MSFT,Engineering,Senior Director,80.9,512300,8.5
-MSFT-0633,Michael Wilson,Microsoft,MSFT,Product,Principal,83.2,226600,3.8
-MSFT-0634,Ahmed Anderson,Microsoft,MSFT,Product,Director,67.1,648900,17.9
-MSFT-0635,Emily Ali,Microsoft,MSFT,Sales & GTM,SVP,71.6,1275400,16.3
-MSFT-0636,Nina Yamamoto,Microsoft,MSFT,People/HR,Staff,72.8,83900,10.0
-MSFT-0637,David Khan,Microsoft,MSFT,Operations,Principal,77.6,358900,12.5
-MSFT-0638,Aisha Khan,Microsoft,MSFT,Engineering,Principal,84.3,416700,12.3
-MSFT-0639,Kevin Wang,Microsoft,MSFT,Research & AI,VP,83.0,804600,17.5
-MSFT-0640,Michael Wang,Microsoft,MSFT,Engineering,Principal,92.6,376600,9.8
-MSFT-0641,James Smith,Microsoft,MSFT,Research & AI,Staff,70.7,167400,7.5
-MSFT-0642,Kevin Patel,Microsoft,MSFT,Marketing,Senior Director,89.5,1384400,7.6
-MSFT-0643,Grace Davis,Microsoft,MSFT,Engineering,Director,77.6,507800,8.9
-MSFT-0644,Nina Martinez,Microsoft,MSFT,Design,Staff,79.9,356500,7.8
-MSFT-0645,Priya Lee,Microsoft,MSFT,Research & AI,Senior,73.1,205500,2.5
-MSFT-0646,Wei Singh,Microsoft,MSFT,Engineering,Senior,58.6,140300,7.8
-MSFT-0647,Emily Anderson,Microsoft,MSFT,Sales & GTM,Senior,76.1,269300,8.6
-MSFT-0648,Elena Hassan,Microsoft,MSFT,Finance,Senior,84.6,136200,5.6
-MSFT-0649,Arjun Garcia,Microsoft,MSFT,Research & AI,Senior,74.0,306000,7.3
-MSFT-0650,Ahmed Lopez,Microsoft,MSFT,Marketing,Director,82.5,595700,4.6
-MSFT-0651,Linda Davis,Microsoft,MSFT,Sales & GTM,Staff,67.1,93200,18.5
-MSFT-0652,Elena Garcia,Microsoft,MSFT,Engineering,Director,77.4,668000,12.0
-MSFT-0653,Carlos Brown,Microsoft,MSFT,Engineering,Director,70.2,626200,8.2
-MSFT-0654,Mary Davis,Microsoft,MSFT,Product,Staff,76.2,473200,8.1
-MSFT-0655,Yuki Petrov,Microsoft,MSFT,Engineering,Senior Director,86.5,523200,9.1
-MSFT-0656,Hannah Garcia,Microsoft,MSFT,Research & AI,Senior Director,78.0,758500,7.1
-MSFT-0657,Arjun Brown,Microsoft,MSFT,Design,Staff,74.1,582400,11.7
-MSFT-0658,Wei Kim,Microsoft,MSFT,Engineering,Principal,88.2,596800,13.5
-MSFT-0659,Grace Tanaka,Microsoft,MSFT,Operations,Principal,85.5,380000,2.3
-MSFT-0660,Samuel Wang,Microsoft,MSFT,Product,Senior,85.2,88600,3.1
-MSFT-0661,Hannah Kim,Microsoft,MSFT,Operations,Senior,73.3,247300,9.7
-MSFT-0662,Elena Tanaka,Microsoft,MSFT,Research & AI,Senior,82.7,192600,1.7
-MSFT-0663,Olivia Murphy,Microsoft,MSFT,Operations,Director,85.5,701900,11.7
-MSFT-0664,Nina Anderson,Microsoft,MSFT,Research & AI,Staff,71.8,359100,20.5
-MSFT-0665,Hiroshi Nguyen,Microsoft,MSFT,Engineering,Senior Director,87.7,349200,17.3
-MSFT-0666,Nina Patel,Microsoft,MSFT,Operations,Senior,80.3,198500,4.0
-MSFT-0667,James Patel,Microsoft,MSFT,Product,Staff,85.8,296500,6.9
-MSFT-0668,Sofia Khan,Microsoft,MSFT,Research & AI,VP,88.0,738700,19.1
-MSFT-0669,Sofia Anderson,Microsoft,MSFT,Operations,Senior,81.1,549700,5.7
-MSFT-0670,Carlos Brown,Microsoft,MSFT,People/HR,Staff,77.8,108200,13.2
-MSFT-0671,James Murphy,Microsoft,MSFT,Engineering,Director,88.6,1331100,10.3
-MSFT-0672,David Silva,Microsoft,MSFT,Marketing,Senior,83.2,313100,17.3
-MSFT-0673,Carlos Chen,Microsoft,MSFT,Finance,Senior,81.1,159600,9.1
-MSFT-0674,David Brown,Microsoft,MSFT,Sales & GTM,Director,88.9,434200,6.5
-MSFT-0675,Emily Petrov,Microsoft,MSFT,Sales & GTM,Senior,71.4,138000,6.9
-MSFT-0676,Zoe Patel,Microsoft,MSFT,Engineering,VP,79.9,2028200,19.5
-MSFT-0677,Nina Wilson,Microsoft,MSFT,Legal & Policy,Principal,84.0,545000,6.4
-MSFT-0678,James Martinez,Microsoft,MSFT,Engineering,Staff,77.0,218700,16.9
-MSFT-0679,Zoe Brown,Microsoft,MSFT,Design,Senior,78.5,241700,14.6
-MSFT-0680,Aisha Smith,Microsoft,MSFT,Engineering,Senior,77.6,305600,11.2
-MSFT-0681,Fatima Davis,Microsoft,MSFT,Product,Principal,86.9,1143900,11.0
-MSFT-0682,Zoe Tanaka,Microsoft,MSFT,Research & AI,Principal,76.1,274200,5.9
-MSFT-0683,Ahmed Schmidt,Microsoft,MSFT,Operations,Senior,79.3,271600,7.8
-MSFT-0684,Priya Patel,Microsoft,MSFT,Engineering,Director,72.0,1242800,4.7
-MSFT-0685,James Petrov,Microsoft,MSFT,Engineering,Senior Director,86.5,433900,9.3
-MSFT-0686,Aisha Martinez,Microsoft,MSFT,Finance,Director,73.3,611800,6.7
-MSFT-0687,Zoe Schmidt,Microsoft,MSFT,Marketing,Staff,89.5,307800,8.7
-MSFT-0688,John Silva,Microsoft,MSFT,Marketing,Principal,72.7,526200,10.3
-MSFT-0689,Elena Kim,Microsoft,MSFT,Marketing,Senior,100.0,119300,4.4
-MSFT-0690,Emily Singh,Microsoft,MSFT,Product,Principal,83.5,734500,6.0
-MSFT-0691,Olivia Reyes,Microsoft,MSFT,Sales & GTM,Staff,77.2,219400,3.6
-MSFT-0692,Carlos Murphy,Microsoft,MSFT,Marketing,Senior,75.7,162400,4.3
-MSFT-0693,Nina Singh,Microsoft,MSFT,People/HR,Principal,87.9,486800,8.3
-MSFT-0694,Nina Kim,Microsoft,MSFT,Engineering,Senior,83.2,230000,9.3
-MSFT-0695,Fatima Rossi,Microsoft,MSFT,Engineering,Senior,69.3,212000,1.4
-MSFT-0696,Hannah Hassan,Microsoft,MSFT,Research & AI,Staff,83.3,230400,20.8
-MSFT-0697,Mary Brown,Microsoft,MSFT,Sales & GTM,Senior,70.6,260200,10.1
-MSFT-0698,Maria Rossi,Microsoft,MSFT,Design,Director,89.6,897700,4.9
-MSFT-0699,Aisha Patel,Microsoft,MSFT,Sales & GTM,Principal,79.7,301000,21.2
-MSFT-0700,James Garcia,Microsoft,MSFT,Operations,Director,90.5,1409800,6.8
-MSFT-0701,David Patel,Microsoft,MSFT,Engineering,VP,61.2,814900,9.1
-MSFT-0702,Raj Murphy,Microsoft,MSFT,Marketing,VP,78.6,1265700,14.0
-MSFT-0703,Hiroshi Lee,Microsoft,MSFT,Design,Staff,70.7,279500,24.7
-MSFT-0704,Kevin Kim,Microsoft,MSFT,Product,Principal,86.1,1314300,4.5
-MSFT-0705,Aisha Davis,Microsoft,MSFT,Product,Principal,76.1,557800,18.2
-MSFT-0706,Hiroshi Schmidt,Microsoft,MSFT,Operations,Staff,61.0,434700,2.5
-MSFT-0707,Elena Brown,Microsoft,MSFT,Finance,Staff,90.8,592500,12.4
-MSFT-0708,Chen Patel,Microsoft,MSFT,Engineering,Senior,71.2,268400,3.9
-MSFT-0709,Zoe Okafor,Microsoft,MSFT,Legal & Policy,Senior,75.6,411200,8.7
-MSFT-0710,Raj Tanaka,Microsoft,MSFT,Research & AI,Staff,78.7,528900,3.0
-MSFT-0711,John Patel,Microsoft,MSFT,Engineering,Director,91.8,268300,15.3
-MSFT-0712,John Brown,Microsoft,MSFT,Product,Director,72.3,386100,4.0
-MSFT-0713,Sofia Silva,Microsoft,MSFT,Engineering,Principal,86.2,508600,12.5
-MSFT-0714,Thomas Khan,Microsoft,MSFT,Engineering,Director,99.8,1320300,5.0
-MSFT-0715,Sofia Rossi,Microsoft,MSFT,Sales & GTM,Director,85.7,319600,7.1
-MSFT-0716,Michael Singh,Microsoft,MSFT,Marketing,Senior,87.3,438900,3.1
-MSFT-0717,Yuki Johnson,Microsoft,MSFT,Research & AI,Senior,71.6,140700,10.5
-MSFT-0718,Raj Murphy,Microsoft,MSFT,Engineering,VP,91.9,1063300,12.4
-MSFT-0719,Chen Petrov,Microsoft,MSFT,Finance,Senior Director,80.9,548500,22.6
-MSFT-0720,Zoe Kim,Microsoft,MSFT,Engineering,Senior Director,84.4,1121200,6.4
-MSFT-0721,Grace Johnson,Microsoft,MSFT,Operations,VP,87.5,1153200,10.4
-MSFT-0722,Mary Davis,Microsoft,MSFT,Engineering,Staff,73.1,250900,5.9
-MSFT-0723,Kevin Chen,Microsoft,MSFT,Engineering,Senior Director,73.8,413000,7.6
-MSFT-0724,James Brown,Microsoft,MSFT,Sales & GTM,Principal,75.9,395500,11.8
-MSFT-0725,Michael Park,Microsoft,MSFT,Engineering,Senior,68.8,165200,4.6
-MSFT-0726,Michael Cohen,Microsoft,MSFT,Engineering,Senior,62.4,239900,2.9
-MSFT-0727,Emily Patel,Microsoft,MSFT,Finance,Senior,73.2,300900,9.9
-MSFT-0728,Zoe Brown,Microsoft,MSFT,Engineering,Principal,79.1,768500,18.3
-MSFT-0729,Arjun Kim,Microsoft,MSFT,Engineering,Senior,85.7,508600,4.6
-MSFT-0730,Samuel Davis,Microsoft,MSFT,Engineering,Senior Director,84.1,372100,12.1
-MSFT-0731,Nina Patel,Microsoft,MSFT,Engineering,Principal,89.0,376500,5.6
-MSFT-0732,Maria Rossi,Microsoft,MSFT,People/HR,Staff,79.3,287800,9.3
-MSFT-0733,Thomas Yamamoto,Microsoft,MSFT,Research & AI,Principal,96.3,410200,5.8
-MSFT-0734,Arjun Rossi,Microsoft,MSFT,Sales & GTM,Director,88.6,623000,12.1
-MSFT-0735,Zoe Okafor,Microsoft,MSFT,Research & AI,Director,85.4,578900,13.6
-MSFT-0736,Mary Schmidt,Microsoft,MSFT,Sales & GTM,Senior Director,69.5,813900,7.5
-MSFT-0737,Raj Wilson,Microsoft,MSFT,Product,Staff,72.4,329700,14.2
-MSFT-0738,Chen Lee,Microsoft,MSFT,Product,Principal,74.7,220300,11.2
-MSFT-0739,Linda Tanaka,Microsoft,MSFT,Research & AI,Senior,95.2,102100,2.6
-MSFT-0740,Raj Davis,Microsoft,MSFT,Engineering,Principal,70.6,508200,8.9
-MSFT-0741,Emily Tanaka,Microsoft,MSFT,Sales & GTM,Director,79.3,190600,7.2
-MSFT-0742,Elena Ali,Microsoft,MSFT,Sales & GTM,Senior,73.3,149100,4.1
-MSFT-0743,Daniel Murphy,Microsoft,MSFT,People/HR,Principal,82.2,814600,8.9
-MSFT-0744,Aisha Murphy,Microsoft,MSFT,Operations,Senior,89.4,213400,5.8
-MSFT-0745,Grace Okafor,Microsoft,MSFT,Research & AI,Principal,84.2,343900,7.5
-MSFT-0746,Olivia Lee,Microsoft,MSFT,Engineering,Staff,81.6,1484300,3.1
-MSFT-0747,Arjun Reyes,Microsoft,MSFT,Engineering,Staff,77.1,195700,12.2
-MSFT-0748,Maria Singh,Microsoft,MSFT,Research & AI,Staff,75.6,142900,5.3
-MSFT-0749,Carlos Wang,Microsoft,MSFT,Engineering,Staff,83.1,200800,4.0
-MSFT-0750,Arjun Brown,Microsoft,MSFT,Engineering,Senior,88.1,419200,0.8
-MSFT-0751,Aisha Nguyen,Microsoft,MSFT,Product,Senior,68.8,383200,2.6
-MSFT-0752,John Nguyen,Microsoft,MSFT,Product,Senior,86.3,566900,18.4
-MSFT-0753,Elena Singh,Microsoft,MSFT,Sales & GTM,Principal,90.3,858300,3.4
-MSFT-0754,Elena Chen,Microsoft,MSFT,Product,Senior Director,73.0,1485100,14.1
-MSFT-0755,Hannah Reyes,Microsoft,MSFT,Research & AI,Senior Director,78.9,493800,9.2
-MSFT-0756,Arjun Kim,Microsoft,MSFT,Finance,Principal,88.3,750600,8.2
-MSFT-0757,Elena Rossi,Microsoft,MSFT,Engineering,Senior,88.1,209400,9.8
-MSFT-0758,Carlos Martinez,Microsoft,MSFT,Engineering,Senior,73.6,197700,4.3
-MSFT-0759,Hannah Lee,Microsoft,MSFT,Operations,Senior,73.6,178000,2.9
-MSFT-0760,Yuki Silva,Microsoft,MSFT,Product,Director,78.2,859700,7.5
-MSFT-0761,Arjun Anderson,Microsoft,MSFT,Engineering,Senior,84.1,248700,9.6
-MSFT-0762,Michael Smith,Microsoft,MSFT,Legal & Policy,Staff,90.9,177400,8.2
-MSFT-0763,Hiroshi Kim,Microsoft,MSFT,Research & AI,VP,71.1,1178300,21.1
-MSFT-0764,Thomas Singh,Microsoft,MSFT,Engineering,Principal,82.4,441600,12.0
-MSFT-0765,Fatima Johnson,Microsoft,MSFT,Product,VP,90.5,1991200,8.6
-MSFT-0766,Olivia Yamamoto,Microsoft,MSFT,Research & AI,VP,88.7,1057900,8.4
-MSFT-0767,Carlos Silva,Microsoft,MSFT,Engineering,Staff,93.4,570900,5.8
-MSFT-0768,Maria Lopez,Microsoft,MSFT,Operations,Staff,79.6,1011600,10.9
-MSFT-0769,Zoe Lopez,Microsoft,MSFT,Engineering,Principal,67.7,554000,11.6
-MSFT-0770,Hannah Nguyen,Microsoft,MSFT,Product,Director,99.4,490700,8.0
-MSFT-0771,Yuki Petrov,Microsoft,MSFT,Product,Staff,75.2,140300,6.9
-MSFT-0772,Priya Wang,Microsoft,MSFT,Engineering,Director,88.8,198100,8.1
-MSFT-0773,Carlos Reyes,Microsoft,MSFT,Engineering,Director,79.6,411900,5.9
-MSFT-0774,Sofia Rossi,Microsoft,MSFT,Product,Staff,77.1,623600,9.2
-MSFT-0775,Mary Lee,Microsoft,MSFT,Research & AI,Senior Director,77.4,1061700,15.7
-MSFT-0776,Olivia Silva,Microsoft,MSFT,Design,Staff,79.5,335200,6.3
-MSFT-0777,Hiroshi Lee,Microsoft,MSFT,Sales & GTM,Senior,76.2,130800,9.0
-MSFT-0778,Hannah Wilson,Microsoft,MSFT,Design,Staff,85.3,244000,4.1
-MSFT-0779,Priya Wang,Microsoft,MSFT,Research & AI,Director,69.1,964100,9.7
-MSFT-0780,Linda Wang,Microsoft,MSFT,Engineering,Director,92.3,345600,13.9
-MSFT-0781,Maria Nguyen,Microsoft,MSFT,Product,Staff,80.8,176100,10.0
-MSFT-0782,Thomas Martinez,Microsoft,MSFT,Research & AI,Principal,93.6,325300,8.8
-MSFT-0783,Maria Khan,Microsoft,MSFT,Sales & GTM,Principal,80.4,297000,3.1
-MSFT-0784,James Martinez,Microsoft,MSFT,Research & AI,Staff,75.3,165300,5.5
-MSFT-0785,Michael Patel,Microsoft,MSFT,Engineering,Principal,75.8,726400,7.0
-MSFT-0786,James Patel,Microsoft,MSFT,Product,Senior,76.3,92900,4.7
-MSFT-0787,Linda Rossi,Microsoft,MSFT,Legal & Policy,Principal,87.4,296300,15.2
-MSFT-0788,Mary Chen,Microsoft,MSFT,Research & AI,Staff,71.8,610600,5.5
-MSFT-0789,Kevin Martinez,Microsoft,MSFT,Research & AI,Principal,73.3,497400,6.3
-MSFT-0790,Priya Johnson,Microsoft,MSFT,Engineering,Senior,78.1,218200,7.6
-MSFT-0791,Hannah Lopez,Microsoft,MSFT,Research & AI,Staff,57.8,279000,4.0
-MSFT-0792,Samuel Park,Microsoft,MSFT,Operations,Principal,86.9,541700,14.5
-MSFT-0793,Arjun Ali,Microsoft,MSFT,Engineering,Senior,78.5,284600,4.8
-MSFT-0794,Mary Reyes,Microsoft,MSFT,Product,Director,85.2,621700,6.3
-MSFT-0795,Raj Patel,Microsoft,MSFT,Legal & Policy,Staff,72.6,349700,8.4
-MSFT-0796,Samuel Brown,Microsoft,MSFT,Design,Staff,68.7,340100,2.9
-MSFT-0797,Priya Hassan,Microsoft,MSFT,Research & AI,Director,74.0,790600,8.9
-MSFT-0798,Hannah Garcia,Microsoft,MSFT,Engineering,Senior,72.5,239100,15.2
-MSFT-0799,Priya Rossi,Microsoft,MSFT,Engineering,Senior,63.9,316300,18.0
-MSFT-0800,David Wang,Microsoft,MSFT,Marketing,Staff,87.7,321800,9.4
-MSFT-0801,Hannah Okafor,Microsoft,MSFT,Operations,Senior,65.6,105000,4.9
-MSFT-0802,Zoe Hassan,Microsoft,MSFT,Marketing,Principal,81.8,338100,11.5
-MSFT-0803,Samuel Yamamoto,Microsoft,MSFT,Operations,Staff,86.9,421600,9.9
-MSFT-0804,Raj Lee,Microsoft,MSFT,Finance,Senior,68.4,158400,1.4
-MSFT-0805,Michael Chen,Microsoft,MSFT,Engineering,VP,80.5,675300,14.2
-MSFT-0806,Sofia Smith,Microsoft,MSFT,Research & AI,Director,73.9,731000,3.5
-MSFT-0807,Chen Patel,Microsoft,MSFT,Product,Principal,79.1,280100,4.3
-MSFT-0808,Chen Schmidt,Microsoft,MSFT,Engineering,Senior,76.5,548100,15.1
-MSFT-0809,Emily Tanaka,Microsoft,MSFT,Engineering,Senior,71.6,152400,5.8
-MSFT-0810,Raj Hassan,Microsoft,MSFT,Engineering,Director,85.1,644600,6.0
-MSFT-0811,Michael Cohen,Microsoft,MSFT,Engineering,Staff,61.4,403900,5.9
-MSFT-0812,Carlos Singh,Microsoft,MSFT,Operations,Staff,78.4,351400,4.5
-MSFT-0813,Raj Yamamoto,Microsoft,MSFT,Engineering,Senior,92.3,197400,3.1
-MSFT-0814,Carlos Johnson,Microsoft,MSFT,Engineering,Staff,54.4,101600,8.0
-MSFT-0815,Carlos Tanaka,Microsoft,MSFT,Sales & GTM,SVP,84.7,1431600,8.9
-MSFT-0816,Ahmed Chen,Microsoft,MSFT,Research & AI,Director,82.7,211800,13.3
-MSFT-0817,Nina Ali,Microsoft,MSFT,Research & AI,Staff,90.4,648600,5.8
-MSFT-0818,Chen Brown,Microsoft,MSFT,Engineering,Senior,74.1,85700,6.6
-MSFT-0819,James Patel,Microsoft,MSFT,Research & AI,VP,84.2,600700,15.4
-MSFT-0820,Mary Davis,Microsoft,MSFT,Product,Staff,94.8,134600,14.6
-MSFT-0821,Mary Murphy,Microsoft,MSFT,Research & AI,Director,89.8,464000,12.0
-MSFT-0822,David Garcia,Microsoft,MSFT,Marketing,Director,92.0,1600700,12.3
-MSFT-0823,Aisha Lopez,Microsoft,MSFT,Engineering,Senior Director,65.4,608200,17.8
-MSFT-0824,Elena Hassan,Microsoft,MSFT,Engineering,Senior,63.9,189300,4.7
-MSFT-0825,Grace Nguyen,Microsoft,MSFT,Engineering,Staff,92.0,260800,9.7
-MSFT-0826,Grace Yamamoto,Microsoft,MSFT,Engineering,Staff,74.8,261200,14.1
-MSFT-0827,Emily Brown,Microsoft,MSFT,People/HR,Senior,88.4,285900,12.4
-MSFT-0828,Priya Lopez,Microsoft,MSFT,Operations,Director,89.4,743800,18.1
-MSFT-0829,Emily Lee,Microsoft,MSFT,Research & AI,Senior,65.1,170500,7.9
-MSFT-0830,Elena Reyes,Microsoft,MSFT,Sales & GTM,Senior,78.4,207500,7.1
-MSFT-0831,Mary Murphy,Microsoft,MSFT,Operations,Director,80.0,463300,20.6
-MSFT-0832,Grace Hassan,Microsoft,MSFT,Product,Director,82.7,641700,14.4
-MSFT-0833,Elena Park,Microsoft,MSFT,Research & AI,Senior Director,81.8,964100,15.3
-MSFT-0834,Aisha Davis,Microsoft,MSFT,Engineering,VP,87.8,532400,6.4
-MSFT-0835,Priya Wang,Microsoft,MSFT,Product,Principal,73.0,354400,9.5
-MSFT-0836,Mary Wang,Microsoft,MSFT,Sales & GTM,Senior,73.9,157700,2.8
-MSFT-0837,Michael Schmidt,Microsoft,MSFT,Product,Senior,66.0,69500,10.6
-MSFT-0838,Fatima Davis,Microsoft,MSFT,Research & AI,Senior,76.8,293100,9.9
-MSFT-0839,Nina Park,Microsoft,MSFT,Finance,Principal,70.4,134700,12.7
-MSFT-0840,James Chen,Microsoft,MSFT,Legal & Policy,Staff,76.8,105100,7.3
-MSFT-0841,Sofia Khan,Microsoft,MSFT,Engineering,Staff,78.4,267700,3.4
-MSFT-0842,John Lopez,Microsoft,MSFT,Product,Senior,79.5,166700,6.1
-MSFT-0843,Raj Johnson,Microsoft,MSFT,Operations,Senior,78.2,355300,2.6
-MSFT-0844,John Ali,Microsoft,MSFT,Engineering,Director,89.3,643900,8.3
-MSFT-0845,Elena Singh,Microsoft,MSFT,Legal & Policy,Principal,75.0,305200,19.2
-MSFT-0846,Raj Murphy,Microsoft,MSFT,Design,Senior,81.8,205300,7.6
-MSFT-0847,Thomas Hassan,Microsoft,MSFT,Product,Staff,79.1,358500,13.4
-MSFT-0848,Grace Wang,Microsoft,MSFT,Marketing,Senior,68.7,265900,5.4
-MSFT-0849,Sofia Khan,Microsoft,MSFT,Research & AI,VP,88.5,583100,8.4
-MSFT-0850,David Patel,Microsoft,MSFT,Research & AI,VP,78.2,888600,10.3
-MSFT-0851,Emily Reyes,Microsoft,MSFT,Sales & GTM,Principal,85.1,451900,5.3
-MSFT-0852,Chen Tanaka,Microsoft,MSFT,Product,Senior,72.6,171300,8.7
-MSFT-0853,Aisha Johnson,Microsoft,MSFT,People/HR,Principal,68.2,286500,7.6
-MSFT-0854,Emily Park,Microsoft,MSFT,Product,Principal,87.4,600500,4.1
-MSFT-0855,Priya Ali,Microsoft,MSFT,Design,Senior,67.6,384100,8.2
-MSFT-0856,Chen Reyes,Microsoft,MSFT,Research & AI,Staff,73.3,157800,9.5
-MSFT-0857,Olivia Smith,Microsoft,MSFT,Operations,Senior,82.7,191800,7.4
-MSFT-0858,Grace Murphy,Microsoft,MSFT,Marketing,Senior,64.9,149100,2.8
-MSFT-0859,Mary Lee,Microsoft,MSFT,Product,Senior Director,89.5,578400,10.1
-MSFT-0860,Nina Lee,Microsoft,MSFT,Operations,Senior,76.1,239500,14.2
-MSFT-0861,Carlos Tanaka,Microsoft,MSFT,Engineering,Senior,84.2,486700,6.1
-MSFT-0862,Fatima Kim,Microsoft,MSFT,Research & AI,Principal,79.7,590400,4.0
-MSFT-0863,Wei Chen,Microsoft,MSFT,Design,Senior Director,63.7,1017000,9.5
-MSFT-0864,Thomas Patel,Microsoft,MSFT,Marketing,Staff,84.7,264100,4.9
-MSFT-0865,Sofia Cohen,Microsoft,MSFT,Research & AI,Staff,87.5,230500,2.4
-MSFT-0866,Priya Wilson,Microsoft,MSFT,Engineering,Staff,72.2,146200,15.6
-MSFT-0867,Chen Singh,Microsoft,MSFT,Research & AI,Staff,84.5,163900,12.8
-MSFT-0868,David Nguyen,Microsoft,MSFT,Product,Staff,85.1,369000,9.0
-MSFT-0869,David Garcia,Microsoft,MSFT,Marketing,Staff,71.5,326200,15.4
-MSFT-0870,Arjun Kim,Microsoft,MSFT,Sales & GTM,Senior Director,93.1,1506700,9.0
-MSFT-0871,Sofia Tanaka,Microsoft,MSFT,Research & AI,Senior,67.9,260900,5.2
-MSFT-0872,Daniel Silva,Microsoft,MSFT,Legal & Policy,Principal,79.9,421900,6.2
-MSFT-0873,Samuel Hassan,Microsoft,MSFT,Engineering,Senior,80.6,158800,12.7
-MSFT-0874,John Rossi,Microsoft,MSFT,Research & AI,Principal,86.7,339900,20.8
-MSFT-0875,Priya Wang,Microsoft,MSFT,Legal & Policy,Senior Director,79.1,2133600,5.6
-MSFT-0876,Mary Martinez,Microsoft,MSFT,Operations,Staff,80.8,115300,3.1
-MSFT-0877,Raj Singh,Microsoft,MSFT,Design,Senior,83.1,207500,6.9
-MSFT-0878,Olivia Johnson,Microsoft,MSFT,Finance,Senior,63.7,169200,7.8
-MSFT-0879,Hiroshi Lee,Microsoft,MSFT,Engineering,Senior,68.0,502800,9.3
-MSFT-0880,Wei Johnson,Microsoft,MSFT,Engineering,Director,78.4,429600,7.1
-MSFT-0881,Michael Kim,Microsoft,MSFT,Research & AI,Senior Director,74.5,631600,7.8
-MSFT-0882,Yuki Ali,Microsoft,MSFT,Design,Principal,85.3,758000,5.0
-MSFT-0883,Linda Johnson,Microsoft,MSFT,Finance,Senior,78.9,493400,12.8
-MSFT-0884,Kevin Lopez,Microsoft,MSFT,Research & AI,Senior,80.3,290400,11.9
-MSFT-0885,Fatima Okafor,Microsoft,MSFT,Engineering,Principal,95.8,445900,5.8
-MSFT-0886,Michael Cohen,Microsoft,MSFT,Design,Senior,65.9,263800,8.3
-MSFT-0887,Mary Schmidt,Microsoft,MSFT,People/HR,Senior Director,85.2,926100,10.1
-MSFT-0888,Raj Wang,Microsoft,MSFT,Engineering,Staff,89.8,216700,6.9
-MSFT-0889,Samuel Hassan,Microsoft,MSFT,Engineering,Principal,72.1,381300,3.6
-MSFT-0890,Mary Murphy,Microsoft,MSFT,Engineering,Staff,62.0,295200,11.5
-MSFT-0891,Zoe Park,Microsoft,MSFT,Engineering,Staff,67.8,269300,5.9
-MSFT-0892,Linda Garcia,Microsoft,MSFT,Engineering,Senior,72.3,131100,7.6
-MSFT-0893,Wei Nguyen,Microsoft,MSFT,Engineering,Principal,74.6,374600,13.1
-MSFT-0894,Kevin Brown,Microsoft,MSFT,Design,Director,77.8,640400,10.3
-MSFT-0895,Zoe Rossi,Microsoft,MSFT,Engineering,Staff,78.7,502300,15.4
-MSFT-0896,Yuki Wang,Microsoft,MSFT,Research & AI,Staff,90.7,186500,8.7
-MSFT-0897,Elena Wang,Microsoft,MSFT,Finance,Staff,86.2,568000,5.3
-MSFT-0898,Fatima Khan,Microsoft,MSFT,Engineering,Staff,85.6,438500,10.8
-MSFT-0899,Thomas Petrov,Microsoft,MSFT,Marketing,SVP,88.5,1054400,11.6
-MSFT-0900,Linda Anderson,Microsoft,MSFT,Marketing,Senior,89.3,103000,5.0
-MSFT-0901,John Garcia,Microsoft,MSFT,Engineering,Director,89.5,453800,6.6
-MSFT-0902,Aisha Petrov,Microsoft,MSFT,Operations,SVP,78.3,998800,10.3
-MSFT-0903,Grace Cohen,Microsoft,MSFT,Engineering,SVP,76.7,4918900,6.9
-MSFT-0904,Olivia Petrov,Microsoft,MSFT,Sales & GTM,SVP,79.8,1508400,17.1
-MSFT-0905,Raj Petrov,Microsoft,MSFT,Engineering,Staff,80.9,211500,4.4
-MSFT-0906,Grace Tanaka,Microsoft,MSFT,Operations,Senior Director,71.2,673800,9.0
-MSFT-0907,Raj Yamamoto,Microsoft,MSFT,Engineering,Senior,66.6,137000,1.9
-MSFT-0908,John Silva,Microsoft,MSFT,Operations,Staff,91.9,249000,8.8
-MSFT-0909,Mary Davis,Microsoft,MSFT,Engineering,Staff,87.9,295500,4.2
-MSFT-0910,Elena Smith,Microsoft,MSFT,Sales & GTM,Senior,77.3,347700,3.7
-MSFT-0911,John Reyes,Microsoft,MSFT,Engineering,Senior,88.0,379200,3.3
-MSFT-0912,Mary Kim,Microsoft,MSFT,Engineering,Principal,93.0,1463600,4.0
-MSFT-0913,Kevin Martinez,Microsoft,MSFT,Sales & GTM,Senior Director,84.8,749500,8.1
-MSFT-0914,Fatima Ali,Microsoft,MSFT,Engineering,Principal,78.2,766600,7.1
-MSFT-0915,James Brown,Microsoft,MSFT,Engineering,Staff,67.5,157200,10.3
-MSFT-0916,Samuel Petrov,Microsoft,MSFT,Engineering,Senior,76.4,272500,4.1
-MSFT-0917,Nina Singh,Microsoft,MSFT,Sales & GTM,Principal,76.3,461100,16.4
-MSFT-0918,Daniel Singh,Microsoft,MSFT,Research & AI,Principal,90.0,500900,3.8
-MSFT-0919,Emily Chen,Microsoft,MSFT,Engineering,Senior Director,67.7,502800,10.4
-MSFT-0920,Arjun Park,Microsoft,MSFT,Engineering,Staff,78.7,477900,5.8
-MSFT-0921,Elena Rossi,Microsoft,MSFT,Engineering,Staff,72.5,326200,11.8
-MSFT-0922,Elena Reyes,Microsoft,MSFT,Engineering,Staff,66.0,346000,7.7
-MSFT-0923,Ahmed Singh,Microsoft,MSFT,Marketing,Director,84.0,626700,7.6
-MSFT-0924,Ahmed Silva,Microsoft,MSFT,Research & AI,Staff,74.4,202000,16.5
-MSFT-0925,Zoe Wilson,Microsoft,MSFT,Sales & GTM,Principal,73.4,329300,11.6
-MSFT-0926,Maria Schmidt,Microsoft,MSFT,Sales & GTM,Senior,72.9,410800,22.6
-MSFT-0927,Thomas Schmidt,Microsoft,MSFT,Research & AI,Director,87.8,312200,11.7
-MSFT-0928,Emily Martinez,Microsoft,MSFT,Marketing,Director,64.4,349100,7.4
-MSFT-0929,Maria Smith,Microsoft,MSFT,People/HR,Senior,80.3,304200,4.2
-MSFT-0930,Michael Reyes,Microsoft,MSFT,Design,Senior,63.6,164500,6.5
-MSFT-0931,Hannah Martinez,Microsoft,MSFT,Sales & GTM,Principal,85.6,719100,2.6
-MSFT-0932,Daniel Schmidt,Microsoft,MSFT,Design,Staff,87.3,474400,3.2
-MSFT-0933,Samuel Schmidt,Microsoft,MSFT,Finance,Staff,86.5,435400,6.7
-MSFT-0934,Linda Petrov,Microsoft,MSFT,Engineering,Principal,67.5,414300,12.6
-MSFT-0935,James Davis,Microsoft,MSFT,People/HR,Staff,84.9,608700,6.9
-MSFT-0936,Hiroshi Park,Microsoft,MSFT,Product,Staff,72.2,121000,14.9
-MSFT-0937,Maria Nguyen,Microsoft,MSFT,Marketing,Senior,76.8,371100,6.1
-MSFT-0938,Raj Yamamoto,Microsoft,MSFT,Product,Senior,69.4,171800,5.7
-MSFT-0939,Nina Ali,Microsoft,MSFT,Product,Senior,74.5,175300,2.7
-MSFT-0940,Hannah Okafor,Microsoft,MSFT,Design,Staff,77.5,567700,4.5
-MSFT-0941,Thomas Martinez,Microsoft,MSFT,Finance,Staff,82.1,870900,9.8
-MSFT-0942,David Chen,Microsoft,MSFT,Research & AI,Principal,80.1,390800,7.9
-MSFT-0943,Thomas Wilson,Microsoft,MSFT,Engineering,Senior,62.0,147700,4.3
-MSFT-0944,Sofia Okafor,Microsoft,MSFT,Engineering,Staff,86.1,317000,6.8
-MSFT-0945,John Tanaka,Microsoft,MSFT,Sales & GTM,Principal,82.6,1002700,6.9
-MSFT-0946,Sofia Lopez,Microsoft,MSFT,Legal & Policy,Senior Director,86.4,489400,6.2
-MSFT-0947,Samuel Cohen,Microsoft,MSFT,Legal & Policy,Senior,57.3,160100,6.8
-MSFT-0948,Aisha Tanaka,Microsoft,MSFT,Sales & GTM,Staff,70.0,318400,4.9
-MSFT-0949,James Yamamoto,Microsoft,MSFT,Finance,Senior,66.8,103800,3.7
-MSFT-0950,Ahmed Park,Microsoft,MSFT,Engineering,VP,90.4,1691600,8.9
-MSFT-0951,Daniel Nguyen,Microsoft,MSFT,Operations,Principal,88.4,540900,8.4
-MSFT-0952,Hannah Martinez,Microsoft,MSFT,Engineering,Principal,80.8,391400,8.3
-MSFT-0953,Elena Hassan,Microsoft,MSFT,Sales & GTM,Senior,80.2,270500,2.3
-MSFT-0954,Ahmed Cohen,Microsoft,MSFT,Engineering,VP,84.9,415000,10.5
-MSFT-0955,Fatima Lee,Microsoft,MSFT,Engineering,Staff,80.8,1155400,16.7
-MSFT-0956,Grace Johnson,Microsoft,MSFT,Engineering,Director,87.7,921100,9.1
-MSFT-0957,Linda Murphy,Microsoft,MSFT,Engineering,Senior,70.0,181100,2.1
-MSFT-0958,Sofia Yamamoto,Microsoft,MSFT,Engineering,Senior Director,100.0,696800,8.0
-MSFT-0959,Raj Petrov,Microsoft,MSFT,Engineering,Principal,81.9,328600,19.1
-MSFT-0960,Aisha Murphy,Microsoft,MSFT,Operations,Director,86.5,407500,8.3
-MSFT-0961,John Brown,Microsoft,MSFT,Engineering,Senior,83.3,218200,17.3
-MSFT-0962,Carlos Okafor,Microsoft,MSFT,Engineering,Director,93.5,543800,11.8
-MSFT-0963,Zoe Lopez,Microsoft,MSFT,Finance,Director,68.5,424000,8.5
-MSFT-0964,Arjun Yamamoto,Microsoft,MSFT,Engineering,Senior,71.3,256300,5.2
-MSFT-0965,Samuel Murphy,Microsoft,MSFT,Legal & Policy,Senior,70.0,362200,3.6
-MSFT-0966,David Wang,Microsoft,MSFT,Operations,Senior,78.6,176600,5.9
-MSFT-0967,David Ali,Microsoft,MSFT,Engineering,Staff,77.3,330700,5.5
-MSFT-0968,Yuki Petrov,Microsoft,MSFT,Engineering,Senior,69.5,172800,4.5
-MSFT-0969,Samuel Tanaka,Microsoft,MSFT,Product,Principal,57.3,226000,9.4
-MSFT-0970,Michael Hassan,Microsoft,MSFT,Sales & GTM,Senior,93.3,137500,7.7
-MSFT-0971,Fatima Wilson,Microsoft,MSFT,Finance,SVP,88.4,2706300,15.4
-MSFT-0972,David Okafor,Microsoft,MSFT,Sales & GTM,Staff,81.1,281200,6.5
-MSFT-0973,Maria Okafor,Microsoft,MSFT,Engineering,Staff,75.9,394500,7.3
-MSFT-0974,Zoe Davis,Microsoft,MSFT,Design,Principal,88.9,532300,4.7
-MSFT-0975,Aisha Reyes,Microsoft,MSFT,Research & AI,Senior Director,88.2,475000,10.1
-MSFT-0976,Linda Johnson,Microsoft,MSFT,Research & AI,Staff,76.6,499400,7.8
-MSFT-0977,Maria Schmidt,Microsoft,MSFT,Sales & GTM,Senior,74.7,150500,10.4
-MSFT-0978,Fatima Okafor,Microsoft,MSFT,Design,Staff,63.0,143300,4.2
-MSFT-0979,John Cohen,Microsoft,MSFT,Engineering,Senior Director,78.8,864500,14.1
-MSFT-0980,Priya Silva,Microsoft,MSFT,Design,Senior,77.2,168300,3.9
-MSFT-0981,Ahmed Wang,Microsoft,MSFT,Research & AI,Senior,81.0,166700,11.6
-MSFT-0982,Samuel Silva,Microsoft,MSFT,Operations,Staff,91.6,579100,7.7
-MSFT-0983,Priya Tanaka,Microsoft,MSFT,Finance,SVP,73.7,1495300,9.6
-MSFT-0984,Chen Ali,Microsoft,MSFT,Sales & GTM,Director,100.0,883500,8.5
-MSFT-0985,Samuel Okafor,Microsoft,MSFT,Engineering,VP,88.3,685800,9.4
-MSFT-0986,Elena Park,Microsoft,MSFT,Marketing,SVP,68.0,796000,7.1
-MSFT-0987,Arjun Nguyen,Microsoft,MSFT,Marketing,Senior,77.3,400000,4.1
-MSFT-0988,Chen Khan,Microsoft,MSFT,Finance,Staff,88.0,388500,11.5
-MSFT-0989,Raj Tanaka,Microsoft,MSFT,Research & AI,VP,73.6,1641700,8.9
-MSFT-0990,Samuel Patel,Microsoft,MSFT,Finance,Principal,100.0,339200,11.4
-MSFT-0991,Thomas Nguyen,Microsoft,MSFT,Engineering,Senior,66.1,101600,5.9
-MSFT-0992,Yuki Hassan,Microsoft,MSFT,Engineering,Staff,67.0,212600,6.0
-MSFT-0993,Wei Garcia,Microsoft,MSFT,Engineering,Senior,83.7,209900,10.7
-MSFT-0994,Olivia Tanaka,Microsoft,MSFT,Product,Senior,81.0,159300,3.5
-MSFT-0995,Olivia Ali,Microsoft,MSFT,Engineering,Staff,60.4,229600,8.7
-MSFT-0996,Kevin Kim,Microsoft,MSFT,Engineering,Senior Director,93.9,406900,8.8
-MSFT-0997,Zoe Murphy,Microsoft,MSFT,Engineering,Senior,84.5,167200,10.0
-MSFT-0998,Sofia Okafor,Microsoft,MSFT,Legal & Policy,Senior Director,77.1,410600,7.0
-MSFT-0999,Wei Smith,Microsoft,MSFT,Research & AI,Senior,85.5,294600,8.3
-MSFT-1000,Olivia Murphy,Microsoft,MSFT,Research & AI,Senior,72.2,397700,4.1
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years,potential_index,origin_region,socioeconomic_origin,first_generation_professional,adversity_origin_score,mental_strength
+MSFT-0001,Mary Garcia,Microsoft,MSFT,Research & AI,Senior,76.6,189400,6.4,68.8,North America,Working class,No,82.5,87.5
+MSFT-0002,Ahmed Anderson,Microsoft,MSFT,People/HR,Senior,85.0,219500,11.1,69.0,North America,Middle,No,46.9,81.9
+MSFT-0003,Kevin Khan,Microsoft,MSFT,Operations,SVP,62.0,764200,7.1,81.1,East Asia,Lower-middle,Yes,69.6,74.8
+MSFT-0004,Sofia Schmidt,Microsoft,MSFT,Marketing,Senior,87.2,122800,13.1,64.1,South Asia,Lower-middle,Yes,74.5,60.5
+MSFT-0005,David Rossi,Microsoft,MSFT,Research & AI,Senior,78.9,255700,5.3,60.0,East Asia,Middle,No,40.1,56.4
+MSFT-0006,Ahmed Nguyen,Microsoft,MSFT,Research & AI,Staff,69.3,280700,6.8,59.8,East Asia,Affluent,No,19.3,52.6
+MSFT-0007,Arjun Smith,Microsoft,MSFT,Research & AI,VP,79.6,646500,8.7,63.3,Southeast Asia,Lower-middle,No,61.5,49.5
+MSFT-0008,John Murphy,Microsoft,MSFT,Research & AI,Director,60.1,160800,12.1,61.7,Europe,Middle,No,55.0,71.7
+MSFT-0009,Arjun Kim,Microsoft,MSFT,Engineering,Senior Director,62.5,1108200,9.5,79.0,Middle East,Lower-middle,No,70.4,52.3
+MSFT-0010,Ahmed Wilson,Microsoft,MSFT,Finance,Director,82.9,694800,11.3,61.5,North America,Working class,No,92.0,75.5
+MSFT-0011,Thomas Rossi,Microsoft,MSFT,Research & AI,Senior,77.2,140500,2.5,62.9,Africa,Lower-middle,Yes,78.4,53.1
+MSFT-0012,Ahmed Rossi,Microsoft,MSFT,Engineering,Senior,66.1,124000,1.2,51.3,South Asia,Affluent,No,19.0,41.1
+MSFT-0013,Carlos Wilson,Microsoft,MSFT,Sales & GTM,Staff,86.9,435300,9.2,59.1,Europe,Middle,No,44.3,36.1
+MSFT-0014,Chen Silva,Microsoft,MSFT,Design,Staff,71.2,268500,5.0,55.1,East Asia,Lower-middle,Yes,79.4,74.9
+MSFT-0015,Samuel Yamamoto,Microsoft,MSFT,Product,Staff,69.7,257700,10.1,67.3,South Asia,Working class,Yes,93.9,72.2
+MSFT-0016,Michael Okafor,Microsoft,MSFT,Product,Senior,87.2,209700,10.7,58.8,North America,Middle,Yes,58.7,62.4
+MSFT-0017,Emily Singh,Microsoft,MSFT,Marketing,Senior,84.9,81800,11.8,54.1,North America,Lower-middle,No,64.8,76.9
+MSFT-0018,James Ali,Microsoft,MSFT,Engineering,Director,81.2,547600,7.1,70.8,North America,Middle,Yes,67.9,66.0
+MSFT-0019,Nina Lee,Microsoft,MSFT,Engineering,Staff,80.1,257500,10.5,62.3,North America,Upper-middle,No,42.7,85.3
+MSFT-0020,James Ali,Microsoft,MSFT,People/HR,Staff,81.7,223600,19.8,74.0,North America,Lower-middle,No,72.7,57.8
+MSFT-0021,Grace Ali,Microsoft,MSFT,Engineering,Principal,69.9,325600,10.6,57.4,South Asia,Working class,Yes,90.4,79.1
+MSFT-0022,Daniel Nguyen,Microsoft,MSFT,Engineering,Staff,73.0,294000,7.5,50.0,East Asia,Working class,Yes,85.7,59.6
+MSFT-0023,Fatima Cohen,Microsoft,MSFT,People/HR,Senior Director,68.8,451600,15.3,63.8,North America,Upper-middle,No,38.3,68.3
+MSFT-0024,Zoe Martinez,Microsoft,MSFT,Engineering,Principal,75.5,334900,11.4,69.5,North America,Middle,No,53.0,74.2
+MSFT-0025,Hannah Tanaka,Microsoft,MSFT,Research & AI,Director,75.9,368200,7.2,57.7,South Asia,Affluent,No,17.6,45.1
+MSFT-0026,Sofia Lopez,Microsoft,MSFT,Engineering,Director,84.0,413700,29.9,60.9,North America,Lower-middle,Yes,85.1,87.1
+MSFT-0027,Raj Hassan,Microsoft,MSFT,Research & AI,SVP,83.9,1416200,9.3,64.8,South Asia,Lower-middle,Yes,91.1,71.6
+MSFT-0028,Zoe Johnson,Microsoft,MSFT,Engineering,Senior,73.2,113400,10.2,60.3,Africa,Middle,No,53.2,74.5
+MSFT-0029,James Murphy,Microsoft,MSFT,Operations,Principal,91.2,311900,11.0,63.5,Europe,Middle,No,49.9,63.0
+MSFT-0030,Samuel Singh,Microsoft,MSFT,Engineering,Senior,88.6,1013000,3.8,60.0,South Asia,Lower-middle,No,60.7,81.6
+MSFT-0031,Emily Chen,Microsoft,MSFT,Design,Staff,82.2,552700,5.8,70.2,North America,Working class,Yes,95.3,86.2
+MSFT-0032,Maria Chen,Microsoft,MSFT,Research & AI,Principal,58.5,282800,11.0,73.4,East Asia,Upper-middle,Yes,52.8,65.0
+MSFT-0033,Zoe Rossi,Microsoft,MSFT,Product,Senior,72.1,419500,6.0,54.8,South Asia,Affluent,No,13.7,64.0
+MSFT-0034,David Davis,Microsoft,MSFT,Engineering,Senior,83.0,238400,2.2,66.9,South Asia,Upper-middle,No,39.8,70.9
+MSFT-0035,Yuki Smith,Microsoft,MSFT,Marketing,Senior,68.0,380500,10.9,60.4,South Asia,Middle,Yes,66.1,71.7
+MSFT-0036,James Martinez,Microsoft,MSFT,People/HR,Senior Director,75.6,1799900,13.3,53.3,North America,Lower-middle,No,67.4,59.8
+MSFT-0037,Grace Hassan,Microsoft,MSFT,Research & AI,Staff,77.5,538000,8.4,62.4,North America,Middle,No,45.4,74.7
+MSFT-0038,Thomas Khan,Microsoft,MSFT,Engineering,Senior,82.5,173400,8.2,59.9,North America,Lower-middle,Yes,80.2,74.6
+MSFT-0039,Elena Johnson,Microsoft,MSFT,Finance,Senior Director,67.7,1227100,8.9,83.0,South Asia,Working class,Yes,82.0,63.9
+MSFT-0040,Nina Lopez,Microsoft,MSFT,Research & AI,Staff,64.8,840200,2.7,61.2,Latin America,Upper-middle,No,35.0,63.7
+MSFT-0041,Chen Cohen,Microsoft,MSFT,Design,VP,81.7,475500,8.0,76.0,South Asia,Middle,No,55.1,69.2
+MSFT-0042,David Anderson,Microsoft,MSFT,Engineering,VP,70.4,938100,18.7,66.8,East Asia,Middle,No,45.7,68.6
+MSFT-0043,Samuel Kim,Microsoft,MSFT,Marketing,Senior,75.8,305600,8.0,63.1,North America,Middle,Yes,59.9,72.0
+MSFT-0044,Hannah Rossi,Microsoft,MSFT,Engineering,Principal,72.2,505400,5.5,75.9,East Asia,Lower-middle,Yes,77.1,59.7
+MSFT-0045,Fatima Silva,Microsoft,MSFT,Engineering,Director,72.1,580300,7.9,59.1,Southeast Asia,Upper-middle,No,36.4,75.1
+MSFT-0046,Zoe Hassan,Microsoft,MSFT,Design,Director,70.7,250300,26.0,59.5,South Asia,Lower-middle,No,67.0,69.0
+MSFT-0047,Aisha Petrov,Microsoft,MSFT,Product,Staff,72.9,255000,6.3,65.0,North America,Lower-middle,Yes,78.6,94.0
+MSFT-0048,Hannah Kim,Microsoft,MSFT,Engineering,Director,89.3,388000,8.8,73.3,North America,Upper-middle,Yes,33.5,53.8
+MSFT-0049,Maria Wilson,Microsoft,MSFT,Operations,Director,81.1,799900,7.7,56.9,North America,Middle,No,60.2,68.3
+MSFT-0050,David Petrov,Microsoft,MSFT,Engineering,Director,73.9,465900,10.3,74.4,South Asia,Working class,Yes,92.2,71.0
+MSFT-0051,Elena Tanaka,Microsoft,MSFT,Engineering,Senior,68.2,287800,9.9,53.1,South Asia,Middle,No,48.5,61.7
+MSFT-0052,Raj Yamamoto,Microsoft,MSFT,Product,Senior,81.3,369500,5.7,65.4,Europe,Upper-middle,No,46.9,65.6
+MSFT-0053,Kevin Johnson,Microsoft,MSFT,Product,Senior,88.1,217800,2.9,66.3,Middle East,Middle,No,50.9,75.3
+MSFT-0054,Priya Brown,Microsoft,MSFT,Product,Senior,69.0,139000,6.8,52.4,South Asia,Middle,No,60.5,64.7
+MSFT-0055,David Lopez,Microsoft,MSFT,Finance,Staff,70.3,286900,6.1,73.0,South Asia,Affluent,No,21.9,66.1
+MSFT-0056,Daniel Chen,Microsoft,MSFT,Engineering,Director,78.4,324500,8.8,60.4,Europe,Upper-middle,No,28.6,45.0
+MSFT-0057,Mary Singh,Microsoft,MSFT,Marketing,Senior,93.5,432600,7.5,62.1,North America,Middle,No,38.6,66.3
+MSFT-0058,Sofia Park,Microsoft,MSFT,Product,VP,73.2,818400,9.3,70.7,South Asia,Lower-middle,Yes,72.7,54.5
+MSFT-0059,Ahmed Lee,Microsoft,MSFT,Design,Principal,80.3,579500,6.0,59.3,North America,Upper-middle,No,30.5,44.6
+MSFT-0060,Maria Brown,Microsoft,MSFT,Sales & GTM,Staff,74.3,184100,7.8,72.0,North America,Upper-middle,No,27.5,65.7
+MSFT-0061,Elena Nguyen,Microsoft,MSFT,Sales & GTM,Senior Director,78.0,596200,12.6,64.5,North America,Middle,Yes,55.3,68.5
+MSFT-0062,Michael Singh,Microsoft,MSFT,Product,Director,90.4,677000,7.6,78.5,Middle East,Working class,Yes,93.2,88.9
+MSFT-0063,Fatima Silva,Microsoft,MSFT,Operations,Staff,82.8,270600,10.6,63.0,Middle East,Middle,No,47.0,70.2
+MSFT-0064,Yuki Lee,Microsoft,MSFT,Sales & GTM,Senior,72.8,190800,12.5,57.5,North America,Working class,Yes,78.1,52.9
+MSFT-0065,Yuki Ali,Microsoft,MSFT,Engineering,Principal,96.2,597300,6.2,71.1,Europe,Lower-middle,Yes,70.0,67.5
+MSFT-0066,Hiroshi Cohen,Microsoft,MSFT,Sales & GTM,Principal,75.3,570200,8.7,71.3,East Asia,Middle,No,47.9,64.9
+MSFT-0067,James Reyes,Microsoft,MSFT,Product,Director,79.1,245600,8.0,62.0,North America,Middle,No,40.7,68.0
+MSFT-0068,Sofia Chen,Microsoft,MSFT,Engineering,Principal,92.6,392300,4.3,75.1,Europe,Lower-middle,No,69.6,75.5
+MSFT-0069,Wei Martinez,Microsoft,MSFT,Operations,Staff,59.4,245700,3.9,62.9,South Asia,Upper-middle,No,31.2,61.5
+MSFT-0070,Fatima Johnson,Microsoft,MSFT,Engineering,Senior,77.6,243000,15.6,63.2,Southeast Asia,Lower-middle,No,68.1,60.9
+MSFT-0071,Linda Wilson,Microsoft,MSFT,Research & AI,Principal,77.7,942900,8.7,69.8,North America,Middle,No,42.6,72.2
+MSFT-0072,Priya Brown,Microsoft,MSFT,Design,Principal,87.7,849000,8.5,73.1,Europe,Lower-middle,No,69.0,86.2
+MSFT-0073,Hannah Cohen,Microsoft,MSFT,Legal & Policy,Staff,100.0,596700,8.0,63.4,North America,Affluent,No,32.0,65.8
+MSFT-0074,Hiroshi Petrov,Microsoft,MSFT,Sales & GTM,Director,76.8,383400,9.0,63.6,East Asia,Lower-middle,No,57.7,74.1
+MSFT-0075,Grace Petrov,Microsoft,MSFT,Engineering,Senior,73.9,325000,2.2,49.2,North America,Upper-middle,No,36.6,48.7
+MSFT-0076,Arjun Smith,Microsoft,MSFT,Sales & GTM,Staff,81.5,156900,16.0,64.9,South Asia,Middle,No,47.8,64.2
+MSFT-0077,Chen Tanaka,Microsoft,MSFT,Sales & GTM,VP,79.3,1508500,11.4,94.0,South Asia,Middle,Yes,73.8,78.3
+MSFT-0078,Yuki Schmidt,Microsoft,MSFT,Engineering,Senior Director,80.3,325800,6.9,61.2,North America,Working class,Yes,92.7,84.1
+MSFT-0079,Hiroshi Silva,Microsoft,MSFT,Finance,Senior,74.9,276800,11.0,69.6,South Asia,Lower-middle,Yes,81.0,87.0
+MSFT-0080,Olivia Chen,Microsoft,MSFT,Marketing,Senior,77.4,106400,1.3,59.5,North America,Lower-middle,Yes,70.5,69.3
+MSFT-0081,Priya Rossi,Microsoft,MSFT,Finance,Staff,74.1,173600,6.9,63.0,North America,Middle,Yes,51.5,48.1
+MSFT-0082,Ahmed Petrov,Microsoft,MSFT,Engineering,Senior,78.9,129000,10.3,60.5,North America,Middle,No,47.3,44.6
+MSFT-0083,Hiroshi Patel,Microsoft,MSFT,Design,Staff,75.1,567900,9.3,71.2,North America,Upper-middle,No,25.0,59.7
+MSFT-0084,Linda Singh,Microsoft,MSFT,Engineering,Staff,75.6,604300,3.1,72.5,North America,Affluent,No,32.4,66.4
+MSFT-0085,Linda Petrov,Microsoft,MSFT,Engineering,Staff,69.7,626700,7.0,64.9,North America,Middle,No,70.8,68.1
+MSFT-0086,Aisha Yamamoto,Microsoft,MSFT,Finance,Principal,74.2,136900,14.5,65.6,North America,Affluent,No,22.9,60.3
+MSFT-0087,Chen Chen,Microsoft,MSFT,Engineering,Staff,91.8,427800,9.4,55.2,Middle East,Middle,No,52.1,79.9
+MSFT-0088,Grace Patel,Microsoft,MSFT,Research & AI,Senior,66.2,146300,7.3,50.3,North America,Upper-middle,No,54.4,69.9
+MSFT-0089,Samuel Silva,Microsoft,MSFT,Sales & GTM,Staff,77.9,186000,14.3,52.4,North America,Affluent,No,20.7,65.1
+MSFT-0090,Sofia Patel,Microsoft,MSFT,Research & AI,Director,85.0,306300,6.7,65.5,Europe,Working class,Yes,83.5,57.7
+MSFT-0091,Elena Chen,Microsoft,MSFT,Research & AI,Staff,91.1,881300,4.1,65.7,Latin America,Middle,No,32.2,65.6
+MSFT-0092,David Schmidt,Microsoft,MSFT,Engineering,Staff,82.9,391400,7.2,69.1,South Asia,Upper-middle,No,47.0,60.0
+MSFT-0093,Carlos Smith,Microsoft,MSFT,Finance,Staff,97.8,580500,2.3,58.9,East Asia,Working class,No,76.8,56.1
+MSFT-0094,Mary Singh,Microsoft,MSFT,Operations,Staff,87.6,541400,4.8,70.5,Middle East,Middle,No,49.4,83.5
+MSFT-0095,Fatima Cohen,Microsoft,MSFT,Research & AI,Senior,64.6,256800,14.8,52.8,North America,Lower-middle,Yes,70.2,80.4
+MSFT-0096,Arjun Yamamoto,Microsoft,MSFT,Operations,VP,100.0,483500,5.1,80.0,South Asia,Upper-middle,Yes,46.2,52.1
+MSFT-0097,Linda Cohen,Microsoft,MSFT,Marketing,Staff,84.5,429800,8.6,53.4,South Asia,Upper-middle,No,40.6,79.9
+MSFT-0098,David Nguyen,Microsoft,MSFT,Operations,Senior,68.2,152600,8.5,56.4,South Asia,Affluent,No,29.8,73.5
+MSFT-0099,Priya Davis,Microsoft,MSFT,Product,Staff,84.6,79700,9.2,65.3,South Asia,Working class,Yes,83.3,66.7
+MSFT-0100,John Tanaka,Microsoft,MSFT,Engineering,Director,86.1,492100,8.0,69.9,East Asia,Upper-middle,No,44.0,74.9
+MSFT-0101,David Wang,Microsoft,MSFT,Finance,Staff,100.0,559400,4.3,71.4,North America,Upper-middle,No,35.7,70.6
+MSFT-0102,Wei Anderson,Microsoft,MSFT,Finance,Staff,77.5,412800,17.3,52.0,North America,Lower-middle,Yes,62.6,68.6
+MSFT-0103,Daniel Johnson,Microsoft,MSFT,Research & AI,Staff,81.4,155500,8.3,75.8,Southeast Asia,Lower-middle,No,72.6,82.9
+MSFT-0104,Thomas Reyes,Microsoft,MSFT,Engineering,VP,85.4,2620500,10.5,69.9,South Asia,Middle,Yes,51.8,64.3
+MSFT-0105,Thomas Ali,Microsoft,MSFT,Engineering,Director,77.6,204700,25.0,72.1,East Asia,Affluent,No,16.4,65.0
+MSFT-0106,Fatima Garcia,Microsoft,MSFT,Engineering,Principal,80.1,663100,6.8,62.8,South Asia,Upper-middle,No,45.5,54.4
+MSFT-0107,Hannah Kim,Microsoft,MSFT,Engineering,Principal,84.0,610200,16.1,63.6,North America,Middle,No,54.6,55.1
+MSFT-0108,Carlos Petrov,Microsoft,MSFT,Research & AI,Principal,96.8,457400,15.4,68.3,Middle East,Working class,Yes,95.9,64.0
+MSFT-0109,Linda Hassan,Microsoft,MSFT,People/HR,Staff,75.1,232000,4.8,60.7,Southeast Asia,Upper-middle,Yes,37.5,67.5
+MSFT-0110,Priya Park,Microsoft,MSFT,Engineering,Principal,84.8,909800,8.0,62.0,Europe,Upper-middle,No,45.1,61.9
+MSFT-0111,James Lee,Microsoft,MSFT,Product,Staff,82.3,682100,4.7,66.0,North America,Upper-middle,No,32.5,66.1
+MSFT-0112,Hannah Singh,Microsoft,MSFT,Engineering,Director,79.2,449300,6.5,65.2,Europe,Middle,Yes,62.3,60.0
+MSFT-0113,Chen Anderson,Microsoft,MSFT,Engineering,Senior,76.5,754600,4.2,63.6,South Asia,Working class,No,81.8,89.5
+MSFT-0114,David Hassan,Microsoft,MSFT,Engineering,Senior,81.4,401100,3.9,60.2,East Asia,Working class,Yes,76.5,87.0
+MSFT-0115,Daniel Cohen,Microsoft,MSFT,Engineering,Senior,75.2,143600,8.9,80.3,North America,Middle,No,56.2,73.0
+MSFT-0116,Ahmed Nguyen,Microsoft,MSFT,Finance,Senior Director,63.4,1083900,11.8,75.2,North America,Working class,Yes,91.0,70.5
+MSFT-0117,Linda Chen,Microsoft,MSFT,Engineering,Principal,86.5,404700,2.9,76.3,South Asia,Middle,No,48.7,58.7
+MSFT-0118,Emily Garcia,Microsoft,MSFT,Sales & GTM,Staff,80.2,550300,7.7,75.7,Latin America,Working class,Yes,91.5,84.0
+MSFT-0119,Aisha Tanaka,Microsoft,MSFT,Engineering,Principal,77.8,198800,10.2,59.5,North America,Affluent,No,19.5,56.0
+MSFT-0120,Linda Hassan,Microsoft,MSFT,Operations,Senior,74.3,248700,13.4,47.2,Southeast Asia,Upper-middle,No,36.8,56.4
+MSFT-0121,Maria Cohen,Microsoft,MSFT,Operations,Staff,83.5,232400,16.8,54.4,North America,Affluent,No,28.2,64.2
+MSFT-0122,Fatima Tanaka,Microsoft,MSFT,Marketing,Staff,74.4,371300,7.5,67.3,North America,Lower-middle,No,76.0,74.9
+MSFT-0123,Kevin Johnson,Microsoft,MSFT,Operations,Senior,86.4,307200,6.2,67.5,North America,Affluent,No,33.0,59.6
+MSFT-0124,James Patel,Microsoft,MSFT,Finance,Staff,72.9,813900,9.8,62.6,North America,Middle,No,53.9,70.9
+MSFT-0125,Michael Murphy,Microsoft,MSFT,Engineering,Senior,83.1,137400,7.5,71.1,North America,Lower-middle,No,63.1,79.8
+MSFT-0126,Zoe Anderson,Microsoft,MSFT,Engineering,Senior Director,100.0,1478900,24.1,75.1,Middle East,Lower-middle,No,68.3,63.8
+MSFT-0127,James Petrov,Microsoft,MSFT,People/HR,Director,80.4,448800,10.5,53.8,North America,Middle,Yes,52.6,49.4
+MSFT-0128,Wei Rossi,Microsoft,MSFT,Sales & GTM,Senior,71.1,200400,19.5,68.3,Middle East,Working class,Yes,91.2,82.1
+MSFT-0129,Grace Lopez,Microsoft,MSFT,Product,Principal,97.7,430800,7.1,65.9,Africa,Lower-middle,Yes,57.5,67.9
+MSFT-0130,Emily Ali,Microsoft,MSFT,Research & AI,VP,76.1,1441100,10.9,70.1,Europe,Lower-middle,Yes,86.0,72.9
+MSFT-0131,Wei Singh,Microsoft,MSFT,Finance,Staff,76.3,245700,6.1,76.9,North America,Upper-middle,No,35.2,61.6
+MSFT-0132,John Silva,Microsoft,MSFT,Engineering,Senior,86.4,525400,24.0,57.0,North America,Affluent,No,17.5,54.7
+MSFT-0133,David Singh,Microsoft,MSFT,Legal & Policy,Staff,85.9,301600,4.1,62.0,East Asia,Lower-middle,Yes,77.0,61.5
+MSFT-0134,Zoe Wilson,Microsoft,MSFT,Research & AI,Senior,74.2,109500,8.2,76.9,East Asia,Middle,Yes,60.9,68.0
+MSFT-0135,Elena Nguyen,Microsoft,MSFT,Sales & GTM,Staff,78.3,156100,2.9,63.4,North America,Lower-middle,Yes,79.0,68.7
+MSFT-0136,Thomas Khan,Microsoft,MSFT,Finance,Director,88.1,392900,17.5,73.4,Latin America,Working class,Yes,100.0,100.0
+MSFT-0137,Thomas Smith,Microsoft,MSFT,Operations,Senior,80.3,230000,10.7,53.1,North America,Affluent,No,21.3,65.0
+MSFT-0138,Mary Rossi,Microsoft,MSFT,Product,Director,64.5,489900,17.7,54.8,North America,Middle,No,45.1,66.7
+MSFT-0139,Carlos Khan,Microsoft,MSFT,Product,Principal,63.4,186500,7.3,61.0,North America,Middle,No,53.3,65.3
+MSFT-0140,Ahmed Yamamoto,Microsoft,MSFT,Research & AI,VP,89.5,930200,18.0,76.3,North America,Working class,Yes,81.9,67.7
+MSFT-0141,Grace Johnson,Microsoft,MSFT,Product,Staff,81.1,252000,5.8,62.4,South Asia,Affluent,No,17.6,69.8
+MSFT-0142,Sofia Reyes,Microsoft,MSFT,Marketing,SVP,74.8,741500,8.9,65.7,North America,Affluent,No,22.6,69.2
+MSFT-0143,Samuel Reyes,Microsoft,MSFT,Engineering,Senior,85.5,265100,2.1,63.7,North America,Upper-middle,No,38.3,62.3
+MSFT-0144,Michael Garcia,Microsoft,MSFT,Product,Senior,80.9,287100,3.6,54.4,North America,Middle,No,46.8,57.8
+MSFT-0145,Olivia Silva,Microsoft,MSFT,Legal & Policy,Director,87.4,509200,14.1,66.1,Middle East,Middle,No,56.5,80.3
+MSFT-0146,Yuki Petrov,Microsoft,MSFT,Research & AI,Principal,90.1,728200,22.2,67.7,South Asia,Upper-middle,No,40.5,63.2
+MSFT-0147,John Lopez,Microsoft,MSFT,Engineering,Senior,78.6,166800,8.8,67.7,South Asia,Middle,No,54.2,79.3
+MSFT-0148,Chen Ali,Microsoft,MSFT,Legal & Policy,Staff,68.2,108000,3.8,56.5,Oceania,Lower-middle,Yes,78.6,82.7
+MSFT-0149,Thomas Martinez,Microsoft,MSFT,Operations,Senior,69.7,293000,3.3,68.7,North America,Affluent,No,31.4,64.3
+MSFT-0150,Kevin Patel,Microsoft,MSFT,Finance,Senior,66.2,420300,3.6,63.1,North America,Middle,Yes,64.3,62.9
+MSFT-0151,Sofia Kim,Microsoft,MSFT,Sales & GTM,Senior,100.0,414500,3.3,68.1,North America,Lower-middle,No,68.6,74.4
+MSFT-0152,Olivia Petrov,Microsoft,MSFT,Engineering,Director,76.5,573100,9.3,69.8,North America,Middle,Yes,69.0,77.5
+MSFT-0153,Hiroshi Wang,Microsoft,MSFT,Design,Senior,68.1,217000,14.9,61.9,North America,Upper-middle,No,31.8,63.1
+MSFT-0154,Yuki Patel,Microsoft,MSFT,Marketing,Senior,66.2,112400,4.8,63.9,South Asia,Working class,Yes,94.6,68.0
+MSFT-0155,Mary Johnson,Microsoft,MSFT,Engineering,Senior,74.5,337400,11.6,58.9,South Asia,Middle,Yes,55.7,69.1
+MSFT-0156,James Anderson,Microsoft,MSFT,Research & AI,Staff,78.6,309700,10.0,65.6,North America,Middle,Yes,50.4,59.0
+MSFT-0157,Wei Singh,Microsoft,MSFT,Finance,Director,75.9,578000,6.8,69.8,South Asia,Middle,Yes,53.7,65.7
+MSFT-0158,Samuel Petrov,Microsoft,MSFT,Engineering,Principal,86.6,544600,11.3,54.1,Europe,Lower-middle,No,62.0,57.7
+MSFT-0159,Daniel Brown,Microsoft,MSFT,Product,Director,69.9,450900,13.7,62.9,North America,Middle,No,54.2,72.4
+MSFT-0160,Arjun Martinez,Microsoft,MSFT,Engineering,Director,81.5,690700,8.6,60.0,South Asia,Middle,No,49.8,56.3
+MSFT-0161,Fatima Khan,Microsoft,MSFT,Research & AI,SVP,68.2,2328200,11.5,71.2,North America,Affluent,No,21.9,66.5
+MSFT-0162,Ahmed Khan,Microsoft,MSFT,Engineering,Staff,82.5,669600,7.6,62.1,North America,Lower-middle,Yes,61.2,82.8
+MSFT-0163,Chen Petrov,Microsoft,MSFT,Product,Staff,72.5,136200,8.2,61.2,Middle East,Middle,No,58.4,55.0
+MSFT-0164,Emily Nguyen,Microsoft,MSFT,Research & AI,Senior,80.1,400200,1.5,56.9,Europe,Lower-middle,No,70.0,54.3
+MSFT-0165,Zoe Silva,Microsoft,MSFT,Engineering,Staff,86.5,314700,9.8,63.1,North America,Lower-middle,Yes,68.7,72.4
+MSFT-0166,Hannah Chen,Microsoft,MSFT,Research & AI,Senior,67.4,309300,3.6,56.9,North America,Lower-middle,No,68.1,64.3
+MSFT-0167,Olivia Yamamoto,Microsoft,MSFT,Engineering,Senior,77.3,351200,9.2,62.4,Latin America,Middle,No,47.2,65.0
+MSFT-0168,Linda Chen,Microsoft,MSFT,Engineering,Staff,80.8,520100,8.7,63.0,East Asia,Lower-middle,Yes,66.5,82.7
+MSFT-0169,Priya Davis,Microsoft,MSFT,Marketing,Principal,85.0,471800,1.8,79.3,East Asia,Middle,Yes,65.8,76.3
+MSFT-0170,Elena Davis,Microsoft,MSFT,Engineering,Director,86.0,1282900,5.4,63.1,North America,Middle,No,52.4,61.2
+MSFT-0171,Thomas Lopez,Microsoft,MSFT,Engineering,Staff,74.2,325800,4.2,82.6,North America,Upper-middle,No,30.9,65.8
+MSFT-0172,Thomas Wang,Microsoft,MSFT,Research & AI,Senior,77.6,230500,9.4,59.0,Africa,Middle,No,44.1,58.2
+MSFT-0173,Elena Garcia,Microsoft,MSFT,Engineering,SVP,90.5,1269200,12.4,67.7,North America,Working class,Yes,86.6,79.2
+MSFT-0174,Michael Silva,Microsoft,MSFT,Finance,Senior,97.2,448100,12.6,71.2,North America,Lower-middle,Yes,68.9,73.3
+MSFT-0175,Mary Tanaka,Microsoft,MSFT,Sales & GTM,Director,67.3,797000,7.6,64.9,South Asia,Middle,No,59.1,66.5
+MSFT-0176,James Davis,Microsoft,MSFT,Product,Senior,71.4,154000,7.7,62.2,North America,Middle,No,45.4,55.2
+MSFT-0177,Ahmed Patel,Microsoft,MSFT,Marketing,Principal,70.0,628400,6.7,70.0,North America,Lower-middle,No,64.0,68.9
+MSFT-0178,Nina Garcia,Microsoft,MSFT,Research & AI,Director,77.6,489900,6.9,72.7,East Asia,Middle,No,56.2,65.5
+MSFT-0179,Wei Anderson,Microsoft,MSFT,Operations,Senior,76.4,127200,10.0,70.8,East Asia,Lower-middle,Yes,77.8,76.6
+MSFT-0180,Nina Silva,Microsoft,MSFT,Sales & GTM,Senior,48.9,166300,5.9,57.2,Southeast Asia,Middle,No,52.6,68.9
+MSFT-0181,Daniel Smith,Microsoft,MSFT,Engineering,Principal,82.1,752000,10.1,69.2,Latin America,Lower-middle,Yes,73.6,58.0
+MSFT-0182,James Okafor,Microsoft,MSFT,Product,Senior,66.1,269900,6.6,68.4,North America,Lower-middle,Yes,79.0,75.0
+MSFT-0183,Samuel Chen,Microsoft,MSFT,Sales & GTM,Staff,78.0,269900,9.9,66.2,North America,Lower-middle,Yes,77.7,77.0
+MSFT-0184,Daniel Anderson,Microsoft,MSFT,Operations,Staff,70.4,251500,8.7,60.9,Southeast Asia,Middle,No,52.7,51.7
+MSFT-0185,Nina Wang,Microsoft,MSFT,Design,Senior Director,58.9,347300,14.1,72.2,North America,Middle,No,60.6,63.5
+MSFT-0186,Chen Anderson,Microsoft,MSFT,Engineering,Principal,78.6,421600,22.2,62.7,North America,Middle,No,34.8,61.6
+MSFT-0187,Carlos Khan,Microsoft,MSFT,Engineering,Director,81.9,499600,7.6,70.3,South Asia,Middle,Yes,67.7,75.5
+MSFT-0188,Olivia Garcia,Microsoft,MSFT,Product,Senior,76.0,133900,2.8,68.7,North America,Lower-middle,Yes,61.9,75.2
+MSFT-0189,Chen Okafor,Microsoft,MSFT,Engineering,Staff,76.7,88100,7.1,64.7,Latin America,Upper-middle,No,38.4,70.8
+MSFT-0190,David Wang,Microsoft,MSFT,Engineering,Senior,72.2,151500,3.0,56.6,South Asia,Lower-middle,Yes,75.2,93.2
+MSFT-0191,Olivia Garcia,Microsoft,MSFT,Product,SVP,70.0,1413200,12.3,72.0,Europe,Lower-middle,Yes,76.7,86.9
+MSFT-0192,Chen Wilson,Microsoft,MSFT,Product,VP,84.1,796300,11.4,72.3,North America,Middle,Yes,58.9,71.8
+MSFT-0193,Hannah Tanaka,Microsoft,MSFT,Operations,Senior,68.1,265500,4.2,72.6,North America,Lower-middle,No,73.0,80.0
+MSFT-0194,Thomas Anderson,Microsoft,MSFT,Research & AI,Director,79.5,274000,7.8,62.4,Europe,Lower-middle,No,57.8,64.2
+MSFT-0195,Carlos Singh,Microsoft,MSFT,Sales & GTM,Senior,77.1,244700,3.2,66.3,North America,Lower-middle,No,64.1,76.3
+MSFT-0196,Elena Petrov,Microsoft,MSFT,Sales & GTM,Staff,65.4,349900,3.0,68.1,Europe,Middle,No,48.6,53.8
+MSFT-0197,Hiroshi Yamamoto,Microsoft,MSFT,Research & AI,Staff,80.9,369100,13.3,59.8,North America,Upper-middle,No,40.5,75.9
+MSFT-0198,Kevin Anderson,Microsoft,MSFT,Design,Senior Director,96.8,457500,7.7,65.2,North America,Lower-middle,Yes,72.5,67.8
+MSFT-0199,Maria Martinez,Microsoft,MSFT,Design,Director,79.6,814900,8.2,67.1,Europe,Working class,Yes,97.0,81.0
+MSFT-0200,Carlos Davis,Microsoft,MSFT,Engineering,SVP,89.6,1297500,11.5,68.2,Southeast Asia,Lower-middle,No,80.1,72.1
+MSFT-0201,Hannah Martinez,Microsoft,MSFT,Product,Senior Director,84.6,689100,32.5,60.4,North America,Upper-middle,No,36.2,76.0
+MSFT-0202,Grace Silva,Microsoft,MSFT,Engineering,Principal,87.3,511200,7.3,69.3,North America,Upper-middle,No,28.9,61.5
+MSFT-0203,James Martinez,Microsoft,MSFT,Sales & GTM,Senior,81.1,670200,8.3,61.2,South Asia,Upper-middle,No,38.5,63.3
+MSFT-0204,Chen Tanaka,Microsoft,MSFT,Research & AI,Staff,82.8,531200,5.8,57.9,Middle East,Middle,Yes,61.3,75.1
+MSFT-0205,Michael Davis,Microsoft,MSFT,Design,Staff,67.6,272100,8.8,67.2,North America,Lower-middle,Yes,70.0,46.9
+MSFT-0206,Grace Anderson,Microsoft,MSFT,Engineering,Senior,74.5,167700,1.8,63.6,Latin America,Middle,No,66.5,59.5
+MSFT-0207,Sofia Hassan,Microsoft,MSFT,Product,Senior,92.9,176700,6.2,55.5,North America,Working class,Yes,89.4,63.9
+MSFT-0208,Elena Wilson,Microsoft,MSFT,Sales & GTM,Principal,82.9,479700,14.1,66.5,North America,Working class,Yes,92.5,74.0
+MSFT-0209,Fatima Okafor,Microsoft,MSFT,Operations,Director,61.9,324100,5.1,82.6,North America,Upper-middle,No,34.8,59.5
+MSFT-0210,John Tanaka,Microsoft,MSFT,Marketing,Director,82.7,491200,11.9,81.4,North America,Lower-middle,No,72.5,91.1
+MSFT-0211,Aisha Wilson,Microsoft,MSFT,Research & AI,Senior,73.3,145200,13.5,58.2,North America,Middle,No,57.9,75.4
+MSFT-0212,Michael Cohen,Microsoft,MSFT,Operations,VP,78.1,1276600,13.2,72.2,South Asia,Upper-middle,No,38.9,66.1
+MSFT-0213,Zoe Nguyen,Microsoft,MSFT,Marketing,Director,70.8,302900,15.3,58.9,North America,Upper-middle,No,33.1,54.9
+MSFT-0214,Kevin Ali,Microsoft,MSFT,Engineering,VP,94.7,694500,10.3,63.6,North America,Middle,No,40.4,58.3
+MSFT-0215,John Schmidt,Microsoft,MSFT,Marketing,Director,77.3,702700,10.1,57.6,North America,Upper-middle,No,27.8,69.7
+MSFT-0216,Chen Rossi,Microsoft,MSFT,Engineering,Principal,78.2,216200,5.1,69.9,South Asia,Working class,Yes,84.7,76.5
+MSFT-0217,Emily Ali,Microsoft,MSFT,Product,Director,70.3,504200,17.4,63.7,East Asia,Working class,No,81.7,75.2
+MSFT-0218,Yuki Martinez,Microsoft,MSFT,Engineering,Staff,79.4,244700,5.1,69.3,North America,Affluent,No,28.0,41.5
+MSFT-0219,Aisha Anderson,Microsoft,MSFT,Engineering,Senior Director,79.0,601600,21.0,54.5,East Asia,Upper-middle,Yes,48.4,56.5
+MSFT-0220,John Hassan,Microsoft,MSFT,Research & AI,Director,98.6,612300,5.0,73.0,North America,Working class,Yes,83.4,84.0
+MSFT-0221,Michael Singh,Microsoft,MSFT,Research & AI,Senior,72.7,337400,8.8,62.2,Africa,Working class,Yes,94.9,76.6
+MSFT-0222,Wei Reyes,Microsoft,MSFT,Engineering,Senior,63.1,121500,7.8,63.4,North America,Lower-middle,Yes,78.5,76.2
+MSFT-0223,Yuki Lee,Microsoft,MSFT,Research & AI,Staff,53.7,240900,8.4,63.6,Middle East,Middle,No,44.2,61.6
+MSFT-0224,Mary Okafor,Microsoft,MSFT,Sales & GTM,VP,87.1,454800,7.9,70.1,South Asia,Middle,No,41.5,58.4
+MSFT-0225,Grace Reyes,Microsoft,MSFT,Engineering,Director,71.9,394600,5.6,76.1,South Asia,Middle,Yes,64.8,64.0
+MSFT-0226,David Petrov,Microsoft,MSFT,Engineering,Principal,74.1,234300,4.2,64.3,East Asia,Working class,Yes,92.3,64.9
+MSFT-0227,Nina Tanaka,Microsoft,MSFT,Operations,Senior,88.1,389500,4.2,58.0,Africa,Lower-middle,Yes,73.5,70.3
+MSFT-0228,Elena Nguyen,Microsoft,MSFT,Engineering,Principal,79.8,523700,8.5,64.6,North America,Middle,Yes,52.0,73.6
+MSFT-0229,Daniel Johnson,Microsoft,MSFT,Engineering,Staff,85.7,308900,4.8,79.5,North America,Middle,No,65.0,75.7
+MSFT-0230,Emily Singh,Microsoft,MSFT,Product,Director,83.8,245200,7.5,74.0,North America,Upper-middle,No,41.3,59.8
+MSFT-0231,Nina Okafor,Microsoft,MSFT,Engineering,Senior,80.4,276000,6.2,63.1,Europe,Middle,No,53.1,98.6
+MSFT-0232,Mary Singh,Microsoft,MSFT,Legal & Policy,Staff,78.5,189000,3.3,68.3,North America,Middle,No,64.9,58.1
+MSFT-0233,Nina Silva,Microsoft,MSFT,Engineering,Staff,68.9,340200,5.6,67.1,North America,Lower-middle,Yes,69.5,57.7
+MSFT-0234,Elena Chen,Microsoft,MSFT,Engineering,Senior,67.9,81700,7.9,59.0,North America,Middle,No,37.6,66.8
+MSFT-0235,Nina Singh,Microsoft,MSFT,Marketing,Staff,75.0,306900,2.9,68.2,North America,Lower-middle,No,66.6,69.7
+MSFT-0236,Chen Lopez,Microsoft,MSFT,Sales & GTM,Senior,91.7,243700,8.9,68.6,North America,Working class,Yes,80.6,75.0
+MSFT-0237,Thomas Reyes,Microsoft,MSFT,Engineering,Senior,61.6,135100,3.9,63.8,Southeast Asia,Middle,No,55.5,61.3
+MSFT-0238,Hiroshi Khan,Microsoft,MSFT,Product,Senior,69.2,175300,2.0,60.2,South Asia,Working class,Yes,83.2,70.9
+MSFT-0239,John Petrov,Microsoft,MSFT,Engineering,Principal,74.1,886600,4.2,71.3,South Asia,Upper-middle,No,29.4,52.4
+MSFT-0240,Michael Reyes,Microsoft,MSFT,Design,Staff,92.7,416500,5.1,66.6,South Asia,Middle,No,52.7,61.6
+MSFT-0241,Grace Wang,Microsoft,MSFT,Engineering,Senior Director,75.7,967600,8.6,63.1,Latin America,Affluent,No,23.2,76.4
+MSFT-0242,Zoe Cohen,Microsoft,MSFT,Legal & Policy,Senior,74.6,192400,7.6,64.9,Europe,Lower-middle,Yes,62.8,67.1
+MSFT-0243,John Martinez,Microsoft,MSFT,Engineering,Principal,70.9,459000,9.7,63.4,Europe,Lower-middle,Yes,76.4,58.7
+MSFT-0244,Olivia Yamamoto,Microsoft,MSFT,Engineering,Senior,78.1,164300,0.8,65.9,Southeast Asia,Middle,Yes,57.3,64.5
+MSFT-0245,Mary Nguyen,Microsoft,MSFT,Product,Senior,77.4,140200,11.6,74.9,North America,Middle,Yes,57.4,68.0
+MSFT-0246,Linda Nguyen,Microsoft,MSFT,Legal & Policy,Staff,83.0,1028500,3.4,69.1,Europe,Affluent,No,21.3,38.5
+MSFT-0247,Maria Martinez,Microsoft,MSFT,Engineering,Senior,73.0,171200,6.8,52.8,North America,Lower-middle,Yes,79.6,65.3
+MSFT-0248,Hannah Khan,Microsoft,MSFT,Research & AI,Staff,96.4,555200,7.0,72.3,Latin America,Lower-middle,No,72.8,80.7
+MSFT-0249,Aisha Chen,Microsoft,MSFT,Engineering,Principal,95.2,537800,3.6,69.0,Europe,Working class,Yes,83.4,68.9
+MSFT-0250,Elena Rossi,Microsoft,MSFT,Engineering,Staff,77.4,450000,9.3,59.5,North America,Upper-middle,No,42.2,66.4
+MSFT-0251,Aisha Reyes,Microsoft,MSFT,People/HR,Staff,82.0,263100,14.5,62.9,East Asia,Working class,No,81.2,72.1
+MSFT-0252,Hiroshi Kim,Microsoft,MSFT,Sales & GTM,C-Suite,77.3,1693200,13.2,74.6,North America,Middle,No,45.2,58.6
+MSFT-0253,Yuki Lopez,Microsoft,MSFT,Operations,Principal,86.7,288300,6.2,77.2,North America,Lower-middle,No,68.1,68.1
+MSFT-0254,Hiroshi Silva,Microsoft,MSFT,Finance,Senior,58.4,152500,8.8,60.6,South Asia,Upper-middle,No,28.9,57.5
+MSFT-0255,Priya Wilson,Microsoft,MSFT,Engineering,Staff,96.2,306200,12.0,63.8,North America,Working class,Yes,86.0,87.9
+MSFT-0256,Chen Reyes,Microsoft,MSFT,Engineering,Senior Director,78.4,818500,8.9,68.4,East Asia,Working class,Yes,88.0,61.9
+MSFT-0257,Grace Chen,Microsoft,MSFT,People/HR,Staff,76.5,319400,1.4,76.8,North America,Working class,Yes,99.5,96.9
+MSFT-0258,Nina Davis,Microsoft,MSFT,Product,SVP,95.6,982300,26.4,69.0,Latin America,Upper-middle,No,25.4,70.9
+MSFT-0259,Nina Schmidt,Microsoft,MSFT,Marketing,Staff,76.8,313200,6.4,60.8,Oceania,Middle,No,42.6,58.3
+MSFT-0260,Aisha Hassan,Microsoft,MSFT,Engineering,Senior Director,78.9,724800,10.6,67.2,Europe,Working class,Yes,100.0,72.9
+MSFT-0261,Nina Wilson,Microsoft,MSFT,Engineering,Senior,63.8,218300,2.8,77.2,North America,Lower-middle,Yes,82.1,63.0
+MSFT-0262,Mary Johnson,Microsoft,MSFT,Research & AI,Senior Director,83.9,440700,15.1,65.1,South Asia,Middle,Yes,65.5,69.6
+MSFT-0263,Grace Wang,Microsoft,MSFT,Sales & GTM,Senior,82.5,135300,5.6,67.7,East Asia,Affluent,No,21.0,51.2
+MSFT-0264,Nina Lee,Microsoft,MSFT,Legal & Policy,Staff,71.4,113300,24.7,64.2,Middle East,Working class,Yes,96.8,63.3
+MSFT-0265,Wei Garcia,Microsoft,MSFT,Engineering,Staff,72.0,345500,4.8,63.1,North America,Upper-middle,No,40.4,67.7
+MSFT-0266,Thomas Rossi,Microsoft,MSFT,Design,Senior,60.9,137800,9.5,59.5,Southeast Asia,Lower-middle,No,61.4,69.7
+MSFT-0267,Mary Kim,Microsoft,MSFT,Engineering,VP,85.9,758200,7.6,72.2,South Asia,Working class,Yes,99.4,68.4
+MSFT-0268,Mary Wilson,Microsoft,MSFT,Sales & GTM,Director,86.2,932900,7.7,72.4,North America,Lower-middle,No,65.5,71.4
+MSFT-0269,Hiroshi Khan,Microsoft,MSFT,Sales & GTM,VP,72.6,1208400,8.4,83.5,South Asia,Upper-middle,No,28.4,70.5
+MSFT-0270,Chen Brown,Microsoft,MSFT,Sales & GTM,Principal,100.0,423200,6.8,61.6,East Asia,Affluent,No,26.8,62.7
+MSFT-0271,David Anderson,Microsoft,MSFT,Finance,Staff,66.3,342900,4.9,81.7,North America,Upper-middle,No,39.4,62.3
+MSFT-0272,Kevin Petrov,Microsoft,MSFT,Sales & GTM,Senior,74.4,154600,8.7,53.6,North America,Middle,No,37.8,58.4
+MSFT-0273,Grace Singh,Microsoft,MSFT,Finance,Principal,88.9,1441500,5.1,63.3,North America,Middle,No,44.5,71.7
+MSFT-0274,Elena Kim,Microsoft,MSFT,Legal & Policy,Staff,95.4,376800,6.2,64.7,North America,Upper-middle,No,44.8,62.1
+MSFT-0275,Linda Hassan,Microsoft,MSFT,Research & AI,Director,78.6,484700,5.1,69.0,East Asia,Upper-middle,No,36.4,59.9
+MSFT-0276,John Martinez,Microsoft,MSFT,Engineering,Director,83.0,638400,8.3,61.6,Europe,Working class,Yes,95.3,64.3
+MSFT-0277,Mary Chen,Microsoft,MSFT,Marketing,VP,94.1,1401400,8.9,64.4,Latin America,Affluent,No,23.3,80.4
+MSFT-0278,Hannah Park,Microsoft,MSFT,Marketing,Senior,93.3,373300,9.7,71.2,North America,Lower-middle,Yes,75.4,72.8
+MSFT-0279,Zoe Johnson,Microsoft,MSFT,People/HR,Senior,79.1,176600,6.4,48.2,North America,Lower-middle,No,71.4,67.5
+MSFT-0280,Mary Schmidt,Microsoft,MSFT,Design,Director,88.1,930500,5.5,56.3,North America,Middle,No,57.5,48.2
+MSFT-0281,Michael Chen,Microsoft,MSFT,Sales & GTM,Staff,88.9,344300,9.9,55.5,North America,Middle,Yes,51.2,49.0
+MSFT-0282,Daniel Silva,Microsoft,MSFT,Engineering,VP,84.5,436100,10.1,63.6,South Asia,Upper-middle,No,36.8,57.9
+MSFT-0283,Arjun Murphy,Microsoft,MSFT,Research & AI,Senior,67.6,341300,0.6,70.6,South Asia,Affluent,No,21.1,64.1
+MSFT-0284,Wei Tanaka,Microsoft,MSFT,Operations,Principal,75.9,341400,7.6,74.4,South Asia,Affluent,No,21.8,68.8
+MSFT-0285,Mary Yamamoto,Microsoft,MSFT,Research & AI,Senior,75.4,175500,7.0,66.4,North America,Lower-middle,Yes,74.5,67.3
+MSFT-0286,Hiroshi Nguyen,Microsoft,MSFT,Engineering,Principal,84.5,662000,6.3,67.9,East Asia,Middle,Yes,60.7,67.4
+MSFT-0287,Hannah Lee,Microsoft,MSFT,Legal & Policy,Senior,69.7,274400,11.8,58.3,North America,Working class,Yes,90.5,76.0
+MSFT-0288,Elena Schmidt,Microsoft,MSFT,Engineering,Director,67.4,291700,14.1,64.7,South Asia,Working class,Yes,87.2,87.7
+MSFT-0289,Yuki Yamamoto,Microsoft,MSFT,Research & AI,Senior,82.1,304800,12.8,64.7,Europe,Working class,No,77.0,68.9
+MSFT-0290,David Lopez,Microsoft,MSFT,Engineering,Senior,82.5,220200,7.1,66.9,South Asia,Working class,Yes,80.8,61.3
+MSFT-0291,Zoe Ali,Microsoft,MSFT,Research & AI,C-Suite,86.9,9895800,9.9,62.2,North America,Lower-middle,No,55.0,57.9
+MSFT-0292,Hannah Petrov,Microsoft,MSFT,Sales & GTM,Staff,81.1,115400,6.8,63.2,North America,Middle,No,54.5,69.3
+MSFT-0293,James Kim,Microsoft,MSFT,Product,Staff,85.9,158900,7.0,67.4,East Asia,Upper-middle,No,43.1,68.7
+MSFT-0294,Chen Lopez,Microsoft,MSFT,Research & AI,Staff,81.4,80100,6.9,62.2,North America,Middle,Yes,58.0,64.7
+MSFT-0295,Raj Reyes,Microsoft,MSFT,Marketing,Senior,90.6,274400,9.8,52.7,North America,Lower-middle,No,58.4,55.8
+MSFT-0296,Wei Silva,Microsoft,MSFT,Legal & Policy,Senior,62.5,386900,9.5,62.1,North America,Upper-middle,No,34.9,69.7
+MSFT-0297,Samuel Nguyen,Microsoft,MSFT,Engineering,Staff,91.9,286400,5.1,65.4,North America,Upper-middle,No,39.3,63.5
+MSFT-0298,Linda Tanaka,Microsoft,MSFT,Finance,Principal,85.2,330400,9.5,73.1,North America,Middle,No,50.3,66.2
+MSFT-0299,Linda Anderson,Microsoft,MSFT,Sales & GTM,Staff,75.8,233600,5.0,67.9,South Asia,Middle,No,51.5,75.5
+MSFT-0300,Kevin Hassan,Microsoft,MSFT,Research & AI,Staff,89.4,327100,15.9,59.2,North America,Middle,Yes,70.4,72.1
+MSFT-0301,Olivia Kim,Microsoft,MSFT,Finance,VP,85.5,1081000,19.8,67.0,South Asia,Middle,No,46.8,55.6
+MSFT-0302,James Murphy,Microsoft,MSFT,Legal & Policy,Senior,73.9,166000,3.4,70.1,North America,Lower-middle,Yes,74.6,78.6
+MSFT-0303,Aisha Khan,Microsoft,MSFT,Operations,Staff,88.1,286500,4.9,67.6,North America,Middle,No,61.1,79.2
+MSFT-0304,Daniel Silva,Microsoft,MSFT,Research & AI,Principal,72.0,870200,6.9,77.0,Europe,Affluent,No,31.5,73.3
+MSFT-0305,Wei Lee,Microsoft,MSFT,Operations,Principal,75.8,403200,5.7,69.7,South Asia,Middle,No,54.7,77.4
+MSFT-0306,Olivia Reyes,Microsoft,MSFT,Research & AI,Staff,96.1,223700,7.9,61.9,North America,Middle,No,43.7,47.3
+MSFT-0307,Ahmed Wilson,Microsoft,MSFT,Research & AI,Staff,68.9,236100,6.2,57.5,Africa,Affluent,No,21.8,67.1
+MSFT-0308,Aisha Silva,Microsoft,MSFT,Engineering,Staff,87.8,210500,17.3,52.1,North America,Lower-middle,No,61.9,61.5
+MSFT-0309,Emily Martinez,Microsoft,MSFT,Sales & GTM,Senior,77.5,102400,8.3,68.6,North America,Upper-middle,No,32.2,64.0
+MSFT-0310,Olivia Murphy,Microsoft,MSFT,Operations,Staff,85.1,155100,13.2,54.5,Southeast Asia,Upper-middle,No,37.5,59.8
+MSFT-0311,David Chen,Microsoft,MSFT,Engineering,Staff,68.1,471700,9.3,63.8,North America,Lower-middle,No,62.4,60.3
+MSFT-0312,Daniel Cohen,Microsoft,MSFT,Finance,Senior,91.2,178300,2.8,53.7,North America,Working class,Yes,91.8,61.0
+MSFT-0313,Aisha Singh,Microsoft,MSFT,Operations,Senior,77.5,107100,6.5,57.9,East Asia,Lower-middle,Yes,81.4,69.7
+MSFT-0314,David Lee,Microsoft,MSFT,Engineering,VP,92.6,2535800,11.6,60.3,North America,Working class,Yes,92.8,74.0
+MSFT-0315,Olivia Singh,Microsoft,MSFT,People/HR,Staff,90.6,194500,15.8,71.0,South Asia,Lower-middle,No,72.1,79.1
+MSFT-0316,Mary Schmidt,Microsoft,MSFT,Engineering,C-Suite,80.1,2521700,19.2,58.1,North America,Lower-middle,Yes,77.8,71.7
+MSFT-0317,Hannah Schmidt,Microsoft,MSFT,Product,Staff,74.3,185600,10.3,71.5,North America,Affluent,No,32.0,64.1
+MSFT-0318,Emily Cohen,Microsoft,MSFT,Marketing,Senior,83.6,698500,8.2,61.0,North America,Affluent,No,26.2,70.5
+MSFT-0319,Thomas Silva,Microsoft,MSFT,Sales & GTM,Senior,75.2,366100,2.8,59.4,East Asia,Affluent,No,28.8,68.7
+MSFT-0320,Samuel Wang,Microsoft,MSFT,Sales & GTM,Senior,65.3,702400,7.5,65.9,South Asia,Affluent,No,17.0,53.8
+MSFT-0321,Fatima Garcia,Microsoft,MSFT,Research & AI,C-Suite,72.4,859400,9.7,69.8,East Asia,Affluent,No,9.1,58.8
+MSFT-0322,David Lopez,Microsoft,MSFT,Product,Senior,68.3,404000,5.8,49.2,North America,Upper-middle,No,20.2,54.9
+MSFT-0323,Grace Okafor,Microsoft,MSFT,Legal & Policy,Senior,77.8,116900,6.2,58.2,South Asia,Middle,No,57.7,63.5
+MSFT-0324,Carlos Murphy,Microsoft,MSFT,Sales & GTM,Staff,90.7,156100,9.7,64.5,Latin America,Affluent,Yes,28.9,56.5
+MSFT-0325,Carlos Patel,Microsoft,MSFT,Product,Principal,74.4,506500,4.5,64.8,Southeast Asia,Middle,No,43.6,69.3
+MSFT-0326,Mary Nguyen,Microsoft,MSFT,Research & AI,Senior,70.3,410900,9.2,61.2,North America,Working class,Yes,100.0,84.0
+MSFT-0327,Grace Cohen,Microsoft,MSFT,Engineering,VP,81.6,1225500,16.3,65.3,North America,Upper-middle,No,42.3,65.0
+MSFT-0328,Thomas Petrov,Microsoft,MSFT,Legal & Policy,Senior,86.5,217500,4.2,57.5,North America,Lower-middle,No,46.5,68.0
+MSFT-0329,Hiroshi Cohen,Microsoft,MSFT,Sales & GTM,Principal,93.2,933600,11.1,74.5,East Asia,Middle,No,60.8,73.0
+MSFT-0330,Aisha Rossi,Microsoft,MSFT,Research & AI,Staff,86.4,558400,12.0,60.8,North America,Middle,No,64.6,80.0
+MSFT-0331,David Davis,Microsoft,MSFT,Operations,Staff,76.7,500000,10.8,72.2,South Asia,Middle,No,52.0,75.4
+MSFT-0332,Daniel Martinez,Microsoft,MSFT,Engineering,Senior,68.5,207700,4.9,56.3,North America,Working class,No,87.4,87.4
+MSFT-0333,Hiroshi Smith,Microsoft,MSFT,Research & AI,Senior,75.5,257900,9.9,68.8,North America,Middle,Yes,67.6,68.3
+MSFT-0334,Hannah Okafor,Microsoft,MSFT,Legal & Policy,Principal,63.9,218200,11.5,56.1,South Asia,Lower-middle,Yes,74.8,59.6
+MSFT-0335,Carlos Davis,Microsoft,MSFT,Engineering,Director,90.4,451000,7.4,62.2,North America,Affluent,No,27.3,57.4
+MSFT-0336,Samuel Lee,Microsoft,MSFT,Operations,Senior,83.7,124400,7.5,62.1,East Asia,Middle,No,54.9,63.9
+MSFT-0337,Elena Petrov,Microsoft,MSFT,Sales & GTM,Senior,78.1,260000,21.8,64.1,North America,Affluent,No,25.5,47.8
+MSFT-0338,Kevin Yamamoto,Microsoft,MSFT,Engineering,Staff,94.6,568600,4.9,63.2,North America,Lower-middle,Yes,74.2,61.8
+MSFT-0339,Elena Smith,Microsoft,MSFT,Sales & GTM,Senior,71.0,202000,13.8,51.2,North America,Working class,Yes,93.6,80.1
+MSFT-0340,Kevin Rossi,Microsoft,MSFT,Marketing,Staff,72.9,110100,11.7,56.9,North America,Lower-middle,No,77.6,63.0
+MSFT-0341,Olivia Smith,Microsoft,MSFT,Research & AI,Director,85.2,427300,9.6,75.6,East Asia,Middle,No,52.6,68.3
+MSFT-0342,Zoe Okafor,Microsoft,MSFT,Engineering,Principal,82.9,451300,10.7,71.8,North America,Lower-middle,No,66.9,59.9
+MSFT-0343,Wei Murphy,Microsoft,MSFT,Engineering,Senior,86.6,472200,9.4,64.5,East Asia,Lower-middle,No,60.8,77.2
+MSFT-0344,Grace Wilson,Microsoft,MSFT,Engineering,Senior,75.1,157800,11.9,66.0,Europe,Affluent,No,28.1,65.9
+MSFT-0345,Chen Rossi,Microsoft,MSFT,Sales & GTM,Senior,71.7,126800,8.8,64.9,North America,Lower-middle,No,70.5,64.4
+MSFT-0346,Wei Reyes,Microsoft,MSFT,Operations,Staff,77.9,335000,3.1,70.8,North America,Lower-middle,Yes,79.9,66.8
+MSFT-0347,John Park,Microsoft,MSFT,Design,Staff,98.9,1095000,11.7,66.5,East Asia,Working class,Yes,91.2,68.2
+MSFT-0348,Fatima Brown,Microsoft,MSFT,Operations,Senior Director,75.9,724100,13.2,72.2,North America,Lower-middle,Yes,63.2,78.7
+MSFT-0349,Hannah Petrov,Microsoft,MSFT,Marketing,Senior,85.3,96000,6.6,64.2,Europe,Upper-middle,No,32.5,66.9
+MSFT-0350,Sofia Yamamoto,Microsoft,MSFT,Sales & GTM,Principal,76.0,807200,7.6,74.2,North America,Working class,No,66.7,61.7
+MSFT-0351,Zoe Wang,Microsoft,MSFT,Engineering,Senior,70.3,207700,7.6,69.3,South Asia,Affluent,No,19.8,63.3
+MSFT-0352,James Cohen,Microsoft,MSFT,Engineering,Staff,75.8,342900,18.9,57.7,Africa,Working class,Yes,98.5,78.5
+MSFT-0353,Yuki Rossi,Microsoft,MSFT,Engineering,Staff,91.5,176300,9.0,78.1,Middle East,Upper-middle,No,40.5,78.8
+MSFT-0354,Michael Patel,Microsoft,MSFT,Engineering,Senior Director,82.0,1770100,11.7,71.4,North America,Affluent,No,12.8,55.1
+MSFT-0355,Sofia Yamamoto,Microsoft,MSFT,Sales & GTM,Staff,77.1,211100,4.6,76.4,North America,Middle,No,47.8,65.5
+MSFT-0356,Daniel Park,Microsoft,MSFT,Engineering,Senior,79.4,250800,8.3,69.3,North America,Middle,Yes,48.2,66.9
+MSFT-0357,Thomas Lee,Microsoft,MSFT,Operations,Senior,89.7,179500,3.3,61.2,Europe,Working class,Yes,99.7,79.6
+MSFT-0358,Zoe Silva,Microsoft,MSFT,Engineering,Staff,82.0,432700,6.6,64.4,North America,Middle,Yes,57.4,58.0
+MSFT-0359,John Garcia,Microsoft,MSFT,Finance,Staff,86.1,311500,21.0,64.2,Europe,Middle,No,43.3,61.3
+MSFT-0360,John Patel,Microsoft,MSFT,Legal & Policy,VP,86.0,1404900,6.8,63.5,South Asia,Middle,No,47.2,63.9
+MSFT-0361,John Garcia,Microsoft,MSFT,Research & AI,Staff,83.3,566000,5.9,75.2,North America,Upper-middle,No,51.4,59.9
+MSFT-0362,Michael Murphy,Microsoft,MSFT,Product,Senior,84.6,177000,5.7,54.0,South Asia,Middle,No,50.3,56.3
+MSFT-0363,Emily Schmidt,Microsoft,MSFT,Engineering,Senior,84.4,155300,10.3,65.2,Latin America,Lower-middle,Yes,72.0,69.2
+MSFT-0364,David Park,Microsoft,MSFT,Design,Principal,61.8,316800,8.1,64.9,North America,Lower-middle,Yes,79.1,66.4
+MSFT-0365,Arjun Petrov,Microsoft,MSFT,Research & AI,Staff,87.5,270500,14.1,58.2,North America,Upper-middle,No,32.6,58.1
+MSFT-0366,Ahmed Smith,Microsoft,MSFT,Operations,Director,67.6,818500,4.8,75.0,South Asia,Lower-middle,Yes,79.5,78.6
+MSFT-0367,Raj Davis,Microsoft,MSFT,Engineering,Senior,71.5,116400,3.5,62.2,North America,Working class,Yes,77.3,75.4
+MSFT-0368,Sofia Patel,Microsoft,MSFT,Operations,Senior,75.7,173300,6.4,59.3,North America,Middle,No,39.0,48.1
+MSFT-0369,James Khan,Microsoft,MSFT,Engineering,Director,85.9,776400,4.9,71.5,Middle East,Lower-middle,No,65.4,73.5
+MSFT-0370,Hannah Davis,Microsoft,MSFT,Engineering,Staff,85.8,612000,4.2,75.1,South Asia,Working class,Yes,91.1,77.8
+MSFT-0371,Elena Ali,Microsoft,MSFT,Research & AI,Senior,77.6,198000,2.9,76.6,Europe,Working class,Yes,84.1,84.4
+MSFT-0372,Elena Schmidt,Microsoft,MSFT,Operations,Staff,79.8,693700,9.4,57.4,Latin America,Lower-middle,Yes,74.1,68.4
+MSFT-0373,Mary Petrov,Microsoft,MSFT,Engineering,Director,85.2,413700,13.8,60.1,North America,Lower-middle,No,75.3,72.0
+MSFT-0374,Hannah Lee,Microsoft,MSFT,People/HR,Senior,67.0,242800,5.0,74.6,Europe,Middle,Yes,79.2,66.0
+MSFT-0375,Kevin Yamamoto,Microsoft,MSFT,Design,Senior,72.9,206200,13.8,55.5,North America,Working class,Yes,77.6,58.9
+MSFT-0376,Daniel Singh,Microsoft,MSFT,Legal & Policy,Principal,67.8,266200,6.2,61.8,North America,Working class,Yes,90.7,75.2
+MSFT-0377,Zoe Singh,Microsoft,MSFT,Legal & Policy,VP,83.6,1101600,14.4,66.0,East Asia,Working class,Yes,100.0,79.8
+MSFT-0378,Wei Hassan,Microsoft,MSFT,Engineering,Staff,79.9,109500,4.0,78.9,North America,Lower-middle,Yes,72.7,66.8
+MSFT-0379,James Anderson,Microsoft,MSFT,Research & AI,VP,92.0,1485000,10.2,76.4,Latin America,Affluent,No,23.4,56.4
+MSFT-0380,Aisha Martinez,Microsoft,MSFT,Research & AI,Senior Director,83.8,662600,8.6,65.8,Southeast Asia,Affluent,No,28.5,64.3
+MSFT-0381,Wei Petrov,Microsoft,MSFT,Engineering,Senior,87.0,401700,7.2,56.7,North America,Working class,No,83.1,58.2
+MSFT-0382,Hannah Brown,Microsoft,MSFT,People/HR,Director,92.2,492800,6.3,67.6,South Asia,Working class,No,79.9,71.3
+MSFT-0383,Thomas Martinez,Microsoft,MSFT,Finance,Staff,95.9,293300,10.2,52.6,North America,Middle,No,55.0,51.4
+MSFT-0384,Daniel Rossi,Microsoft,MSFT,Research & AI,Senior,80.6,136100,4.3,67.4,North America,Middle,No,46.4,56.1
+MSFT-0385,Thomas Hassan,Microsoft,MSFT,Engineering,Senior,87.8,132300,5.2,59.1,Europe,Middle,No,46.5,81.3
+MSFT-0386,Arjun Murphy,Microsoft,MSFT,Engineering,Principal,85.7,222300,10.0,73.0,North America,Lower-middle,No,74.1,67.5
+MSFT-0387,Emily Schmidt,Microsoft,MSFT,Research & AI,Senior,74.9,237300,7.9,60.6,North America,Working class,No,82.7,66.1
+MSFT-0388,Hiroshi Tanaka,Microsoft,MSFT,Engineering,Director,90.6,538600,13.4,67.9,North America,Affluent,No,27.4,57.7
+MSFT-0389,Hannah Yamamoto,Microsoft,MSFT,Engineering,Senior,82.9,123700,4.3,61.5,North America,Lower-middle,Yes,70.7,63.0
+MSFT-0390,Raj Lee,Microsoft,MSFT,Operations,Director,91.8,667700,6.4,63.8,Europe,Upper-middle,No,42.6,60.9
+MSFT-0391,Nina Tanaka,Microsoft,MSFT,Product,Director,87.1,459400,7.1,75.9,South Asia,Upper-middle,No,42.2,66.4
+MSFT-0392,Kevin Ali,Microsoft,MSFT,Product,Director,78.1,776000,12.0,70.9,North America,Upper-middle,No,25.8,78.9
+MSFT-0393,Maria Johnson,Microsoft,MSFT,Product,Director,74.2,563900,9.5,78.1,South Asia,Middle,No,55.9,74.8
+MSFT-0394,Maria Okafor,Microsoft,MSFT,Research & AI,Principal,86.8,526400,11.1,67.2,East Asia,Working class,Yes,91.0,78.7
+MSFT-0395,Hannah Wang,Microsoft,MSFT,Engineering,Principal,84.5,371900,9.8,75.7,North America,Upper-middle,No,33.7,47.2
+MSFT-0396,Thomas Yamamoto,Microsoft,MSFT,Sales & GTM,Senior,79.3,291700,4.4,60.9,North America,Middle,No,51.6,78.1
+MSFT-0397,Aisha Tanaka,Microsoft,MSFT,Engineering,Director,84.9,421100,12.4,64.2,North America,Working class,Yes,95.6,62.4
+MSFT-0398,Mary Lopez,Microsoft,MSFT,Engineering,Director,88.2,591100,11.5,64.2,North America,Working class,Yes,81.7,93.7
+MSFT-0399,Elena Lopez,Microsoft,MSFT,Engineering,Principal,76.1,304800,3.2,62.0,South Asia,Upper-middle,Yes,39.9,68.3
+MSFT-0400,Hannah Anderson,Microsoft,MSFT,Research & AI,Principal,86.4,115200,4.5,73.8,North America,Middle,Yes,66.3,75.6
+MSFT-0401,Raj Martinez,Microsoft,MSFT,Engineering,Staff,88.3,332300,8.4,60.9,South Asia,Middle,Yes,60.9,59.4
+MSFT-0402,Priya Nguyen,Microsoft,MSFT,Engineering,Director,87.3,539000,6.5,82.7,North America,Middle,Yes,63.0,83.7
+MSFT-0403,Aisha Davis,Microsoft,MSFT,Engineering,Director,78.0,741200,8.4,66.4,Africa,Lower-middle,Yes,73.9,76.1
+MSFT-0404,Kevin Lee,Microsoft,MSFT,Engineering,Senior Director,85.9,821000,6.0,66.1,North America,Upper-middle,No,37.4,56.3
+MSFT-0405,Olivia Lee,Microsoft,MSFT,Engineering,Senior Director,96.5,1121200,6.6,70.7,South Asia,Middle,No,48.0,70.2
+MSFT-0406,Mary Lopez,Microsoft,MSFT,Engineering,Senior,91.0,142100,8.8,65.9,North America,Affluent,No,34.8,80.7
+MSFT-0407,Nina Davis,Microsoft,MSFT,Research & AI,Senior,61.1,226200,5.9,51.8,North America,Lower-middle,No,64.9,56.3
+MSFT-0408,Carlos Brown,Microsoft,MSFT,Engineering,Staff,74.6,748200,7.6,53.7,South Asia,Working class,No,92.2,79.7
+MSFT-0409,Fatima Brown,Microsoft,MSFT,Product,Staff,69.8,474300,3.0,61.3,Middle East,Upper-middle,No,44.5,82.2
+MSFT-0410,Yuki Park,Microsoft,MSFT,Marketing,Senior,79.1,200200,8.7,59.1,South Asia,Middle,No,55.4,60.2
+MSFT-0411,Michael Ali,Microsoft,MSFT,Product,Senior,96.0,123400,5.2,62.7,Southeast Asia,Middle,Yes,60.4,77.4
+MSFT-0412,Michael Wang,Microsoft,MSFT,Engineering,Senior,69.4,197000,11.0,55.3,Middle East,Middle,No,48.9,83.3
+MSFT-0413,Wei Murphy,Microsoft,MSFT,Sales & GTM,Senior,78.7,386900,4.8,68.0,Middle East,Middle,No,55.6,76.7
+MSFT-0414,Aisha Schmidt,Microsoft,MSFT,Finance,Senior Director,82.6,783300,12.3,63.8,South Asia,Upper-middle,No,28.3,66.9
+MSFT-0415,Maria Patel,Microsoft,MSFT,Engineering,Senior,67.0,249600,4.2,67.5,North America,Working class,Yes,99.3,55.8
+MSFT-0416,Daniel Ali,Microsoft,MSFT,Engineering,Senior,52.8,174400,3.6,65.3,North America,Middle,No,42.6,78.5
+MSFT-0417,Chen Martinez,Microsoft,MSFT,Sales & GTM,Senior,76.4,222200,2.6,55.1,North America,Upper-middle,No,31.7,59.5
+MSFT-0418,Elena Wang,Microsoft,MSFT,Sales & GTM,Senior,67.5,126800,6.6,72.0,Latin America,Affluent,No,22.3,65.5
+MSFT-0419,Mary Brown,Microsoft,MSFT,Design,Principal,82.0,404900,13.3,59.0,Europe,Upper-middle,No,43.6,69.0
+MSFT-0420,Yuki Reyes,Microsoft,MSFT,Legal & Policy,Staff,89.0,234300,8.6,60.0,East Asia,Middle,No,49.3,50.8
+MSFT-0421,Michael Patel,Microsoft,MSFT,Engineering,Director,75.8,412900,13.0,75.4,Latin America,Middle,No,62.0,82.3
+MSFT-0422,Grace Okafor,Microsoft,MSFT,Engineering,Staff,74.9,193400,2.8,67.3,South Asia,Lower-middle,Yes,70.8,61.3
+MSFT-0423,Priya Yamamoto,Microsoft,MSFT,Product,Principal,82.3,448900,10.8,70.5,Europe,Lower-middle,Yes,89.6,90.8
+MSFT-0424,Yuki Nguyen,Microsoft,MSFT,Engineering,Senior,84.6,122400,6.7,58.2,North America,Upper-middle,Yes,42.1,63.5
+MSFT-0425,David Lopez,Microsoft,MSFT,Sales & GTM,Senior,86.3,424900,7.2,50.2,North America,Lower-middle,Yes,65.7,48.9
+MSFT-0426,Arjun Park,Microsoft,MSFT,Finance,Staff,72.9,630400,3.1,60.7,Europe,Lower-middle,No,58.3,62.8
+MSFT-0427,Ahmed Silva,Microsoft,MSFT,Design,Director,82.3,844700,5.6,66.8,North America,Lower-middle,Yes,84.7,83.5
+MSFT-0428,Fatima Wang,Microsoft,MSFT,Marketing,Senior,67.3,525700,9.9,60.7,North America,Lower-middle,Yes,62.6,67.4
+MSFT-0429,Priya Silva,Microsoft,MSFT,Operations,Director,71.3,221000,4.6,73.4,Southeast Asia,Upper-middle,No,41.3,70.4
+MSFT-0430,Samuel Nguyen,Microsoft,MSFT,Research & AI,VP,62.9,834700,8.7,77.6,Southeast Asia,Upper-middle,No,21.8,68.4
+MSFT-0431,Samuel Nguyen,Microsoft,MSFT,Sales & GTM,Senior,91.5,358200,8.4,52.6,South Asia,Lower-middle,Yes,77.4,50.2
+MSFT-0432,Maria Lee,Microsoft,MSFT,Marketing,Senior,72.4,144600,4.5,63.2,South Asia,Middle,Yes,56.4,68.6
+MSFT-0433,John Nguyen,Microsoft,MSFT,Engineering,Principal,81.8,272100,14.7,75.2,North America,Upper-middle,No,33.3,67.3
+MSFT-0434,David Anderson,Microsoft,MSFT,Research & AI,Principal,71.0,314400,2.8,67.4,North America,Lower-middle,No,65.0,70.3
+MSFT-0435,Carlos Hassan,Microsoft,MSFT,Legal & Policy,Senior,64.3,248400,13.9,65.4,South Asia,Lower-middle,Yes,63.0,77.4
+MSFT-0436,Chen Reyes,Microsoft,MSFT,Operations,Staff,83.7,357000,4.0,73.4,North America,Lower-middle,No,67.4,74.8
+MSFT-0437,Kevin Wilson,Microsoft,MSFT,Design,Principal,79.7,350200,11.0,61.2,South Asia,Upper-middle,No,28.0,82.6
+MSFT-0438,Emily Kim,Microsoft,MSFT,Design,Staff,83.7,555200,7.9,59.8,East Asia,Middle,No,52.7,78.7
+MSFT-0439,Elena Wilson,Microsoft,MSFT,Engineering,Senior,76.1,140000,16.1,69.0,South Asia,Upper-middle,No,44.7,54.0
+MSFT-0440,Mary Brown,Microsoft,MSFT,Engineering,Director,85.5,275900,6.6,66.3,South Asia,Upper-middle,No,36.4,81.1
+MSFT-0441,Wei Brown,Microsoft,MSFT,Engineering,Senior,75.1,310900,9.1,61.2,North America,Affluent,No,19.9,51.9
+MSFT-0442,Grace Silva,Microsoft,MSFT,Engineering,Senior Director,59.7,745100,15.9,62.6,East Asia,Lower-middle,No,64.4,69.3
+MSFT-0443,Aisha Smith,Microsoft,MSFT,Engineering,Senior,66.4,159600,3.5,70.3,Middle East,Middle,No,53.1,77.0
+MSFT-0444,Ahmed Khan,Microsoft,MSFT,Design,Staff,72.8,541000,9.6,62.0,South Asia,Working class,Yes,83.3,61.1
+MSFT-0445,Samuel Tanaka,Microsoft,MSFT,Research & AI,Staff,77.3,444400,4.2,68.4,Southeast Asia,Lower-middle,Yes,66.8,69.1
+MSFT-0446,Samuel Smith,Microsoft,MSFT,Operations,Staff,66.7,352600,6.4,53.2,South Asia,Affluent,No,20.9,46.9
+MSFT-0447,Ahmed Ali,Microsoft,MSFT,Operations,Senior Director,90.4,636900,12.5,72.5,North America,Upper-middle,No,32.5,65.7
+MSFT-0448,Emily Hassan,Microsoft,MSFT,Research & AI,Staff,69.8,86200,2.5,67.2,Europe,Affluent,No,24.2,57.7
+MSFT-0449,Kevin Tanaka,Microsoft,MSFT,Engineering,Principal,92.3,296100,4.4,74.7,North America,Lower-middle,Yes,75.6,57.9
+MSFT-0450,Raj Cohen,Microsoft,MSFT,Research & AI,Director,70.1,630000,12.1,59.2,North America,Middle,No,56.7,60.8
+MSFT-0451,Grace Brown,Microsoft,MSFT,Sales & GTM,Principal,78.5,375400,10.5,59.7,North America,Upper-middle,No,45.8,70.8
+MSFT-0452,Ahmed Wang,Microsoft,MSFT,Research & AI,Principal,69.9,819100,2.5,64.8,Africa,Working class,No,77.2,82.4
+MSFT-0453,Ahmed Davis,Microsoft,MSFT,Marketing,Senior,66.3,144500,6.1,64.4,South Asia,Working class,Yes,89.3,58.3
+MSFT-0454,Olivia Murphy,Microsoft,MSFT,Engineering,Director,94.4,496000,9.7,64.4,North America,Middle,No,52.7,67.6
+MSFT-0455,Daniel Ali,Microsoft,MSFT,Research & AI,Principal,97.0,546900,4.7,64.8,North America,Working class,Yes,95.9,72.0
+MSFT-0456,Thomas Singh,Microsoft,MSFT,People/HR,Senior,79.1,170400,15.7,61.7,Southeast Asia,Lower-middle,Yes,69.7,76.6
+MSFT-0457,Raj Davis,Microsoft,MSFT,Engineering,VP,88.6,1504500,18.1,81.4,South Asia,Middle,Yes,62.1,85.7
+MSFT-0458,Daniel Reyes,Microsoft,MSFT,Engineering,Director,77.2,665700,16.8,68.5,North America,Middle,No,55.5,74.4
+MSFT-0459,Thomas Khan,Microsoft,MSFT,Research & AI,Senior,85.8,273000,2.1,64.5,South Asia,Middle,No,62.5,76.4
+MSFT-0460,John Okafor,Microsoft,MSFT,Product,Staff,86.8,667100,4.2,71.7,South Asia,Lower-middle,Yes,72.5,78.1
+MSFT-0461,Emily Chen,Microsoft,MSFT,Engineering,Senior,83.3,306100,9.1,64.3,North America,Middle,No,66.1,79.4
+MSFT-0462,Aisha Silva,Microsoft,MSFT,Research & AI,Director,72.8,269500,10.6,80.8,Africa,Lower-middle,No,61.6,60.4
+MSFT-0463,Samuel Johnson,Microsoft,MSFT,Operations,VP,70.1,1388400,14.0,69.0,East Asia,Lower-middle,No,61.6,78.5
+MSFT-0464,Hiroshi Tanaka,Microsoft,MSFT,Engineering,Staff,89.6,500800,3.1,67.6,East Asia,Upper-middle,No,44.5,70.3
+MSFT-0465,Fatima Murphy,Microsoft,MSFT,Engineering,Senior,83.3,297600,4.0,66.5,North America,Lower-middle,No,46.0,58.9
+MSFT-0466,Aisha Davis,Microsoft,MSFT,Operations,Senior,75.8,206200,12.5,63.3,North America,Middle,No,48.3,78.8
+MSFT-0467,Fatima Smith,Microsoft,MSFT,Operations,Senior,78.7,256900,12.5,53.4,East Asia,Middle,No,46.2,49.8
+MSFT-0468,Hiroshi Reyes,Microsoft,MSFT,Operations,Staff,88.4,223500,10.6,53.4,North America,Working class,Yes,97.8,65.8
+MSFT-0469,David Lee,Microsoft,MSFT,Engineering,Principal,76.2,655600,7.2,67.2,Europe,Middle,No,51.2,64.9
+MSFT-0470,Sofia Lee,Microsoft,MSFT,Engineering,Senior,72.3,145000,6.1,67.9,North America,Working class,Yes,100.0,51.9
+MSFT-0471,Grace Reyes,Microsoft,MSFT,Engineering,Senior,77.6,422000,11.5,60.9,North America,Middle,No,38.2,64.6
+MSFT-0472,Linda Wang,Microsoft,MSFT,Research & AI,Senior Director,76.3,859500,4.3,58.6,North America,Working class,No,85.9,66.4
+MSFT-0473,Mary Murphy,Microsoft,MSFT,Sales & GTM,Staff,59.3,345500,7.5,58.0,North America,Lower-middle,Yes,69.7,65.4
+MSFT-0474,Michael Yamamoto,Microsoft,MSFT,Engineering,Staff,78.6,471100,8.4,53.5,Europe,Middle,No,42.9,66.3
+MSFT-0475,Fatima Anderson,Microsoft,MSFT,Sales & GTM,Director,77.6,596200,22.2,70.3,South Asia,Working class,Yes,90.6,82.7
+MSFT-0476,Ahmed Nguyen,Microsoft,MSFT,Finance,SVP,86.4,1058900,9.4,78.2,Latin America,Middle,No,52.2,67.9
+MSFT-0477,Raj Brown,Microsoft,MSFT,Engineering,Senior,88.3,229600,17.8,62.6,Middle East,Upper-middle,No,40.5,76.9
+MSFT-0478,David Rossi,Microsoft,MSFT,Engineering,Senior,65.4,229400,6.1,67.8,Latin America,Working class,No,79.9,57.7
+MSFT-0479,Yuki Yamamoto,Microsoft,MSFT,Product,Senior,82.4,224500,3.5,64.7,North America,Lower-middle,Yes,85.4,64.1
+MSFT-0480,Arjun Park,Microsoft,MSFT,Engineering,Staff,78.3,403900,5.9,61.2,Africa,Upper-middle,No,34.4,64.1
+MSFT-0481,Samuel Patel,Microsoft,MSFT,Research & AI,Senior Director,86.9,1613100,12.1,72.5,North America,Lower-middle,No,46.7,61.0
+MSFT-0482,Thomas Wang,Microsoft,MSFT,Product,Principal,73.1,518200,7.0,64.7,North America,Upper-middle,No,26.9,68.9
+MSFT-0483,Olivia Kim,Microsoft,MSFT,Sales & GTM,Principal,53.3,200700,8.6,67.1,North America,Lower-middle,Yes,63.7,56.4
+MSFT-0484,Ahmed Rossi,Microsoft,MSFT,Product,Senior,68.8,145200,12.2,64.1,Europe,Affluent,No,22.3,56.3
+MSFT-0485,John Wilson,Microsoft,MSFT,Engineering,Staff,63.6,331500,12.7,67.0,Latin America,Upper-middle,No,31.5,40.9
+MSFT-0486,Olivia Okafor,Microsoft,MSFT,Engineering,Senior Director,88.4,583800,12.3,67.3,North America,Lower-middle,No,71.0,76.9
+MSFT-0487,Raj Davis,Microsoft,MSFT,Legal & Policy,Director,89.6,579200,5.4,76.9,North America,Working class,Yes,86.2,68.3
+MSFT-0488,Emily Tanaka,Microsoft,MSFT,Marketing,Principal,73.8,424200,8.3,68.9,South Asia,Lower-middle,Yes,85.3,81.0
+MSFT-0489,Ahmed Silva,Microsoft,MSFT,People/HR,Principal,63.5,351900,5.8,81.0,North America,Lower-middle,No,66.6,70.1
+MSFT-0490,John Nguyen,Microsoft,MSFT,Legal & Policy,VP,81.0,1102600,7.2,69.1,North America,Middle,No,35.7,71.2
+MSFT-0491,Kevin Tanaka,Microsoft,MSFT,Research & AI,VP,95.8,765900,6.2,77.5,North America,Working class,No,85.6,78.8
+MSFT-0492,Hannah Kim,Microsoft,MSFT,Engineering,Senior,88.8,172300,4.5,65.0,South Asia,Working class,Yes,90.6,83.5
+MSFT-0493,Sofia Petrov,Microsoft,MSFT,Engineering,Staff,79.6,234000,7.4,70.5,North America,Working class,Yes,100.0,73.3
+MSFT-0494,Kevin Petrov,Microsoft,MSFT,Engineering,Senior,76.7,346500,3.6,54.8,Middle East,Middle,Yes,58.2,72.7
+MSFT-0495,Chen Khan,Microsoft,MSFT,Engineering,VP,79.6,378000,14.8,63.3,North America,Working class,Yes,85.1,70.5
+MSFT-0496,Elena Khan,Microsoft,MSFT,Engineering,Staff,83.3,275300,4.0,59.3,East Asia,Middle,No,41.8,57.0
+MSFT-0497,Wei Murphy,Microsoft,MSFT,Design,Senior Director,93.6,859300,10.8,71.1,North America,Middle,No,56.2,53.7
+MSFT-0498,Samuel Cohen,Microsoft,MSFT,Finance,Senior,81.2,474200,4.1,46.1,East Asia,Affluent,No,22.6,68.3
+MSFT-0499,Elena Reyes,Microsoft,MSFT,Sales & GTM,Staff,74.4,380000,7.4,74.9,North America,Affluent,No,28.6,59.3
+MSFT-0500,Chen Kim,Microsoft,MSFT,Sales & GTM,Principal,91.3,473400,13.2,79.5,Latin America,Lower-middle,Yes,80.4,91.1
+MSFT-0501,Daniel Anderson,Microsoft,MSFT,Research & AI,Senior,79.8,243000,11.3,64.2,East Asia,Affluent,No,24.9,47.5
+MSFT-0502,Yuki Kim,Microsoft,MSFT,Design,Senior Director,82.3,619900,14.5,61.0,North America,Upper-middle,No,37.5,39.8
+MSFT-0503,Hannah Cohen,Microsoft,MSFT,Sales & GTM,Director,81.9,627100,13.1,74.2,North America,Lower-middle,Yes,72.7,78.3
+MSFT-0504,Ahmed Singh,Microsoft,MSFT,Engineering,Senior Director,90.6,892100,9.8,76.0,East Asia,Working class,Yes,100.0,71.1
+MSFT-0505,Fatima Nguyen,Microsoft,MSFT,Engineering,Senior,69.6,148600,10.8,59.7,South Asia,Affluent,No,25.1,77.1
+MSFT-0506,Carlos Wang,Microsoft,MSFT,Product,Senior,84.2,193900,2.8,64.9,Latin America,Affluent,No,31.2,80.9
+MSFT-0507,Arjun Garcia,Microsoft,MSFT,Engineering,Staff,73.5,307100,3.5,57.6,East Asia,Middle,No,65.5,52.8
+MSFT-0508,Thomas Silva,Microsoft,MSFT,Engineering,Senior Director,80.6,513600,13.6,59.0,North America,Working class,Yes,89.0,58.1
+MSFT-0509,Daniel Wang,Microsoft,MSFT,Product,Staff,71.9,306100,10.9,59.8,Latin America,Middle,No,59.0,76.7
+MSFT-0510,Linda Wilson,Microsoft,MSFT,Research & AI,Director,81.4,2168200,8.2,60.0,East Asia,Upper-middle,No,48.7,71.7
+MSFT-0511,Thomas Brown,Microsoft,MSFT,Research & AI,Senior,72.5,179600,11.2,68.1,Latin America,Middle,No,46.8,70.6
+MSFT-0512,Nina Tanaka,Microsoft,MSFT,Sales & GTM,Staff,76.8,281700,12.1,69.0,Latin America,Upper-middle,No,35.8,52.8
+MSFT-0513,James Yamamoto,Microsoft,MSFT,Sales & GTM,Staff,65.6,354400,9.6,61.9,Europe,Lower-middle,No,57.6,64.1
+MSFT-0514,Aisha Hassan,Microsoft,MSFT,Engineering,Staff,87.4,466800,2.4,67.7,South Asia,Middle,No,56.6,69.2
+MSFT-0515,Maria Kim,Microsoft,MSFT,Research & AI,Staff,82.7,137400,4.0,67.1,North America,Working class,No,86.0,71.3
+MSFT-0516,Hiroshi Tanaka,Microsoft,MSFT,Research & AI,Staff,69.9,404100,7.1,61.4,South Asia,Working class,No,74.2,62.5
+MSFT-0517,Linda Tanaka,Microsoft,MSFT,Engineering,Senior,66.0,214300,8.2,60.2,Europe,Upper-middle,No,34.0,46.5
+MSFT-0518,David Singh,Microsoft,MSFT,Finance,Staff,80.5,225300,19.5,56.8,South Asia,Middle,No,60.6,56.1
+MSFT-0519,James Nguyen,Microsoft,MSFT,Operations,Senior,64.6,424100,1.0,67.7,Europe,Working class,Yes,77.8,75.0
+MSFT-0520,Daniel Hassan,Microsoft,MSFT,Sales & GTM,Staff,76.1,241800,1.3,74.2,East Asia,Lower-middle,Yes,70.0,66.3
+MSFT-0521,Hannah Brown,Microsoft,MSFT,Engineering,Principal,89.0,1059300,4.3,65.3,North America,Lower-middle,Yes,62.5,57.2
+MSFT-0522,Zoe Johnson,Microsoft,MSFT,Product,SVP,92.6,458700,8.2,67.9,South Asia,Lower-middle,No,62.5,79.6
+MSFT-0523,Hiroshi Yamamoto,Microsoft,MSFT,Engineering,Staff,82.6,550600,18.8,70.8,North America,Affluent,No,29.3,70.4
+MSFT-0524,Linda Johnson,Microsoft,MSFT,Engineering,Staff,74.7,414700,9.3,60.0,Middle East,Middle,No,45.9,66.1
+MSFT-0525,Aisha Reyes,Microsoft,MSFT,Operations,Staff,60.9,301700,2.1,73.4,North America,Upper-middle,No,27.6,51.3
+MSFT-0526,Mary Petrov,Microsoft,MSFT,Product,Staff,75.6,399800,8.6,68.1,South Asia,Middle,No,32.3,68.8
+MSFT-0527,Daniel Yamamoto,Microsoft,MSFT,Engineering,Director,84.4,575600,5.7,69.6,East Asia,Upper-middle,No,41.6,63.5
+MSFT-0528,Sofia Chen,Microsoft,MSFT,Engineering,Principal,83.3,326800,12.1,66.8,South Asia,Working class,Yes,91.4,37.6
+MSFT-0529,Thomas Kim,Microsoft,MSFT,Design,Senior,77.9,284900,8.9,71.4,North America,Working class,No,88.9,69.5
+MSFT-0530,David Murphy,Microsoft,MSFT,Research & AI,Senior Director,78.4,1191900,5.5,64.1,South Asia,Upper-middle,No,39.8,63.2
+MSFT-0531,Samuel Tanaka,Microsoft,MSFT,Operations,Senior,55.5,173300,7.3,59.6,North America,Lower-middle,Yes,74.7,53.7
+MSFT-0532,Michael Nguyen,Microsoft,MSFT,Engineering,Principal,63.0,684600,5.3,76.2,North America,Upper-middle,No,42.2,67.0
+MSFT-0533,Linda Singh,Microsoft,MSFT,Marketing,Senior,81.8,125100,11.1,63.5,North America,Working class,Yes,83.0,81.3
+MSFT-0534,Sofia Davis,Microsoft,MSFT,Design,Staff,89.1,524100,11.0,59.1,South Asia,Working class,Yes,93.3,69.7
+MSFT-0535,John Khan,Microsoft,MSFT,Product,Principal,78.1,1099700,11.2,55.0,Europe,Middle,No,55.8,58.5
+MSFT-0536,Nina Johnson,Microsoft,MSFT,Finance,Principal,89.3,206200,4.6,56.6,East Asia,Lower-middle,Yes,69.4,61.4
+MSFT-0537,Zoe Singh,Microsoft,MSFT,Engineering,Senior,86.1,173200,10.2,54.8,Oceania,Upper-middle,No,38.0,57.6
+MSFT-0538,Linda Tanaka,Microsoft,MSFT,Sales & GTM,Senior,84.8,177300,5.2,64.2,South Asia,Middle,Yes,66.6,68.2
+MSFT-0539,James Johnson,Microsoft,MSFT,Research & AI,Principal,79.3,187100,11.0,59.3,Southeast Asia,Middle,No,53.7,61.7
+MSFT-0540,Hiroshi Yamamoto,Microsoft,MSFT,Engineering,Staff,74.0,376400,2.0,58.6,North America,Middle,No,57.3,71.3
+MSFT-0541,Chen Lopez,Microsoft,MSFT,Research & AI,Staff,71.7,686600,8.2,58.2,Europe,Middle,No,51.7,57.7
+MSFT-0542,Zoe Okafor,Microsoft,MSFT,Sales & GTM,Senior,81.2,217800,13.0,63.1,East Asia,Working class,Yes,90.0,68.2
+MSFT-0543,Grace Brown,Microsoft,MSFT,Engineering,Staff,71.4,528900,7.7,55.5,North America,Working class,Yes,95.3,67.2
+MSFT-0544,Zoe Anderson,Microsoft,MSFT,Engineering,Senior,76.1,275500,3.5,56.1,North America,Upper-middle,No,39.9,67.2
+MSFT-0545,Nina Anderson,Microsoft,MSFT,Engineering,Staff,76.7,297800,9.2,62.8,North America,Upper-middle,No,38.5,52.4
+MSFT-0546,Carlos Johnson,Microsoft,MSFT,Research & AI,VP,89.4,1627100,24.2,60.5,South Asia,Working class,Yes,88.0,74.3
+MSFT-0547,Maria Kim,Microsoft,MSFT,Research & AI,Staff,81.5,310900,7.3,69.7,North America,Lower-middle,Yes,72.1,62.4
+MSFT-0548,Yuki Reyes,Microsoft,MSFT,Engineering,Senior,86.9,234200,6.8,70.8,North America,Working class,Yes,77.4,70.8
+MSFT-0549,Wei Rossi,Microsoft,MSFT,Research & AI,Principal,95.3,726200,9.7,82.5,South Asia,Working class,No,88.0,73.4
+MSFT-0550,Priya Johnson,Microsoft,MSFT,Research & AI,Staff,93.8,604300,8.1,62.2,South Asia,Working class,Yes,86.5,69.1
+MSFT-0551,Raj Cohen,Microsoft,MSFT,Research & AI,Principal,94.1,548600,7.7,62.9,South Asia,Lower-middle,Yes,70.0,63.7
+MSFT-0552,Mary Smith,Microsoft,MSFT,Engineering,Principal,90.5,578100,9.3,69.0,North America,Working class,Yes,90.1,74.9
+MSFT-0553,Maria Park,Microsoft,MSFT,Sales & GTM,Staff,77.4,379500,4.7,46.0,Oceania,Working class,Yes,83.5,62.7
+MSFT-0554,Michael Wilson,Microsoft,MSFT,Engineering,Senior,78.4,400600,8.3,62.8,North America,Lower-middle,Yes,75.3,70.8
+MSFT-0555,Yuki Anderson,Microsoft,MSFT,Research & AI,Senior,79.6,527300,5.7,49.9,North America,Middle,No,44.7,72.3
+MSFT-0556,Kevin Wang,Microsoft,MSFT,Research & AI,Principal,74.2,226400,12.8,67.1,North America,Middle,Yes,67.2,61.4
+MSFT-0557,Hiroshi Wilson,Microsoft,MSFT,Research & AI,Staff,100.0,367400,12.9,63.9,North America,Lower-middle,No,67.5,75.8
+MSFT-0558,Hannah Ali,Microsoft,MSFT,Research & AI,Principal,77.8,785000,6.6,69.9,North America,Upper-middle,No,41.7,69.6
+MSFT-0559,Hannah Johnson,Microsoft,MSFT,Engineering,Principal,76.1,468400,8.4,63.0,South Asia,Lower-middle,Yes,73.8,65.1
+MSFT-0560,Fatima Chen,Microsoft,MSFT,People/HR,C-Suite,81.0,1281000,11.3,71.1,North America,Working class,No,89.7,57.3
+MSFT-0561,David Murphy,Microsoft,MSFT,Finance,Staff,72.7,664100,12.1,58.1,South Asia,Lower-middle,Yes,70.4,71.2
+MSFT-0562,Mary Reyes,Microsoft,MSFT,Sales & GTM,Senior Director,81.3,324700,13.5,69.9,North America,Affluent,No,30.8,52.0
+MSFT-0563,Arjun Nguyen,Microsoft,MSFT,Engineering,Staff,75.1,563900,2.7,69.8,North America,Affluent,No,29.7,61.5
+MSFT-0564,Maria Park,Microsoft,MSFT,Engineering,Principal,83.3,176000,5.4,75.6,North America,Middle,No,56.2,58.0
+MSFT-0565,Nina Singh,Microsoft,MSFT,People/HR,Senior,62.2,134500,8.0,52.0,South Asia,Upper-middle,No,36.5,48.0
+MSFT-0566,Hiroshi Rossi,Microsoft,MSFT,Engineering,Principal,89.5,1150400,11.4,69.3,North America,Working class,Yes,88.3,70.1
+MSFT-0567,Sofia Lee,Microsoft,MSFT,Product,Staff,97.7,644200,2.8,73.2,North America,Lower-middle,Yes,69.0,73.5
+MSFT-0568,Fatima Ali,Microsoft,MSFT,Marketing,Director,89.3,507200,7.8,78.9,North America,Lower-middle,Yes,72.7,80.7
+MSFT-0569,Maria Schmidt,Microsoft,MSFT,Operations,Senior,86.1,139800,14.2,72.7,South Asia,Upper-middle,No,51.9,55.5
+MSFT-0570,David Okafor,Microsoft,MSFT,Legal & Policy,Senior,64.9,192800,8.1,64.6,North America,Lower-middle,Yes,73.5,46.5
+MSFT-0571,Michael Silva,Microsoft,MSFT,Finance,Staff,86.6,134800,2.4,67.7,Southeast Asia,Middle,No,59.4,57.8
+MSFT-0572,Kevin Chen,Microsoft,MSFT,Legal & Policy,Senior Director,88.0,655500,18.1,65.3,North America,Working class,Yes,97.2,61.3
+MSFT-0573,Zoe Petrov,Microsoft,MSFT,Operations,Director,97.5,626100,5.4,65.9,North America,Upper-middle,No,39.4,64.2
+MSFT-0574,Fatima Petrov,Microsoft,MSFT,Operations,Staff,86.7,861800,8.5,54.9,Latin America,Upper-middle,No,43.0,69.9
+MSFT-0575,Aisha Patel,Microsoft,MSFT,Engineering,VP,83.3,1022500,10.3,65.0,North America,Upper-middle,No,42.3,61.7
+MSFT-0576,Emily Murphy,Microsoft,MSFT,Sales & GTM,Staff,57.9,449400,7.0,57.0,Europe,Affluent,No,33.2,53.7
+MSFT-0577,Zoe Okafor,Microsoft,MSFT,Research & AI,Senior Director,70.7,333900,11.1,73.1,Latin America,Upper-middle,No,45.8,64.5
+MSFT-0578,Fatima Petrov,Microsoft,MSFT,Research & AI,Director,82.2,481000,10.0,60.3,Oceania,Upper-middle,No,43.5,59.5
+MSFT-0579,Emily Khan,Microsoft,MSFT,Research & AI,Senior,84.5,792600,5.7,67.0,North America,Middle,No,44.5,73.6
+MSFT-0580,Elena Anderson,Microsoft,MSFT,Marketing,Staff,92.7,490600,8.0,71.3,North America,Lower-middle,Yes,83.3,62.9
+MSFT-0581,John Davis,Microsoft,MSFT,Legal & Policy,SVP,88.2,2197100,20.4,61.1,Middle East,Upper-middle,No,44.9,58.6
+MSFT-0582,Daniel Kim,Microsoft,MSFT,Engineering,Senior Director,85.1,1086900,10.0,73.8,North America,Lower-middle,No,58.2,78.2
+MSFT-0583,Sofia Cohen,Microsoft,MSFT,Operations,Senior,76.7,174100,11.1,65.6,North America,Middle,No,62.1,46.8
+MSFT-0584,Emily Smith,Microsoft,MSFT,Research & AI,Principal,73.1,195400,10.5,64.6,Europe,Working class,No,77.0,48.3
+MSFT-0585,Raj Davis,Microsoft,MSFT,Product,Staff,80.2,278100,10.4,52.7,Latin America,Middle,No,50.5,53.6
+MSFT-0586,Olivia Schmidt,Microsoft,MSFT,Product,Senior,87.4,260800,9.3,71.2,North America,Lower-middle,No,61.9,60.5
+MSFT-0587,Priya Petrov,Microsoft,MSFT,Operations,Senior,74.7,158700,16.5,62.9,North America,Working class,Yes,100.0,78.0
+MSFT-0588,Chen Schmidt,Microsoft,MSFT,Product,Director,78.3,1054300,11.0,53.9,North America,Lower-middle,No,71.8,66.4
+MSFT-0589,Wei Kim,Microsoft,MSFT,Engineering,Senior Director,85.2,1046400,8.5,73.1,North America,Affluent,No,22.4,65.3
+MSFT-0590,James Petrov,Microsoft,MSFT,Research & AI,Senior,62.6,248900,10.6,56.7,North America,Middle,Yes,56.4,64.2
+MSFT-0591,Wei Reyes,Microsoft,MSFT,Product,Senior,83.7,469700,3.4,71.2,North America,Working class,Yes,79.9,79.5
+MSFT-0592,Linda Khan,Microsoft,MSFT,Research & AI,Senior,89.5,436600,5.5,62.0,South Asia,Lower-middle,No,52.0,73.9
+MSFT-0593,Michael Wang,Microsoft,MSFT,Engineering,Staff,68.1,290900,4.5,64.8,Latin America,Lower-middle,Yes,72.8,80.2
+MSFT-0594,Fatima Wang,Microsoft,MSFT,Research & AI,Staff,59.1,279400,7.6,74.9,North America,Working class,Yes,98.4,73.2
+MSFT-0595,Mary Hassan,Microsoft,MSFT,Operations,Director,89.4,745800,5.2,83.3,North America,Working class,Yes,90.8,67.9
+MSFT-0596,Thomas Anderson,Microsoft,MSFT,Research & AI,Principal,72.3,328200,2.7,61.9,South Asia,Working class,No,90.2,73.2
+MSFT-0597,Elena Schmidt,Microsoft,MSFT,Sales & GTM,Principal,82.3,213300,11.7,78.0,North America,Working class,Yes,93.0,93.3
+MSFT-0598,Elena Wang,Microsoft,MSFT,Engineering,Senior,85.0,199900,6.8,71.3,Latin America,Lower-middle,Yes,89.9,78.8
+MSFT-0599,Arjun Garcia,Microsoft,MSFT,Marketing,Senior,74.6,166800,4.5,62.0,South Asia,Middle,Yes,49.2,63.3
+MSFT-0600,Elena Khan,Microsoft,MSFT,Engineering,VP,80.0,803300,7.4,71.1,North America,Upper-middle,No,36.9,69.7
+MSFT-0601,Priya Davis,Microsoft,MSFT,Product,Senior,70.4,285400,0.8,57.5,North America,Lower-middle,No,72.3,84.0
+MSFT-0602,Chen Chen,Microsoft,MSFT,Engineering,Staff,78.6,344700,4.4,64.1,Latin America,Upper-middle,Yes,38.5,56.7
+MSFT-0603,Hiroshi Smith,Microsoft,MSFT,Engineering,Staff,79.4,233700,16.5,62.5,North America,Lower-middle,No,61.2,55.5
+MSFT-0604,Wei Murphy,Microsoft,MSFT,Engineering,Senior,77.2,186500,8.4,62.9,North America,Middle,Yes,54.1,72.3
+MSFT-0605,Nina Singh,Microsoft,MSFT,Engineering,Staff,78.5,617400,1.2,65.8,Europe,Middle,Yes,53.8,69.2
+MSFT-0606,Elena Chen,Microsoft,MSFT,Legal & Policy,Senior,80.0,523900,12.3,47.1,North America,Affluent,No,38.3,61.7
+MSFT-0607,Ahmed Garcia,Microsoft,MSFT,Product,Principal,84.6,240900,14.3,61.3,Latin America,Middle,No,37.5,67.0
+MSFT-0608,Wei Khan,Microsoft,MSFT,Sales & GTM,Senior Director,91.6,856400,15.1,66.1,North America,Upper-middle,No,32.2,68.7
+MSFT-0609,Carlos Wilson,Microsoft,MSFT,Engineering,Principal,89.2,435600,3.7,60.2,East Asia,Working class,Yes,90.8,93.3
+MSFT-0610,Linda Smith,Microsoft,MSFT,Engineering,Director,73.2,554900,18.9,75.6,Latin America,Working class,Yes,100.0,80.2
+MSFT-0611,Yuki Park,Microsoft,MSFT,Design,Principal,76.3,163100,11.2,77.2,North America,Middle,Yes,55.1,75.6
+MSFT-0612,John Schmidt,Microsoft,MSFT,Finance,Director,93.3,825500,13.8,64.1,East Asia,Upper-middle,No,39.5,77.3
+MSFT-0613,Aisha Lee,Microsoft,MSFT,Research & AI,Principal,84.1,250300,4.8,74.4,North America,Lower-middle,No,65.7,71.1
+MSFT-0614,Grace Yamamoto,Microsoft,MSFT,Sales & GTM,Staff,78.9,714100,5.7,76.1,South Asia,Lower-middle,No,57.0,84.9
+MSFT-0615,Grace Yamamoto,Microsoft,MSFT,Sales & GTM,Senior,75.4,146500,4.2,64.0,North America,Middle,Yes,60.5,72.1
+MSFT-0616,Aisha Hassan,Microsoft,MSFT,Design,Senior,86.3,395800,14.8,59.4,East Asia,Working class,Yes,94.9,81.8
+MSFT-0617,David Anderson,Microsoft,MSFT,Engineering,Senior,77.8,224600,9.3,61.3,North America,Upper-middle,Yes,51.1,46.9
+MSFT-0618,Ahmed Singh,Microsoft,MSFT,People/HR,Senior Director,78.4,821100,9.8,63.5,South Asia,Working class,Yes,93.0,85.8
+MSFT-0619,Daniel Wilson,Microsoft,MSFT,Engineering,Principal,81.8,311800,3.8,68.8,East Asia,Middle,Yes,55.6,59.8
+MSFT-0620,Wei Nguyen,Microsoft,MSFT,Research & AI,Senior Director,91.4,444900,9.0,84.1,North America,Upper-middle,No,33.5,70.0
+MSFT-0621,Arjun Yamamoto,Microsoft,MSFT,Finance,Principal,85.1,425200,6.1,68.1,South Asia,Middle,No,45.1,58.2
+MSFT-0622,Grace Ali,Microsoft,MSFT,Engineering,Principal,76.5,340000,3.6,64.2,East Asia,Lower-middle,Yes,87.3,79.5
+MSFT-0623,Michael Khan,Microsoft,MSFT,Marketing,Senior,60.2,177500,8.4,66.4,North America,Middle,No,40.0,70.2
+MSFT-0624,Samuel Reyes,Microsoft,MSFT,Operations,Staff,69.6,415000,7.4,78.5,North America,Upper-middle,No,36.5,67.4
+MSFT-0625,Nina Yamamoto,Microsoft,MSFT,Product,Senior,57.8,232100,4.6,66.8,South Asia,Lower-middle,Yes,62.5,66.0
+MSFT-0626,John Reyes,Microsoft,MSFT,Engineering,Senior,71.9,202200,5.0,60.5,South Asia,Working class,No,83.0,69.8
+MSFT-0627,Michael Anderson,Microsoft,MSFT,Product,Senior,71.4,375000,8.6,66.7,North America,Upper-middle,No,38.1,81.0
+MSFT-0628,Samuel Kim,Microsoft,MSFT,Engineering,Senior,67.1,356700,8.7,67.1,North America,Working class,Yes,92.5,79.4
+MSFT-0629,Hannah Chen,Microsoft,MSFT,Research & AI,Senior,89.0,182100,7.1,64.6,East Asia,Working class,No,84.7,77.8
+MSFT-0630,Fatima Nguyen,Microsoft,MSFT,Operations,Senior Director,73.9,267300,13.8,63.4,North America,Middle,Yes,62.3,62.9
+MSFT-0631,Linda Martinez,Microsoft,MSFT,Product,Senior,74.3,331100,4.9,63.6,Europe,Upper-middle,No,28.8,52.4
+MSFT-0632,Hannah Nguyen,Microsoft,MSFT,Engineering,Senior,82.5,576200,4.6,57.2,North America,Middle,No,43.0,55.4
+MSFT-0633,Ahmed Nguyen,Microsoft,MSFT,Engineering,Senior,71.8,117600,14.3,64.9,North America,Upper-middle,Yes,44.1,77.5
+MSFT-0634,Ahmed Kim,Microsoft,MSFT,Operations,Principal,75.9,683400,13.5,60.3,South Asia,Middle,No,39.0,55.7
+MSFT-0635,Mary Singh,Microsoft,MSFT,Research & AI,SVP,78.8,1228100,26.6,71.3,Middle East,Lower-middle,No,66.0,55.7
+MSFT-0636,Linda Hassan,Microsoft,MSFT,Engineering,Director,89.0,1191700,7.0,72.6,North America,Middle,No,47.6,57.6
+MSFT-0637,Raj Reyes,Microsoft,MSFT,Finance,Principal,84.1,1600900,8.4,84.2,South Asia,Middle,Yes,61.3,71.7
+MSFT-0638,Ahmed Wilson,Microsoft,MSFT,Research & AI,Principal,83.0,323700,6.4,58.5,South Asia,Working class,Yes,91.1,76.1
+MSFT-0639,Olivia Smith,Microsoft,MSFT,Engineering,Staff,73.1,410500,7.1,66.5,North America,Lower-middle,Yes,75.0,73.5
+MSFT-0640,Yuki Singh,Microsoft,MSFT,Research & AI,Senior Director,81.3,704400,7.3,68.5,South Asia,Working class,Yes,82.4,62.3
+MSFT-0641,David Lopez,Microsoft,MSFT,Marketing,Senior,83.1,387000,1.6,52.7,North America,Upper-middle,No,37.3,66.4
+MSFT-0642,Maria Petrov,Microsoft,MSFT,Product,Senior,64.1,146500,4.5,59.1,North America,Lower-middle,Yes,83.9,68.8
+MSFT-0643,John Brown,Microsoft,MSFT,Research & AI,Principal,62.5,1599600,14.4,57.8,North America,Middle,No,61.1,75.1
+MSFT-0644,Carlos Petrov,Microsoft,MSFT,Operations,Principal,79.0,914800,6.3,80.2,North America,Working class,Yes,92.3,90.5
+MSFT-0645,Chen Chen,Microsoft,MSFT,Marketing,Principal,86.9,584000,15.8,60.4,North America,Middle,Yes,69.2,58.7
+MSFT-0646,Nina Yamamoto,Microsoft,MSFT,Engineering,Principal,73.6,351800,20.9,64.1,East Asia,Lower-middle,Yes,78.5,84.5
+MSFT-0647,Maria Yamamoto,Microsoft,MSFT,Operations,VP,85.0,1225600,6.8,81.6,North America,Upper-middle,No,40.8,58.0
+MSFT-0648,James Chen,Microsoft,MSFT,Research & AI,Senior,68.8,113800,3.7,75.1,Europe,Upper-middle,Yes,59.8,61.7
+MSFT-0649,Thomas Schmidt,Microsoft,MSFT,Research & AI,Senior,76.9,337200,15.2,57.7,East Asia,Middle,No,46.2,73.7
+MSFT-0650,Mary Tanaka,Microsoft,MSFT,Engineering,Principal,81.3,417500,10.4,49.8,North America,Lower-middle,No,69.4,80.1
+MSFT-0651,Aisha Lee,Microsoft,MSFT,Engineering,Senior,100.0,280200,6.9,54.1,South Asia,Lower-middle,Yes,75.9,69.6
+MSFT-0652,Mary Lee,Microsoft,MSFT,Research & AI,Staff,78.3,322800,12.5,65.6,North America,Middle,No,53.5,77.6
+MSFT-0653,Carlos Wang,Microsoft,MSFT,Operations,Senior,76.4,177500,7.9,57.8,North America,Lower-middle,Yes,73.3,70.2
+MSFT-0654,Fatima Park,Microsoft,MSFT,Engineering,C-Suite,77.9,661900,14.4,71.8,Europe,Working class,Yes,92.9,84.4
+MSFT-0655,Thomas Davis,Microsoft,MSFT,Legal & Policy,Senior,79.3,338800,12.1,55.7,North America,Working class,Yes,100.0,59.0
+MSFT-0656,Thomas Patel,Microsoft,MSFT,Operations,Senior Director,83.9,467800,6.0,70.1,Europe,Working class,No,80.4,79.0
+MSFT-0657,Olivia Silva,Microsoft,MSFT,Engineering,Senior,77.8,202700,5.8,56.5,North America,Lower-middle,Yes,65.6,65.5
+MSFT-0658,Carlos Silva,Microsoft,MSFT,Marketing,Principal,100.0,490300,8.9,61.5,East Asia,Affluent,No,28.9,65.4
+MSFT-0659,Sofia Nguyen,Microsoft,MSFT,Research & AI,Director,61.9,280400,10.6,69.8,East Asia,Upper-middle,No,24.7,48.5
+MSFT-0660,Mary Hassan,Microsoft,MSFT,People/HR,Staff,72.9,394700,4.4,76.1,South Asia,Middle,No,53.9,80.0
+MSFT-0661,John Kim,Microsoft,MSFT,Research & AI,Senior,79.7,238300,2.8,54.3,East Asia,Affluent,No,29.6,65.9
+MSFT-0662,Raj Petrov,Microsoft,MSFT,Operations,Senior,85.3,335900,13.0,44.1,South Asia,Working class,Yes,84.1,71.8
+MSFT-0663,Hiroshi Reyes,Microsoft,MSFT,Engineering,Staff,88.0,637500,5.8,63.8,South Asia,Upper-middle,No,23.7,53.8
+MSFT-0664,Hannah Reyes,Microsoft,MSFT,Legal & Policy,Principal,87.7,278800,4.6,78.0,South Asia,Middle,No,54.8,77.1
+MSFT-0665,Zoe Wang,Microsoft,MSFT,Engineering,Senior,73.1,204400,6.8,61.6,South Asia,Upper-middle,Yes,55.6,62.4
+MSFT-0666,Yuki Park,Microsoft,MSFT,Operations,Principal,85.3,345800,9.0,66.1,North America,Working class,Yes,100.0,73.3
+MSFT-0667,Aisha Yamamoto,Microsoft,MSFT,Engineering,Senior,75.0,339300,5.0,66.8,North America,Affluent,No,22.1,59.6
+MSFT-0668,Carlos Rossi,Microsoft,MSFT,Finance,Staff,65.7,184700,9.2,68.8,South Asia,Working class,Yes,100.0,78.6
+MSFT-0669,Arjun Singh,Microsoft,MSFT,Engineering,Senior Director,85.1,628500,8.8,68.4,South Asia,Working class,Yes,96.7,80.7
+MSFT-0670,Carlos Silva,Microsoft,MSFT,Engineering,Director,85.2,918800,10.3,70.4,East Asia,Working class,Yes,84.2,77.7
+MSFT-0671,Thomas Patel,Microsoft,MSFT,Engineering,Senior Director,83.7,343800,6.1,78.3,Europe,Middle,No,44.7,67.8
+MSFT-0672,Ahmed Martinez,Microsoft,MSFT,Engineering,Senior,76.1,307200,4.3,66.3,South Asia,Upper-middle,No,38.7,58.2
+MSFT-0673,Sofia Tanaka,Microsoft,MSFT,Finance,Senior,75.2,303000,3.8,67.4,South Asia,Lower-middle,Yes,66.9,78.8
+MSFT-0674,Ahmed Cohen,Microsoft,MSFT,Engineering,VP,83.7,1379700,12.3,65.0,Europe,Middle,No,48.7,60.6
+MSFT-0675,Fatima Cohen,Microsoft,MSFT,Engineering,C-Suite,92.1,1339400,14.3,73.0,North America,Middle,No,62.0,84.9
+MSFT-0676,Fatima Okafor,Microsoft,MSFT,Operations,Senior,74.9,255900,7.0,65.8,North America,Upper-middle,No,50.5,60.7
+MSFT-0677,Hiroshi Patel,Microsoft,MSFT,Sales & GTM,Staff,85.9,209300,26.3,57.8,North America,Middle,No,66.2,77.2
+MSFT-0678,Wei Kim,Microsoft,MSFT,Sales & GTM,Staff,64.5,263900,4.0,59.4,Middle East,Working class,Yes,85.1,76.6
+MSFT-0679,Mary Park,Microsoft,MSFT,Engineering,Director,71.0,364600,8.9,72.9,East Asia,Lower-middle,No,59.3,65.9
+MSFT-0680,Nina Petrov,Microsoft,MSFT,Operations,Director,77.7,356900,9.2,81.7,North America,Working class,Yes,83.1,62.8
+MSFT-0681,Fatima Martinez,Microsoft,MSFT,Research & AI,Senior,80.3,152600,9.5,56.1,Europe,Affluent,No,22.0,58.5
+MSFT-0682,Emily Garcia,Microsoft,MSFT,Operations,Staff,70.3,455900,4.9,75.9,South Asia,Working class,Yes,83.0,64.9
+MSFT-0683,David Singh,Microsoft,MSFT,Research & AI,VP,83.3,1076500,17.6,62.6,North America,Middle,No,53.3,64.2
+MSFT-0684,Chen Johnson,Microsoft,MSFT,People/HR,VP,78.7,887600,14.9,67.0,North America,Middle,No,62.2,61.9
+MSFT-0685,Hiroshi Tanaka,Microsoft,MSFT,Research & AI,Senior,62.3,255600,5.7,65.6,Latin America,Lower-middle,No,73.2,69.8
+MSFT-0686,Wei Okafor,Microsoft,MSFT,Product,Senior Director,67.8,298900,13.2,69.5,North America,Lower-middle,Yes,79.4,56.8
+MSFT-0687,Zoe Reyes,Microsoft,MSFT,Marketing,Senior,79.4,152900,3.4,59.6,Europe,Lower-middle,Yes,85.6,64.8
+MSFT-0688,Nina Anderson,Microsoft,MSFT,Operations,Principal,69.2,119500,3.2,58.2,Middle East,Upper-middle,No,43.7,73.6
+MSFT-0689,Hiroshi Tanaka,Microsoft,MSFT,Engineering,Principal,78.6,814800,8.8,67.2,Europe,Lower-middle,Yes,85.5,50.7
+MSFT-0690,Samuel Hassan,Microsoft,MSFT,Research & AI,Senior,75.5,221100,4.7,68.3,North America,Upper-middle,No,36.5,82.5
+MSFT-0691,Emily Nguyen,Microsoft,MSFT,Engineering,Senior Director,79.3,1319500,10.5,68.2,Latin America,Upper-middle,No,34.9,74.4
+MSFT-0692,Yuki Petrov,Microsoft,MSFT,People/HR,Director,71.1,1951600,5.9,65.9,East Asia,Upper-middle,No,34.4,54.1
+MSFT-0693,Daniel Chen,Microsoft,MSFT,Operations,VP,76.5,670500,10.7,61.6,Europe,Lower-middle,Yes,67.3,71.4
+MSFT-0694,Daniel Tanaka,Microsoft,MSFT,Operations,Staff,65.5,568700,10.1,56.3,South Asia,Lower-middle,No,63.2,63.7
+MSFT-0695,Mary Cohen,Microsoft,MSFT,Operations,Senior Director,89.1,1470000,17.8,75.8,Southeast Asia,Lower-middle,Yes,83.1,74.5
+MSFT-0696,Fatima Nguyen,Microsoft,MSFT,Finance,Director,87.7,816600,7.3,73.6,Latin America,Working class,No,73.8,76.0
+MSFT-0697,Fatima Brown,Microsoft,MSFT,Engineering,Senior Director,85.0,798600,7.5,71.1,North America,Middle,No,50.8,62.5
+MSFT-0698,Ahmed Anderson,Microsoft,MSFT,Product,Principal,77.6,924700,3.2,64.5,South Asia,Middle,Yes,58.8,55.8
+MSFT-0699,Emily Smith,Microsoft,MSFT,Marketing,Staff,87.1,521300,8.7,57.6,South Asia,Affluent,No,37.5,52.6
+MSFT-0700,Olivia Cohen,Microsoft,MSFT,Engineering,Principal,68.4,434300,5.8,54.5,South Asia,Lower-middle,No,65.7,47.9
+MSFT-0701,John Petrov,Microsoft,MSFT,Product,Senior,51.9,95900,2.9,57.7,North America,Lower-middle,No,63.2,55.1
+MSFT-0702,James Smith,Microsoft,MSFT,Engineering,Senior,89.6,218700,2.9,70.3,North America,Upper-middle,No,34.8,64.0
+MSFT-0703,Sofia Okafor,Microsoft,MSFT,Sales & GTM,C-Suite,72.5,2622100,9.9,62.0,North America,Middle,Yes,65.9,74.0
+MSFT-0704,Linda Kim,Microsoft,MSFT,Sales & GTM,Senior,75.4,586400,1.1,65.2,North America,Middle,No,55.9,81.2
+MSFT-0705,Linda Singh,Microsoft,MSFT,Engineering,Senior,65.0,180400,3.6,74.7,Europe,Working class,Yes,90.8,64.5
+MSFT-0706,Nina Reyes,Microsoft,MSFT,Product,Staff,88.0,389500,12.3,70.0,South Asia,Lower-middle,Yes,67.1,76.8
+MSFT-0707,Chen Silva,Microsoft,MSFT,Research & AI,Senior,68.9,193300,5.8,61.8,North America,Middle,Yes,60.6,70.6
+MSFT-0708,Aisha Johnson,Microsoft,MSFT,Sales & GTM,Principal,78.9,515000,8.0,65.1,Latin America,Lower-middle,No,58.7,66.0
+MSFT-0709,Kevin Tanaka,Microsoft,MSFT,Engineering,Staff,85.0,135500,4.2,70.0,North America,Upper-middle,No,40.7,67.4
+MSFT-0710,David Rossi,Microsoft,MSFT,Legal & Policy,Senior,94.4,397900,9.9,67.9,North America,Lower-middle,Yes,73.4,64.7
+MSFT-0711,Linda Khan,Microsoft,MSFT,Engineering,Principal,88.1,1282800,6.5,57.4,Southeast Asia,Middle,No,57.5,66.7
+MSFT-0712,Priya Yamamoto,Microsoft,MSFT,Product,Director,91.1,1304900,11.5,63.6,North America,Middle,No,43.6,56.5
+MSFT-0713,Arjun Patel,Microsoft,MSFT,Engineering,Staff,84.8,213500,10.6,70.3,North America,Middle,No,64.8,69.9
+MSFT-0714,Chen Nguyen,Microsoft,MSFT,Sales & GTM,Staff,95.6,290500,13.5,58.9,North America,Middle,Yes,54.6,71.0
+MSFT-0715,Kevin Smith,Microsoft,MSFT,Engineering,Principal,59.1,318900,4.9,64.3,Latin America,Upper-middle,No,38.4,59.4
+MSFT-0716,Grace Smith,Microsoft,MSFT,Product,Principal,80.9,418400,8.1,64.9,South Asia,Lower-middle,No,65.4,67.7
+MSFT-0717,Thomas Wilson,Microsoft,MSFT,People/HR,Staff,93.0,472200,6.8,64.3,North America,Middle,No,53.2,66.1
+MSFT-0718,Samuel Chen,Microsoft,MSFT,Product,Director,67.9,557800,18.1,79.6,North America,Middle,No,37.6,61.8
+MSFT-0719,Kevin Rossi,Microsoft,MSFT,Engineering,Principal,89.6,365000,10.0,61.7,South Asia,Upper-middle,No,36.2,58.5
+MSFT-0720,Hannah Rossi,Microsoft,MSFT,Engineering,Principal,83.1,914400,15.7,68.8,Europe,Affluent,No,8.2,50.0
+MSFT-0721,Emily Smith,Microsoft,MSFT,People/HR,Director,91.8,874400,8.6,55.1,North America,Upper-middle,No,44.6,46.0
+MSFT-0722,Michael Wilson,Microsoft,MSFT,Engineering,Director,87.8,590700,8.6,61.7,Southeast Asia,Middle,Yes,64.6,69.2
+MSFT-0723,Daniel Martinez,Microsoft,MSFT,Marketing,SVP,69.2,1214100,9.2,71.9,Africa,Middle,No,60.3,64.7
+MSFT-0724,Olivia Anderson,Microsoft,MSFT,Sales & GTM,SVP,93.0,1568900,22.7,68.9,North America,Lower-middle,Yes,68.0,84.7
+MSFT-0725,Yuki Lopez,Microsoft,MSFT,Sales & GTM,Staff,57.0,205100,10.5,67.5,North America,Working class,Yes,94.5,65.4
+MSFT-0726,Arjun Silva,Microsoft,MSFT,Design,Principal,93.8,568200,8.7,61.6,North America,Upper-middle,No,36.4,52.2
+MSFT-0727,Olivia Schmidt,Microsoft,MSFT,Finance,Senior,75.3,150900,6.8,72.2,South Asia,Lower-middle,Yes,75.2,61.7
+MSFT-0728,Arjun Cohen,Microsoft,MSFT,Product,Senior,74.4,320000,4.6,52.5,North America,Lower-middle,Yes,65.1,56.3
+MSFT-0729,Aisha Smith,Microsoft,MSFT,Engineering,Principal,86.0,446300,11.3,62.4,South Asia,Middle,No,50.2,54.8
+MSFT-0730,Ahmed Garcia,Microsoft,MSFT,Sales & GTM,Staff,91.4,143100,7.1,67.3,North America,Middle,Yes,66.4,83.9
+MSFT-0731,Priya Yamamoto,Microsoft,MSFT,Finance,Senior,82.6,603500,9.8,64.4,East Asia,Lower-middle,No,69.2,65.7
+MSFT-0732,Hiroshi Smith,Microsoft,MSFT,Research & AI,Senior,71.1,178600,8.2,55.8,Africa,Middle,No,52.2,53.4
+MSFT-0733,Hiroshi Tanaka,Microsoft,MSFT,Product,Staff,84.1,293600,4.3,67.8,Europe,Upper-middle,No,28.7,60.7
+MSFT-0734,David Schmidt,Microsoft,MSFT,Engineering,Staff,73.3,203800,10.6,66.9,South Asia,Affluent,No,31.0,86.1
+MSFT-0735,Raj Khan,Microsoft,MSFT,Engineering,C-Suite,92.5,1585800,9.9,67.3,South Asia,Lower-middle,Yes,73.2,72.0
+MSFT-0736,Zoe Wilson,Microsoft,MSFT,Sales & GTM,Staff,85.5,442500,6.8,68.2,South Asia,Upper-middle,No,48.4,60.8
+MSFT-0737,Ahmed Wilson,Microsoft,MSFT,Engineering,Principal,72.3,261600,8.6,70.4,Oceania,Working class,Yes,91.1,58.5
+MSFT-0738,Ahmed Kim,Microsoft,MSFT,Sales & GTM,Senior Director,90.2,1149700,13.9,60.7,North America,Middle,No,50.8,74.9
+MSFT-0739,Wei Lopez,Microsoft,MSFT,Operations,Senior Director,65.6,384000,6.3,63.6,North America,Middle,No,52.0,62.3
+MSFT-0740,Hannah Johnson,Microsoft,MSFT,Design,Senior Director,86.0,598300,15.6,54.8,Latin America,Lower-middle,Yes,76.1,63.0
+MSFT-0741,Chen Brown,Microsoft,MSFT,Design,Director,87.7,450800,6.1,74.3,North America,Middle,Yes,71.6,65.9
+MSFT-0742,Ahmed Tanaka,Microsoft,MSFT,Sales & GTM,Staff,79.1,411800,20.5,50.0,Europe,Lower-middle,No,67.6,58.5
+MSFT-0743,Hannah Patel,Microsoft,MSFT,Engineering,Principal,68.0,921200,8.8,65.4,North America,Middle,No,54.7,66.8
+MSFT-0744,Michael Silva,Microsoft,MSFT,People/HR,Staff,87.5,303700,5.3,64.6,North America,Middle,Yes,66.1,64.0
+MSFT-0745,Priya Anderson,Microsoft,MSFT,Engineering,Senior,79.6,627600,6.3,68.2,Southeast Asia,Middle,No,48.7,58.2
+MSFT-0746,Raj Hassan,Microsoft,MSFT,Engineering,Senior Director,82.5,1387800,12.6,61.2,North America,Lower-middle,Yes,71.3,75.8
+MSFT-0747,Zoe Khan,Microsoft,MSFT,Engineering,Principal,92.1,485500,6.2,72.2,North America,Working class,Yes,100.0,78.5
+MSFT-0748,David Smith,Microsoft,MSFT,Research & AI,Principal,75.4,446700,17.3,63.6,North America,Lower-middle,Yes,74.8,70.6
+MSFT-0749,Mary Silva,Microsoft,MSFT,Sales & GTM,Staff,74.5,443300,14.9,48.4,South Asia,Upper-middle,Yes,45.1,67.2
+MSFT-0750,Samuel Chen,Microsoft,MSFT,Sales & GTM,Senior,78.0,276500,4.1,54.6,South Asia,Upper-middle,No,52.2,64.5
+MSFT-0751,David Anderson,Microsoft,MSFT,Design,Principal,76.9,932200,11.5,62.6,North America,Lower-middle,Yes,83.6,58.5
+MSFT-0752,Chen Okafor,Microsoft,MSFT,Finance,Senior,65.0,145800,9.9,49.8,North America,Upper-middle,Yes,47.3,49.8
+MSFT-0753,James Okafor,Microsoft,MSFT,Design,Senior,69.6,259900,11.8,51.9,South Asia,Lower-middle,No,83.2,74.5
+MSFT-0754,Nina Reyes,Microsoft,MSFT,Engineering,Staff,81.2,110100,6.4,70.2,North America,Middle,Yes,62.6,64.8
+MSFT-0755,Grace Lopez,Microsoft,MSFT,People/HR,Senior,77.0,114400,8.3,59.9,Europe,Middle,Yes,64.8,70.1
+MSFT-0756,Linda Martinez,Microsoft,MSFT,Product,Senior,73.6,233000,13.0,61.1,North America,Working class,Yes,91.9,71.7
+MSFT-0757,Sofia Anderson,Microsoft,MSFT,Design,Principal,73.8,218900,7.6,61.3,Southeast Asia,Working class,Yes,90.0,78.8
+MSFT-0758,Chen Nguyen,Microsoft,MSFT,Engineering,Principal,68.1,431100,3.8,74.5,North America,Working class,Yes,93.5,80.6
+MSFT-0759,Samuel Singh,Microsoft,MSFT,Engineering,VP,80.9,1383200,14.3,55.1,North America,Lower-middle,Yes,86.1,38.9
+MSFT-0760,Yuki Yamamoto,Microsoft,MSFT,Sales & GTM,Director,75.8,550000,6.6,73.4,Africa,Lower-middle,Yes,74.7,74.0
+MSFT-0761,Fatima Chen,Microsoft,MSFT,Research & AI,Senior,70.9,130400,5.5,56.8,South Asia,Lower-middle,Yes,77.3,63.3
+MSFT-0762,Nina Johnson,Microsoft,MSFT,Engineering,Director,85.7,494000,5.3,68.4,East Asia,Working class,Yes,96.8,53.8
+MSFT-0763,Aisha Singh,Microsoft,MSFT,Engineering,Staff,71.3,512100,7.7,74.3,North America,Middle,Yes,61.9,67.7
+MSFT-0764,Fatima Singh,Microsoft,MSFT,Product,Staff,61.5,287000,5.5,74.0,Latin America,Lower-middle,Yes,88.5,63.5
+MSFT-0765,Fatima Silva,Microsoft,MSFT,Design,Staff,74.6,485000,5.5,60.0,East Asia,Upper-middle,No,36.9,79.0
+MSFT-0766,Arjun Martinez,Microsoft,MSFT,Engineering,Staff,83.9,195000,4.2,55.4,East Asia,Affluent,No,29.0,55.4
+MSFT-0767,Thomas Davis,Microsoft,MSFT,Operations,Principal,76.9,268100,10.2,60.3,North America,Middle,Yes,54.9,69.4
+MSFT-0768,Wei Smith,Microsoft,MSFT,Research & AI,Senior,79.5,217100,7.8,48.4,North America,Lower-middle,Yes,69.0,63.5
+MSFT-0769,Fatima Anderson,Microsoft,MSFT,Sales & GTM,VP,70.8,991500,12.7,71.9,Latin America,Affluent,No,29.1,62.2
+MSFT-0770,Maria Wilson,Microsoft,MSFT,People/HR,Director,73.4,788400,5.4,60.8,North America,Upper-middle,No,33.7,68.0
+MSFT-0771,Mary Singh,Microsoft,MSFT,Operations,Principal,61.5,259900,24.0,63.6,North America,Upper-middle,No,42.5,59.5
+MSFT-0772,Michael Nguyen,Microsoft,MSFT,Product,Principal,76.1,475800,4.7,66.0,East Asia,Middle,No,40.7,70.1
+MSFT-0773,Zoe Chen,Microsoft,MSFT,Engineering,Senior,82.9,272400,17.3,66.7,South Asia,Working class,Yes,86.7,83.7
+MSFT-0774,John Wilson,Microsoft,MSFT,Design,Staff,93.1,352300,7.1,55.1,South Asia,Middle,No,46.0,67.5
+MSFT-0775,Yuki Khan,Microsoft,MSFT,Research & AI,Director,85.6,705300,9.4,59.5,North America,Lower-middle,Yes,55.7,54.8
+MSFT-0776,Raj Khan,Microsoft,MSFT,Product,Director,59.2,283500,12.7,82.3,Europe,Middle,No,57.3,85.9
+MSFT-0777,Carlos Rossi,Microsoft,MSFT,Engineering,Senior,78.4,405100,2.5,55.4,North America,Affluent,No,27.9,65.4
+MSFT-0778,Linda Wilson,Microsoft,MSFT,Engineering,Senior,73.9,270700,13.2,63.1,North America,Upper-middle,No,54.8,59.3
+MSFT-0779,Michael Reyes,Microsoft,MSFT,Design,Senior,64.3,85300,3.2,62.7,Europe,Working class,Yes,79.5,72.7
+MSFT-0780,Raj Patel,Microsoft,MSFT,Sales & GTM,Staff,93.6,455000,4.7,72.8,North America,Middle,Yes,51.0,71.7
+MSFT-0781,Arjun Silva,Microsoft,MSFT,Product,Senior Director,79.1,609700,5.2,79.3,North America,Lower-middle,Yes,85.8,67.9
+MSFT-0782,Nina Nguyen,Microsoft,MSFT,Legal & Policy,Senior,80.1,167100,4.0,55.0,Africa,Upper-middle,No,37.2,64.0
+MSFT-0783,Raj Petrov,Microsoft,MSFT,Engineering,Staff,86.8,222700,5.0,60.9,East Asia,Lower-middle,No,67.2,77.1
+MSFT-0784,Linda Wilson,Microsoft,MSFT,Engineering,Senior,62.6,205900,9.6,66.0,South Asia,Middle,No,58.3,58.4
+MSFT-0785,Samuel Wang,Microsoft,MSFT,Research & AI,VP,85.4,653100,14.3,66.7,North America,Affluent,No,28.3,70.4
+MSFT-0786,Daniel Wang,Microsoft,MSFT,Engineering,Director,73.7,1408800,5.8,81.5,North America,Working class,Yes,92.8,80.4
+MSFT-0787,Michael Cohen,Microsoft,MSFT,Research & AI,Staff,72.3,363000,9.9,68.6,North America,Affluent,No,28.0,71.8
+MSFT-0788,Sofia Lopez,Microsoft,MSFT,Operations,Staff,90.3,255100,12.7,60.4,East Asia,Lower-middle,Yes,80.9,75.5
+MSFT-0789,Samuel Schmidt,Microsoft,MSFT,Design,Senior,92.0,483000,8.3,70.4,Middle East,Lower-middle,No,76.0,76.6
+MSFT-0790,Linda Garcia,Microsoft,MSFT,Operations,Staff,80.6,159400,4.5,59.4,North America,Upper-middle,No,42.5,76.4
+MSFT-0791,Raj Yamamoto,Microsoft,MSFT,Research & AI,Principal,76.2,338000,5.4,72.1,South Asia,Upper-middle,No,39.3,69.9
+MSFT-0792,Raj Park,Microsoft,MSFT,Design,Senior Director,87.0,1653900,9.0,57.3,North America,Working class,Yes,89.5,76.0
+MSFT-0793,Arjun Chen,Microsoft,MSFT,Engineering,Senior,74.5,330200,6.4,69.5,North America,Upper-middle,No,42.6,61.4
+MSFT-0794,Michael Ali,Microsoft,MSFT,Engineering,Principal,82.3,687600,8.0,78.7,Middle East,Middle,Yes,57.6,78.5
+MSFT-0795,Olivia Murphy,Microsoft,MSFT,Engineering,Principal,74.2,731000,13.6,66.8,North America,Upper-middle,No,34.4,56.9
+MSFT-0796,Wei Smith,Microsoft,MSFT,Engineering,Senior,85.8,799100,1.0,70.6,Middle East,Lower-middle,Yes,90.8,55.8
+MSFT-0797,Hiroshi Anderson,Microsoft,MSFT,Product,Senior Director,63.6,683600,9.8,80.0,South Asia,Middle,No,58.5,74.7
+MSFT-0798,Yuki Singh,Microsoft,MSFT,Product,Staff,91.5,357600,9.8,68.9,South Asia,Upper-middle,No,34.6,65.7
+MSFT-0799,Sofia Silva,Microsoft,MSFT,Operations,Senior Director,87.8,1208800,6.7,76.7,Middle East,Working class,Yes,97.8,71.2
+MSFT-0800,Zoe Yamamoto,Microsoft,MSFT,Product,Principal,75.7,513900,5.2,74.6,Europe,Working class,Yes,82.0,65.7
+MSFT-0801,Carlos Silva,Microsoft,MSFT,Design,Staff,70.1,262900,7.7,73.2,South Asia,Lower-middle,Yes,82.9,73.3
+MSFT-0802,Arjun Lee,Microsoft,MSFT,Finance,Staff,91.4,510800,7.1,66.0,East Asia,Working class,Yes,92.2,74.5
+MSFT-0803,David Schmidt,Microsoft,MSFT,People/HR,Staff,77.6,610800,8.7,66.2,North America,Working class,Yes,87.1,60.7
+MSFT-0804,Samuel Wang,Microsoft,MSFT,Marketing,Director,72.7,1093000,7.6,72.4,South Asia,Lower-middle,Yes,67.0,71.9
+MSFT-0805,Thomas Smith,Microsoft,MSFT,Product,Staff,81.3,449200,4.8,71.4,North America,Working class,No,87.6,74.0
+MSFT-0806,Kevin Yamamoto,Microsoft,MSFT,Operations,Principal,82.1,823800,8.7,74.3,North America,Affluent,Yes,34.7,56.8
+MSFT-0807,Grace Yamamoto,Microsoft,MSFT,Engineering,Senior,76.7,173200,3.6,64.6,North America,Middle,No,41.9,65.1
+MSFT-0808,David Okafor,Microsoft,MSFT,Engineering,Principal,72.7,355400,16.4,72.1,North America,Working class,Yes,83.1,76.6
+MSFT-0809,David Murphy,Microsoft,MSFT,Engineering,Director,69.1,551600,13.8,58.6,Europe,Working class,Yes,93.5,87.2
+MSFT-0810,Mary Nguyen,Microsoft,MSFT,Engineering,Principal,71.8,195000,6.1,78.9,East Asia,Middle,No,57.0,61.9
+MSFT-0811,Wei Okafor,Microsoft,MSFT,Engineering,Senior,61.0,128300,7.6,71.8,North America,Working class,No,80.1,71.7
+MSFT-0812,James Chen,Microsoft,MSFT,Finance,VP,86.1,873500,7.2,71.5,North America,Middle,No,47.3,73.9
+MSFT-0813,David Yamamoto,Microsoft,MSFT,Engineering,Staff,75.3,109800,6.5,66.0,North America,Working class,Yes,98.7,72.4
+MSFT-0814,David Tanaka,Microsoft,MSFT,Operations,VP,89.6,837300,7.9,71.0,North America,Lower-middle,No,77.6,78.3
+MSFT-0815,Yuki Silva,Microsoft,MSFT,Product,Director,86.7,293300,27.0,69.2,North America,Lower-middle,Yes,78.4,92.0
+MSFT-0816,Daniel Rossi,Microsoft,MSFT,Research & AI,Senior,74.4,185500,6.1,58.1,North America,Working class,Yes,100.0,79.4
+MSFT-0817,Wei Singh,Microsoft,MSFT,Engineering,Staff,88.4,294800,3.4,60.8,South Asia,Middle,Yes,44.9,71.4
+MSFT-0818,Chen Rossi,Microsoft,MSFT,Legal & Policy,Staff,71.5,146600,7.7,61.9,Middle East,Working class,No,76.7,59.9
+MSFT-0819,Samuel Ali,Microsoft,MSFT,Marketing,Senior Director,75.1,696500,8.7,64.4,North America,Middle,No,64.8,68.3
+MSFT-0820,James Chen,Microsoft,MSFT,Sales & GTM,Senior,80.4,237700,3.4,66.4,South Asia,Working class,Yes,87.0,81.9
+MSFT-0821,Chen Park,Microsoft,MSFT,Engineering,Senior,81.5,207500,4.4,65.6,South Asia,Working class,Yes,100.0,62.8
+MSFT-0822,Priya Davis,Microsoft,MSFT,Engineering,Staff,67.0,473300,5.2,78.9,North America,Affluent,No,25.8,84.3
+MSFT-0823,John Park,Microsoft,MSFT,People/HR,Senior Director,80.5,668900,7.4,65.6,North America,Upper-middle,No,41.7,43.2
+MSFT-0824,Hannah Wang,Microsoft,MSFT,Sales & GTM,Principal,87.8,720100,7.4,69.7,North America,Middle,No,53.2,58.4
+MSFT-0825,Zoe Rossi,Microsoft,MSFT,Sales & GTM,Principal,65.6,294400,9.2,64.6,East Asia,Lower-middle,No,72.8,70.8
+MSFT-0826,Wei Silva,Microsoft,MSFT,Product,Staff,100.0,309800,2.1,65.8,South Asia,Upper-middle,No,32.4,69.7
+MSFT-0827,Kevin Martinez,Microsoft,MSFT,Engineering,Senior,73.9,114600,8.8,62.6,South Asia,Middle,No,44.2,54.5
+MSFT-0828,Yuki Lee,Microsoft,MSFT,Research & AI,Staff,78.7,349900,26.8,43.4,South Asia,Middle,No,56.4,48.5
+MSFT-0829,Wei Davis,Microsoft,MSFT,Design,Principal,78.2,407700,9.7,74.1,North America,Lower-middle,No,64.9,55.5
+MSFT-0830,Olivia Wilson,Microsoft,MSFT,Product,Staff,85.8,339300,5.8,60.6,North America,Lower-middle,Yes,80.8,70.4
+MSFT-0831,Fatima Lee,Microsoft,MSFT,Engineering,Staff,67.5,387600,17.4,63.3,Latin America,Middle,No,60.8,65.6
+MSFT-0832,Grace Silva,Microsoft,MSFT,Product,Director,98.4,601500,4.8,67.8,Europe,Middle,Yes,63.4,68.9
+MSFT-0833,Michael Patel,Microsoft,MSFT,People/HR,Senior,53.9,244900,10.6,66.5,Latin America,Upper-middle,Yes,50.7,67.5
+MSFT-0834,Raj Martinez,Microsoft,MSFT,Engineering,Staff,74.6,221700,13.4,63.4,South Asia,Lower-middle,No,67.5,57.4
+MSFT-0835,Maria Singh,Microsoft,MSFT,Engineering,Staff,75.4,219300,8.7,62.0,South Asia,Working class,Yes,100.0,71.4
+MSFT-0836,Mary Park,Microsoft,MSFT,Engineering,Principal,77.8,457900,7.9,64.6,North America,Middle,No,57.0,65.8
+MSFT-0837,Arjun Lee,Microsoft,MSFT,Sales & GTM,Staff,75.2,576800,10.8,72.9,North America,Lower-middle,No,74.9,66.4
+MSFT-0838,Thomas Petrov,Microsoft,MSFT,Operations,Principal,69.7,300400,12.4,63.5,North America,Middle,No,51.7,52.0
+MSFT-0839,Ahmed Singh,Microsoft,MSFT,Design,Principal,70.9,633900,9.3,75.4,North America,Lower-middle,Yes,78.0,61.7
+MSFT-0840,Emily Wang,Microsoft,MSFT,Engineering,SVP,80.3,2536600,12.8,66.7,North America,Working class,Yes,97.6,83.1
+MSFT-0841,Hiroshi Lopez,Microsoft,MSFT,Product,Staff,95.1,896400,8.1,63.2,North America,Middle,Yes,56.2,65.8
+MSFT-0842,Kevin Wang,Microsoft,MSFT,People/HR,Senior Director,65.7,651300,9.6,71.7,East Asia,Lower-middle,Yes,79.6,66.6
+MSFT-0843,Aisha Garcia,Microsoft,MSFT,Legal & Policy,VP,78.1,826600,8.5,80.8,South Asia,Upper-middle,No,24.1,73.8
+MSFT-0844,Daniel Hassan,Microsoft,MSFT,Research & AI,Staff,70.7,158700,10.1,70.3,South Asia,Working class,Yes,98.9,94.1
+MSFT-0845,James Khan,Microsoft,MSFT,Engineering,Staff,83.1,222800,8.0,54.0,South Asia,Affluent,No,19.6,52.4
+MSFT-0846,Emily Khan,Microsoft,MSFT,Engineering,Principal,83.8,188800,3.2,74.1,South Asia,Middle,No,52.4,83.8
+MSFT-0847,Kevin Yamamoto,Microsoft,MSFT,Marketing,Director,87.5,853700,8.8,64.3,North America,Lower-middle,No,69.7,50.4
+MSFT-0848,Mary Petrov,Microsoft,MSFT,Finance,Director,79.2,547200,5.3,82.2,Latin America,Lower-middle,Yes,82.4,87.0
+MSFT-0849,Daniel Rossi,Microsoft,MSFT,Legal & Policy,Senior,70.4,203500,8.8,66.9,Latin America,Lower-middle,No,58.3,62.5
+MSFT-0850,Michael Wang,Microsoft,MSFT,Sales & GTM,Senior,55.2,66000,11.7,61.0,Europe,Middle,Yes,69.6,50.6
+MSFT-0851,Sofia Kim,Microsoft,MSFT,Engineering,VP,94.1,759800,15.9,58.0,East Asia,Affluent,No,13.0,55.9
+MSFT-0852,Michael Yamamoto,Microsoft,MSFT,Product,Senior,74.7,146500,7.6,60.5,South Asia,Affluent,No,23.4,71.9
+MSFT-0853,John Singh,Microsoft,MSFT,Research & AI,Director,83.6,524500,15.3,66.5,North America,Upper-middle,Yes,56.9,44.5
+MSFT-0854,Daniel Lopez,Microsoft,MSFT,Design,Staff,70.2,140300,7.7,63.3,Europe,Middle,No,51.9,66.2
+MSFT-0855,Linda Lopez,Microsoft,MSFT,Research & AI,Senior Director,83.3,1047900,5.3,79.5,South Asia,Middle,Yes,69.0,69.1
+MSFT-0856,Aisha Ali,Microsoft,MSFT,Operations,Senior,84.2,229000,6.3,64.5,South Asia,Lower-middle,Yes,68.0,74.0
+MSFT-0857,David Lopez,Microsoft,MSFT,Design,Staff,90.7,256600,15.8,51.3,North America,Middle,No,37.4,51.9
+MSFT-0858,Priya Garcia,Microsoft,MSFT,Research & AI,Principal,73.5,331800,4.6,61.1,Latin America,Middle,No,33.9,76.7
+MSFT-0859,Grace Silva,Microsoft,MSFT,Marketing,Principal,88.6,376900,13.8,71.2,South Asia,Middle,Yes,56.4,62.3
+MSFT-0860,Zoe Hassan,Microsoft,MSFT,Marketing,Principal,71.2,551100,9.0,63.9,South Asia,Working class,Yes,98.2,73.2
+MSFT-0861,Ahmed Anderson,Microsoft,MSFT,Engineering,Principal,99.3,542500,7.2,72.2,South Asia,Working class,Yes,86.0,90.4
+MSFT-0862,Daniel Reyes,Microsoft,MSFT,Engineering,Principal,96.9,231600,6.5,67.5,North America,Upper-middle,Yes,37.5,67.8
+MSFT-0863,Olivia Rossi,Microsoft,MSFT,Research & AI,Director,97.2,650500,7.0,70.2,Southeast Asia,Middle,Yes,41.4,57.5
+MSFT-0864,Olivia Ali,Microsoft,MSFT,Operations,Senior Director,73.2,1261500,9.8,76.8,North America,Middle,No,42.3,64.0
+MSFT-0865,Nina Rossi,Microsoft,MSFT,Research & AI,Staff,68.2,360000,7.8,72.4,North America,Lower-middle,Yes,77.1,85.1
+MSFT-0866,Elena Kim,Microsoft,MSFT,Research & AI,Senior,75.7,309300,8.7,71.6,East Asia,Working class,Yes,96.2,84.4
+MSFT-0867,Chen Chen,Microsoft,MSFT,Engineering,Senior,79.2,306600,13.6,61.3,North America,Working class,Yes,88.3,74.4
+MSFT-0868,Linda Brown,Microsoft,MSFT,Sales & GTM,VP,87.0,405700,11.1,69.1,East Asia,Working class,Yes,92.8,75.1
+MSFT-0869,Raj Schmidt,Microsoft,MSFT,Product,C-Suite,71.9,3302800,8.2,76.2,North America,Affluent,No,26.9,62.5
+MSFT-0870,Daniel Wang,Microsoft,MSFT,Engineering,VP,96.1,1660600,8.7,74.2,North America,Lower-middle,Yes,83.6,66.6
+MSFT-0871,Zoe Petrov,Microsoft,MSFT,Design,SVP,72.5,4741700,15.3,58.1,South Asia,Upper-middle,No,37.6,68.1
+MSFT-0872,Hiroshi Tanaka,Microsoft,MSFT,Engineering,Director,71.1,569300,9.0,70.0,Europe,Middle,No,56.1,70.9
+MSFT-0873,Elena Chen,Microsoft,MSFT,Sales & GTM,Principal,74.0,161100,2.4,74.2,East Asia,Middle,No,48.5,76.5
+MSFT-0874,Thomas Okafor,Microsoft,MSFT,Research & AI,Director,79.2,544200,9.8,65.1,North America,Middle,No,56.4,75.5
+MSFT-0875,John Anderson,Microsoft,MSFT,Operations,Senior Director,90.1,818200,11.5,52.2,East Asia,Middle,Yes,55.5,59.2
+MSFT-0876,Wei Wang,Microsoft,MSFT,Operations,Staff,100.0,314600,8.5,63.6,North America,Middle,No,51.4,70.9
+MSFT-0877,Michael Garcia,Microsoft,MSFT,Research & AI,VP,68.9,956900,12.6,65.3,North America,Lower-middle,Yes,73.8,61.0
+MSFT-0878,Thomas Davis,Microsoft,MSFT,Engineering,Senior,79.0,334000,18.2,70.1,East Asia,Working class,Yes,96.6,86.3
+MSFT-0879,Elena Khan,Microsoft,MSFT,Engineering,Senior Director,80.6,1066500,15.9,74.0,Latin America,Working class,Yes,87.3,72.9
+MSFT-0880,Olivia Okafor,Microsoft,MSFT,Research & AI,Principal,94.1,331300,13.9,59.9,East Asia,Lower-middle,Yes,65.1,87.9
+MSFT-0881,Daniel Silva,Microsoft,MSFT,People/HR,Principal,72.7,283800,4.3,56.0,Southeast Asia,Lower-middle,No,55.2,64.9
+MSFT-0882,Grace Ali,Microsoft,MSFT,Research & AI,VP,72.1,1143200,9.0,67.0,Oceania,Middle,No,39.6,56.5
+MSFT-0883,John Martinez,Microsoft,MSFT,Engineering,Director,69.2,1073200,5.7,78.4,North America,Lower-middle,Yes,83.6,59.2
+MSFT-0884,Aisha Cohen,Microsoft,MSFT,Engineering,Director,89.0,1048000,10.5,68.9,North America,Working class,Yes,100.0,65.3
+MSFT-0885,Elena Petrov,Microsoft,MSFT,Engineering,Director,80.8,1265700,8.0,70.6,South Asia,Working class,Yes,89.7,73.0
+MSFT-0886,Kevin Wang,Microsoft,MSFT,Engineering,Senior,60.5,144300,7.5,66.6,East Asia,Middle,Yes,50.0,72.0
+MSFT-0887,James Hassan,Microsoft,MSFT,Research & AI,Senior Director,90.1,760600,12.3,67.2,Oceania,Upper-middle,No,34.4,51.0
+MSFT-0888,Aisha Kim,Microsoft,MSFT,Engineering,Principal,95.5,666800,4.3,73.9,South Asia,Lower-middle,Yes,65.7,74.5
+MSFT-0889,Linda Ali,Microsoft,MSFT,Legal & Policy,SVP,80.9,1423100,18.9,74.5,Latin America,Lower-middle,Yes,79.0,77.7
+MSFT-0890,Olivia Cohen,Microsoft,MSFT,Research & AI,Senior Director,73.3,836800,7.9,62.3,Europe,Working class,No,97.4,61.2
+MSFT-0891,Yuki Kim,Microsoft,MSFT,People/HR,Senior,75.5,134200,12.5,61.2,North America,Middle,No,59.3,74.7
+MSFT-0892,Nina Smith,Microsoft,MSFT,Sales & GTM,Senior,69.3,100600,8.7,66.8,North America,Affluent,No,25.6,62.6
+MSFT-0893,Mary Kim,Microsoft,MSFT,Engineering,Senior,89.0,489700,12.1,64.7,North America,Working class,Yes,71.1,62.6
+MSFT-0894,Emily Silva,Microsoft,MSFT,Marketing,Staff,54.7,122900,3.0,70.9,Europe,Upper-middle,No,34.4,51.5
+MSFT-0895,Raj Lopez,Microsoft,MSFT,Design,Principal,79.1,321200,11.6,66.5,Europe,Working class,No,82.4,66.9
+MSFT-0896,Ahmed Brown,Microsoft,MSFT,Engineering,Principal,67.2,301900,3.4,68.8,North America,Lower-middle,Yes,67.7,75.7
+MSFT-0897,Mary Nguyen,Microsoft,MSFT,Engineering,Staff,86.2,527500,5.1,49.4,South Asia,Middle,Yes,53.0,59.3
+MSFT-0898,Arjun Nguyen,Microsoft,MSFT,Product,Director,67.4,694100,6.0,81.3,Europe,Affluent,No,26.0,47.6
+MSFT-0899,Wei Chen,Microsoft,MSFT,Engineering,Staff,68.9,258100,4.9,56.8,North America,Upper-middle,No,30.5,68.0
+MSFT-0900,Mary Rossi,Microsoft,MSFT,Sales & GTM,Staff,89.1,1009800,3.2,79.6,North America,Middle,No,59.0,76.4
+MSFT-0901,Yuki Nguyen,Microsoft,MSFT,Finance,Senior,61.1,251500,7.3,65.2,North America,Middle,Yes,71.2,66.2
+MSFT-0902,James Wilson,Microsoft,MSFT,Finance,Senior,72.7,265100,6.4,68.5,South Asia,Upper-middle,No,37.8,62.3
+MSFT-0903,Daniel Patel,Microsoft,MSFT,Engineering,Principal,81.9,632200,6.7,77.2,East Asia,Middle,No,40.7,75.5
+MSFT-0904,Sofia Garcia,Microsoft,MSFT,Engineering,Director,79.8,484400,6.8,71.9,East Asia,Working class,Yes,98.1,68.1
+MSFT-0905,Maria Cohen,Microsoft,MSFT,Engineering,Senior,84.6,164900,6.5,59.8,South Asia,Middle,Yes,43.2,73.3
+MSFT-0906,Aisha Hassan,Microsoft,MSFT,Product,Staff,80.9,662400,7.1,66.3,North America,Upper-middle,Yes,49.8,65.1
+MSFT-0907,Grace Wilson,Microsoft,MSFT,People/HR,Senior,76.0,128700,10.6,62.5,South Asia,Lower-middle,Yes,86.7,92.1
+MSFT-0908,John Khan,Microsoft,MSFT,Finance,Senior Director,71.9,558600,11.5,76.4,North America,Middle,No,59.8,57.7
+MSFT-0909,Ahmed Lopez,Microsoft,MSFT,Marketing,Senior,76.2,128000,11.6,64.6,North America,Middle,No,50.4,71.1
+MSFT-0910,Carlos Wilson,Microsoft,MSFT,Research & AI,Director,96.4,673900,17.0,74.0,North America,Middle,Yes,68.6,86.8
+MSFT-0911,Carlos Murphy,Microsoft,MSFT,Engineering,Staff,61.9,262000,10.3,87.0,Latin America,Middle,Yes,66.6,77.2
+MSFT-0912,Fatima Okafor,Microsoft,MSFT,Research & AI,Principal,80.9,841400,2.9,69.3,North America,Middle,No,53.8,72.1
+MSFT-0913,Michael Martinez,Microsoft,MSFT,Product,Staff,89.9,207600,15.7,60.4,Europe,Working class,Yes,83.7,60.1
+MSFT-0914,Hiroshi Davis,Microsoft,MSFT,Engineering,Senior,89.5,501300,5.5,55.7,Europe,Middle,No,42.0,64.9
+MSFT-0915,James Davis,Microsoft,MSFT,Engineering,Principal,72.9,382000,6.5,61.8,North America,Middle,No,60.3,46.4
+MSFT-0916,Linda Johnson,Microsoft,MSFT,Engineering,Staff,70.2,493900,12.8,57.5,North America,Middle,No,40.5,78.8
+MSFT-0917,Hannah Singh,Microsoft,MSFT,Marketing,Principal,92.8,1217300,6.3,52.1,Latin America,Middle,No,32.9,65.8
+MSFT-0918,Ahmed Patel,Microsoft,MSFT,Engineering,Principal,88.0,1258400,7.9,70.6,North America,Lower-middle,No,67.0,77.2
+MSFT-0919,Daniel Brown,Microsoft,MSFT,Finance,Staff,68.1,274900,4.1,83.1,Europe,Middle,No,51.8,70.3
+MSFT-0920,Kevin Silva,Microsoft,MSFT,Engineering,Staff,76.1,334300,8.0,55.4,North America,Affluent,No,25.1,57.6
+MSFT-0921,Aisha Kim,Microsoft,MSFT,Engineering,Director,80.4,441300,7.4,69.4,North America,Middle,No,70.0,73.9
+MSFT-0922,Fatima Wang,Microsoft,MSFT,Engineering,Director,75.9,636500,4.9,75.2,North America,Middle,No,57.5,60.9
+MSFT-0923,Mary Johnson,Microsoft,MSFT,Research & AI,Senior,77.1,245500,11.2,75.3,North America,Lower-middle,Yes,81.4,75.3
+MSFT-0924,Yuki Patel,Microsoft,MSFT,Research & AI,Staff,88.5,623200,5.9,63.4,North America,Middle,No,45.5,76.0
+MSFT-0925,Hannah Murphy,Microsoft,MSFT,Design,Senior,89.3,279600,10.9,60.0,East Asia,Working class,No,71.6,68.9
+MSFT-0926,Linda Wilson,Microsoft,MSFT,Engineering,Senior,77.6,129900,5.5,66.0,South Asia,Lower-middle,No,67.7,76.8
+MSFT-0927,Michael Davis,Microsoft,MSFT,Operations,Director,70.4,1362500,7.7,75.0,South Asia,Middle,Yes,62.9,62.7
+MSFT-0928,Kevin Ali,Microsoft,MSFT,Engineering,Principal,81.2,389000,3.8,67.3,Oceania,Middle,Yes,52.2,63.3
+MSFT-0929,Arjun Wang,Microsoft,MSFT,Engineering,Staff,59.0,384600,7.9,76.9,North America,Working class,No,81.5,73.3
+MSFT-0930,Linda Ali,Microsoft,MSFT,Research & AI,Staff,81.0,406600,8.9,60.5,East Asia,Middle,No,54.0,61.6
+MSFT-0931,Daniel Hassan,Microsoft,MSFT,Marketing,Senior Director,69.2,326100,6.9,72.3,East Asia,Middle,No,47.8,55.5
+MSFT-0932,Samuel Wang,Microsoft,MSFT,Product,Staff,61.1,460300,1.9,69.8,South Asia,Working class,Yes,92.5,79.7
+MSFT-0933,Kevin Silva,Microsoft,MSFT,Research & AI,Staff,74.1,553600,1.6,67.4,North America,Working class,Yes,93.4,71.1
+MSFT-0934,Chen Martinez,Microsoft,MSFT,Engineering,Principal,91.5,549400,2.9,67.8,South Asia,Upper-middle,No,27.2,62.5
+MSFT-0935,Chen Reyes,Microsoft,MSFT,Engineering,Principal,74.8,596800,6.8,73.6,North America,Upper-middle,No,36.5,61.8
+MSFT-0936,Yuki Chen,Microsoft,MSFT,Engineering,Staff,73.0,503400,19.0,64.5,North America,Upper-middle,Yes,54.2,74.3
+MSFT-0937,Wei Petrov,Microsoft,MSFT,Legal & Policy,Senior,67.5,214100,8.2,58.2,North America,Middle,Yes,67.8,67.9
+MSFT-0938,Carlos Reyes,Microsoft,MSFT,Operations,Staff,73.6,256800,2.7,61.3,North America,Affluent,No,29.5,63.6
+MSFT-0939,Priya Martinez,Microsoft,MSFT,Product,Director,79.6,439300,6.4,73.4,North America,Lower-middle,No,65.1,61.9
+MSFT-0940,Fatima Wilson,Microsoft,MSFT,Research & AI,Senior,58.3,129000,4.7,60.9,North America,Middle,No,54.5,53.9
+MSFT-0941,Aisha Okafor,Microsoft,MSFT,Engineering,Principal,86.3,458600,9.8,56.5,North America,Working class,Yes,96.1,70.9
+MSFT-0942,Arjun Silva,Microsoft,MSFT,Product,Senior,66.1,142700,7.2,54.9,North America,Middle,No,50.9,63.6
+MSFT-0943,Aisha Petrov,Microsoft,MSFT,Research & AI,Staff,74.3,455000,4.2,65.1,North America,Middle,No,53.1,73.5
+MSFT-0944,Hiroshi Schmidt,Microsoft,MSFT,Engineering,Staff,91.0,235200,10.1,65.5,North America,Middle,No,35.8,57.5
+MSFT-0945,Hiroshi Cohen,Microsoft,MSFT,Legal & Policy,Principal,85.1,216500,10.2,62.3,South Asia,Affluent,No,23.6,62.9
+MSFT-0946,Elena Singh,Microsoft,MSFT,Engineering,Director,80.6,398400,10.1,68.4,North America,Upper-middle,No,45.8,71.2
+MSFT-0947,Nina Martinez,Microsoft,MSFT,Research & AI,Staff,82.3,435400,8.8,57.8,North America,Middle,No,56.2,63.1
+MSFT-0948,Linda Ali,Microsoft,MSFT,Research & AI,Director,79.7,639800,11.3,72.3,North America,Working class,Yes,83.6,64.4
+MSFT-0949,Wei Yamamoto,Microsoft,MSFT,Design,Staff,65.5,580300,8.1,78.1,South Asia,Middle,Yes,65.3,66.6
+MSFT-0950,Grace Brown,Microsoft,MSFT,Operations,Director,79.6,421500,5.8,63.0,Middle East,Affluent,No,29.2,59.6
+MSFT-0951,Michael Murphy,Microsoft,MSFT,Design,VP,85.3,736800,10.3,66.5,North America,Upper-middle,No,43.7,63.5
+MSFT-0952,Sofia Tanaka,Microsoft,MSFT,Product,Staff,93.2,198300,11.0,67.7,South Asia,Lower-middle,Yes,76.4,79.8
+MSFT-0953,Carlos Yamamoto,Microsoft,MSFT,Research & AI,Staff,86.0,214200,7.2,63.0,North America,Affluent,No,24.7,59.8
+MSFT-0954,Thomas Garcia,Microsoft,MSFT,Engineering,SVP,90.9,1691500,14.9,71.0,South Asia,Working class,No,76.3,67.1
+MSFT-0955,Olivia Patel,Microsoft,MSFT,Operations,Senior,66.4,157400,1.1,57.6,Latin America,Upper-middle,No,48.3,46.1
+MSFT-0956,Linda Lopez,Microsoft,MSFT,Engineering,Senior,91.1,141100,14.9,56.0,North America,Upper-middle,No,26.9,69.9
+MSFT-0957,Fatima Schmidt,Microsoft,MSFT,Sales & GTM,Senior Director,66.4,877100,10.5,61.8,East Asia,Affluent,No,11.3,45.3
+MSFT-0958,Nina Schmidt,Microsoft,MSFT,Design,Senior,77.0,248900,1.8,59.6,East Asia,Working class,Yes,94.7,59.3
+MSFT-0959,Olivia Wang,Microsoft,MSFT,Design,Staff,87.8,358100,1.4,72.8,North America,Middle,No,50.7,70.3
+MSFT-0960,Linda Lee,Microsoft,MSFT,Engineering,Director,73.2,719100,11.7,73.2,Oceania,Middle,Yes,66.3,69.3
+MSFT-0961,Ahmed Yamamoto,Microsoft,MSFT,Sales & GTM,VP,83.3,808500,19.3,67.2,North America,Middle,No,52.3,66.2
+MSFT-0962,Nina Okafor,Microsoft,MSFT,Engineering,Director,81.3,701500,14.3,67.1,North America,Upper-middle,No,43.3,74.9
+MSFT-0963,Hannah Cohen,Microsoft,MSFT,Product,Staff,69.9,303000,3.6,68.1,North America,Lower-middle,No,68.0,83.9
+MSFT-0964,Linda Yamamoto,Microsoft,MSFT,Legal & Policy,Principal,84.7,497800,13.2,71.8,South Asia,Lower-middle,Yes,71.1,88.3
+MSFT-0965,Emily Kim,Microsoft,MSFT,Engineering,Principal,100.0,668500,9.2,64.5,North America,Working class,Yes,100.0,79.2
+MSFT-0966,Grace Anderson,Microsoft,MSFT,Marketing,Senior,72.4,123000,4.8,63.6,North America,Middle,No,53.2,63.8
+MSFT-0967,Emily Brown,Microsoft,MSFT,Engineering,Senior,87.9,396400,9.5,47.1,North America,Lower-middle,Yes,63.9,62.4
+MSFT-0968,Hannah Park,Microsoft,MSFT,Research & AI,Director,72.5,194700,8.3,57.6,East Asia,Upper-middle,No,46.5,70.8
+MSFT-0969,Olivia Rossi,Microsoft,MSFT,Sales & GTM,Staff,78.2,390100,5.5,70.7,South Asia,Upper-middle,No,52.4,63.3
+MSFT-0970,Michael Patel,Microsoft,MSFT,Product,Director,82.0,536900,9.8,56.7,North America,Working class,Yes,76.5,55.0
+MSFT-0971,James Hassan,Microsoft,MSFT,Engineering,VP,82.6,1053300,18.1,75.1,Europe,Affluent,No,23.4,69.4
+MSFT-0972,Sofia Silva,Microsoft,MSFT,Engineering,Senior Director,76.4,401200,6.9,70.5,North America,Lower-middle,Yes,86.2,63.9
+MSFT-0973,Kevin Brown,Microsoft,MSFT,Operations,Senior,86.5,319900,10.8,54.5,Southeast Asia,Middle,No,46.3,74.0
+MSFT-0974,Elena Khan,Microsoft,MSFT,Engineering,Principal,89.6,360800,10.6,56.0,North America,Middle,No,54.0,56.2
+MSFT-0975,Zoe Yamamoto,Microsoft,MSFT,Operations,Senior,78.3,350200,2.8,50.9,North America,Middle,No,48.6,69.4
+MSFT-0976,Kevin Patel,Microsoft,MSFT,Engineering,Senior,71.0,183000,6.2,62.7,South Asia,Middle,No,53.5,83.8
+MSFT-0977,Nina Garcia,Microsoft,MSFT,Engineering,Staff,82.1,206100,9.7,64.3,North America,Middle,No,58.0,69.5
+MSFT-0978,Elena Rossi,Microsoft,MSFT,Operations,SVP,100.0,1762300,15.5,82.4,Europe,Affluent,No,25.3,74.7
+MSFT-0979,Michael Rossi,Microsoft,MSFT,Legal & Policy,Staff,82.5,294700,9.3,75.1,North America,Middle,No,53.7,74.6
+MSFT-0980,Samuel Anderson,Microsoft,MSFT,Engineering,Senior Director,91.8,961000,10.9,62.5,South Asia,Middle,No,48.0,69.6
+MSFT-0981,Mary Ali,Microsoft,MSFT,Legal & Policy,Staff,68.2,502000,4.4,70.2,Africa,Middle,No,51.4,59.1
+MSFT-0982,James Okafor,Microsoft,MSFT,Research & AI,Senior Director,87.5,491500,10.4,76.4,Europe,Working class,Yes,87.1,80.1
+MSFT-0983,Samuel Okafor,Microsoft,MSFT,Research & AI,Director,66.2,399300,11.4,66.5,Southeast Asia,Working class,No,83.1,73.9
+MSFT-0984,Grace Yamamoto,Microsoft,MSFT,Engineering,Principal,75.0,229400,6.1,61.2,South Asia,Middle,Yes,74.3,70.9
+MSFT-0985,James Silva,Microsoft,MSFT,People/HR,Senior,83.9,342800,6.4,67.6,North America,Upper-middle,No,32.5,73.8
+MSFT-0986,Raj Martinez,Microsoft,MSFT,Engineering,Senior,77.5,505600,3.7,53.8,Latin America,Working class,No,79.1,57.4
+MSFT-0987,Priya Silva,Microsoft,MSFT,Sales & GTM,Principal,99.7,818600,8.4,71.2,East Asia,Lower-middle,Yes,71.8,75.7
+MSFT-0988,Hannah Rossi,Microsoft,MSFT,Product,Senior,74.4,107800,9.0,63.7,North America,Lower-middle,Yes,73.1,67.1
+MSFT-0989,Olivia Kim,Microsoft,MSFT,Research & AI,Staff,69.3,711200,7.9,65.2,North America,Middle,No,43.7,65.7
+MSFT-0990,Priya Okafor,Microsoft,MSFT,Product,Senior,79.1,239700,5.8,57.3,Europe,Working class,Yes,85.7,83.5
+MSFT-0991,Linda Brown,Microsoft,MSFT,Engineering,Staff,73.1,176200,6.7,61.1,North America,Middle,No,38.3,59.5
+MSFT-0992,Priya Davis,Microsoft,MSFT,Engineering,Staff,74.4,511300,8.3,58.3,Southeast Asia,Lower-middle,No,54.4,66.5
+MSFT-0993,Priya Yamamoto,Microsoft,MSFT,Finance,Principal,71.8,606800,6.1,69.5,North America,Middle,No,55.4,57.2
+MSFT-0994,Zoe Lopez,Microsoft,MSFT,Operations,Senior Director,60.9,1180000,8.6,76.9,North America,Middle,Yes,69.2,66.8
+MSFT-0995,David Yamamoto,Microsoft,MSFT,Engineering,Senior Director,87.4,478800,7.0,66.3,East Asia,Middle,Yes,68.2,81.7
+MSFT-0996,Kevin Cohen,Microsoft,MSFT,Engineering,Principal,97.1,821600,14.4,72.8,South Asia,Middle,No,65.3,73.5
+MSFT-0997,Priya Khan,Microsoft,MSFT,Finance,Senior,70.3,256700,7.5,63.8,South Asia,Lower-middle,No,75.0,85.6
+MSFT-0998,James Silva,Microsoft,MSFT,Research & AI,Senior,82.3,459400,11.2,66.1,South Asia,Affluent,No,33.6,60.3
+MSFT-0999,Maria Singh,Microsoft,MSFT,Design,Staff,80.0,281500,3.4,71.6,East Asia,Middle,No,47.0,57.2
+MSFT-1000,Olivia Okafor,Microsoft,MSFT,Marketing,Director,85.3,503900,8.7,66.9,East Asia,Upper-middle,No,47.0,59.5

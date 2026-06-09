@@ -4,58 +4,105 @@
   "pooled_correlations": {
     "performance_score": {
       "performance_score": 1.0,
-      "total_compensation_usd": 0.167,
-      "tenure_years": 0.089
+      "total_compensation_usd": 0.153,
+      "tenure_years": 0.1,
+      "potential_index": 0.067,
+      "adversity_origin_score": -0.005,
+      "mental_strength": 0.083
     },
     "total_compensation_usd": {
-      "performance_score": 0.167,
+      "performance_score": 0.153,
       "total_compensation_usd": 1.0,
-      "tenure_years": 0.102
+      "tenure_years": 0.096,
+      "potential_index": 0.205,
+      "adversity_origin_score": 0.006,
+      "mental_strength": 0.001
     },
     "tenure_years": {
-      "performance_score": 0.089,
-      "total_compensation_usd": 0.102,
-      "tenure_years": 1.0
+      "performance_score": 0.1,
+      "total_compensation_usd": 0.096,
+      "tenure_years": 1.0,
+      "potential_index": -0.106,
+      "adversity_origin_score": 0.01,
+      "mental_strength": -0.018
+    },
+    "potential_index": {
+      "performance_score": 0.067,
+      "total_compensation_usd": 0.205,
+      "tenure_years": -0.106,
+      "potential_index": 1.0,
+      "adversity_origin_score": 0.06,
+      "mental_strength": 0.247
+    },
+    "adversity_origin_score": {
+      "performance_score": -0.005,
+      "total_compensation_usd": 0.006,
+      "tenure_years": 0.01,
+      "potential_index": 0.06,
+      "adversity_origin_score": 1.0,
+      "mental_strength": 0.321
+    },
+    "mental_strength": {
+      "performance_score": 0.083,
+      "total_compensation_usd": 0.001,
+      "tenure_years": -0.018,
+      "potential_index": 0.247,
+      "adversity_origin_score": 0.321,
+      "mental_strength": 1.0
     }
   },
-  "per_company_comp_perf_corr": {
-    "NVIDIA": 0.199,
-    "Apple": 0.219,
-    "Alphabet (Google)": 0.194,
-    "Microsoft": 0.18,
-    "Amazon": 0.189,
-    "TSMC": 0.218,
-    "Broadcom": 0.118,
-    "Saudi Aramco": 0.196,
-    "Tesla": 0.202,
-    "Meta Platforms": 0.164
-  },
-  "highest_median_comp": [
-    "Meta Platforms",
-    446650
-  ],
-  "lowest_median_comp": [
-    "TSMC",
-    166600
-  ],
-  "longest_tenure": [
-    "Saudi Aramco",
-    12.2
-  ],
-  "shortest_tenure": [
+  "adversity_vs_mental_corr": 0.321,
+  "potential_vs_mental_corr": 0.247,
+  "highest_potential": [
     "Tesla",
-    4.6
+    70.1
   ],
-  "cap_per_median_comp_$M": {
-    "NVIDIA": 11.6,
-    "Apple": 11.2,
-    "Alphabet (Google)": 10.0,
-    "Microsoft": 8.2,
-    "Amazon": 7.3,
-    "TSMC": 13.3,
-    "Broadcom": 4.9,
-    "Saudi Aramco": 8.3,
-    "Tesla": 5.1,
-    "Meta Platforms": 3.3
-  }
+  "lowest_potential": [
+    "Saudi Aramco",
+    64.4
+  ],
+  "highest_mental": [
+    "Tesla",
+    75.5
+  ],
+  "lowest_mental": [
+    "Microsoft",
+    67.5
+  ],
+  "highest_adversity_origin": [
+    "NVIDIA",
+    60.7
+  ],
+  "lowest_adversity_origin": [
+    "Amazon",
+    58.5
+  ],
+  "highest_first_gen_pct": [
+    "NVIDIA",
+    41.9
+  ],
+  "lowest_first_gen_pct": [
+    "Tesla",
+    36.8
+  ],
+  "tyrell_index": {
+    "NVIDIA": 91.9,
+    "Alphabet (Google)": 73.3,
+    "Apple": 66.4,
+    "Amazon": 56.5,
+    "TSMC": 51.5,
+    "Microsoft": 50.1,
+    "Tesla": 48.6,
+    "Meta Platforms": 45.2,
+    "Broadcom": 39.4,
+    "Saudi Aramco": 37.8
+  },
+  "tyrell_winner": [
+    "NVIDIA",
+    91.9
+  ],
+  "tyrell_runner_up": [
+    "Alphabet (Google)",
+    73.3
+  ]
 }

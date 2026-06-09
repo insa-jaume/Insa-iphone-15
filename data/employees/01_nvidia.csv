@@ -1,1001 +1,1001 @@
-employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
-NVDA-0001,Daniel Murphy,NVIDIA,NVDA,Legal & Policy,Principal,84.3,192700,3.0
-NVDA-0002,Zoe Khan,NVIDIA,NVDA,Engineering,Senior,81.4,293300,13.8
-NVDA-0003,Mary Ali,NVIDIA,NVDA,Operations,Senior Director,63.3,1551800,10.8
-NVDA-0004,Yuki Tanaka,NVIDIA,NVDA,Engineering,Principal,88.9,1620500,5.5
-NVDA-0005,Olivia Anderson,NVIDIA,NVDA,Engineering,Senior,82.9,131200,3.6
-NVDA-0006,Mary Petrov,NVIDIA,NVDA,Sales & GTM,Director,80.9,374000,18.4
-NVDA-0007,Aisha Schmidt,NVIDIA,NVDA,Engineering,Staff,77.6,672300,2.6
-NVDA-0008,Arjun Petrov,NVIDIA,NVDA,Engineering,Senior Director,77.4,1338200,5.7
-NVDA-0009,Aisha Anderson,NVIDIA,NVDA,Legal & Policy,Senior,63.6,232900,3.8
-NVDA-0010,Hannah Hassan,NVIDIA,NVDA,Engineering,Staff,88.1,355900,5.1
-NVDA-0011,Elena Anderson,NVIDIA,NVDA,Design,Senior,79.1,361800,6.6
-NVDA-0012,Maria Smith,NVIDIA,NVDA,Product,Senior,87.1,209400,2.9
-NVDA-0013,Michael Rossi,NVIDIA,NVDA,People/HR,Staff,86.4,602500,3.2
-NVDA-0014,Fatima Chen,NVIDIA,NVDA,Research & AI,Senior,82.5,300200,9.4
-NVDA-0015,Zoe Khan,NVIDIA,NVDA,Marketing,Senior,84.1,488500,11.4
-NVDA-0016,Daniel Park,NVIDIA,NVDA,Marketing,Staff,74.6,906300,10.9
-NVDA-0017,Grace Martinez,NVIDIA,NVDA,Engineering,VP,83.9,1037100,10.2
-NVDA-0018,Raj Patel,NVIDIA,NVDA,Research & AI,Director,100.0,1994200,5.7
-NVDA-0019,James Petrov,NVIDIA,NVDA,Research & AI,Staff,100.0,449500,3.4
-NVDA-0020,Emily Hassan,NVIDIA,NVDA,Research & AI,Principal,84.7,512600,7.0
-NVDA-0021,Maria Park,NVIDIA,NVDA,Product,Director,91.9,971900,8.7
-NVDA-0022,Hannah Johnson,NVIDIA,NVDA,Operations,Director,72.3,320200,16.1
-NVDA-0023,John Murphy,NVIDIA,NVDA,Product,Senior Director,82.7,969800,15.7
-NVDA-0024,Mary Wang,NVIDIA,NVDA,Engineering,Principal,91.5,259000,7.1
-NVDA-0025,Thomas Rossi,NVIDIA,NVDA,Finance,VP,91.2,2089600,19.5
-NVDA-0026,Kevin Hassan,NVIDIA,NVDA,Legal & Policy,Senior,91.1,290400,8.8
-NVDA-0027,Chen Martinez,NVIDIA,NVDA,Research & AI,Senior,91.2,331400,5.7
-NVDA-0028,Linda Hassan,NVIDIA,NVDA,Engineering,Senior,77.8,576100,4.3
-NVDA-0029,Aisha Murphy,NVIDIA,NVDA,Product,Senior,95.9,293200,2.5
-NVDA-0030,Fatima Park,NVIDIA,NVDA,Product,Principal,93.2,482300,7.2
-NVDA-0031,Mary Rossi,NVIDIA,NVDA,Operations,Senior Director,82.5,1325000,6.3
-NVDA-0032,Thomas Kim,NVIDIA,NVDA,Engineering,Staff,90.2,624500,5.2
-NVDA-0033,Linda Anderson,NVIDIA,NVDA,Sales & GTM,Director,86.7,1556900,4.6
-NVDA-0034,Priya Cohen,NVIDIA,NVDA,Operations,Principal,71.5,544600,7.1
-NVDA-0035,Hannah Park,NVIDIA,NVDA,Sales & GTM,Principal,82.1,732500,3.9
-NVDA-0036,Carlos Murphy,NVIDIA,NVDA,Finance,Senior,86.4,1068400,3.6
-NVDA-0037,Fatima Chen,NVIDIA,NVDA,Engineering,Staff,63.2,365500,12.4
-NVDA-0038,James Brown,NVIDIA,NVDA,Sales & GTM,Staff,61.9,295400,6.2
-NVDA-0039,Chen Silva,NVIDIA,NVDA,Engineering,Director,67.5,410600,8.4
-NVDA-0040,Thomas Schmidt,NVIDIA,NVDA,Research & AI,Staff,58.3,307500,1.9
-NVDA-0041,Hiroshi Petrov,NVIDIA,NVDA,Operations,VP,91.7,3775900,10.0
-NVDA-0042,Ahmed Okafor,NVIDIA,NVDA,Engineering,Principal,89.6,550500,5.6
-NVDA-0043,Thomas Okafor,NVIDIA,NVDA,Design,VP,83.7,685100,9.2
-NVDA-0044,Yuki Murphy,NVIDIA,NVDA,Research & AI,Senior,81.4,268600,3.9
-NVDA-0045,James Lopez,NVIDIA,NVDA,Product,Principal,79.7,540400,10.0
-NVDA-0046,Priya Garcia,NVIDIA,NVDA,Design,Senior,77.8,121000,5.1
-NVDA-0047,Hannah Schmidt,NVIDIA,NVDA,Finance,Director,79.6,1072200,10.2
-NVDA-0048,Maria Brown,NVIDIA,NVDA,Engineering,Staff,72.9,475600,8.3
-NVDA-0049,Arjun Nguyen,NVIDIA,NVDA,Research & AI,Senior,87.0,593000,0.7
-NVDA-0050,Ahmed Tanaka,NVIDIA,NVDA,Engineering,Staff,53.6,362400,1.1
-NVDA-0051,Arjun Ali,NVIDIA,NVDA,Product,Director,81.8,343600,10.5
-NVDA-0052,Zoe Reyes,NVIDIA,NVDA,Research & AI,Staff,79.1,322400,5.5
-NVDA-0053,Mary Park,NVIDIA,NVDA,Legal & Policy,Staff,77.7,381800,4.8
-NVDA-0054,Grace Singh,NVIDIA,NVDA,Sales & GTM,Senior Director,80.9,275100,7.2
-NVDA-0055,James Silva,NVIDIA,NVDA,People/HR,Staff,85.3,474100,9.9
-NVDA-0056,Grace Chen,NVIDIA,NVDA,Engineering,Principal,70.6,294600,4.2
-NVDA-0057,Daniel Tanaka,NVIDIA,NVDA,Operations,Director,65.9,449800,8.5
-NVDA-0058,Elena Silva,NVIDIA,NVDA,Product,Senior,88.6,417400,9.3
-NVDA-0059,Hiroshi Lopez,NVIDIA,NVDA,Engineering,Principal,84.1,1134000,13.6
-NVDA-0060,Aisha Hassan,NVIDIA,NVDA,Product,Senior,80.8,315600,1.9
-NVDA-0061,Linda Patel,NVIDIA,NVDA,Operations,Senior,72.3,149500,10.1
-NVDA-0062,Yuki Garcia,NVIDIA,NVDA,Operations,VP,91.8,1631000,7.3
-NVDA-0063,Daniel Patel,NVIDIA,NVDA,Marketing,Staff,68.0,178600,8.9
-NVDA-0064,Zoe Chen,NVIDIA,NVDA,Product,Principal,75.5,367100,8.9
-NVDA-0065,Zoe Rossi,NVIDIA,NVDA,Finance,Principal,92.8,842200,5.9
-NVDA-0066,Linda Petrov,NVIDIA,NVDA,Engineering,Senior,64.3,194800,3.7
-NVDA-0067,Hannah Chen,NVIDIA,NVDA,Finance,SVP,82.9,3043900,20.5
-NVDA-0068,Priya Anderson,NVIDIA,NVDA,Engineering,Senior Director,83.5,1528400,8.4
-NVDA-0069,David Lee,NVIDIA,NVDA,Engineering,Principal,81.4,272600,14.5
-NVDA-0070,Grace Murphy,NVIDIA,NVDA,Finance,Senior,87.6,189300,9.0
-NVDA-0071,Aisha Wilson,NVIDIA,NVDA,Engineering,Senior,74.3,321700,9.9
-NVDA-0072,Daniel Patel,NVIDIA,NVDA,People/HR,Principal,82.6,398600,8.0
-NVDA-0073,Ahmed Petrov,NVIDIA,NVDA,Engineering,Senior,100.0,205000,0.9
-NVDA-0074,Maria Khan,NVIDIA,NVDA,Product,Staff,81.2,253200,5.2
-NVDA-0075,Wei Reyes,NVIDIA,NVDA,Engineering,Senior,84.1,198200,5.2
-NVDA-0076,John Cohen,NVIDIA,NVDA,People/HR,Principal,91.6,235200,2.8
-NVDA-0077,Wei Singh,NVIDIA,NVDA,Sales & GTM,Principal,87.9,497000,4.9
-NVDA-0078,Zoe Lee,NVIDIA,NVDA,Operations,Senior,81.7,436700,3.0
-NVDA-0079,Carlos Tanaka,NVIDIA,NVDA,Engineering,Staff,73.8,207600,5.2
-NVDA-0080,John Okafor,NVIDIA,NVDA,Sales & GTM,Staff,74.2,427900,18.6
-NVDA-0081,Yuki Chen,NVIDIA,NVDA,Engineering,Staff,78.4,1760000,6.9
-NVDA-0082,Kevin Kim,NVIDIA,NVDA,People/HR,Principal,77.5,428900,8.5
-NVDA-0083,Sofia Yamamoto,NVIDIA,NVDA,Product,SVP,86.2,1238100,8.4
-NVDA-0084,Ahmed Park,NVIDIA,NVDA,Research & AI,VP,72.7,886500,14.6
-NVDA-0085,Grace Chen,NVIDIA,NVDA,Product,Principal,90.6,630500,2.6
-NVDA-0086,Olivia Silva,NVIDIA,NVDA,Engineering,Senior Director,91.5,1025200,6.1
-NVDA-0087,Priya Rossi,NVIDIA,NVDA,Design,Senior,85.5,465500,3.5
-NVDA-0088,Aisha Wilson,NVIDIA,NVDA,Operations,Senior,75.3,339000,23.1
-NVDA-0089,James Lopez,NVIDIA,NVDA,Engineering,VP,98.0,1550800,10.8
-NVDA-0090,Raj Reyes,NVIDIA,NVDA,Marketing,Senior Director,77.9,779500,8.1
-NVDA-0091,Chen Cohen,NVIDIA,NVDA,Research & AI,Principal,86.6,735100,4.2
-NVDA-0092,Michael Anderson,NVIDIA,NVDA,Design,Senior Director,74.8,791200,8.8
-NVDA-0093,Aisha Wang,NVIDIA,NVDA,Engineering,Staff,80.5,272700,3.5
-NVDA-0094,Elena Nguyen,NVIDIA,NVDA,Engineering,Senior,66.6,309900,0.7
-NVDA-0095,Maria Yamamoto,NVIDIA,NVDA,Sales & GTM,Principal,59.8,698600,14.0
-NVDA-0096,Elena Brown,NVIDIA,NVDA,Product,Staff,79.5,613900,7.6
-NVDA-0097,Daniel Schmidt,NVIDIA,NVDA,Engineering,Senior,75.7,531300,9.4
-NVDA-0098,John Reyes,NVIDIA,NVDA,Design,Staff,98.5,858700,7.7
-NVDA-0099,Hiroshi Lee,NVIDIA,NVDA,People/HR,Staff,87.5,190000,2.4
-NVDA-0100,John Schmidt,NVIDIA,NVDA,Legal & Policy,Principal,90.4,696200,4.5
-NVDA-0101,Thomas Tanaka,NVIDIA,NVDA,Design,Principal,87.2,568300,5.6
-NVDA-0102,Elena Hassan,NVIDIA,NVDA,Marketing,Senior,78.8,391300,7.1
-NVDA-0103,Emily Lopez,NVIDIA,NVDA,Product,Principal,74.6,1144600,9.2
-NVDA-0104,Daniel Tanaka,NVIDIA,NVDA,Engineering,Senior,73.2,116700,1.5
-NVDA-0105,Arjun Davis,NVIDIA,NVDA,Engineering,Director,88.1,606300,4.9
-NVDA-0106,David Murphy,NVIDIA,NVDA,Product,Principal,86.2,329000,8.0
-NVDA-0107,Sofia Garcia,NVIDIA,NVDA,Engineering,Principal,80.9,908800,10.7
-NVDA-0108,Fatima Singh,NVIDIA,NVDA,Design,Staff,74.6,457500,3.0
-NVDA-0109,Mary Park,NVIDIA,NVDA,Research & AI,Senior Director,84.1,572800,12.2
-NVDA-0110,Samuel Wang,NVIDIA,NVDA,Operations,Senior,89.2,430900,1.7
-NVDA-0111,Priya Petrov,NVIDIA,NVDA,Product,Principal,91.0,481600,5.4
-NVDA-0112,Arjun Brown,NVIDIA,NVDA,Engineering,Principal,83.5,345100,3.7
-NVDA-0113,Priya Chen,NVIDIA,NVDA,Research & AI,Staff,87.5,672900,4.1
-NVDA-0114,Elena Garcia,NVIDIA,NVDA,Engineering,Staff,94.1,730100,5.8
-NVDA-0115,Sofia Yamamoto,NVIDIA,NVDA,Research & AI,Director,87.1,688900,13.6
-NVDA-0116,Mary Silva,NVIDIA,NVDA,Legal & Policy,Senior,82.7,197100,5.4
-NVDA-0117,Mary Silva,NVIDIA,NVDA,People/HR,Director,63.1,767300,12.9
-NVDA-0118,Emily Petrov,NVIDIA,NVDA,Sales & GTM,Staff,82.6,485400,13.2
-NVDA-0119,James Anderson,NVIDIA,NVDA,People/HR,Director,83.0,188600,15.1
-NVDA-0120,Thomas Brown,NVIDIA,NVDA,Engineering,Staff,75.7,537300,7.1
-NVDA-0121,David Schmidt,NVIDIA,NVDA,Engineering,Senior,72.8,337700,9.5
-NVDA-0122,Wei Wang,NVIDIA,NVDA,Engineering,Senior,70.9,194900,4.9
-NVDA-0123,Linda Wilson,NVIDIA,NVDA,Design,Staff,85.2,350000,8.2
-NVDA-0124,Aisha Davis,NVIDIA,NVDA,Engineering,Principal,93.4,600900,11.3
-NVDA-0125,Yuki Davis,NVIDIA,NVDA,Operations,Senior Director,91.3,843700,22.9
-NVDA-0126,Daniel Wilson,NVIDIA,NVDA,Research & AI,Senior,100.0,237400,2.1
-NVDA-0127,Grace Kim,NVIDIA,NVDA,Engineering,Staff,75.6,369700,6.3
-NVDA-0128,Daniel Chen,NVIDIA,NVDA,Engineering,Senior,81.3,631600,11.4
-NVDA-0129,Thomas Johnson,NVIDIA,NVDA,Engineering,Senior,81.6,286500,10.2
-NVDA-0130,Mary Cohen,NVIDIA,NVDA,Engineering,Senior Director,78.4,700500,9.0
-NVDA-0131,Ahmed Nguyen,NVIDIA,NVDA,Engineering,Principal,88.7,251800,7.0
-NVDA-0132,Carlos Lee,NVIDIA,NVDA,Product,Senior,85.3,610600,4.5
-NVDA-0133,Emily Anderson,NVIDIA,NVDA,Product,Principal,88.8,1354300,10.9
-NVDA-0134,Zoe Reyes,NVIDIA,NVDA,Sales & GTM,Principal,74.9,212000,4.0
-NVDA-0135,Olivia Kim,NVIDIA,NVDA,Sales & GTM,Senior,77.0,199300,4.0
-NVDA-0136,Sofia Nguyen,NVIDIA,NVDA,Sales & GTM,VP,92.0,3508500,10.8
-NVDA-0137,Fatima Murphy,NVIDIA,NVDA,Engineering,Senior,76.8,162100,6.9
-NVDA-0138,Linda Cohen,NVIDIA,NVDA,Engineering,Staff,78.7,210000,6.7
-NVDA-0139,Ahmed Schmidt,NVIDIA,NVDA,Engineering,Senior,89.5,168100,7.0
-NVDA-0140,Chen Smith,NVIDIA,NVDA,Legal & Policy,Principal,82.3,755000,6.9
-NVDA-0141,Carlos Singh,NVIDIA,NVDA,Research & AI,Staff,87.8,540500,4.7
-NVDA-0142,Linda Wilson,NVIDIA,NVDA,Design,Principal,98.1,1031200,6.2
-NVDA-0143,Thomas Lee,NVIDIA,NVDA,Engineering,Staff,68.3,234500,4.9
-NVDA-0144,Carlos Petrov,NVIDIA,NVDA,Engineering,Principal,73.6,164700,3.5
-NVDA-0145,Emily Smith,NVIDIA,NVDA,Research & AI,Principal,88.8,740300,9.2
-NVDA-0146,Linda Wang,NVIDIA,NVDA,Engineering,Director,93.1,909700,10.2
-NVDA-0147,Zoe Nguyen,NVIDIA,NVDA,Engineering,Staff,89.7,571000,2.3
-NVDA-0148,Hannah Park,NVIDIA,NVDA,Sales & GTM,Staff,74.6,252900,6.9
-NVDA-0149,Arjun Okafor,NVIDIA,NVDA,Research & AI,Senior,90.9,230100,3.3
-NVDA-0150,Hannah Johnson,NVIDIA,NVDA,Research & AI,Staff,93.8,461400,3.3
-NVDA-0151,Olivia Lee,NVIDIA,NVDA,Research & AI,VP,77.2,906900,9.2
-NVDA-0152,Fatima Lopez,NVIDIA,NVDA,Engineering,Senior,75.6,454700,12.8
-NVDA-0153,Samuel Park,NVIDIA,NVDA,Finance,Director,78.2,769700,12.6
-NVDA-0154,Maria Patel,NVIDIA,NVDA,Engineering,Senior,84.4,137200,3.3
-NVDA-0155,Kevin Garcia,NVIDIA,NVDA,Engineering,Senior,85.2,535900,4.0
-NVDA-0156,John Nguyen,NVIDIA,NVDA,Marketing,Senior,84.0,299600,1.7
-NVDA-0157,Olivia Singh,NVIDIA,NVDA,People/HR,Principal,66.3,591500,2.9
-NVDA-0158,Arjun Anderson,NVIDIA,NVDA,Sales & GTM,Senior,83.8,388900,1.1
-NVDA-0159,Sofia Reyes,NVIDIA,NVDA,Product,Principal,71.8,246800,7.9
-NVDA-0160,Hannah Hassan,NVIDIA,NVDA,People/HR,Director,62.9,159600,10.1
-NVDA-0161,Priya Yamamoto,NVIDIA,NVDA,Research & AI,Staff,86.4,265900,2.0
-NVDA-0162,Hannah Rossi,NVIDIA,NVDA,People/HR,Director,73.5,398400,5.3
-NVDA-0163,Mary Nguyen,NVIDIA,NVDA,Legal & Policy,Principal,93.7,649600,3.9
-NVDA-0164,Zoe Ali,NVIDIA,NVDA,Engineering,Senior Director,86.8,1620400,6.2
-NVDA-0165,Sofia Lee,NVIDIA,NVDA,Design,Staff,94.3,744500,2.1
-NVDA-0166,Wei Brown,NVIDIA,NVDA,Design,Staff,74.0,999600,10.2
-NVDA-0167,Wei Kim,NVIDIA,NVDA,Operations,Senior,82.9,186900,6.3
-NVDA-0168,James Smith,NVIDIA,NVDA,Engineering,VP,85.3,968700,8.9
-NVDA-0169,Wei Anderson,NVIDIA,NVDA,Design,Staff,75.9,274300,6.7
-NVDA-0170,Yuki Cohen,NVIDIA,NVDA,Finance,Principal,81.2,450100,4.5
-NVDA-0171,Fatima Hassan,NVIDIA,NVDA,Engineering,Principal,71.8,347600,16.8
-NVDA-0172,Olivia Garcia,NVIDIA,NVDA,Engineering,Senior,74.9,337300,14.4
-NVDA-0173,Sofia Patel,NVIDIA,NVDA,Finance,Staff,71.2,145500,12.4
-NVDA-0174,Aisha Khan,NVIDIA,NVDA,Product,Senior,97.1,1220000,6.3
-NVDA-0175,Yuki Nguyen,NVIDIA,NVDA,Legal & Policy,Staff,83.2,670600,3.4
-NVDA-0176,Michael Park,NVIDIA,NVDA,Operations,Senior,80.8,213100,4.7
-NVDA-0177,Sofia Nguyen,NVIDIA,NVDA,Engineering,Staff,78.9,690200,3.6
-NVDA-0178,Wei Garcia,NVIDIA,NVDA,Research & AI,Senior,71.6,394600,4.0
-NVDA-0179,Wei Hassan,NVIDIA,NVDA,Engineering,Director,78.6,596900,6.8
-NVDA-0180,Emily Silva,NVIDIA,NVDA,Operations,VP,81.5,1110500,12.0
-NVDA-0181,Daniel Singh,NVIDIA,NVDA,Engineering,Senior,82.7,1039900,8.6
-NVDA-0182,Maria Park,NVIDIA,NVDA,Sales & GTM,Senior,85.6,187100,2.0
-NVDA-0183,Emily Johnson,NVIDIA,NVDA,Product,Staff,62.0,371100,8.4
-NVDA-0184,Maria Petrov,NVIDIA,NVDA,Engineering,Senior Director,99.8,1426100,6.5
-NVDA-0185,Linda Smith,NVIDIA,NVDA,Marketing,Staff,78.1,327300,3.9
-NVDA-0186,Aisha Park,NVIDIA,NVDA,Research & AI,Senior,73.0,362000,3.8
-NVDA-0187,Yuki Singh,NVIDIA,NVDA,Research & AI,Staff,79.6,398600,2.0
-NVDA-0188,Samuel Cohen,NVIDIA,NVDA,Operations,Staff,75.6,390600,9.9
-NVDA-0189,Emily Martinez,NVIDIA,NVDA,Sales & GTM,Senior Director,89.5,371400,6.6
-NVDA-0190,Yuki Lopez,NVIDIA,NVDA,Research & AI,Principal,90.9,277600,7.5
-NVDA-0191,Kevin Yamamoto,NVIDIA,NVDA,Product,Principal,75.6,662300,4.6
-NVDA-0192,Samuel Petrov,NVIDIA,NVDA,Research & AI,Senior,82.6,121000,11.2
-NVDA-0193,Zoe Schmidt,NVIDIA,NVDA,Marketing,Director,74.0,829900,13.0
-NVDA-0194,Linda Kim,NVIDIA,NVDA,Research & AI,Staff,71.4,668800,3.8
-NVDA-0195,Raj Patel,NVIDIA,NVDA,Engineering,Staff,69.3,364200,10.7
-NVDA-0196,Sofia Schmidt,NVIDIA,NVDA,Finance,Staff,99.5,178200,15.2
-NVDA-0197,Michael Silva,NVIDIA,NVDA,Engineering,Senior,80.0,273800,3.6
-NVDA-0198,Yuki Anderson,NVIDIA,NVDA,Engineering,Principal,73.6,856700,4.9
-NVDA-0199,Priya Schmidt,NVIDIA,NVDA,Operations,Staff,78.9,1338800,4.3
-NVDA-0200,Yuki Rossi,NVIDIA,NVDA,Engineering,VP,77.8,472200,18.6
-NVDA-0201,Olivia Garcia,NVIDIA,NVDA,Sales & GTM,VP,92.0,1185700,18.1
-NVDA-0202,Emily Lopez,NVIDIA,NVDA,Research & AI,Staff,79.2,136500,2.5
-NVDA-0203,Raj Silva,NVIDIA,NVDA,Operations,Staff,74.7,122300,7.9
-NVDA-0204,Sofia Garcia,NVIDIA,NVDA,Operations,Principal,78.8,517700,7.7
-NVDA-0205,Kevin Garcia,NVIDIA,NVDA,Operations,Director,69.5,2665800,8.9
-NVDA-0206,Elena Yamamoto,NVIDIA,NVDA,People/HR,Principal,83.6,223400,3.5
-NVDA-0207,James Singh,NVIDIA,NVDA,Product,Senior,75.8,169000,4.5
-NVDA-0208,Ahmed Brown,NVIDIA,NVDA,Product,Staff,81.7,265700,1.4
-NVDA-0209,James Lee,NVIDIA,NVDA,Operations,Senior Director,73.7,327000,12.0
-NVDA-0210,Ahmed Hassan,NVIDIA,NVDA,Engineering,Senior,83.5,593800,2.5
-NVDA-0211,Mary Hassan,NVIDIA,NVDA,Engineering,Director,75.2,452900,9.4
-NVDA-0212,Kevin Brown,NVIDIA,NVDA,Design,Principal,92.9,624500,9.0
-NVDA-0213,Mary Yamamoto,NVIDIA,NVDA,Engineering,Staff,88.5,218000,3.4
-NVDA-0214,Thomas Kim,NVIDIA,NVDA,Sales & GTM,Staff,76.9,266900,5.0
-NVDA-0215,Fatima Brown,NVIDIA,NVDA,Research & AI,SVP,96.3,1298300,11.3
-NVDA-0216,Linda Hassan,NVIDIA,NVDA,Engineering,Senior,69.0,177400,7.5
-NVDA-0217,Hiroshi Petrov,NVIDIA,NVDA,Marketing,Staff,81.9,173700,4.3
-NVDA-0218,James Chen,NVIDIA,NVDA,Finance,Senior,79.6,445800,9.6
-NVDA-0219,Emily Yamamoto,NVIDIA,NVDA,Research & AI,Senior,80.7,515200,2.0
-NVDA-0220,John Park,NVIDIA,NVDA,Engineering,Staff,71.1,474900,13.0
-NVDA-0221,Nina Schmidt,NVIDIA,NVDA,Legal & Policy,Staff,82.6,366100,2.7
-NVDA-0222,Carlos Cohen,NVIDIA,NVDA,Sales & GTM,Principal,81.8,226500,12.1
-NVDA-0223,Wei Reyes,NVIDIA,NVDA,Engineering,Staff,82.7,594900,7.8
-NVDA-0224,Mary Rossi,NVIDIA,NVDA,People/HR,Director,93.0,443900,10.3
-NVDA-0225,Yuki Okafor,NVIDIA,NVDA,Engineering,Senior,91.0,314200,2.0
-NVDA-0226,Emily Cohen,NVIDIA,NVDA,Research & AI,Staff,79.9,359100,10.3
-NVDA-0227,Maria Khan,NVIDIA,NVDA,Engineering,Senior,86.8,503100,3.9
-NVDA-0228,John Davis,NVIDIA,NVDA,Engineering,Principal,67.8,690100,12.1
-NVDA-0229,David Wilson,NVIDIA,NVDA,Product,Principal,83.8,603600,10.3
-NVDA-0230,Samuel Silva,NVIDIA,NVDA,Operations,Director,72.4,831200,6.2
-NVDA-0231,Hiroshi Johnson,NVIDIA,NVDA,Research & AI,Staff,78.9,205200,10.9
-NVDA-0232,Arjun Patel,NVIDIA,NVDA,Product,VP,74.6,911800,7.3
-NVDA-0233,Thomas Schmidt,NVIDIA,NVDA,Marketing,Senior,78.2,217100,2.6
-NVDA-0234,John Garcia,NVIDIA,NVDA,Engineering,Senior,84.3,226500,6.4
-NVDA-0235,John Silva,NVIDIA,NVDA,Operations,Principal,95.6,2121200,15.6
-NVDA-0236,Grace Tanaka,NVIDIA,NVDA,Finance,VP,86.3,1049200,11.8
-NVDA-0237,Grace Wang,NVIDIA,NVDA,People/HR,Director,88.7,803000,12.6
-NVDA-0238,Linda Silva,NVIDIA,NVDA,Sales & GTM,Principal,75.2,179800,16.0
-NVDA-0239,Olivia Schmidt,NVIDIA,NVDA,Engineering,Principal,85.2,547000,9.9
-NVDA-0240,Priya Kim,NVIDIA,NVDA,Product,Senior,80.1,196000,5.9
-NVDA-0241,Fatima Patel,NVIDIA,NVDA,Finance,Staff,85.7,580900,12.9
-NVDA-0242,Thomas Reyes,NVIDIA,NVDA,Engineering,Senior Director,84.0,407400,7.8
-NVDA-0243,Nina Davis,NVIDIA,NVDA,Operations,Senior,79.9,409400,11.8
-NVDA-0244,Sofia Khan,NVIDIA,NVDA,Product,Senior,61.2,140800,7.4
-NVDA-0245,Samuel Petrov,NVIDIA,NVDA,Marketing,Director,74.6,313600,11.4
-NVDA-0246,James Park,NVIDIA,NVDA,Product,Senior Director,87.1,2184100,8.7
-NVDA-0247,Thomas Brown,NVIDIA,NVDA,Product,VP,78.3,1299600,13.2
-NVDA-0248,Daniel Petrov,NVIDIA,NVDA,Sales & GTM,VP,76.4,358900,11.2
-NVDA-0249,Hannah Yamamoto,NVIDIA,NVDA,Operations,Senior,92.7,338600,1.5
-NVDA-0250,Maria Wang,NVIDIA,NVDA,People/HR,Senior,85.6,601700,6.4
-NVDA-0251,Maria Murphy,NVIDIA,NVDA,Operations,Senior,92.0,247500,6.0
-NVDA-0252,Samuel Tanaka,NVIDIA,NVDA,Engineering,Senior Director,82.8,689500,7.1
-NVDA-0253,Daniel Murphy,NVIDIA,NVDA,Research & AI,Senior,81.8,116100,10.0
-NVDA-0254,Chen Reyes,NVIDIA,NVDA,Engineering,Staff,70.5,361200,4.6
-NVDA-0255,Emily Cohen,NVIDIA,NVDA,Engineering,VP,89.0,1767600,14.4
-NVDA-0256,Arjun Rossi,NVIDIA,NVDA,Legal & Policy,VP,85.2,2087000,11.7
-NVDA-0257,Olivia Silva,NVIDIA,NVDA,Design,SVP,100.0,3790800,8.8
-NVDA-0258,Thomas Kim,NVIDIA,NVDA,Product,Senior,71.6,221300,2.5
-NVDA-0259,James Schmidt,NVIDIA,NVDA,Engineering,Senior,85.5,95000,8.8
-NVDA-0260,Raj Petrov,NVIDIA,NVDA,Sales & GTM,Principal,93.7,753900,4.5
-NVDA-0261,Olivia Wilson,NVIDIA,NVDA,Marketing,Director,83.4,525200,7.6
-NVDA-0262,Maria Davis,NVIDIA,NVDA,Engineering,Senior,100.0,480600,7.3
-NVDA-0263,Emily Wilson,NVIDIA,NVDA,Finance,Senior,70.3,490000,8.2
-NVDA-0264,Elena Hassan,NVIDIA,NVDA,Engineering,Senior,95.6,354800,5.4
-NVDA-0265,Priya Rossi,NVIDIA,NVDA,Engineering,Principal,71.1,314400,5.1
-NVDA-0266,John Tanaka,NVIDIA,NVDA,Research & AI,Senior,83.7,243700,7.3
-NVDA-0267,Priya Nguyen,NVIDIA,NVDA,Marketing,Principal,72.1,588000,9.1
-NVDA-0268,Yuki Martinez,NVIDIA,NVDA,Operations,Staff,76.9,719900,1.7
-NVDA-0269,Zoe Silva,NVIDIA,NVDA,Engineering,Senior Director,78.4,1749000,12.8
-NVDA-0270,James Garcia,NVIDIA,NVDA,People/HR,Staff,87.8,207600,10.8
-NVDA-0271,Olivia Garcia,NVIDIA,NVDA,Research & AI,Principal,87.7,307400,4.5
-NVDA-0272,Grace Davis,NVIDIA,NVDA,Product,Senior,83.6,284900,4.0
-NVDA-0273,Fatima Rossi,NVIDIA,NVDA,People/HR,VP,75.1,2033200,9.1
-NVDA-0274,Olivia Okafor,NVIDIA,NVDA,People/HR,Principal,74.8,1702000,16.7
-NVDA-0275,Hannah Murphy,NVIDIA,NVDA,Engineering,Senior,72.6,157100,4.1
-NVDA-0276,Kevin Khan,NVIDIA,NVDA,Engineering,Senior Director,100.0,1418900,6.8
-NVDA-0277,Olivia Khan,NVIDIA,NVDA,Research & AI,Principal,73.5,230500,11.5
-NVDA-0278,David Lopez,NVIDIA,NVDA,Marketing,Senior,76.3,161400,14.8
-NVDA-0279,Fatima Wilson,NVIDIA,NVDA,Research & AI,Senior,90.6,72300,2.6
-NVDA-0280,Michael Park,NVIDIA,NVDA,Operations,Senior,83.3,247300,3.3
-NVDA-0281,Zoe Okafor,NVIDIA,NVDA,Design,Staff,75.6,587500,3.6
-NVDA-0282,Yuki Garcia,NVIDIA,NVDA,Research & AI,Staff,78.9,190200,0.9
-NVDA-0283,Raj Schmidt,NVIDIA,NVDA,Engineering,Senior,62.6,456500,4.1
-NVDA-0284,Nina Anderson,NVIDIA,NVDA,Research & AI,Senior,63.8,143400,1.4
-NVDA-0285,Michael Garcia,NVIDIA,NVDA,Legal & Policy,Senior Director,76.9,1184000,9.0
-NVDA-0286,Priya Silva,NVIDIA,NVDA,Sales & GTM,Principal,83.1,773600,5.7
-NVDA-0287,Grace Okafor,NVIDIA,NVDA,Sales & GTM,Principal,90.0,1073700,6.1
-NVDA-0288,Zoe Petrov,NVIDIA,NVDA,Engineering,Staff,96.4,690800,1.6
-NVDA-0289,Arjun Cohen,NVIDIA,NVDA,Engineering,Senior,95.3,297700,2.9
-NVDA-0290,Hiroshi Ali,NVIDIA,NVDA,Operations,Senior,72.9,313000,7.8
-NVDA-0291,Yuki Cohen,NVIDIA,NVDA,Research & AI,Principal,87.8,877500,7.7
-NVDA-0292,Raj Yamamoto,NVIDIA,NVDA,Engineering,Senior Director,96.4,831900,8.1
-NVDA-0293,Yuki Davis,NVIDIA,NVDA,Product,Senior,89.0,176300,10.2
-NVDA-0294,Hannah Schmidt,NVIDIA,NVDA,Engineering,Senior,73.9,406200,6.6
-NVDA-0295,Hiroshi Yamamoto,NVIDIA,NVDA,Research & AI,Staff,80.8,380600,1.9
-NVDA-0296,Yuki Petrov,NVIDIA,NVDA,Design,VP,78.3,1321200,26.7
-NVDA-0297,Zoe Davis,NVIDIA,NVDA,Operations,Senior Director,72.9,882100,7.4
-NVDA-0298,Sofia Patel,NVIDIA,NVDA,Engineering,Principal,70.5,488200,6.1
-NVDA-0299,David Patel,NVIDIA,NVDA,Finance,SVP,78.8,5048200,14.3
-NVDA-0300,Nina Smith,NVIDIA,NVDA,Legal & Policy,Principal,84.9,1175200,3.8
-NVDA-0301,Olivia Kim,NVIDIA,NVDA,Product,Staff,64.9,429500,4.1
-NVDA-0302,Wei Brown,NVIDIA,NVDA,Product,Staff,66.9,239500,1.0
-NVDA-0303,Mary Tanaka,NVIDIA,NVDA,Legal & Policy,Staff,96.2,355700,7.1
-NVDA-0304,Hannah Nguyen,NVIDIA,NVDA,Engineering,Senior,78.4,886700,9.1
-NVDA-0305,Wei Silva,NVIDIA,NVDA,Operations,Senior,70.4,133800,2.5
-NVDA-0306,Thomas Rossi,NVIDIA,NVDA,Engineering,Staff,72.9,210600,3.8
-NVDA-0307,Mary Patel,NVIDIA,NVDA,Product,Staff,100.0,594300,3.6
-NVDA-0308,Carlos Petrov,NVIDIA,NVDA,People/HR,Senior,84.4,694200,9.9
-NVDA-0309,Carlos Garcia,NVIDIA,NVDA,Research & AI,Principal,69.2,579700,4.5
-NVDA-0310,Carlos Wang,NVIDIA,NVDA,Engineering,Senior Director,67.1,506700,5.4
-NVDA-0311,David Rossi,NVIDIA,NVDA,Engineering,Director,82.3,935800,9.2
-NVDA-0312,Carlos Reyes,NVIDIA,NVDA,Design,Director,87.6,1115700,7.5
-NVDA-0313,Kevin Lopez,NVIDIA,NVDA,Product,Senior,79.7,435000,8.0
-NVDA-0314,Maria Petrov,NVIDIA,NVDA,Engineering,VP,78.9,608300,5.5
-NVDA-0315,James Smith,NVIDIA,NVDA,Engineering,Senior,71.9,350700,6.0
-NVDA-0316,Grace Kim,NVIDIA,NVDA,Product,Principal,92.1,511100,5.7
-NVDA-0317,Samuel Chen,NVIDIA,NVDA,Product,Senior Director,80.7,711900,5.0
-NVDA-0318,Hiroshi Lopez,NVIDIA,NVDA,Engineering,Director,61.7,264700,11.1
-NVDA-0319,Yuki Davis,NVIDIA,NVDA,Sales & GTM,Staff,78.0,323300,5.3
-NVDA-0320,Nina Petrov,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,686500,16.3
-NVDA-0321,Maria Kim,NVIDIA,NVDA,Finance,Staff,87.6,780200,5.9
-NVDA-0322,Kevin Ali,NVIDIA,NVDA,Sales & GTM,VP,69.1,440800,23.7
-NVDA-0323,Grace Tanaka,NVIDIA,NVDA,Legal & Policy,Staff,81.4,411100,3.5
-NVDA-0324,Wei Park,NVIDIA,NVDA,Sales & GTM,Senior,74.9,275300,6.3
-NVDA-0325,Wei Murphy,NVIDIA,NVDA,Research & AI,Principal,71.2,636900,5.4
-NVDA-0326,Ahmed Singh,NVIDIA,NVDA,Product,Staff,98.4,874500,6.1
-NVDA-0327,Arjun Lopez,NVIDIA,NVDA,Product,Senior,86.3,309400,8.0
-NVDA-0328,Samuel Reyes,NVIDIA,NVDA,Research & AI,Senior,68.6,413200,14.8
-NVDA-0329,Michael Johnson,NVIDIA,NVDA,Operations,Staff,62.6,293000,6.2
-NVDA-0330,Kevin Reyes,NVIDIA,NVDA,Sales & GTM,Senior Director,66.9,675000,7.3
-NVDA-0331,David Ali,NVIDIA,NVDA,Research & AI,Senior Director,88.0,1550700,9.3
-NVDA-0332,Hiroshi Chen,NVIDIA,NVDA,Finance,Staff,73.3,337400,4.6
-NVDA-0333,Elena Murphy,NVIDIA,NVDA,Engineering,Senior,78.9,439500,4.3
-NVDA-0334,Wei Garcia,NVIDIA,NVDA,Research & AI,Senior,57.7,223700,17.8
-NVDA-0335,Sofia Silva,NVIDIA,NVDA,Finance,Senior,83.4,190800,2.5
-NVDA-0336,Raj Wilson,NVIDIA,NVDA,Design,Principal,83.2,375200,3.0
-NVDA-0337,Carlos Ali,NVIDIA,NVDA,Engineering,Senior,73.1,164800,6.1
-NVDA-0338,Nina Garcia,NVIDIA,NVDA,Sales & GTM,Principal,81.0,440900,7.7
-NVDA-0339,Elena Lopez,NVIDIA,NVDA,Engineering,Principal,88.3,636400,8.2
-NVDA-0340,Michael Petrov,NVIDIA,NVDA,Engineering,Senior,96.2,273600,2.3
-NVDA-0341,Grace Silva,NVIDIA,NVDA,Operations,Director,78.1,402300,8.1
-NVDA-0342,Arjun Singh,NVIDIA,NVDA,Research & AI,Senior,87.2,223500,23.2
-NVDA-0343,Carlos Yamamoto,NVIDIA,NVDA,Legal & Policy,VP,100.0,1837600,11.3
-NVDA-0344,Nina Anderson,NVIDIA,NVDA,Engineering,Staff,82.4,749900,4.7
-NVDA-0345,Yuki Johnson,NVIDIA,NVDA,Research & AI,Staff,78.8,243700,9.9
-NVDA-0346,Elena Chen,NVIDIA,NVDA,People/HR,Senior,87.3,208000,6.5
-NVDA-0347,Daniel Schmidt,NVIDIA,NVDA,Product,VP,74.0,721100,10.9
-NVDA-0348,James Brown,NVIDIA,NVDA,Research & AI,Senior,80.9,449700,2.5
-NVDA-0349,Hannah Tanaka,NVIDIA,NVDA,Product,Staff,83.6,296900,2.6
-NVDA-0350,Priya Wang,NVIDIA,NVDA,Marketing,VP,98.5,750900,7.3
-NVDA-0351,Priya Kim,NVIDIA,NVDA,Sales & GTM,Staff,95.2,273700,4.1
-NVDA-0352,Grace Hassan,NVIDIA,NVDA,Operations,Staff,81.0,866800,17.4
-NVDA-0353,Daniel Silva,NVIDIA,NVDA,Product,Principal,75.3,351600,6.7
-NVDA-0354,Raj Reyes,NVIDIA,NVDA,Product,Senior,57.4,186100,11.8
-NVDA-0355,Hannah Park,NVIDIA,NVDA,People/HR,Staff,58.3,345300,6.4
-NVDA-0356,Ahmed Okafor,NVIDIA,NVDA,Product,Staff,80.5,397900,11.0
-NVDA-0357,Maria Kim,NVIDIA,NVDA,Product,Senior,69.5,193200,8.5
-NVDA-0358,John Davis,NVIDIA,NVDA,Product,Staff,86.3,798500,12.7
-NVDA-0359,Thomas Smith,NVIDIA,NVDA,People/HR,Director,85.0,657300,10.4
-NVDA-0360,Olivia Reyes,NVIDIA,NVDA,Marketing,Senior,91.6,198300,13.4
-NVDA-0361,Chen Schmidt,NVIDIA,NVDA,Marketing,Principal,92.7,1099100,4.3
-NVDA-0362,Zoe Murphy,NVIDIA,NVDA,Legal & Policy,Principal,100.0,619500,9.8
-NVDA-0363,Arjun Cohen,NVIDIA,NVDA,Engineering,Staff,68.6,291900,8.8
-NVDA-0364,Michael Petrov,NVIDIA,NVDA,Engineering,Senior Director,90.5,440700,7.5
-NVDA-0365,Sofia Anderson,NVIDIA,NVDA,Engineering,Senior,100.0,181400,7.8
-NVDA-0366,Yuki Davis,NVIDIA,NVDA,Engineering,Staff,86.3,261300,2.9
-NVDA-0367,Carlos Davis,NVIDIA,NVDA,Operations,Senior Director,94.2,1005300,15.6
-NVDA-0368,Thomas Nguyen,NVIDIA,NVDA,Product,Director,95.2,949900,4.3
-NVDA-0369,Raj Lee,NVIDIA,NVDA,Finance,Senior,70.7,304700,6.5
-NVDA-0370,Maria Martinez,NVIDIA,NVDA,Engineering,Senior,78.4,394100,3.4
-NVDA-0371,Maria Smith,NVIDIA,NVDA,Product,Senior Director,97.3,770800,10.3
-NVDA-0372,David Davis,NVIDIA,NVDA,Operations,Senior,100.0,296200,2.6
-NVDA-0373,Grace Khan,NVIDIA,NVDA,Operations,Principal,64.2,179600,5.1
-NVDA-0374,Kevin Lee,NVIDIA,NVDA,Engineering,Principal,92.6,582600,5.2
-NVDA-0375,Thomas Hassan,NVIDIA,NVDA,Product,VP,87.8,843600,6.9
-NVDA-0376,Maria Yamamoto,NVIDIA,NVDA,Sales & GTM,Staff,76.4,307400,4.8
-NVDA-0377,Emily Tanaka,NVIDIA,NVDA,Engineering,VP,64.4,1268800,13.0
-NVDA-0378,Samuel Tanaka,NVIDIA,NVDA,Product,Director,75.3,367200,3.9
-NVDA-0379,Kevin Kim,NVIDIA,NVDA,Legal & Policy,VP,77.4,494900,5.2
-NVDA-0380,Samuel Patel,NVIDIA,NVDA,Research & AI,Director,89.9,834900,6.5
-NVDA-0381,Carlos Lee,NVIDIA,NVDA,Engineering,SVP,77.1,880100,7.0
-NVDA-0382,Grace Smith,NVIDIA,NVDA,Engineering,Director,73.5,308000,11.3
-NVDA-0383,Elena Cohen,NVIDIA,NVDA,Engineering,Staff,64.0,701200,1.8
-NVDA-0384,Kevin Wilson,NVIDIA,NVDA,Operations,Principal,85.0,281900,8.5
-NVDA-0385,Priya Martinez,NVIDIA,NVDA,People/HR,SVP,92.9,877400,14.3
-NVDA-0386,Aisha Yamamoto,NVIDIA,NVDA,Sales & GTM,Staff,89.8,690100,5.9
-NVDA-0387,Priya Martinez,NVIDIA,NVDA,Operations,Senior,90.3,274400,5.2
-NVDA-0388,Hannah Anderson,NVIDIA,NVDA,Operations,Principal,84.8,223600,17.4
-NVDA-0389,James Nguyen,NVIDIA,NVDA,Operations,Director,83.5,560700,10.1
-NVDA-0390,Aisha Anderson,NVIDIA,NVDA,Engineering,Senior,86.0,216200,3.5
-NVDA-0391,Michael Cohen,NVIDIA,NVDA,Product,Director,78.4,253200,7.5
-NVDA-0392,Wei Lee,NVIDIA,NVDA,People/HR,Senior Director,76.8,376600,6.3
-NVDA-0393,Maria Patel,NVIDIA,NVDA,Sales & GTM,Staff,96.3,758700,4.9
-NVDA-0394,Chen Anderson,NVIDIA,NVDA,Sales & GTM,Senior Director,86.8,859100,8.6
-NVDA-0395,Kevin Martinez,NVIDIA,NVDA,Product,Staff,93.2,708800,4.7
-NVDA-0396,Nina Nguyen,NVIDIA,NVDA,Research & AI,Director,100.0,905900,11.0
-NVDA-0397,Sofia Kim,NVIDIA,NVDA,Marketing,Senior,72.9,266500,8.0
-NVDA-0398,Yuki Garcia,NVIDIA,NVDA,Engineering,Staff,88.2,445200,4.3
-NVDA-0399,Hannah Yamamoto,NVIDIA,NVDA,Engineering,Principal,60.4,307300,13.2
-NVDA-0400,Daniel Patel,NVIDIA,NVDA,People/HR,Director,91.0,512400,5.3
-NVDA-0401,Chen Patel,NVIDIA,NVDA,Product,Senior,92.3,314900,6.8
-NVDA-0402,Mary Davis,NVIDIA,NVDA,Engineering,Director,68.8,1635700,11.2
-NVDA-0403,Zoe Brown,NVIDIA,NVDA,Engineering,Senior,76.0,236400,2.4
-NVDA-0404,John Hassan,NVIDIA,NVDA,Engineering,Senior,86.6,235200,7.9
-NVDA-0405,Mary Lee,NVIDIA,NVDA,Research & AI,Senior,73.1,180000,12.1
-NVDA-0406,Kevin Wilson,NVIDIA,NVDA,Engineering,Senior Director,89.6,586200,7.4
-NVDA-0407,Maria Hassan,NVIDIA,NVDA,Product,Principal,93.3,612600,11.5
-NVDA-0408,Chen Park,NVIDIA,NVDA,Sales & GTM,Principal,87.4,1065300,5.1
-NVDA-0409,David Anderson,NVIDIA,NVDA,Engineering,Director,88.9,1304400,7.5
-NVDA-0410,Kevin Petrov,NVIDIA,NVDA,Engineering,Senior,73.1,354500,14.8
-NVDA-0411,Zoe Schmidt,NVIDIA,NVDA,Engineering,Director,76.2,461600,10.5
-NVDA-0412,Aisha Brown,NVIDIA,NVDA,Operations,Staff,76.7,560600,11.7
-NVDA-0413,Sofia Yamamoto,NVIDIA,NVDA,Product,Senior,82.7,387000,4.9
-NVDA-0414,Grace Davis,NVIDIA,NVDA,Engineering,Staff,72.4,208900,4.1
-NVDA-0415,Arjun Khan,NVIDIA,NVDA,Sales & GTM,Principal,93.1,271900,6.9
-NVDA-0416,John Nguyen,NVIDIA,NVDA,Engineering,Principal,81.1,430700,7.6
-NVDA-0417,Kevin Tanaka,NVIDIA,NVDA,Research & AI,Director,67.7,1656800,8.1
-NVDA-0418,Fatima Garcia,NVIDIA,NVDA,Operations,Senior,82.0,428900,5.3
-NVDA-0419,Kevin Wilson,NVIDIA,NVDA,Product,Senior,82.5,838600,8.7
-NVDA-0420,Fatima Wilson,NVIDIA,NVDA,Research & AI,Senior,81.4,151300,15.5
-NVDA-0421,Michael Reyes,NVIDIA,NVDA,Engineering,Senior,79.4,371300,6.9
-NVDA-0422,Michael Schmidt,NVIDIA,NVDA,Operations,Principal,81.3,707700,7.0
-NVDA-0423,Hiroshi Brown,NVIDIA,NVDA,Product,SVP,86.5,1115600,17.4
-NVDA-0424,Thomas Ali,NVIDIA,NVDA,Operations,Staff,97.3,253000,0.8
-NVDA-0425,David Patel,NVIDIA,NVDA,Marketing,Senior,62.3,312000,4.3
-NVDA-0426,Fatima Yamamoto,NVIDIA,NVDA,Product,VP,95.3,1780700,7.1
-NVDA-0427,Olivia Kim,NVIDIA,NVDA,Operations,VP,84.0,822300,15.6
-NVDA-0428,Samuel Khan,NVIDIA,NVDA,Engineering,Senior,76.9,440900,22.2
-NVDA-0429,Raj Singh,NVIDIA,NVDA,Engineering,Staff,71.2,502600,4.4
-NVDA-0430,Olivia Murphy,NVIDIA,NVDA,Operations,VP,69.6,1124700,13.0
-NVDA-0431,Michael Schmidt,NVIDIA,NVDA,Research & AI,Principal,62.6,458500,5.7
-NVDA-0432,Fatima Cohen,NVIDIA,NVDA,Design,Senior,73.6,577600,8.0
-NVDA-0433,Chen Cohen,NVIDIA,NVDA,Sales & GTM,Staff,82.0,546700,7.6
-NVDA-0434,Priya Anderson,NVIDIA,NVDA,Research & AI,Senior,78.8,381400,4.7
-NVDA-0435,Grace Hassan,NVIDIA,NVDA,Finance,Principal,100.0,269300,13.6
-NVDA-0436,Arjun Brown,NVIDIA,NVDA,Product,Staff,88.1,489900,10.3
-NVDA-0437,David Singh,NVIDIA,NVDA,Finance,Principal,87.2,598500,3.4
-NVDA-0438,Linda Martinez,NVIDIA,NVDA,Engineering,VP,70.5,551500,8.3
-NVDA-0439,Aisha Okafor,NVIDIA,NVDA,Marketing,Senior,88.4,268400,3.6
-NVDA-0440,Chen Johnson,NVIDIA,NVDA,Marketing,VP,89.2,1330300,12.2
-NVDA-0441,Carlos Rossi,NVIDIA,NVDA,Research & AI,Senior Director,57.9,257000,6.6
-NVDA-0442,John Kim,NVIDIA,NVDA,Sales & GTM,Principal,84.0,654400,6.4
-NVDA-0443,Carlos Brown,NVIDIA,NVDA,Product,Director,80.5,1050500,3.4
-NVDA-0444,Hiroshi Johnson,NVIDIA,NVDA,Sales & GTM,Senior,83.1,145000,8.4
-NVDA-0445,Samuel Wilson,NVIDIA,NVDA,Engineering,Senior,82.4,177100,2.4
-NVDA-0446,Aisha Silva,NVIDIA,NVDA,Engineering,Director,65.5,314100,7.6
-NVDA-0447,Olivia Lopez,NVIDIA,NVDA,People/HR,Staff,74.6,347500,3.9
-NVDA-0448,Emily Okafor,NVIDIA,NVDA,Sales & GTM,Principal,73.0,793200,7.3
-NVDA-0449,Priya Lopez,NVIDIA,NVDA,Engineering,VP,100.0,987400,7.4
-NVDA-0450,Michael Okafor,NVIDIA,NVDA,Operations,VP,79.9,922200,9.7
-NVDA-0451,John Singh,NVIDIA,NVDA,Research & AI,Senior,100.0,654100,3.5
-NVDA-0452,Priya Schmidt,NVIDIA,NVDA,Engineering,Staff,100.0,237400,1.9
-NVDA-0453,Yuki Wilson,NVIDIA,NVDA,Sales & GTM,Director,65.1,702200,11.4
-NVDA-0454,Mary Okafor,NVIDIA,NVDA,Product,Principal,64.6,839900,7.3
-NVDA-0455,Mary Hassan,NVIDIA,NVDA,Product,Senior,76.2,411000,7.9
-NVDA-0456,Priya Lopez,NVIDIA,NVDA,Legal & Policy,VP,85.1,526900,8.8
-NVDA-0457,Maria Petrov,NVIDIA,NVDA,Research & AI,Principal,76.3,173300,16.1
-NVDA-0458,Samuel Cohen,NVIDIA,NVDA,Research & AI,Staff,94.5,572900,5.5
-NVDA-0459,Carlos Kim,NVIDIA,NVDA,Engineering,Director,97.8,1095000,9.1
-NVDA-0460,Samuel Yamamoto,NVIDIA,NVDA,Marketing,Senior,77.9,258700,1.2
-NVDA-0461,Emily Ali,NVIDIA,NVDA,Research & AI,Staff,71.0,565200,4.6
-NVDA-0462,Elena Petrov,NVIDIA,NVDA,Engineering,Director,68.8,309500,3.5
-NVDA-0463,Sofia Yamamoto,NVIDIA,NVDA,Marketing,Senior Director,96.5,534600,7.6
-NVDA-0464,Daniel Wilson,NVIDIA,NVDA,Engineering,Principal,71.6,718500,5.8
-NVDA-0465,Carlos Rossi,NVIDIA,NVDA,Research & AI,Senior,99.7,273500,7.0
-NVDA-0466,Linda Tanaka,NVIDIA,NVDA,Operations,Principal,96.5,790700,14.9
-NVDA-0467,Sofia Yamamoto,NVIDIA,NVDA,Engineering,Staff,99.9,307100,10.5
-NVDA-0468,Thomas Patel,NVIDIA,NVDA,Product,VP,91.9,1337100,9.6
-NVDA-0469,Hiroshi Chen,NVIDIA,NVDA,Engineering,Principal,76.2,683800,12.9
-NVDA-0470,Nina Martinez,NVIDIA,NVDA,Product,Senior,84.1,150400,6.5
-NVDA-0471,Hiroshi Yamamoto,NVIDIA,NVDA,Engineering,Director,80.8,639900,10.7
-NVDA-0472,Olivia Johnson,NVIDIA,NVDA,Sales & GTM,Director,74.1,361000,10.6
-NVDA-0473,Raj Singh,NVIDIA,NVDA,Sales & GTM,Staff,84.5,665400,8.3
-NVDA-0474,Yuki Okafor,NVIDIA,NVDA,Legal & Policy,Senior,74.5,156600,2.7
-NVDA-0475,Maria Wang,NVIDIA,NVDA,Product,SVP,90.8,1241000,12.4
-NVDA-0476,Zoe Yamamoto,NVIDIA,NVDA,Engineering,Senior,93.5,1498700,10.9
-NVDA-0477,Hannah Garcia,NVIDIA,NVDA,Product,Principal,91.9,404700,10.8
-NVDA-0478,Priya Lee,NVIDIA,NVDA,Engineering,Senior Director,88.9,1224600,10.0
-NVDA-0479,Mary Johnson,NVIDIA,NVDA,Legal & Policy,Principal,83.8,319400,9.3
-NVDA-0480,Carlos Martinez,NVIDIA,NVDA,Engineering,Staff,67.7,436200,6.3
-NVDA-0481,Michael Tanaka,NVIDIA,NVDA,Engineering,Principal,86.4,483900,11.4
-NVDA-0482,Ahmed Park,NVIDIA,NVDA,Design,Senior,83.0,550300,11.1
-NVDA-0483,James Smith,NVIDIA,NVDA,Engineering,Senior,89.1,258500,10.3
-NVDA-0484,Raj Tanaka,NVIDIA,NVDA,Engineering,Principal,78.9,687800,7.4
-NVDA-0485,Chen Brown,NVIDIA,NVDA,Operations,Principal,75.7,200300,7.5
-NVDA-0486,Raj Patel,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,231100,5.8
-NVDA-0487,Aisha Nguyen,NVIDIA,NVDA,Engineering,Principal,91.3,282300,8.7
-NVDA-0488,Elena Reyes,NVIDIA,NVDA,Legal & Policy,Principal,86.5,1211700,17.5
-NVDA-0489,James Lopez,NVIDIA,NVDA,Finance,Staff,88.0,431800,13.1
-NVDA-0490,Michael Lopez,NVIDIA,NVDA,Product,VP,97.2,917500,6.7
-NVDA-0491,Chen Hassan,NVIDIA,NVDA,Research & AI,Staff,86.6,379900,9.4
-NVDA-0492,Hannah Brown,NVIDIA,NVDA,Engineering,SVP,81.0,1748300,8.6
-NVDA-0493,Nina Petrov,NVIDIA,NVDA,Research & AI,Senior,77.0,345800,7.1
-NVDA-0494,Emily Chen,NVIDIA,NVDA,Engineering,Senior Director,84.2,1077800,7.2
-NVDA-0495,Aisha Smith,NVIDIA,NVDA,Finance,Senior Director,69.9,633700,6.0
-NVDA-0496,Linda Chen,NVIDIA,NVDA,Operations,Director,100.0,670700,10.5
-NVDA-0497,Grace Khan,NVIDIA,NVDA,Operations,Director,90.8,982300,13.9
-NVDA-0498,Elena Rossi,NVIDIA,NVDA,Operations,VP,82.5,696800,11.1
-NVDA-0499,Hannah Johnson,NVIDIA,NVDA,Engineering,Senior,76.6,348200,13.3
-NVDA-0500,Linda Lee,NVIDIA,NVDA,Operations,Senior,74.4,441800,4.1
-NVDA-0501,Arjun Chen,NVIDIA,NVDA,Engineering,Staff,68.7,458600,6.4
-NVDA-0502,Hannah Johnson,NVIDIA,NVDA,Engineering,Principal,83.9,1730200,4.9
-NVDA-0503,Zoe Cohen,NVIDIA,NVDA,Engineering,Principal,93.2,1381000,6.4
-NVDA-0504,Kevin Tanaka,NVIDIA,NVDA,Finance,Principal,92.1,286500,14.1
-NVDA-0505,John Rossi,NVIDIA,NVDA,Engineering,Staff,83.2,282700,6.3
-NVDA-0506,Olivia Chen,NVIDIA,NVDA,Engineering,Staff,86.6,548500,15.5
-NVDA-0507,Yuki Anderson,NVIDIA,NVDA,Research & AI,Staff,94.6,283700,9.0
-NVDA-0508,Nina Murphy,NVIDIA,NVDA,Engineering,Staff,78.6,389700,6.9
-NVDA-0509,Wei Yamamoto,NVIDIA,NVDA,Research & AI,VP,82.3,1922800,11.1
-NVDA-0510,Hiroshi Garcia,NVIDIA,NVDA,Sales & GTM,Senior,63.7,263600,8.4
-NVDA-0511,Daniel Cohen,NVIDIA,NVDA,Operations,Senior,86.4,435800,3.2
-NVDA-0512,Wei Lee,NVIDIA,NVDA,Engineering,Director,94.4,769400,4.8
-NVDA-0513,Maria Park,NVIDIA,NVDA,Engineering,Principal,83.6,819900,2.1
-NVDA-0514,Elena Johnson,NVIDIA,NVDA,Sales & GTM,Senior,79.0,244400,3.3
-NVDA-0515,James Park,NVIDIA,NVDA,Sales & GTM,Director,91.9,1166100,12.7
-NVDA-0516,Sofia Martinez,NVIDIA,NVDA,Legal & Policy,Staff,73.1,330100,11.8
-NVDA-0517,Yuki Murphy,NVIDIA,NVDA,Engineering,Director,79.1,701700,14.5
-NVDA-0518,Wei Rossi,NVIDIA,NVDA,Operations,Senior,68.6,465000,2.8
-NVDA-0519,Daniel Davis,NVIDIA,NVDA,Operations,Senior,78.6,76300,1.9
-NVDA-0520,Grace Schmidt,NVIDIA,NVDA,Product,Senior,72.7,400700,9.7
-NVDA-0521,Michael Ali,NVIDIA,NVDA,Design,Director,79.9,240500,5.0
-NVDA-0522,John Okafor,NVIDIA,NVDA,Engineering,Principal,95.2,1226400,6.6
-NVDA-0523,Fatima Ali,NVIDIA,NVDA,Finance,Staff,69.4,391500,9.5
-NVDA-0524,Olivia Reyes,NVIDIA,NVDA,Operations,Director,73.8,1507800,7.2
-NVDA-0525,Aisha Park,NVIDIA,NVDA,Engineering,Senior,75.0,361200,1.7
-NVDA-0526,Hannah Chen,NVIDIA,NVDA,Operations,Director,87.7,723400,10.1
-NVDA-0527,Ahmed Anderson,NVIDIA,NVDA,Research & AI,Senior,71.5,552400,2.2
-NVDA-0528,Grace Lee,NVIDIA,NVDA,Operations,Staff,79.0,1162600,9.4
-NVDA-0529,Elena Kim,NVIDIA,NVDA,People/HR,Staff,76.3,1036400,3.8
-NVDA-0530,Emily Kim,NVIDIA,NVDA,Engineering,Principal,93.1,1022600,6.5
-NVDA-0531,John Garcia,NVIDIA,NVDA,Research & AI,Staff,90.2,164800,5.2
-NVDA-0532,Arjun Murphy,NVIDIA,NVDA,Engineering,Staff,83.7,330200,4.0
-NVDA-0533,Carlos Martinez,NVIDIA,NVDA,Engineering,Senior,70.1,141300,1.1
-NVDA-0534,Daniel Wilson,NVIDIA,NVDA,Product,SVP,97.5,888100,23.5
-NVDA-0535,Fatima Reyes,NVIDIA,NVDA,Operations,Director,88.4,930100,14.5
-NVDA-0536,Samuel Okafor,NVIDIA,NVDA,Engineering,Senior,75.6,434400,19.8
-NVDA-0537,Wei Ali,NVIDIA,NVDA,Design,VP,82.9,1147300,7.8
-NVDA-0538,Olivia Nguyen,NVIDIA,NVDA,Engineering,Principal,71.3,951300,10.5
-NVDA-0539,Arjun Martinez,NVIDIA,NVDA,People/HR,Director,98.7,1703500,8.5
-NVDA-0540,Maria Davis,NVIDIA,NVDA,Engineering,Senior,76.1,203300,2.5
-NVDA-0541,Sofia Park,NVIDIA,NVDA,Engineering,Principal,84.5,1259900,11.7
-NVDA-0542,Aisha Cohen,NVIDIA,NVDA,Engineering,Staff,90.3,461600,13.2
-NVDA-0543,Thomas Park,NVIDIA,NVDA,Research & AI,Senior,85.1,396000,12.1
-NVDA-0544,Hiroshi Brown,NVIDIA,NVDA,Engineering,SVP,65.2,1797100,13.8
-NVDA-0545,Nina Lopez,NVIDIA,NVDA,Engineering,Senior,75.9,331900,11.7
-NVDA-0546,Linda Lopez,NVIDIA,NVDA,Product,Senior,69.8,322800,2.9
-NVDA-0547,Zoe Petrov,NVIDIA,NVDA,Sales & GTM,Senior,81.7,243200,5.3
-NVDA-0548,Samuel Brown,NVIDIA,NVDA,Engineering,Principal,83.8,443400,5.6
-NVDA-0549,David Wilson,NVIDIA,NVDA,Product,Principal,96.9,432600,8.8
-NVDA-0550,Thomas Reyes,NVIDIA,NVDA,Research & AI,Senior,87.5,741300,6.2
-NVDA-0551,Sofia Hassan,NVIDIA,NVDA,Marketing,Director,100.0,974800,9.8
-NVDA-0552,Michael Ali,NVIDIA,NVDA,Design,Senior,69.9,365200,10.0
-NVDA-0553,Chen Silva,NVIDIA,NVDA,Engineering,Senior,77.1,890700,1.3
-NVDA-0554,Ahmed Johnson,NVIDIA,NVDA,Product,Staff,78.9,324900,11.5
-NVDA-0555,Kevin Anderson,NVIDIA,NVDA,Research & AI,Director,90.9,499600,7.1
-NVDA-0556,Raj Ali,NVIDIA,NVDA,Engineering,Principal,71.8,411000,4.0
-NVDA-0557,Carlos Hassan,NVIDIA,NVDA,Research & AI,Director,80.7,542700,6.8
-NVDA-0558,Kevin Singh,NVIDIA,NVDA,Operations,Principal,69.3,412800,8.0
-NVDA-0559,Wei Ali,NVIDIA,NVDA,Sales & GTM,Staff,90.5,875200,3.5
-NVDA-0560,Hannah Smith,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,920300,6.7
-NVDA-0561,Linda Murphy,NVIDIA,NVDA,Operations,Senior,82.4,184600,6.5
-NVDA-0562,Kevin Lopez,NVIDIA,NVDA,Engineering,Director,69.0,590200,12.0
-NVDA-0563,Linda Nguyen,NVIDIA,NVDA,Finance,Senior,83.9,422300,9.1
-NVDA-0564,Raj Ali,NVIDIA,NVDA,Sales & GTM,Principal,85.5,1887800,8.4
-NVDA-0565,Hannah Park,NVIDIA,NVDA,Engineering,Staff,85.1,236800,3.2
-NVDA-0566,Ahmed Davis,NVIDIA,NVDA,Engineering,Principal,80.1,334300,6.4
-NVDA-0567,Maria Anderson,NVIDIA,NVDA,Legal & Policy,Senior,79.6,320300,1.8
-NVDA-0568,Hiroshi Rossi,NVIDIA,NVDA,Engineering,Director,66.0,644700,13.2
-NVDA-0569,Samuel Murphy,NVIDIA,NVDA,Marketing,Director,72.3,334700,14.0
-NVDA-0570,Samuel Lee,NVIDIA,NVDA,Product,Staff,74.2,308300,4.7
-NVDA-0571,Fatima Okafor,NVIDIA,NVDA,Engineering,Staff,76.5,464000,3.9
-NVDA-0572,Carlos Chen,NVIDIA,NVDA,Product,Senior,70.3,207400,1.2
-NVDA-0573,Ahmed Cohen,NVIDIA,NVDA,Operations,Senior,67.2,499000,6.9
-NVDA-0574,Hannah Davis,NVIDIA,NVDA,Research & AI,Senior,73.4,361200,10.1
-NVDA-0575,Daniel Petrov,NVIDIA,NVDA,Engineering,Senior,93.6,682900,9.0
-NVDA-0576,Grace Garcia,NVIDIA,NVDA,Engineering,Principal,76.0,205900,4.9
-NVDA-0577,Daniel Chen,NVIDIA,NVDA,Marketing,Senior,86.3,87900,3.7
-NVDA-0578,Zoe Davis,NVIDIA,NVDA,Research & AI,Principal,83.6,783600,3.7
-NVDA-0579,Elena Nguyen,NVIDIA,NVDA,Engineering,Senior Director,72.1,577200,13.8
-NVDA-0580,Maria Johnson,NVIDIA,NVDA,Research & AI,Senior,80.3,252800,4.8
-NVDA-0581,Chen Johnson,NVIDIA,NVDA,Engineering,VP,75.3,635800,4.8
-NVDA-0582,David Rossi,NVIDIA,NVDA,Operations,SVP,71.4,798000,13.8
-NVDA-0583,Fatima Chen,NVIDIA,NVDA,Engineering,Senior,79.8,198900,9.6
-NVDA-0584,Yuki Martinez,NVIDIA,NVDA,Operations,VP,89.4,1374700,11.9
-NVDA-0585,Ahmed Petrov,NVIDIA,NVDA,Design,Principal,80.7,598000,13.6
-NVDA-0586,Ahmed Park,NVIDIA,NVDA,Finance,Principal,89.4,523900,3.9
-NVDA-0587,Wei Murphy,NVIDIA,NVDA,Engineering,Senior,77.7,168400,2.0
-NVDA-0588,Fatima Patel,NVIDIA,NVDA,Engineering,Senior,63.0,363600,14.0
-NVDA-0589,Yuki Davis,NVIDIA,NVDA,Operations,VP,100.0,1244500,12.3
-NVDA-0590,Sofia Anderson,NVIDIA,NVDA,Product,Principal,76.4,263200,2.9
-NVDA-0591,Carlos Nguyen,NVIDIA,NVDA,Engineering,Director,80.2,911400,12.2
-NVDA-0592,Mary Johnson,NVIDIA,NVDA,Engineering,Director,82.5,797500,6.8
-NVDA-0593,Arjun Lopez,NVIDIA,NVDA,Operations,Senior Director,86.1,748600,15.3
-NVDA-0594,Arjun Schmidt,NVIDIA,NVDA,Research & AI,Senior,73.3,212500,9.2
-NVDA-0595,John Smith,NVIDIA,NVDA,Legal & Policy,Director,89.8,388500,5.5
-NVDA-0596,Hannah Chen,NVIDIA,NVDA,Engineering,Principal,79.8,422100,9.7
-NVDA-0597,Maria Singh,NVIDIA,NVDA,Engineering,Staff,78.4,266500,6.6
-NVDA-0598,Chen Garcia,NVIDIA,NVDA,Engineering,Director,77.0,558500,7.7
-NVDA-0599,Yuki Murphy,NVIDIA,NVDA,Design,Senior,93.6,177700,14.1
-NVDA-0600,Aisha Yamamoto,NVIDIA,NVDA,Product,Senior,73.9,212600,3.3
-NVDA-0601,Nina Reyes,NVIDIA,NVDA,Research & AI,Senior,93.9,561500,5.1
-NVDA-0602,Hiroshi Lopez,NVIDIA,NVDA,Design,Senior,65.7,250000,1.8
-NVDA-0603,Hannah Tanaka,NVIDIA,NVDA,Operations,Senior,72.2,339100,1.8
-NVDA-0604,Samuel Brown,NVIDIA,NVDA,Research & AI,Senior,98.7,390100,2.7
-NVDA-0605,Grace Yamamoto,NVIDIA,NVDA,Legal & Policy,Principal,88.2,280900,9.4
-NVDA-0606,Fatima Hassan,NVIDIA,NVDA,Research & AI,Senior,88.4,125000,7.2
-NVDA-0607,Aisha Okafor,NVIDIA,NVDA,Sales & GTM,Senior,86.4,350600,5.0
-NVDA-0608,Zoe Anderson,NVIDIA,NVDA,Engineering,Senior,76.0,483500,2.6
-NVDA-0609,Ahmed Chen,NVIDIA,NVDA,Research & AI,Director,70.4,716500,7.5
-NVDA-0610,Ahmed Tanaka,NVIDIA,NVDA,Product,Staff,65.5,541500,11.5
-NVDA-0611,Emily Garcia,NVIDIA,NVDA,Legal & Policy,Principal,88.0,332600,7.9
-NVDA-0612,Wei Reyes,NVIDIA,NVDA,Engineering,Principal,69.6,446100,10.9
-NVDA-0613,Hannah Anderson,NVIDIA,NVDA,Engineering,VP,89.7,1074200,7.3
-NVDA-0614,Arjun Rossi,NVIDIA,NVDA,Engineering,Staff,70.5,221200,4.7
-NVDA-0615,David Okafor,NVIDIA,NVDA,Legal & Policy,Staff,91.7,1695100,2.4
-NVDA-0616,Zoe Rossi,NVIDIA,NVDA,Research & AI,Staff,78.3,261500,5.5
-NVDA-0617,Priya Park,NVIDIA,NVDA,Research & AI,Senior Director,100.0,1172100,8.6
-NVDA-0618,Mary Reyes,NVIDIA,NVDA,Engineering,Staff,71.6,452600,2.9
-NVDA-0619,Zoe Davis,NVIDIA,NVDA,Engineering,Senior,86.0,535800,5.3
-NVDA-0620,Samuel Okafor,NVIDIA,NVDA,Engineering,Senior,72.8,1430600,7.4
-NVDA-0621,Raj Singh,NVIDIA,NVDA,Marketing,Director,83.4,454500,11.0
-NVDA-0622,Linda Ali,NVIDIA,NVDA,Operations,Staff,87.0,567600,5.5
-NVDA-0623,Mary Kim,NVIDIA,NVDA,Engineering,Principal,100.0,518400,6.6
-NVDA-0624,Chen Chen,NVIDIA,NVDA,Research & AI,Staff,87.7,278300,8.4
-NVDA-0625,Olivia Brown,NVIDIA,NVDA,Engineering,Senior,62.9,285400,6.0
-NVDA-0626,Aisha Smith,NVIDIA,NVDA,Engineering,Senior,75.2,426200,5.7
-NVDA-0627,Maria Wilson,NVIDIA,NVDA,Operations,Staff,92.2,157300,4.0
-NVDA-0628,Fatima Reyes,NVIDIA,NVDA,Engineering,Senior,84.8,237900,5.5
-NVDA-0629,Linda Nguyen,NVIDIA,NVDA,Sales & GTM,Principal,100.0,612900,3.6
-NVDA-0630,Carlos Tanaka,NVIDIA,NVDA,Engineering,Senior,80.7,339900,1.4
-NVDA-0631,John Nguyen,NVIDIA,NVDA,Sales & GTM,Staff,80.2,1160800,15.6
-NVDA-0632,Aisha Lopez,NVIDIA,NVDA,Engineering,Staff,72.7,501400,7.7
-NVDA-0633,Thomas Khan,NVIDIA,NVDA,Engineering,Staff,81.0,344200,4.3
-NVDA-0634,Priya Park,NVIDIA,NVDA,Engineering,Director,70.8,426400,9.9
-NVDA-0635,Chen Park,NVIDIA,NVDA,Product,Senior,67.7,378600,6.4
-NVDA-0636,Wei Park,NVIDIA,NVDA,Sales & GTM,Staff,83.5,221700,6.4
-NVDA-0637,Michael Wilson,NVIDIA,NVDA,Finance,Principal,65.4,288900,5.3
-NVDA-0638,Elena Lee,NVIDIA,NVDA,Engineering,Director,92.6,3041300,3.2
-NVDA-0639,Chen Anderson,NVIDIA,NVDA,Engineering,Principal,76.5,237200,9.1
-NVDA-0640,James Brown,NVIDIA,NVDA,Product,Staff,65.1,332300,11.6
-NVDA-0641,Priya Singh,NVIDIA,NVDA,Engineering,Senior,80.0,408800,5.3
-NVDA-0642,Fatima Brown,NVIDIA,NVDA,Sales & GTM,Senior,79.5,412500,3.0
-NVDA-0643,Wei Okafor,NVIDIA,NVDA,Engineering,Staff,79.1,933200,3.5
-NVDA-0644,Hiroshi Martinez,NVIDIA,NVDA,Marketing,Senior,87.2,467300,2.4
-NVDA-0645,Priya Yamamoto,NVIDIA,NVDA,Engineering,Senior,96.4,559100,2.0
-NVDA-0646,Nina Nguyen,NVIDIA,NVDA,Product,Senior,94.1,732000,0.7
-NVDA-0647,Grace Yamamoto,NVIDIA,NVDA,Product,Principal,76.8,630100,3.6
-NVDA-0648,Priya Garcia,NVIDIA,NVDA,Marketing,Principal,68.7,773300,9.2
-NVDA-0649,Elena Schmidt,NVIDIA,NVDA,Product,Principal,87.6,2567100,7.6
-NVDA-0650,Nina Davis,NVIDIA,NVDA,Engineering,Director,79.0,809600,7.4
-NVDA-0651,Sofia Ali,NVIDIA,NVDA,Product,Director,74.8,987800,5.0
-NVDA-0652,Daniel Reyes,NVIDIA,NVDA,Engineering,Staff,66.1,374200,7.3
-NVDA-0653,Zoe Smith,NVIDIA,NVDA,Engineering,Director,84.5,413700,4.8
-NVDA-0654,Yuki Hassan,NVIDIA,NVDA,Operations,Senior,88.5,194500,3.8
-NVDA-0655,Priya Murphy,NVIDIA,NVDA,Engineering,Staff,95.2,685100,7.8
-NVDA-0656,Raj Okafor,NVIDIA,NVDA,Engineering,Senior,83.7,256200,9.9
-NVDA-0657,Chen Lee,NVIDIA,NVDA,Engineering,Staff,100.0,409500,10.4
-NVDA-0658,Hannah Reyes,NVIDIA,NVDA,Engineering,Staff,69.9,902500,2.0
-NVDA-0659,Carlos Murphy,NVIDIA,NVDA,Sales & GTM,Staff,75.6,545300,6.2
-NVDA-0660,Hannah Lee,NVIDIA,NVDA,Sales & GTM,Senior,73.9,343300,1.7
-NVDA-0661,Hannah Silva,NVIDIA,NVDA,Marketing,Principal,69.7,359300,17.7
-NVDA-0662,Sofia Lee,NVIDIA,NVDA,Marketing,Staff,81.3,262600,3.7
-NVDA-0663,Hiroshi Anderson,NVIDIA,NVDA,Product,Director,82.8,634200,12.4
-NVDA-0664,David Petrov,NVIDIA,NVDA,Operations,Staff,62.8,705700,13.7
-NVDA-0665,Hannah Chen,NVIDIA,NVDA,Product,Principal,100.0,392400,12.8
-NVDA-0666,Aisha Reyes,NVIDIA,NVDA,Legal & Policy,Staff,74.3,922100,3.6
-NVDA-0667,Kevin Khan,NVIDIA,NVDA,Engineering,Staff,84.9,455200,1.5
-NVDA-0668,Raj Martinez,NVIDIA,NVDA,Research & AI,Senior,69.3,226900,4.1
-NVDA-0669,David Wang,NVIDIA,NVDA,Legal & Policy,Staff,89.3,974000,10.6
-NVDA-0670,Daniel Nguyen,NVIDIA,NVDA,Engineering,Staff,85.8,173400,3.4
-NVDA-0671,Hiroshi Tanaka,NVIDIA,NVDA,Operations,Staff,91.5,159800,3.6
-NVDA-0672,Samuel Ali,NVIDIA,NVDA,Design,Director,77.1,756800,4.1
-NVDA-0673,Daniel Garcia,NVIDIA,NVDA,Engineering,Staff,85.5,465900,2.7
-NVDA-0674,Raj Wilson,NVIDIA,NVDA,Engineering,Senior,89.6,269200,2.8
-NVDA-0675,Elena Anderson,NVIDIA,NVDA,Sales & GTM,Senior,86.4,422300,17.3
-NVDA-0676,Carlos Martinez,NVIDIA,NVDA,Product,Senior,94.5,712300,3.3
-NVDA-0677,Priya Murphy,NVIDIA,NVDA,Engineering,Principal,82.2,281100,5.3
-NVDA-0678,Mary Smith,NVIDIA,NVDA,Engineering,Senior,100.0,430700,3.3
-NVDA-0679,Hiroshi Cohen,NVIDIA,NVDA,Engineering,Principal,90.6,667300,13.3
-NVDA-0680,Carlos Yamamoto,NVIDIA,NVDA,Engineering,Director,84.2,390000,12.2
-NVDA-0681,Thomas Kim,NVIDIA,NVDA,Finance,Senior,76.8,210600,7.8
-NVDA-0682,Arjun Patel,NVIDIA,NVDA,Research & AI,Senior Director,80.8,1280900,7.1
-NVDA-0683,Wei Silva,NVIDIA,NVDA,Sales & GTM,Senior,71.4,246700,5.8
-NVDA-0684,Hiroshi Kim,NVIDIA,NVDA,Finance,Principal,98.4,430700,12.0
-NVDA-0685,Hannah Schmidt,NVIDIA,NVDA,Operations,Senior,76.5,612800,1.1
-NVDA-0686,Linda Martinez,NVIDIA,NVDA,Finance,Senior Director,89.2,243300,9.3
-NVDA-0687,Thomas Hassan,NVIDIA,NVDA,Engineering,Director,91.8,208500,6.6
-NVDA-0688,Chen Hassan,NVIDIA,NVDA,Engineering,Staff,75.3,329700,7.8
-NVDA-0689,Samuel Lee,NVIDIA,NVDA,Research & AI,Senior,90.9,361400,9.7
-NVDA-0690,James Park,NVIDIA,NVDA,Engineering,VP,71.2,676900,5.4
-NVDA-0691,Elena Reyes,NVIDIA,NVDA,Research & AI,Staff,64.2,374400,9.9
-NVDA-0692,David Smith,NVIDIA,NVDA,Finance,Director,63.7,494500,6.0
-NVDA-0693,Sofia Lee,NVIDIA,NVDA,Operations,Director,88.3,694800,14.5
-NVDA-0694,Arjun Johnson,NVIDIA,NVDA,Design,Senior,56.9,209000,3.4
-NVDA-0695,Ahmed Nguyen,NVIDIA,NVDA,Engineering,Senior,73.2,193900,6.8
-NVDA-0696,David Yamamoto,NVIDIA,NVDA,Operations,Staff,75.1,134400,4.7
-NVDA-0697,Emily Rossi,NVIDIA,NVDA,Operations,Senior,69.5,390300,4.6
-NVDA-0698,Raj Petrov,NVIDIA,NVDA,Operations,VP,62.1,1261300,8.0
-NVDA-0699,Thomas Silva,NVIDIA,NVDA,Engineering,Senior,88.0,320200,15.9
-NVDA-0700,Arjun Schmidt,NVIDIA,NVDA,Sales & GTM,Senior,70.4,149200,2.0
-NVDA-0701,Sofia Anderson,NVIDIA,NVDA,Design,Director,78.1,304200,11.1
-NVDA-0702,Olivia Garcia,NVIDIA,NVDA,Research & AI,Senior,73.9,304800,6.1
-NVDA-0703,Yuki Tanaka,NVIDIA,NVDA,Engineering,Senior,62.1,409200,5.4
-NVDA-0704,Michael Rossi,NVIDIA,NVDA,Operations,Staff,79.8,594500,11.7
-NVDA-0705,Ahmed Okafor,NVIDIA,NVDA,Product,VP,92.9,2172500,13.5
-NVDA-0706,Nina Petrov,NVIDIA,NVDA,Engineering,SVP,85.8,2544600,7.8
-NVDA-0707,Olivia Brown,NVIDIA,NVDA,Engineering,Senior,75.5,259700,13.3
-NVDA-0708,Nina Yamamoto,NVIDIA,NVDA,Sales & GTM,Senior,71.3,358500,2.2
-NVDA-0709,Elena Reyes,NVIDIA,NVDA,Operations,Principal,73.8,481500,10.2
-NVDA-0710,Thomas Patel,NVIDIA,NVDA,Operations,Staff,87.7,194900,15.1
-NVDA-0711,Michael Lee,NVIDIA,NVDA,Marketing,Senior Director,83.8,2081400,8.9
-NVDA-0712,Carlos Anderson,NVIDIA,NVDA,Engineering,Staff,71.2,371000,6.4
-NVDA-0713,Zoe Ali,NVIDIA,NVDA,Sales & GTM,Senior,82.5,336600,3.6
-NVDA-0714,Hannah Khan,NVIDIA,NVDA,Finance,Senior Director,72.9,735500,6.8
-NVDA-0715,Michael Lee,NVIDIA,NVDA,Engineering,Staff,100.0,202000,5.8
-NVDA-0716,Samuel Silva,NVIDIA,NVDA,People/HR,Senior Director,84.0,443800,5.0
-NVDA-0717,Thomas Nguyen,NVIDIA,NVDA,Engineering,Principal,60.8,690300,4.8
-NVDA-0718,Emily Kim,NVIDIA,NVDA,Engineering,Senior,76.9,213100,8.4
-NVDA-0719,Samuel Petrov,NVIDIA,NVDA,Sales & GTM,Principal,91.4,1361400,4.5
-NVDA-0720,Olivia Smith,NVIDIA,NVDA,Operations,Senior,87.4,402000,5.9
-NVDA-0721,Hannah Smith,NVIDIA,NVDA,Engineering,Staff,85.9,134900,6.4
-NVDA-0722,Fatima Martinez,NVIDIA,NVDA,Product,Staff,72.0,989900,10.0
-NVDA-0723,David Okafor,NVIDIA,NVDA,Product,Principal,94.1,354600,17.9
-NVDA-0724,Carlos Tanaka,NVIDIA,NVDA,Design,Senior,67.1,633600,13.6
-NVDA-0725,John Park,NVIDIA,NVDA,Engineering,VP,76.2,1000800,7.1
-NVDA-0726,Raj Kim,NVIDIA,NVDA,Product,Senior,83.5,241300,15.6
-NVDA-0727,Thomas Hassan,NVIDIA,NVDA,Design,Senior,75.3,604100,6.8
-NVDA-0728,Olivia Wang,NVIDIA,NVDA,Marketing,Staff,67.0,363200,5.5
-NVDA-0729,Chen Martinez,NVIDIA,NVDA,Sales & GTM,Senior,96.0,276400,6.0
-NVDA-0730,Thomas Ali,NVIDIA,NVDA,Research & AI,Senior Director,81.8,584200,4.6
-NVDA-0731,Yuki Anderson,NVIDIA,NVDA,Design,Senior,92.8,261200,13.5
-NVDA-0732,Raj Lopez,NVIDIA,NVDA,Design,Senior,59.7,308800,3.3
-NVDA-0733,Linda Hassan,NVIDIA,NVDA,Engineering,Staff,92.1,332600,3.9
-NVDA-0734,Maria Anderson,NVIDIA,NVDA,Engineering,Staff,76.1,323700,7.4
-NVDA-0735,Kevin Brown,NVIDIA,NVDA,Marketing,Senior Director,81.7,1311500,5.2
-NVDA-0736,Grace Rossi,NVIDIA,NVDA,Research & AI,Principal,80.7,532500,6.4
-NVDA-0737,Wei Wilson,NVIDIA,NVDA,Finance,Senior,81.5,211600,10.0
-NVDA-0738,Hiroshi Tanaka,NVIDIA,NVDA,Finance,Staff,92.1,916900,3.2
-NVDA-0739,John Martinez,NVIDIA,NVDA,Engineering,Staff,82.2,245400,17.0
-NVDA-0740,Nina Reyes,NVIDIA,NVDA,Engineering,Staff,72.3,444500,4.0
-NVDA-0741,Michael Lopez,NVIDIA,NVDA,Engineering,Director,73.3,818800,3.4
-NVDA-0742,Michael Anderson,NVIDIA,NVDA,Research & AI,Principal,89.0,1014500,13.6
-NVDA-0743,Michael Yamamoto,NVIDIA,NVDA,Engineering,Senior Director,88.6,1584900,12.3
-NVDA-0744,Zoe Singh,NVIDIA,NVDA,People/HR,Senior,87.3,339800,1.0
-NVDA-0745,Samuel Park,NVIDIA,NVDA,Operations,SVP,89.4,2669700,10.8
-NVDA-0746,Hiroshi Kim,NVIDIA,NVDA,Sales & GTM,Director,85.9,1144300,12.7
-NVDA-0747,Aisha Rossi,NVIDIA,NVDA,People/HR,Staff,60.8,123600,1.8
-NVDA-0748,Sofia Lopez,NVIDIA,NVDA,Research & AI,Principal,82.4,194900,4.7
-NVDA-0749,Hiroshi Reyes,NVIDIA,NVDA,Sales & GTM,Director,81.5,652600,13.6
-NVDA-0750,Fatima Okafor,NVIDIA,NVDA,Sales & GTM,Principal,82.4,578900,4.5
-NVDA-0751,Grace Yamamoto,NVIDIA,NVDA,Research & AI,VP,87.0,535700,17.5
-NVDA-0752,Chen Tanaka,NVIDIA,NVDA,Sales & GTM,VP,69.8,1034800,7.8
-NVDA-0753,Olivia Chen,NVIDIA,NVDA,Engineering,Director,70.5,1125400,12.1
-NVDA-0754,Emily Johnson,NVIDIA,NVDA,Research & AI,Senior,100.0,336600,8.3
-NVDA-0755,Daniel Garcia,NVIDIA,NVDA,Engineering,Principal,56.0,141400,11.8
-NVDA-0756,Sofia Reyes,NVIDIA,NVDA,Engineering,Senior,59.3,214900,10.1
-NVDA-0757,Raj Schmidt,NVIDIA,NVDA,Engineering,Staff,75.8,253200,2.4
-NVDA-0758,John Reyes,NVIDIA,NVDA,Marketing,Staff,81.5,563400,6.8
-NVDA-0759,John Martinez,NVIDIA,NVDA,Product,Staff,72.6,445900,7.8
-NVDA-0760,Yuki Reyes,NVIDIA,NVDA,Sales & GTM,Director,77.4,342800,6.3
-NVDA-0761,Olivia Garcia,NVIDIA,NVDA,Design,Senior,76.4,256000,0.7
-NVDA-0762,Nina Khan,NVIDIA,NVDA,Marketing,Staff,78.6,661400,2.6
-NVDA-0763,Thomas Patel,NVIDIA,NVDA,Operations,Senior,79.6,184800,5.1
-NVDA-0764,Samuel Rossi,NVIDIA,NVDA,Engineering,Staff,84.4,428300,8.6
-NVDA-0765,Kevin Ali,NVIDIA,NVDA,Product,Staff,79.4,1149200,1.7
-NVDA-0766,Yuki Anderson,NVIDIA,NVDA,Engineering,Staff,94.8,436400,10.9
-NVDA-0767,Aisha Silva,NVIDIA,NVDA,Legal & Policy,Staff,100.0,1003700,5.1
-NVDA-0768,Kevin Patel,NVIDIA,NVDA,Legal & Policy,Senior Director,89.2,1030500,18.4
-NVDA-0769,Nina Okafor,NVIDIA,NVDA,Operations,Staff,75.9,632000,7.3
-NVDA-0770,Thomas Nguyen,NVIDIA,NVDA,Engineering,VP,82.0,1130100,12.6
-NVDA-0771,Hannah Murphy,NVIDIA,NVDA,Engineering,Senior,78.9,226200,4.9
-NVDA-0772,James Rossi,NVIDIA,NVDA,Sales & GTM,Principal,84.0,845300,6.2
-NVDA-0773,David Johnson,NVIDIA,NVDA,Research & AI,Senior,86.6,308800,10.7
-NVDA-0774,Fatima Davis,NVIDIA,NVDA,Marketing,Director,78.5,706000,12.7
-NVDA-0775,Priya Lopez,NVIDIA,NVDA,Research & AI,Senior,74.6,512800,0.8
-NVDA-0776,John Ali,NVIDIA,NVDA,Engineering,Staff,87.2,387300,11.4
-NVDA-0777,Raj Petrov,NVIDIA,NVDA,Product,Senior,84.0,440700,10.5
-NVDA-0778,Ahmed Anderson,NVIDIA,NVDA,Product,Principal,83.9,202900,4.8
-NVDA-0779,David Petrov,NVIDIA,NVDA,Design,Senior,87.5,148700,3.2
-NVDA-0780,Elena Chen,NVIDIA,NVDA,Operations,Senior Director,73.7,2072600,21.6
-NVDA-0781,Linda Silva,NVIDIA,NVDA,Sales & GTM,Principal,85.1,696200,3.2
-NVDA-0782,Aisha Nguyen,NVIDIA,NVDA,Engineering,Senior Director,65.1,391200,4.5
-NVDA-0783,James Silva,NVIDIA,NVDA,Product,Staff,77.5,213300,5.8
-NVDA-0784,David Johnson,NVIDIA,NVDA,Research & AI,Senior,72.4,398700,3.0
-NVDA-0785,Olivia Ali,NVIDIA,NVDA,Engineering,Staff,90.0,441400,5.6
-NVDA-0786,Mary Singh,NVIDIA,NVDA,Operations,Principal,91.3,439400,9.5
-NVDA-0787,Chen Davis,NVIDIA,NVDA,Engineering,Staff,95.1,524200,11.8
-NVDA-0788,Elena Park,NVIDIA,NVDA,Engineering,Staff,94.0,250000,2.7
-NVDA-0789,Hannah Nguyen,NVIDIA,NVDA,Engineering,Staff,70.4,972400,2.8
-NVDA-0790,Ahmed Patel,NVIDIA,NVDA,Operations,Staff,98.4,200700,6.8
-NVDA-0791,Daniel Lee,NVIDIA,NVDA,Sales & GTM,Staff,77.8,410200,7.5
-NVDA-0792,Daniel Davis,NVIDIA,NVDA,Product,Staff,75.0,159700,1.8
-NVDA-0793,Michael Brown,NVIDIA,NVDA,Operations,VP,100.0,967400,9.5
-NVDA-0794,Elena Garcia,NVIDIA,NVDA,Engineering,Director,73.2,678400,6.9
-NVDA-0795,Elena Petrov,NVIDIA,NVDA,Engineering,Staff,99.2,320100,7.2
-NVDA-0796,Sofia Garcia,NVIDIA,NVDA,Marketing,Staff,78.6,208100,3.8
-NVDA-0797,Hannah Nguyen,NVIDIA,NVDA,Marketing,Senior,90.3,609100,3.2
-NVDA-0798,Kevin Wilson,NVIDIA,NVDA,Operations,Staff,77.9,442500,17.1
-NVDA-0799,Sofia Lee,NVIDIA,NVDA,People/HR,Senior,77.8,386500,7.7
-NVDA-0800,Linda Yamamoto,NVIDIA,NVDA,Engineering,Director,100.0,889700,7.0
-NVDA-0801,Samuel Garcia,NVIDIA,NVDA,Engineering,Principal,71.9,216800,6.8
-NVDA-0802,Priya Okafor,NVIDIA,NVDA,Engineering,Staff,67.2,212200,5.0
-NVDA-0803,Wei Silva,NVIDIA,NVDA,Operations,Director,79.4,417300,5.0
-NVDA-0804,Carlos Schmidt,NVIDIA,NVDA,Engineering,Senior Director,68.9,1288600,16.7
-NVDA-0805,Nina Lopez,NVIDIA,NVDA,Product,Senior,75.8,220800,3.5
-NVDA-0806,Elena Singh,NVIDIA,NVDA,Engineering,Principal,74.1,274000,7.3
-NVDA-0807,Wei Lopez,NVIDIA,NVDA,Engineering,Senior,74.5,772100,1.7
-NVDA-0808,Yuki Wang,NVIDIA,NVDA,Research & AI,Senior,66.2,200600,3.4
-NVDA-0809,Olivia Davis,NVIDIA,NVDA,Research & AI,Staff,66.6,240300,6.4
-NVDA-0810,Mary Tanaka,NVIDIA,NVDA,Engineering,Director,96.8,792800,4.1
-NVDA-0811,Thomas Petrov,NVIDIA,NVDA,Research & AI,Senior,65.3,100800,4.3
-NVDA-0812,Daniel Chen,NVIDIA,NVDA,Engineering,Principal,99.3,822600,2.3
-NVDA-0813,Grace Lee,NVIDIA,NVDA,Engineering,Principal,83.2,374700,7.1
-NVDA-0814,Chen Rossi,NVIDIA,NVDA,Product,Principal,84.5,218400,2.9
-NVDA-0815,Hiroshi Garcia,NVIDIA,NVDA,Engineering,Staff,85.0,661800,4.4
-NVDA-0816,Wei Okafor,NVIDIA,NVDA,Legal & Policy,Staff,71.1,251700,10.2
-NVDA-0817,Raj Murphy,NVIDIA,NVDA,Finance,Senior,72.6,525600,2.3
-NVDA-0818,Emily Wang,NVIDIA,NVDA,Engineering,Senior,82.5,107400,2.0
-NVDA-0819,Fatima Khan,NVIDIA,NVDA,Engineering,Principal,89.9,310400,15.2
-NVDA-0820,Linda Cohen,NVIDIA,NVDA,Legal & Policy,Staff,77.4,238900,3.0
-NVDA-0821,Arjun Martinez,NVIDIA,NVDA,Finance,Staff,83.5,305700,13.6
-NVDA-0822,Yuki Kim,NVIDIA,NVDA,Sales & GTM,Senior Director,76.9,920900,8.3
-NVDA-0823,David Tanaka,NVIDIA,NVDA,Research & AI,Senior,92.3,343500,3.7
-NVDA-0824,Olivia Petrov,NVIDIA,NVDA,Finance,Director,79.9,648600,10.1
-NVDA-0825,Samuel Hassan,NVIDIA,NVDA,Sales & GTM,Principal,74.1,455300,6.4
-NVDA-0826,Raj Garcia,NVIDIA,NVDA,Engineering,Senior,77.5,677400,2.2
-NVDA-0827,Grace Lopez,NVIDIA,NVDA,Research & AI,C-Suite,100.0,5069900,9.2
-NVDA-0828,Raj Lee,NVIDIA,NVDA,Sales & GTM,Director,90.6,598700,24.5
-NVDA-0829,Emily Tanaka,NVIDIA,NVDA,Research & AI,Senior,72.7,312400,13.0
-NVDA-0830,Elena Chen,NVIDIA,NVDA,Product,Staff,70.6,894400,6.7
-NVDA-0831,David Ali,NVIDIA,NVDA,Research & AI,Senior,82.9,132100,4.8
-NVDA-0832,Olivia Lee,NVIDIA,NVDA,Engineering,Senior,64.6,167600,2.5
-NVDA-0833,Michael Anderson,NVIDIA,NVDA,Research & AI,Director,86.4,847300,5.6
-NVDA-0834,Priya Hassan,NVIDIA,NVDA,Research & AI,Principal,74.3,362000,8.2
-NVDA-0835,Michael Ali,NVIDIA,NVDA,Engineering,Senior,88.7,198900,5.1
-NVDA-0836,Arjun Martinez,NVIDIA,NVDA,Finance,Senior,63.1,157700,0.6
-NVDA-0837,Wei Silva,NVIDIA,NVDA,Engineering,Director,92.6,658700,7.3
-NVDA-0838,Grace Silva,NVIDIA,NVDA,Engineering,Senior,78.6,244900,12.6
-NVDA-0839,Mary Johnson,NVIDIA,NVDA,Marketing,Principal,74.3,289300,10.1
-NVDA-0840,James Anderson,NVIDIA,NVDA,Product,Senior,94.2,123500,2.6
-NVDA-0841,John Martinez,NVIDIA,NVDA,Legal & Policy,Staff,74.1,525200,2.1
-NVDA-0842,Olivia Rossi,NVIDIA,NVDA,Research & AI,Senior,100.0,304300,8.0
-NVDA-0843,Arjun Martinez,NVIDIA,NVDA,Engineering,Senior,62.7,203800,3.2
-NVDA-0844,Priya Davis,NVIDIA,NVDA,Design,Senior,55.8,207700,6.1
-NVDA-0845,Olivia Chen,NVIDIA,NVDA,Research & AI,Staff,54.9,554000,2.7
-NVDA-0846,Emily Singh,NVIDIA,NVDA,Operations,Principal,64.0,421000,4.9
-NVDA-0847,Grace Cohen,NVIDIA,NVDA,Finance,Senior,96.8,300200,15.9
-NVDA-0848,Zoe Hassan,NVIDIA,NVDA,Engineering,Director,96.4,1470900,11.2
-NVDA-0849,Yuki Patel,NVIDIA,NVDA,Sales & GTM,Principal,77.1,343200,4.7
-NVDA-0850,Fatima Martinez,NVIDIA,NVDA,Engineering,Staff,84.5,669700,4.0
-NVDA-0851,Maria Singh,NVIDIA,NVDA,Engineering,Director,90.5,745500,10.2
-NVDA-0852,Kevin Park,NVIDIA,NVDA,Sales & GTM,Senior,86.3,365800,3.0
-NVDA-0853,Raj Ali,NVIDIA,NVDA,Product,VP,85.3,1753300,7.3
-NVDA-0854,Arjun Patel,NVIDIA,NVDA,Engineering,Director,69.3,1025100,4.1
-NVDA-0855,Wei Chen,NVIDIA,NVDA,Finance,VP,89.3,2202800,9.6
-NVDA-0856,Thomas Garcia,NVIDIA,NVDA,People/HR,Senior,83.8,352300,1.7
-NVDA-0857,Wei Tanaka,NVIDIA,NVDA,People/HR,Senior,82.7,296900,5.9
-NVDA-0858,Linda Ali,NVIDIA,NVDA,People/HR,Senior,87.4,334700,4.1
-NVDA-0859,Emily Garcia,NVIDIA,NVDA,Operations,Senior,85.7,214200,6.3
-NVDA-0860,Grace Brown,NVIDIA,NVDA,Operations,VP,85.6,1715700,9.2
-NVDA-0861,Michael Park,NVIDIA,NVDA,Finance,Senior,79.1,340400,2.6
-NVDA-0862,Carlos Murphy,NVIDIA,NVDA,Research & AI,Staff,100.0,346800,0.7
-NVDA-0863,Mary Martinez,NVIDIA,NVDA,Engineering,Senior,73.6,547300,4.4
-NVDA-0864,Carlos Park,NVIDIA,NVDA,Engineering,Principal,78.7,588700,8.5
-NVDA-0865,Michael Reyes,NVIDIA,NVDA,Research & AI,Staff,85.5,565400,2.1
-NVDA-0866,Wei Wang,NVIDIA,NVDA,Finance,Principal,89.7,1060000,8.2
-NVDA-0867,Chen Singh,NVIDIA,NVDA,Sales & GTM,Senior,98.1,356900,2.6
-NVDA-0868,Emily Kim,NVIDIA,NVDA,Engineering,Staff,58.6,223800,2.6
-NVDA-0869,Priya Brown,NVIDIA,NVDA,Sales & GTM,Senior,68.4,194100,1.0
-NVDA-0870,Michael Davis,NVIDIA,NVDA,Engineering,Principal,81.7,1188200,4.0
-NVDA-0871,Yuki Park,NVIDIA,NVDA,Engineering,Staff,61.8,105200,9.2
-NVDA-0872,Arjun Lopez,NVIDIA,NVDA,Engineering,Staff,81.9,260000,3.3
-NVDA-0873,Hiroshi Reyes,NVIDIA,NVDA,Operations,Principal,70.7,309400,5.5
-NVDA-0874,Arjun Petrov,NVIDIA,NVDA,Engineering,Principal,86.5,975500,11.8
-NVDA-0875,Sofia Martinez,NVIDIA,NVDA,Sales & GTM,Principal,83.5,261800,6.2
-NVDA-0876,Priya Smith,NVIDIA,NVDA,Research & AI,Senior,77.0,342000,6.7
-NVDA-0877,Hannah Tanaka,NVIDIA,NVDA,Sales & GTM,Senior,79.9,245900,16.3
-NVDA-0878,Michael Lee,NVIDIA,NVDA,Operations,Director,79.2,1073300,12.7
-NVDA-0879,John Khan,NVIDIA,NVDA,Finance,Senior,88.2,274700,3.7
-NVDA-0880,Daniel Patel,NVIDIA,NVDA,Sales & GTM,Staff,70.5,982300,1.7
-NVDA-0881,Hannah Murphy,NVIDIA,NVDA,Research & AI,Senior Director,70.0,689700,8.6
-NVDA-0882,Raj Lopez,NVIDIA,NVDA,Product,Senior,82.1,155400,4.2
-NVDA-0883,Fatima Yamamoto,NVIDIA,NVDA,Marketing,Director,78.0,700000,4.9
-NVDA-0884,Kevin Chen,NVIDIA,NVDA,Engineering,Staff,88.3,294200,14.0
-NVDA-0885,Kevin Murphy,NVIDIA,NVDA,Legal & Policy,Staff,68.0,295800,4.7
-NVDA-0886,Olivia Lee,NVIDIA,NVDA,Engineering,Senior,80.7,229300,2.9
-NVDA-0887,Hannah Lee,NVIDIA,NVDA,Legal & Policy,Senior,93.5,334900,6.1
-NVDA-0888,Emily Nguyen,NVIDIA,NVDA,Product,Senior,71.2,294300,3.3
-NVDA-0889,Nina Martinez,NVIDIA,NVDA,Engineering,Principal,80.4,550600,13.1
-NVDA-0890,Hiroshi Garcia,NVIDIA,NVDA,Sales & GTM,Senior,72.0,204500,5.9
-NVDA-0891,Kevin Ali,NVIDIA,NVDA,Research & AI,Senior,84.4,246000,0.7
-NVDA-0892,Maria Brown,NVIDIA,NVDA,Engineering,Principal,83.1,696600,3.6
-NVDA-0893,Wei Chen,NVIDIA,NVDA,Engineering,Senior,80.1,300800,5.2
-NVDA-0894,Elena Lee,NVIDIA,NVDA,People/HR,Director,100.0,362800,3.7
-NVDA-0895,Elena Murphy,NVIDIA,NVDA,Sales & GTM,Senior,84.9,310900,6.1
-NVDA-0896,Chen Singh,NVIDIA,NVDA,Sales & GTM,Staff,83.3,534100,4.2
-NVDA-0897,Hannah Chen,NVIDIA,NVDA,Engineering,Staff,91.1,437100,9.7
-NVDA-0898,Aisha Park,NVIDIA,NVDA,Engineering,Staff,86.2,1337600,8.2
-NVDA-0899,James Brown,NVIDIA,NVDA,Sales & GTM,VP,89.6,605200,6.2
-NVDA-0900,James Singh,NVIDIA,NVDA,Engineering,Staff,94.3,327700,8.0
-NVDA-0901,James Cohen,NVIDIA,NVDA,Legal & Policy,Senior,87.5,960000,7.6
-NVDA-0902,Wei Davis,NVIDIA,NVDA,Engineering,Senior Director,93.2,814100,3.8
-NVDA-0903,Zoe Rossi,NVIDIA,NVDA,Design,Senior,69.9,371400,5.1
-NVDA-0904,Sofia Silva,NVIDIA,NVDA,Sales & GTM,Staff,74.5,599400,3.0
-NVDA-0905,James Tanaka,NVIDIA,NVDA,Finance,Director,86.5,374900,10.3
-NVDA-0906,Aisha Schmidt,NVIDIA,NVDA,Engineering,Staff,77.7,404100,6.0
-NVDA-0907,Daniel Lopez,NVIDIA,NVDA,Sales & GTM,Staff,85.3,97400,2.5
-NVDA-0908,Michael Martinez,NVIDIA,NVDA,Operations,SVP,83.0,976500,18.4
-NVDA-0909,Raj Chen,NVIDIA,NVDA,Engineering,Senior,81.0,246500,2.5
-NVDA-0910,James Singh,NVIDIA,NVDA,Product,Director,78.6,502700,9.3
-NVDA-0911,Linda Chen,NVIDIA,NVDA,Engineering,Senior,76.5,422200,8.2
-NVDA-0912,Sofia Davis,NVIDIA,NVDA,Operations,Staff,97.7,863700,5.1
-NVDA-0913,Elena Martinez,NVIDIA,NVDA,Engineering,Senior,73.6,310800,7.7
-NVDA-0914,Sofia Chen,NVIDIA,NVDA,Operations,SVP,89.7,2013700,11.6
-NVDA-0915,Linda Petrov,NVIDIA,NVDA,Sales & GTM,Senior,76.9,319900,10.6
-NVDA-0916,Mary Park,NVIDIA,NVDA,Design,Staff,73.6,561300,4.7
-NVDA-0917,Maria Schmidt,NVIDIA,NVDA,Operations,Senior,90.3,471400,4.4
-NVDA-0918,Olivia Garcia,NVIDIA,NVDA,Product,Principal,66.3,240300,5.6
-NVDA-0919,Ahmed Lee,NVIDIA,NVDA,Engineering,Senior,76.0,483600,7.8
-NVDA-0920,John Wang,NVIDIA,NVDA,Finance,Senior Director,85.3,758400,10.9
-NVDA-0921,Yuki Patel,NVIDIA,NVDA,Engineering,Senior,82.0,618200,13.8
-NVDA-0922,Mary Smith,NVIDIA,NVDA,Design,Staff,95.7,297800,4.7
-NVDA-0923,Nina Silva,NVIDIA,NVDA,Engineering,Director,89.8,955600,11.6
-NVDA-0924,Fatima Lopez,NVIDIA,NVDA,Marketing,Staff,92.7,559800,5.8
-NVDA-0925,Grace Park,NVIDIA,NVDA,Research & AI,Principal,86.2,336600,7.6
-NVDA-0926,Grace Okafor,NVIDIA,NVDA,Marketing,VP,62.5,723400,7.0
-NVDA-0927,Samuel Lopez,NVIDIA,NVDA,Engineering,Staff,83.7,377800,0.7
-NVDA-0928,Hiroshi Garcia,NVIDIA,NVDA,Engineering,Staff,79.8,310200,6.6
-NVDA-0929,Elena Garcia,NVIDIA,NVDA,Finance,Staff,90.4,1092000,5.1
-NVDA-0930,James Murphy,NVIDIA,NVDA,Engineering,Senior,69.2,159100,1.7
-NVDA-0931,Priya Ali,NVIDIA,NVDA,People/HR,Senior Director,77.8,1582100,11.2
-NVDA-0932,Elena Davis,NVIDIA,NVDA,Product,Principal,97.4,531800,12.3
-NVDA-0933,Yuki Lee,NVIDIA,NVDA,Legal & Policy,SVP,79.5,1458100,10.7
-NVDA-0934,Linda Johnson,NVIDIA,NVDA,Engineering,Senior,84.4,202800,8.9
-NVDA-0935,Raj Khan,NVIDIA,NVDA,Sales & GTM,Principal,82.9,336200,5.7
-NVDA-0936,Samuel Anderson,NVIDIA,NVDA,Engineering,Senior,71.1,549200,5.0
-NVDA-0937,Daniel Park,NVIDIA,NVDA,Engineering,Staff,79.5,143400,7.3
-NVDA-0938,Michael Tanaka,NVIDIA,NVDA,Engineering,Staff,93.0,823000,3.4
-NVDA-0939,David Okafor,NVIDIA,NVDA,Operations,Senior,78.9,761500,2.4
-NVDA-0940,Nina Davis,NVIDIA,NVDA,Engineering,Principal,92.7,561800,2.7
-NVDA-0941,Michael Rossi,NVIDIA,NVDA,Product,Principal,78.2,613800,12.4
-NVDA-0942,Linda Yamamoto,NVIDIA,NVDA,Engineering,Principal,75.3,305000,2.6
-NVDA-0943,John Park,NVIDIA,NVDA,Research & AI,Senior,76.3,133500,4.7
-NVDA-0944,Yuki Cohen,NVIDIA,NVDA,Marketing,Director,94.3,347100,7.5
-NVDA-0945,Hannah Lee,NVIDIA,NVDA,Marketing,Senior Director,64.5,1116400,5.9
-NVDA-0946,Zoe Reyes,NVIDIA,NVDA,Engineering,Principal,68.4,465700,4.9
-NVDA-0947,Raj Kim,NVIDIA,NVDA,Research & AI,Senior Director,79.2,693000,17.0
-NVDA-0948,Mary Murphy,NVIDIA,NVDA,Engineering,Senior,66.0,146600,5.7
-NVDA-0949,Chen Garcia,NVIDIA,NVDA,Sales & GTM,Principal,89.0,274700,9.9
-NVDA-0950,John Wilson,NVIDIA,NVDA,Product,Senior,75.0,487900,6.4
-NVDA-0951,Kevin Park,NVIDIA,NVDA,Research & AI,Senior,66.3,618000,10.7
-NVDA-0952,Mary Petrov,NVIDIA,NVDA,Engineering,Principal,68.8,561400,6.0
-NVDA-0953,Carlos Cohen,NVIDIA,NVDA,Sales & GTM,Director,94.2,536300,4.0
-NVDA-0954,Kevin Davis,NVIDIA,NVDA,Engineering,Senior,77.0,398400,7.2
-NVDA-0955,Aisha Ali,NVIDIA,NVDA,Research & AI,Director,99.0,639500,8.5
-NVDA-0956,Linda Brown,NVIDIA,NVDA,Finance,C-Suite,82.2,3549200,7.0
-NVDA-0957,Yuki Reyes,NVIDIA,NVDA,Design,Director,100.0,526600,4.3
-NVDA-0958,James Lopez,NVIDIA,NVDA,Operations,Senior,89.6,140800,4.3
-NVDA-0959,Linda Schmidt,NVIDIA,NVDA,People/HR,Staff,87.1,805400,4.0
-NVDA-0960,Linda Ali,NVIDIA,NVDA,Engineering,Staff,83.6,180200,2.1
-NVDA-0961,Priya Ali,NVIDIA,NVDA,Engineering,Senior,96.6,192700,7.4
-NVDA-0962,Grace Ali,NVIDIA,NVDA,People/HR,Senior,83.1,480600,7.3
-NVDA-0963,Daniel Chen,NVIDIA,NVDA,Legal & Policy,Senior,84.4,346900,10.8
-NVDA-0964,Hiroshi Martinez,NVIDIA,NVDA,Sales & GTM,Senior,78.1,118400,8.6
-NVDA-0965,David Yamamoto,NVIDIA,NVDA,Engineering,Senior,81.2,257100,4.9
-NVDA-0966,Yuki Johnson,NVIDIA,NVDA,Operations,Senior Director,77.9,331300,12.6
-NVDA-0967,Sofia Brown,NVIDIA,NVDA,Legal & Policy,Director,81.6,851100,10.2
-NVDA-0968,Ahmed Tanaka,NVIDIA,NVDA,Product,Senior,85.7,231300,14.0
-NVDA-0969,Carlos Chen,NVIDIA,NVDA,Marketing,Director,67.2,1222100,5.1
-NVDA-0970,John Patel,NVIDIA,NVDA,Engineering,Senior Director,84.9,533300,16.9
-NVDA-0971,Raj Silva,NVIDIA,NVDA,Research & AI,Staff,72.4,438800,5.5
-NVDA-0972,Kevin Wilson,NVIDIA,NVDA,Engineering,Principal,68.5,255100,11.3
-NVDA-0973,Olivia Davis,NVIDIA,NVDA,People/HR,Senior Director,85.5,1343600,5.2
-NVDA-0974,Michael Petrov,NVIDIA,NVDA,Design,SVP,89.5,1485100,10.0
-NVDA-0975,Mary Garcia,NVIDIA,NVDA,Operations,Staff,83.0,616700,6.2
-NVDA-0976,Priya Petrov,NVIDIA,NVDA,Product,Staff,76.9,228900,7.4
-NVDA-0977,John Rossi,NVIDIA,NVDA,Sales & GTM,Staff,68.5,462700,5.5
-NVDA-0978,Fatima Okafor,NVIDIA,NVDA,Legal & Policy,Principal,70.8,295000,2.1
-NVDA-0979,Olivia Rossi,NVIDIA,NVDA,Research & AI,Senior,74.3,184400,7.3
-NVDA-0980,James Garcia,NVIDIA,NVDA,Sales & GTM,Senior Director,94.1,246100,8.3
-NVDA-0981,Thomas Wilson,NVIDIA,NVDA,Engineering,Senior,84.3,751300,0.8
-NVDA-0982,Sofia Singh,NVIDIA,NVDA,Engineering,Senior,84.5,362400,5.2
-NVDA-0983,Thomas Chen,NVIDIA,NVDA,Engineering,Principal,56.4,335500,3.4
-NVDA-0984,James Davis,NVIDIA,NVDA,Research & AI,Director,92.2,1156800,5.6
-NVDA-0985,Ahmed Anderson,NVIDIA,NVDA,Sales & GTM,Senior,91.5,257800,12.5
-NVDA-0986,Carlos Singh,NVIDIA,NVDA,Engineering,Principal,86.6,285900,5.0
-NVDA-0987,Kevin Park,NVIDIA,NVDA,Sales & GTM,Director,81.0,2033900,4.4
-NVDA-0988,David Khan,NVIDIA,NVDA,Engineering,Staff,94.5,452600,8.7
-NVDA-0989,Daniel Martinez,NVIDIA,NVDA,Operations,Senior,61.6,221600,4.6
-NVDA-0990,Maria Davis,NVIDIA,NVDA,Legal & Policy,Principal,82.6,366800,15.2
-NVDA-0991,Elena Martinez,NVIDIA,NVDA,Engineering,Staff,81.9,164600,5.5
-NVDA-0992,Aisha Park,NVIDIA,NVDA,People/HR,Staff,78.7,240100,6.2
-NVDA-0993,Nina Johnson,NVIDIA,NVDA,Research & AI,Director,86.9,1409000,7.1
-NVDA-0994,Maria Nguyen,NVIDIA,NVDA,Engineering,Senior,68.0,406100,4.3
-NVDA-0995,Raj Singh,NVIDIA,NVDA,Product,Staff,72.1,342600,4.0
-NVDA-0996,Emily Singh,NVIDIA,NVDA,Research & AI,SVP,76.7,808800,12.9
-NVDA-0997,Raj Yamamoto,NVIDIA,NVDA,Engineering,Staff,79.8,197100,7.2
-NVDA-0998,Hannah Garcia,NVIDIA,NVDA,Operations,Staff,86.3,391000,3.0
-NVDA-0999,Kevin Okafor,NVIDIA,NVDA,Sales & GTM,Senior,70.6,565000,3.8
-NVDA-1000,Thomas Ali,NVIDIA,NVDA,Research & AI,Staff,96.1,348200,1.5
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years,potential_index,origin_region,socioeconomic_origin,first_generation_professional,adversity_origin_score,mental_strength
+NVDA-0001,Daniel Murphy,NVIDIA,NVDA,Legal & Policy,Principal,84.3,192700,3.0,80.0,North America,Middle,No,40.1,66.4
+NVDA-0002,Zoe Khan,NVIDIA,NVDA,Engineering,Senior,81.4,293300,13.8,60.8,East Asia,Upper-middle,Yes,44.6,89.3
+NVDA-0003,Mary Ali,NVIDIA,NVDA,Operations,Senior Director,63.3,1551800,10.8,72.5,North America,Middle,No,56.0,89.6
+NVDA-0004,Yuki Tanaka,NVIDIA,NVDA,Engineering,Principal,88.9,1620500,5.5,85.4,Europe,Working class,Yes,93.6,58.4
+NVDA-0005,Olivia Anderson,NVIDIA,NVDA,Engineering,Senior,82.9,131200,3.6,74.4,North America,Upper-middle,No,44.2,70.4
+NVDA-0006,Mary Petrov,NVIDIA,NVDA,Sales & GTM,Director,80.9,374000,18.4,60.9,Latin America,Upper-middle,No,44.9,65.1
+NVDA-0007,Aisha Schmidt,NVIDIA,NVDA,Engineering,Staff,77.6,672300,2.6,72.4,North America,Lower-middle,Yes,74.1,81.1
+NVDA-0008,Arjun Petrov,NVIDIA,NVDA,Engineering,Senior Director,77.4,1338200,5.7,78.5,Middle East,Middle,No,59.0,73.0
+NVDA-0009,Aisha Anderson,NVIDIA,NVDA,Legal & Policy,Senior,63.6,232900,3.8,66.5,North America,Upper-middle,No,33.5,65.4
+NVDA-0010,Hannah Hassan,NVIDIA,NVDA,Engineering,Staff,88.1,355900,5.1,72.6,North America,Lower-middle,Yes,80.5,66.4
+NVDA-0011,Elena Anderson,NVIDIA,NVDA,Design,Senior,79.1,361800,6.6,65.3,North America,Middle,Yes,66.0,66.7
+NVDA-0012,Maria Smith,NVIDIA,NVDA,Product,Senior,87.1,209400,2.9,68.7,North America,Middle,Yes,56.9,73.6
+NVDA-0013,Michael Rossi,NVIDIA,NVDA,People/HR,Staff,86.4,602500,3.2,59.6,North America,Upper-middle,Yes,36.2,67.2
+NVDA-0014,Fatima Chen,NVIDIA,NVDA,Research & AI,Senior,82.5,300200,9.4,73.8,North America,Upper-middle,No,37.4,75.1
+NVDA-0015,Zoe Khan,NVIDIA,NVDA,Marketing,Senior,84.1,488500,11.4,64.8,East Asia,Working class,Yes,85.3,64.2
+NVDA-0016,Daniel Park,NVIDIA,NVDA,Marketing,Staff,74.6,906300,10.9,61.0,North America,Lower-middle,No,65.6,74.3
+NVDA-0017,Grace Martinez,NVIDIA,NVDA,Engineering,VP,83.9,1037100,10.2,79.4,North America,Middle,No,63.2,69.1
+NVDA-0018,Raj Patel,NVIDIA,NVDA,Research & AI,Director,100.0,1994200,5.7,74.9,East Asia,Upper-middle,No,34.1,57.5
+NVDA-0019,James Petrov,NVIDIA,NVDA,Research & AI,Staff,100.0,449500,3.4,65.8,North America,Lower-middle,No,78.4,82.2
+NVDA-0020,Emily Hassan,NVIDIA,NVDA,Research & AI,Principal,84.7,512600,7.0,63.0,North America,Upper-middle,No,37.1,62.8
+NVDA-0021,Maria Park,NVIDIA,NVDA,Product,Director,91.9,971900,8.7,72.1,Oceania,Lower-middle,No,66.8,89.9
+NVDA-0022,Hannah Johnson,NVIDIA,NVDA,Operations,Director,72.3,320200,16.1,72.8,North America,Working class,Yes,87.3,83.0
+NVDA-0023,John Murphy,NVIDIA,NVDA,Product,Senior Director,82.7,969800,15.7,77.4,Africa,Lower-middle,Yes,70.2,81.1
+NVDA-0024,Mary Wang,NVIDIA,NVDA,Engineering,Principal,91.5,259000,7.1,77.1,North America,Middle,No,63.9,90.1
+NVDA-0025,Thomas Rossi,NVIDIA,NVDA,Finance,VP,91.2,2089600,19.5,79.3,South Asia,Working class,Yes,91.4,91.9
+NVDA-0026,Kevin Hassan,NVIDIA,NVDA,Legal & Policy,Senior,91.1,290400,8.8,67.9,Europe,Middle,Yes,58.7,84.3
+NVDA-0027,Chen Martinez,NVIDIA,NVDA,Research & AI,Senior,91.2,331400,5.7,77.4,South Asia,Middle,No,63.8,81.0
+NVDA-0028,Linda Hassan,NVIDIA,NVDA,Engineering,Senior,77.8,576100,4.3,76.6,North America,Working class,Yes,83.5,94.4
+NVDA-0029,Aisha Murphy,NVIDIA,NVDA,Product,Senior,95.9,293200,2.5,74.7,North America,Working class,Yes,89.8,81.8
+NVDA-0030,Fatima Park,NVIDIA,NVDA,Product,Principal,93.2,482300,7.2,67.5,North America,Working class,Yes,91.6,76.5
+NVDA-0031,Mary Rossi,NVIDIA,NVDA,Operations,Senior Director,82.5,1325000,6.3,64.7,North America,Upper-middle,No,25.8,76.7
+NVDA-0032,Thomas Kim,NVIDIA,NVDA,Engineering,Staff,90.2,624500,5.2,66.3,South Asia,Middle,Yes,61.7,57.3
+NVDA-0033,Linda Anderson,NVIDIA,NVDA,Sales & GTM,Director,86.7,1556900,4.6,73.5,North America,Lower-middle,No,76.2,80.9
+NVDA-0034,Priya Cohen,NVIDIA,NVDA,Operations,Principal,71.5,544600,7.1,64.2,South Asia,Lower-middle,No,73.2,71.0
+NVDA-0035,Hannah Park,NVIDIA,NVDA,Sales & GTM,Principal,82.1,732500,3.9,84.5,North America,Upper-middle,No,36.1,76.4
+NVDA-0036,Carlos Murphy,NVIDIA,NVDA,Finance,Senior,86.4,1068400,3.6,61.4,Europe,Lower-middle,No,79.0,73.7
+NVDA-0037,Fatima Chen,NVIDIA,NVDA,Engineering,Staff,63.2,365500,12.4,60.5,East Asia,Middle,No,58.2,78.6
+NVDA-0038,James Brown,NVIDIA,NVDA,Sales & GTM,Staff,61.9,295400,6.2,46.6,North America,Affluent,No,32.4,57.2
+NVDA-0039,Chen Silva,NVIDIA,NVDA,Engineering,Director,67.5,410600,8.4,66.0,North America,Middle,No,56.0,70.8
+NVDA-0040,Thomas Schmidt,NVIDIA,NVDA,Research & AI,Staff,58.3,307500,1.9,76.3,South Asia,Middle,No,56.1,83.7
+NVDA-0041,Hiroshi Petrov,NVIDIA,NVDA,Operations,VP,91.7,3775900,10.0,74.1,North America,Affluent,No,34.5,72.5
+NVDA-0042,Ahmed Okafor,NVIDIA,NVDA,Engineering,Principal,89.6,550500,5.6,66.5,Oceania,Working class,Yes,100.0,90.7
+NVDA-0043,Thomas Okafor,NVIDIA,NVDA,Design,VP,83.7,685100,9.2,68.9,North America,Lower-middle,No,69.4,72.0
+NVDA-0044,Yuki Murphy,NVIDIA,NVDA,Research & AI,Senior,81.4,268600,3.9,71.1,North America,Lower-middle,No,72.4,87.6
+NVDA-0045,James Lopez,NVIDIA,NVDA,Product,Principal,79.7,540400,10.0,76.0,North America,Upper-middle,No,35.9,74.6
+NVDA-0046,Priya Garcia,NVIDIA,NVDA,Design,Senior,77.8,121000,5.1,67.2,North America,Affluent,No,31.3,79.7
+NVDA-0047,Hannah Schmidt,NVIDIA,NVDA,Finance,Director,79.6,1072200,10.2,69.2,Europe,Middle,No,39.8,86.0
+NVDA-0048,Maria Brown,NVIDIA,NVDA,Engineering,Staff,72.9,475600,8.3,70.5,Europe,Affluent,No,27.0,69.5
+NVDA-0049,Arjun Nguyen,NVIDIA,NVDA,Research & AI,Senior,87.0,593000,0.7,66.0,South Asia,Working class,Yes,95.2,98.2
+NVDA-0050,Ahmed Tanaka,NVIDIA,NVDA,Engineering,Staff,53.6,362400,1.1,66.0,Middle East,Upper-middle,No,39.8,62.2
+NVDA-0051,Arjun Ali,NVIDIA,NVDA,Product,Director,81.8,343600,10.5,58.9,North America,Middle,No,50.4,76.8
+NVDA-0052,Zoe Reyes,NVIDIA,NVDA,Research & AI,Staff,79.1,322400,5.5,63.9,North America,Working class,Yes,79.2,72.6
+NVDA-0053,Mary Park,NVIDIA,NVDA,Legal & Policy,Staff,77.7,381800,4.8,69.9,North America,Lower-middle,No,75.2,68.4
+NVDA-0054,Grace Singh,NVIDIA,NVDA,Sales & GTM,Senior Director,80.9,275100,7.2,67.7,North America,Lower-middle,Yes,68.3,69.9
+NVDA-0055,James Silva,NVIDIA,NVDA,People/HR,Staff,85.3,474100,9.9,77.0,North America,Middle,No,59.3,92.9
+NVDA-0056,Grace Chen,NVIDIA,NVDA,Engineering,Principal,70.6,294600,4.2,76.8,North America,Middle,No,57.7,76.8
+NVDA-0057,Daniel Tanaka,NVIDIA,NVDA,Operations,Director,65.9,449800,8.5,61.1,North America,Working class,No,70.4,62.2
+NVDA-0058,Elena Silva,NVIDIA,NVDA,Product,Senior,88.6,417400,9.3,69.8,Latin America,Middle,No,52.4,76.6
+NVDA-0059,Hiroshi Lopez,NVIDIA,NVDA,Engineering,Principal,84.1,1134000,13.6,65.2,North America,Lower-middle,No,68.0,65.2
+NVDA-0060,Aisha Hassan,NVIDIA,NVDA,Product,Senior,80.8,315600,1.9,63.1,South Asia,Upper-middle,No,34.7,65.3
+NVDA-0061,Linda Patel,NVIDIA,NVDA,Operations,Senior,72.3,149500,10.1,63.5,North America,Middle,No,61.3,63.4
+NVDA-0062,Yuki Garcia,NVIDIA,NVDA,Operations,VP,91.8,1631000,7.3,74.8,Southeast Asia,Middle,No,47.8,52.8
+NVDA-0063,Daniel Patel,NVIDIA,NVDA,Marketing,Staff,68.0,178600,8.9,75.6,North America,Middle,No,55.9,73.2
+NVDA-0064,Zoe Chen,NVIDIA,NVDA,Product,Principal,75.5,367100,8.9,59.1,South Asia,Lower-middle,No,59.9,75.7
+NVDA-0065,Zoe Rossi,NVIDIA,NVDA,Finance,Principal,92.8,842200,5.9,66.9,East Asia,Middle,No,48.3,59.2
+NVDA-0066,Linda Petrov,NVIDIA,NVDA,Engineering,Senior,64.3,194800,3.7,62.5,East Asia,Working class,Yes,86.8,63.0
+NVDA-0067,Hannah Chen,NVIDIA,NVDA,Finance,SVP,82.9,3043900,20.5,87.5,East Asia,Lower-middle,Yes,75.5,82.9
+NVDA-0068,Priya Anderson,NVIDIA,NVDA,Engineering,Senior Director,83.5,1528400,8.4,67.4,Latin America,Upper-middle,No,44.5,75.5
+NVDA-0069,David Lee,NVIDIA,NVDA,Engineering,Principal,81.4,272600,14.5,65.3,North America,Upper-middle,No,44.8,65.7
+NVDA-0070,Grace Murphy,NVIDIA,NVDA,Finance,Senior,87.6,189300,9.0,66.3,South Asia,Lower-middle,Yes,74.8,71.0
+NVDA-0071,Aisha Wilson,NVIDIA,NVDA,Engineering,Senior,74.3,321700,9.9,71.9,East Asia,Middle,No,48.9,68.0
+NVDA-0072,Daniel Patel,NVIDIA,NVDA,People/HR,Principal,82.6,398600,8.0,75.5,South Asia,Working class,Yes,97.9,60.9
+NVDA-0073,Ahmed Petrov,NVIDIA,NVDA,Engineering,Senior,100.0,205000,0.9,72.7,North America,Upper-middle,No,42.6,66.3
+NVDA-0074,Maria Khan,NVIDIA,NVDA,Product,Staff,81.2,253200,5.2,67.4,North America,Lower-middle,Yes,73.5,72.0
+NVDA-0075,Wei Reyes,NVIDIA,NVDA,Engineering,Senior,84.1,198200,5.2,66.0,North America,Middle,No,51.8,59.5
+NVDA-0076,John Cohen,NVIDIA,NVDA,People/HR,Principal,91.6,235200,2.8,57.9,North America,Upper-middle,No,40.5,61.9
+NVDA-0077,Wei Singh,NVIDIA,NVDA,Sales & GTM,Principal,87.9,497000,4.9,72.7,Southeast Asia,Upper-middle,No,40.8,75.0
+NVDA-0078,Zoe Lee,NVIDIA,NVDA,Operations,Senior,81.7,436700,3.0,65.3,North America,Upper-middle,No,32.8,72.8
+NVDA-0079,Carlos Tanaka,NVIDIA,NVDA,Engineering,Staff,73.8,207600,5.2,60.7,Europe,Working class,Yes,92.1,56.9
+NVDA-0080,John Okafor,NVIDIA,NVDA,Sales & GTM,Staff,74.2,427900,18.6,70.3,North America,Working class,Yes,90.9,68.1
+NVDA-0081,Yuki Chen,NVIDIA,NVDA,Engineering,Staff,78.4,1760000,6.9,64.5,Europe,Lower-middle,Yes,67.9,63.1
+NVDA-0082,Kevin Kim,NVIDIA,NVDA,People/HR,Principal,77.5,428900,8.5,73.2,Europe,Middle,No,58.0,60.2
+NVDA-0083,Sofia Yamamoto,NVIDIA,NVDA,Product,SVP,86.2,1238100,8.4,65.3,North America,Lower-middle,Yes,82.5,78.9
+NVDA-0084,Ahmed Park,NVIDIA,NVDA,Research & AI,VP,72.7,886500,14.6,70.1,North America,Middle,No,38.2,78.6
+NVDA-0085,Grace Chen,NVIDIA,NVDA,Product,Principal,90.6,630500,2.6,78.0,North America,Lower-middle,No,68.1,76.3
+NVDA-0086,Olivia Silva,NVIDIA,NVDA,Engineering,Senior Director,91.5,1025200,6.1,72.7,South Asia,Lower-middle,Yes,88.9,74.0
+NVDA-0087,Priya Rossi,NVIDIA,NVDA,Design,Senior,85.5,465500,3.5,71.0,South Asia,Middle,No,57.9,92.2
+NVDA-0088,Aisha Wilson,NVIDIA,NVDA,Operations,Senior,75.3,339000,23.1,58.5,South Asia,Lower-middle,No,67.7,82.4
+NVDA-0089,James Lopez,NVIDIA,NVDA,Engineering,VP,98.0,1550800,10.8,78.9,North America,Working class,No,100.0,86.2
+NVDA-0090,Raj Reyes,NVIDIA,NVDA,Marketing,Senior Director,77.9,779500,8.1,58.0,Latin America,Lower-middle,No,60.4,83.1
+NVDA-0091,Chen Cohen,NVIDIA,NVDA,Research & AI,Principal,86.6,735100,4.2,61.8,South Asia,Working class,Yes,77.5,73.5
+NVDA-0092,Michael Anderson,NVIDIA,NVDA,Design,Senior Director,74.8,791200,8.8,66.3,North America,Upper-middle,No,28.9,84.9
+NVDA-0093,Aisha Wang,NVIDIA,NVDA,Engineering,Staff,80.5,272700,3.5,67.8,Middle East,Lower-middle,No,73.2,72.9
+NVDA-0094,Elena Nguyen,NVIDIA,NVDA,Engineering,Senior,66.6,309900,0.7,63.3,Europe,Upper-middle,No,40.8,54.0
+NVDA-0095,Maria Yamamoto,NVIDIA,NVDA,Sales & GTM,Principal,59.8,698600,14.0,61.5,Europe,Lower-middle,Yes,82.1,55.1
+NVDA-0096,Elena Brown,NVIDIA,NVDA,Product,Staff,79.5,613900,7.6,80.5,Latin America,Upper-middle,No,45.1,87.0
+NVDA-0097,Daniel Schmidt,NVIDIA,NVDA,Engineering,Senior,75.7,531300,9.4,72.8,East Asia,Middle,No,55.5,77.7
+NVDA-0098,John Reyes,NVIDIA,NVDA,Design,Staff,98.5,858700,7.7,84.2,North America,Upper-middle,No,37.9,70.1
+NVDA-0099,Hiroshi Lee,NVIDIA,NVDA,People/HR,Staff,87.5,190000,2.4,54.0,South Asia,Middle,No,45.3,77.4
+NVDA-0100,John Schmidt,NVIDIA,NVDA,Legal & Policy,Principal,90.4,696200,4.5,77.8,North America,Middle,No,67.6,75.9
+NVDA-0101,Thomas Tanaka,NVIDIA,NVDA,Design,Principal,87.2,568300,5.6,72.9,Europe,Middle,No,68.7,78.6
+NVDA-0102,Elena Hassan,NVIDIA,NVDA,Marketing,Senior,78.8,391300,7.1,73.3,North America,Middle,Yes,66.3,82.5
+NVDA-0103,Emily Lopez,NVIDIA,NVDA,Product,Principal,74.6,1144600,9.2,72.0,Europe,Lower-middle,No,58.6,67.8
+NVDA-0104,Daniel Tanaka,NVIDIA,NVDA,Engineering,Senior,73.2,116700,1.5,62.9,North America,Working class,Yes,80.4,65.0
+NVDA-0105,Arjun Davis,NVIDIA,NVDA,Engineering,Director,88.1,606300,4.9,68.4,North America,Working class,Yes,91.1,77.6
+NVDA-0106,David Murphy,NVIDIA,NVDA,Product,Principal,86.2,329000,8.0,69.7,South Asia,Middle,No,38.4,83.1
+NVDA-0107,Sofia Garcia,NVIDIA,NVDA,Engineering,Principal,80.9,908800,10.7,70.5,South Asia,Lower-middle,Yes,72.0,71.8
+NVDA-0108,Fatima Singh,NVIDIA,NVDA,Design,Staff,74.6,457500,3.0,66.5,North America,Middle,Yes,56.4,71.0
+NVDA-0109,Mary Park,NVIDIA,NVDA,Research & AI,Senior Director,84.1,572800,12.2,85.1,Southeast Asia,Middle,No,54.8,69.8
+NVDA-0110,Samuel Wang,NVIDIA,NVDA,Operations,Senior,89.2,430900,1.7,63.1,North America,Middle,Yes,60.6,84.1
+NVDA-0111,Priya Petrov,NVIDIA,NVDA,Product,Principal,91.0,481600,5.4,68.3,Middle East,Working class,Yes,100.0,85.2
+NVDA-0112,Arjun Brown,NVIDIA,NVDA,Engineering,Principal,83.5,345100,3.7,63.9,South Asia,Lower-middle,Yes,69.0,61.3
+NVDA-0113,Priya Chen,NVIDIA,NVDA,Research & AI,Staff,87.5,672900,4.1,70.9,North America,Middle,No,45.8,74.9
+NVDA-0114,Elena Garcia,NVIDIA,NVDA,Engineering,Staff,94.1,730100,5.8,58.4,North America,Middle,No,55.0,81.1
+NVDA-0115,Sofia Yamamoto,NVIDIA,NVDA,Research & AI,Director,87.1,688900,13.6,62.2,South Asia,Affluent,No,14.4,57.4
+NVDA-0116,Mary Silva,NVIDIA,NVDA,Legal & Policy,Senior,82.7,197100,5.4,60.1,Europe,Lower-middle,Yes,69.6,65.6
+NVDA-0117,Mary Silva,NVIDIA,NVDA,People/HR,Director,63.1,767300,12.9,70.9,Middle East,Working class,Yes,98.0,84.7
+NVDA-0118,Emily Petrov,NVIDIA,NVDA,Sales & GTM,Staff,82.6,485400,13.2,74.6,North America,Lower-middle,Yes,68.4,99.7
+NVDA-0119,James Anderson,NVIDIA,NVDA,People/HR,Director,83.0,188600,15.1,68.8,North America,Lower-middle,No,77.5,80.8
+NVDA-0120,Thomas Brown,NVIDIA,NVDA,Engineering,Staff,75.7,537300,7.1,67.1,Latin America,Working class,Yes,94.5,81.7
+NVDA-0121,David Schmidt,NVIDIA,NVDA,Engineering,Senior,72.8,337700,9.5,55.2,North America,Lower-middle,Yes,73.7,75.6
+NVDA-0122,Wei Wang,NVIDIA,NVDA,Engineering,Senior,70.9,194900,4.9,63.7,East Asia,Middle,Yes,68.1,74.1
+NVDA-0123,Linda Wilson,NVIDIA,NVDA,Design,Staff,85.2,350000,8.2,71.9,North America,Working class,Yes,94.3,100.0
+NVDA-0124,Aisha Davis,NVIDIA,NVDA,Engineering,Principal,93.4,600900,11.3,65.5,South Asia,Upper-middle,No,40.7,70.0
+NVDA-0125,Yuki Davis,NVIDIA,NVDA,Operations,Senior Director,91.3,843700,22.9,70.1,East Asia,Middle,Yes,63.6,86.1
+NVDA-0126,Daniel Wilson,NVIDIA,NVDA,Research & AI,Senior,100.0,237400,2.1,71.8,Latin America,Lower-middle,No,68.2,68.6
+NVDA-0127,Grace Kim,NVIDIA,NVDA,Engineering,Staff,75.6,369700,6.3,53.2,Latin America,Upper-middle,No,33.0,49.9
+NVDA-0128,Daniel Chen,NVIDIA,NVDA,Engineering,Senior,81.3,631600,11.4,68.4,Oceania,Working class,Yes,92.0,77.2
+NVDA-0129,Thomas Johnson,NVIDIA,NVDA,Engineering,Senior,81.6,286500,10.2,68.0,Southeast Asia,Upper-middle,No,44.8,92.8
+NVDA-0130,Mary Cohen,NVIDIA,NVDA,Engineering,Senior Director,78.4,700500,9.0,67.4,East Asia,Middle,Yes,56.1,70.8
+NVDA-0131,Ahmed Nguyen,NVIDIA,NVDA,Engineering,Principal,88.7,251800,7.0,66.1,South Asia,Working class,No,84.3,67.3
+NVDA-0132,Carlos Lee,NVIDIA,NVDA,Product,Senior,85.3,610600,4.5,65.2,North America,Working class,Yes,92.9,68.6
+NVDA-0133,Emily Anderson,NVIDIA,NVDA,Product,Principal,88.8,1354300,10.9,80.8,North America,Affluent,No,23.3,84.7
+NVDA-0134,Zoe Reyes,NVIDIA,NVDA,Sales & GTM,Principal,74.9,212000,4.0,75.6,North America,Upper-middle,No,42.7,66.0
+NVDA-0135,Olivia Kim,NVIDIA,NVDA,Sales & GTM,Senior,77.0,199300,4.0,64.8,North America,Middle,No,43.1,70.6
+NVDA-0136,Sofia Nguyen,NVIDIA,NVDA,Sales & GTM,VP,92.0,3508500,10.8,86.5,East Asia,Lower-middle,Yes,73.2,93.2
+NVDA-0137,Fatima Murphy,NVIDIA,NVDA,Engineering,Senior,76.8,162100,6.9,77.9,South Asia,Working class,Yes,90.0,73.1
+NVDA-0138,Linda Cohen,NVIDIA,NVDA,Engineering,Staff,78.7,210000,6.7,68.1,South Asia,Lower-middle,Yes,67.2,72.8
+NVDA-0139,Ahmed Schmidt,NVIDIA,NVDA,Engineering,Senior,89.5,168100,7.0,71.4,Europe,Middle,Yes,60.5,75.5
+NVDA-0140,Chen Smith,NVIDIA,NVDA,Legal & Policy,Principal,82.3,755000,6.9,71.7,South Asia,Upper-middle,No,34.4,81.2
+NVDA-0141,Carlos Singh,NVIDIA,NVDA,Research & AI,Staff,87.8,540500,4.7,75.6,North America,Working class,No,78.3,90.3
+NVDA-0142,Linda Wilson,NVIDIA,NVDA,Design,Principal,98.1,1031200,6.2,87.3,East Asia,Working class,Yes,96.7,84.2
+NVDA-0143,Thomas Lee,NVIDIA,NVDA,Engineering,Staff,68.3,234500,4.9,76.5,South Asia,Lower-middle,Yes,74.2,67.6
+NVDA-0144,Carlos Petrov,NVIDIA,NVDA,Engineering,Principal,73.6,164700,3.5,84.9,North America,Upper-middle,No,29.1,67.4
+NVDA-0145,Emily Smith,NVIDIA,NVDA,Research & AI,Principal,88.8,740300,9.2,77.2,North America,Middle,Yes,58.5,69.9
+NVDA-0146,Linda Wang,NVIDIA,NVDA,Engineering,Director,93.1,909700,10.2,78.5,North America,Middle,Yes,54.0,75.5
+NVDA-0147,Zoe Nguyen,NVIDIA,NVDA,Engineering,Staff,89.7,571000,2.3,65.1,North America,Lower-middle,Yes,78.5,73.1
+NVDA-0148,Hannah Park,NVIDIA,NVDA,Sales & GTM,Staff,74.6,252900,6.9,66.3,South Asia,Lower-middle,Yes,79.7,81.1
+NVDA-0149,Arjun Okafor,NVIDIA,NVDA,Research & AI,Senior,90.9,230100,3.3,68.9,North America,Lower-middle,No,71.2,71.9
+NVDA-0150,Hannah Johnson,NVIDIA,NVDA,Research & AI,Staff,93.8,461400,3.3,69.4,Africa,Working class,No,79.2,72.6
+NVDA-0151,Olivia Lee,NVIDIA,NVDA,Research & AI,VP,77.2,906900,9.2,71.9,South Asia,Lower-middle,No,69.1,84.5
+NVDA-0152,Fatima Lopez,NVIDIA,NVDA,Engineering,Senior,75.6,454700,12.8,59.8,East Asia,Upper-middle,No,40.0,73.6
+NVDA-0153,Samuel Park,NVIDIA,NVDA,Finance,Director,78.2,769700,12.6,68.1,East Asia,Lower-middle,Yes,66.9,86.1
+NVDA-0154,Maria Patel,NVIDIA,NVDA,Engineering,Senior,84.4,137200,3.3,69.3,North America,Middle,No,49.5,64.5
+NVDA-0155,Kevin Garcia,NVIDIA,NVDA,Engineering,Senior,85.2,535900,4.0,65.0,North America,Lower-middle,No,66.9,77.3
+NVDA-0156,John Nguyen,NVIDIA,NVDA,Marketing,Senior,84.0,299600,1.7,65.8,South Asia,Middle,No,40.5,78.9
+NVDA-0157,Olivia Singh,NVIDIA,NVDA,People/HR,Principal,66.3,591500,2.9,71.5,North America,Upper-middle,No,36.7,92.5
+NVDA-0158,Arjun Anderson,NVIDIA,NVDA,Sales & GTM,Senior,83.8,388900,1.1,68.7,North America,Middle,Yes,55.8,76.2
+NVDA-0159,Sofia Reyes,NVIDIA,NVDA,Product,Principal,71.8,246800,7.9,73.6,North America,Lower-middle,Yes,74.7,64.0
+NVDA-0160,Hannah Hassan,NVIDIA,NVDA,People/HR,Director,62.9,159600,10.1,59.3,South Asia,Lower-middle,No,76.8,63.7
+NVDA-0161,Priya Yamamoto,NVIDIA,NVDA,Research & AI,Staff,86.4,265900,2.0,66.7,North America,Middle,No,55.4,70.0
+NVDA-0162,Hannah Rossi,NVIDIA,NVDA,People/HR,Director,73.5,398400,5.3,72.7,South Asia,Working class,Yes,100.0,87.7
+NVDA-0163,Mary Nguyen,NVIDIA,NVDA,Legal & Policy,Principal,93.7,649600,3.9,73.5,North America,Lower-middle,Yes,79.8,79.8
+NVDA-0164,Zoe Ali,NVIDIA,NVDA,Engineering,Senior Director,86.8,1620400,6.2,76.1,North America,Middle,No,45.8,68.8
+NVDA-0165,Sofia Lee,NVIDIA,NVDA,Design,Staff,94.3,744500,2.1,59.3,North America,Upper-middle,No,34.7,77.1
+NVDA-0166,Wei Brown,NVIDIA,NVDA,Design,Staff,74.0,999600,10.2,63.5,South Asia,Lower-middle,Yes,79.6,57.3
+NVDA-0167,Wei Kim,NVIDIA,NVDA,Operations,Senior,82.9,186900,6.3,71.5,Africa,Middle,No,53.5,69.2
+NVDA-0168,James Smith,NVIDIA,NVDA,Engineering,VP,85.3,968700,8.9,80.2,Europe,Middle,No,46.0,74.0
+NVDA-0169,Wei Anderson,NVIDIA,NVDA,Design,Staff,75.9,274300,6.7,56.7,North America,Lower-middle,Yes,82.0,84.1
+NVDA-0170,Yuki Cohen,NVIDIA,NVDA,Finance,Principal,81.2,450100,4.5,78.3,Latin America,Middle,No,43.4,69.1
+NVDA-0171,Fatima Hassan,NVIDIA,NVDA,Engineering,Principal,71.8,347600,16.8,67.8,North America,Affluent,No,39.1,62.5
+NVDA-0172,Olivia Garcia,NVIDIA,NVDA,Engineering,Senior,74.9,337300,14.4,56.4,North America,Middle,No,55.7,63.3
+NVDA-0173,Sofia Patel,NVIDIA,NVDA,Finance,Staff,71.2,145500,12.4,70.1,North America,Middle,Yes,66.8,73.5
+NVDA-0174,Aisha Khan,NVIDIA,NVDA,Product,Senior,97.1,1220000,6.3,55.3,North America,Middle,No,51.3,63.5
+NVDA-0175,Yuki Nguyen,NVIDIA,NVDA,Legal & Policy,Staff,83.2,670600,3.4,62.7,South Asia,Affluent,No,29.4,62.5
+NVDA-0176,Michael Park,NVIDIA,NVDA,Operations,Senior,80.8,213100,4.7,61.2,North America,Working class,No,81.8,70.9
+NVDA-0177,Sofia Nguyen,NVIDIA,NVDA,Engineering,Staff,78.9,690200,3.6,70.2,North America,Lower-middle,Yes,77.4,84.1
+NVDA-0178,Wei Garcia,NVIDIA,NVDA,Research & AI,Senior,71.6,394600,4.0,66.9,North America,Lower-middle,Yes,72.3,67.9
+NVDA-0179,Wei Hassan,NVIDIA,NVDA,Engineering,Director,78.6,596900,6.8,67.9,North America,Working class,Yes,94.1,86.1
+NVDA-0180,Emily Silva,NVIDIA,NVDA,Operations,VP,81.5,1110500,12.0,72.3,North America,Upper-middle,No,34.3,60.1
+NVDA-0181,Daniel Singh,NVIDIA,NVDA,Engineering,Senior,82.7,1039900,8.6,64.6,Africa,Affluent,No,27.5,82.9
+NVDA-0182,Maria Park,NVIDIA,NVDA,Sales & GTM,Senior,85.6,187100,2.0,73.6,South Asia,Lower-middle,Yes,69.7,75.4
+NVDA-0183,Emily Johnson,NVIDIA,NVDA,Product,Staff,62.0,371100,8.4,60.8,South Asia,Middle,No,51.6,63.3
+NVDA-0184,Maria Petrov,NVIDIA,NVDA,Engineering,Senior Director,99.8,1426100,6.5,60.3,Europe,Affluent,No,16.9,44.6
+NVDA-0185,Linda Smith,NVIDIA,NVDA,Marketing,Staff,78.1,327300,3.9,89.2,East Asia,Lower-middle,No,56.2,82.1
+NVDA-0186,Aisha Park,NVIDIA,NVDA,Research & AI,Senior,73.0,362000,3.8,59.9,North America,Middle,Yes,62.1,84.9
+NVDA-0187,Yuki Singh,NVIDIA,NVDA,Research & AI,Staff,79.6,398600,2.0,66.9,North America,Lower-middle,No,68.9,91.3
+NVDA-0188,Samuel Cohen,NVIDIA,NVDA,Operations,Staff,75.6,390600,9.9,58.9,Africa,Working class,Yes,85.0,69.1
+NVDA-0189,Emily Martinez,NVIDIA,NVDA,Sales & GTM,Senior Director,89.5,371400,6.6,73.7,North America,Lower-middle,No,67.4,60.4
+NVDA-0190,Yuki Lopez,NVIDIA,NVDA,Research & AI,Principal,90.9,277600,7.5,72.5,North America,Lower-middle,Yes,75.3,74.2
+NVDA-0191,Kevin Yamamoto,NVIDIA,NVDA,Product,Principal,75.6,662300,4.6,72.7,East Asia,Upper-middle,No,42.5,68.9
+NVDA-0192,Samuel Petrov,NVIDIA,NVDA,Research & AI,Senior,82.6,121000,11.2,57.6,Middle East,Lower-middle,No,62.1,67.8
+NVDA-0193,Zoe Schmidt,NVIDIA,NVDA,Marketing,Director,74.0,829900,13.0,72.7,South Asia,Affluent,No,14.0,63.4
+NVDA-0194,Linda Kim,NVIDIA,NVDA,Research & AI,Staff,71.4,668800,3.8,80.4,Europe,Working class,No,83.1,85.9
+NVDA-0195,Raj Patel,NVIDIA,NVDA,Engineering,Staff,69.3,364200,10.7,74.2,South Asia,Working class,Yes,84.9,86.9
+NVDA-0196,Sofia Schmidt,NVIDIA,NVDA,Finance,Staff,99.5,178200,15.2,67.5,North America,Lower-middle,No,74.5,72.2
+NVDA-0197,Michael Silva,NVIDIA,NVDA,Engineering,Senior,80.0,273800,3.6,70.8,South Asia,Lower-middle,No,73.3,68.0
+NVDA-0198,Yuki Anderson,NVIDIA,NVDA,Engineering,Principal,73.6,856700,4.9,78.6,Europe,Lower-middle,No,58.7,66.0
+NVDA-0199,Priya Schmidt,NVIDIA,NVDA,Operations,Staff,78.9,1338800,4.3,74.2,North America,Working class,Yes,96.0,79.5
+NVDA-0200,Yuki Rossi,NVIDIA,NVDA,Engineering,VP,77.8,472200,18.6,67.0,Latin America,Middle,No,67.2,68.9
+NVDA-0201,Olivia Garcia,NVIDIA,NVDA,Sales & GTM,VP,92.0,1185700,18.1,72.6,Europe,Middle,Yes,64.2,68.1
+NVDA-0202,Emily Lopez,NVIDIA,NVDA,Research & AI,Staff,79.2,136500,2.5,69.5,North America,Working class,Yes,100.0,89.3
+NVDA-0203,Raj Silva,NVIDIA,NVDA,Operations,Staff,74.7,122300,7.9,60.1,Southeast Asia,Working class,Yes,100.0,84.9
+NVDA-0204,Sofia Garcia,NVIDIA,NVDA,Operations,Principal,78.8,517700,7.7,66.2,North America,Working class,Yes,88.8,80.6
+NVDA-0205,Kevin Garcia,NVIDIA,NVDA,Operations,Director,69.5,2665800,8.9,71.0,East Asia,Lower-middle,No,78.3,73.3
+NVDA-0206,Elena Yamamoto,NVIDIA,NVDA,People/HR,Principal,83.6,223400,3.5,66.9,Southeast Asia,Lower-middle,Yes,77.1,86.0
+NVDA-0207,James Singh,NVIDIA,NVDA,Product,Senior,75.8,169000,4.5,60.2,South Asia,Affluent,Yes,23.8,64.7
+NVDA-0208,Ahmed Brown,NVIDIA,NVDA,Product,Staff,81.7,265700,1.4,58.1,North America,Middle,No,59.8,71.1
+NVDA-0209,James Lee,NVIDIA,NVDA,Operations,Senior Director,73.7,327000,12.0,76.2,South Asia,Affluent,No,26.6,65.2
+NVDA-0210,Ahmed Hassan,NVIDIA,NVDA,Engineering,Senior,83.5,593800,2.5,68.3,North America,Working class,Yes,75.8,83.5
+NVDA-0211,Mary Hassan,NVIDIA,NVDA,Engineering,Director,75.2,452900,9.4,61.3,Middle East,Working class,Yes,86.8,78.9
+NVDA-0212,Kevin Brown,NVIDIA,NVDA,Design,Principal,92.9,624500,9.0,66.4,North America,Middle,No,55.2,97.5
+NVDA-0213,Mary Yamamoto,NVIDIA,NVDA,Engineering,Staff,88.5,218000,3.4,72.5,Africa,Middle,Yes,65.0,75.6
+NVDA-0214,Thomas Kim,NVIDIA,NVDA,Sales & GTM,Staff,76.9,266900,5.0,71.4,North America,Lower-middle,Yes,76.6,83.0
+NVDA-0215,Fatima Brown,NVIDIA,NVDA,Research & AI,SVP,96.3,1298300,11.3,61.2,North America,Working class,Yes,86.7,80.1
+NVDA-0216,Linda Hassan,NVIDIA,NVDA,Engineering,Senior,69.0,177400,7.5,48.5,Latin America,Middle,No,39.1,59.1
+NVDA-0217,Hiroshi Petrov,NVIDIA,NVDA,Marketing,Staff,81.9,173700,4.3,67.8,Latin America,Lower-middle,No,76.7,72.7
+NVDA-0218,James Chen,NVIDIA,NVDA,Finance,Senior,79.6,445800,9.6,76.7,North America,Lower-middle,Yes,66.1,69.5
+NVDA-0219,Emily Yamamoto,NVIDIA,NVDA,Research & AI,Senior,80.7,515200,2.0,59.1,North America,Lower-middle,Yes,66.6,63.5
+NVDA-0220,John Park,NVIDIA,NVDA,Engineering,Staff,71.1,474900,13.0,67.5,South Asia,Middle,No,51.8,72.1
+NVDA-0221,Nina Schmidt,NVIDIA,NVDA,Legal & Policy,Staff,82.6,366100,2.7,63.6,South Asia,Lower-middle,Yes,81.3,89.1
+NVDA-0222,Carlos Cohen,NVIDIA,NVDA,Sales & GTM,Principal,81.8,226500,12.1,82.9,Europe,Middle,Yes,67.7,78.6
+NVDA-0223,Wei Reyes,NVIDIA,NVDA,Engineering,Staff,82.7,594900,7.8,65.5,North America,Lower-middle,No,62.0,87.7
+NVDA-0224,Mary Rossi,NVIDIA,NVDA,People/HR,Director,93.0,443900,10.3,64.6,North America,Working class,Yes,89.8,71.4
+NVDA-0225,Yuki Okafor,NVIDIA,NVDA,Engineering,Senior,91.0,314200,2.0,74.8,North America,Working class,No,86.1,96.7
+NVDA-0226,Emily Cohen,NVIDIA,NVDA,Research & AI,Staff,79.9,359100,10.3,75.8,Africa,Upper-middle,No,33.4,75.6
+NVDA-0227,Maria Khan,NVIDIA,NVDA,Engineering,Senior,86.8,503100,3.9,65.4,Europe,Upper-middle,No,33.7,68.1
+NVDA-0228,John Davis,NVIDIA,NVDA,Engineering,Principal,67.8,690100,12.1,79.4,South Asia,Middle,Yes,61.5,71.0
+NVDA-0229,David Wilson,NVIDIA,NVDA,Product,Principal,83.8,603600,10.3,70.4,North America,Upper-middle,No,41.3,88.4
+NVDA-0230,Samuel Silva,NVIDIA,NVDA,Operations,Director,72.4,831200,6.2,73.7,North America,Lower-middle,Yes,60.2,70.4
+NVDA-0231,Hiroshi Johnson,NVIDIA,NVDA,Research & AI,Staff,78.9,205200,10.9,74.0,North America,Lower-middle,No,75.9,82.4
+NVDA-0232,Arjun Patel,NVIDIA,NVDA,Product,VP,74.6,911800,7.3,71.3,Latin America,Working class,Yes,96.2,76.7
+NVDA-0233,Thomas Schmidt,NVIDIA,NVDA,Marketing,Senior,78.2,217100,2.6,71.4,East Asia,Lower-middle,No,59.8,82.8
+NVDA-0234,John Garcia,NVIDIA,NVDA,Engineering,Senior,84.3,226500,6.4,54.0,North America,Middle,No,50.5,65.6
+NVDA-0235,John Silva,NVIDIA,NVDA,Operations,Principal,95.6,2121200,15.6,53.9,North America,Working class,Yes,96.3,92.0
+NVDA-0236,Grace Tanaka,NVIDIA,NVDA,Finance,VP,86.3,1049200,11.8,72.0,North America,Upper-middle,No,42.7,81.3
+NVDA-0237,Grace Wang,NVIDIA,NVDA,People/HR,Director,88.7,803000,12.6,74.5,Europe,Upper-middle,Yes,40.3,71.6
+NVDA-0238,Linda Silva,NVIDIA,NVDA,Sales & GTM,Principal,75.2,179800,16.0,66.6,South Asia,Working class,Yes,82.2,92.5
+NVDA-0239,Olivia Schmidt,NVIDIA,NVDA,Engineering,Principal,85.2,547000,9.9,75.8,Europe,Lower-middle,Yes,83.4,59.5
+NVDA-0240,Priya Kim,NVIDIA,NVDA,Product,Senior,80.1,196000,5.9,65.6,North America,Middle,No,48.5,72.2
+NVDA-0241,Fatima Patel,NVIDIA,NVDA,Finance,Staff,85.7,580900,12.9,57.2,South Asia,Working class,Yes,89.2,74.6
+NVDA-0242,Thomas Reyes,NVIDIA,NVDA,Engineering,Senior Director,84.0,407400,7.8,58.8,North America,Lower-middle,Yes,78.4,76.5
+NVDA-0243,Nina Davis,NVIDIA,NVDA,Operations,Senior,79.9,409400,11.8,62.2,North America,Upper-middle,No,30.2,61.2
+NVDA-0244,Sofia Khan,NVIDIA,NVDA,Product,Senior,61.2,140800,7.4,63.6,Europe,Lower-middle,Yes,82.0,73.8
+NVDA-0245,Samuel Petrov,NVIDIA,NVDA,Marketing,Director,74.6,313600,11.4,72.7,North America,Lower-middle,Yes,73.1,84.9
+NVDA-0246,James Park,NVIDIA,NVDA,Product,Senior Director,87.1,2184100,8.7,65.5,Europe,Middle,No,55.2,58.3
+NVDA-0247,Thomas Brown,NVIDIA,NVDA,Product,VP,78.3,1299600,13.2,78.1,South Asia,Working class,Yes,100.0,84.9
+NVDA-0248,Daniel Petrov,NVIDIA,NVDA,Sales & GTM,VP,76.4,358900,11.2,60.9,South Asia,Upper-middle,No,52.5,65.9
+NVDA-0249,Hannah Yamamoto,NVIDIA,NVDA,Operations,Senior,92.7,338600,1.5,76.2,North America,Middle,Yes,55.5,68.2
+NVDA-0250,Maria Wang,NVIDIA,NVDA,People/HR,Senior,85.6,601700,6.4,66.9,Africa,Lower-middle,No,63.4,65.7
+NVDA-0251,Maria Murphy,NVIDIA,NVDA,Operations,Senior,92.0,247500,6.0,73.8,North America,Upper-middle,No,45.5,74.2
+NVDA-0252,Samuel Tanaka,NVIDIA,NVDA,Engineering,Senior Director,82.8,689500,7.1,75.5,Europe,Upper-middle,No,33.4,71.9
+NVDA-0253,Daniel Murphy,NVIDIA,NVDA,Research & AI,Senior,81.8,116100,10.0,68.0,South Asia,Upper-middle,No,29.7,69.2
+NVDA-0254,Chen Reyes,NVIDIA,NVDA,Engineering,Staff,70.5,361200,4.6,68.1,East Asia,Middle,No,46.3,63.3
+NVDA-0255,Emily Cohen,NVIDIA,NVDA,Engineering,VP,89.0,1767600,14.4,74.3,Oceania,Middle,Yes,59.0,77.3
+NVDA-0256,Arjun Rossi,NVIDIA,NVDA,Legal & Policy,VP,85.2,2087000,11.7,62.8,East Asia,Affluent,No,30.3,46.4
+NVDA-0257,Olivia Silva,NVIDIA,NVDA,Design,SVP,100.0,3790800,8.8,63.3,North America,Working class,Yes,88.8,81.7
+NVDA-0258,Thomas Kim,NVIDIA,NVDA,Product,Senior,71.6,221300,2.5,84.3,South Asia,Middle,No,48.3,77.7
+NVDA-0259,James Schmidt,NVIDIA,NVDA,Engineering,Senior,85.5,95000,8.8,70.8,North America,Working class,Yes,94.5,87.6
+NVDA-0260,Raj Petrov,NVIDIA,NVDA,Sales & GTM,Principal,93.7,753900,4.5,84.6,East Asia,Middle,No,58.3,65.6
+NVDA-0261,Olivia Wilson,NVIDIA,NVDA,Marketing,Director,83.4,525200,7.6,85.3,North America,Middle,No,60.7,85.1
+NVDA-0262,Maria Davis,NVIDIA,NVDA,Engineering,Senior,100.0,480600,7.3,64.3,South Asia,Upper-middle,No,44.1,71.2
+NVDA-0263,Emily Wilson,NVIDIA,NVDA,Finance,Senior,70.3,490000,8.2,70.1,Europe,Middle,No,70.0,84.1
+NVDA-0264,Elena Hassan,NVIDIA,NVDA,Engineering,Senior,95.6,354800,5.4,62.6,North America,Middle,No,54.2,60.6
+NVDA-0265,Priya Rossi,NVIDIA,NVDA,Engineering,Principal,71.1,314400,5.1,70.3,South Asia,Middle,No,48.7,47.0
+NVDA-0266,John Tanaka,NVIDIA,NVDA,Research & AI,Senior,83.7,243700,7.3,61.9,North America,Affluent,No,15.0,77.8
+NVDA-0267,Priya Nguyen,NVIDIA,NVDA,Marketing,Principal,72.1,588000,9.1,90.6,South Asia,Upper-middle,No,35.0,79.9
+NVDA-0268,Yuki Martinez,NVIDIA,NVDA,Operations,Staff,76.9,719900,1.7,73.7,North America,Lower-middle,No,55.6,76.4
+NVDA-0269,Zoe Silva,NVIDIA,NVDA,Engineering,Senior Director,78.4,1749000,12.8,68.5,North America,Lower-middle,Yes,87.7,88.5
+NVDA-0270,James Garcia,NVIDIA,NVDA,People/HR,Staff,87.8,207600,10.8,69.7,Africa,Affluent,No,29.7,73.6
+NVDA-0271,Olivia Garcia,NVIDIA,NVDA,Research & AI,Principal,87.7,307400,4.5,71.1,North America,Upper-middle,No,31.3,72.5
+NVDA-0272,Grace Davis,NVIDIA,NVDA,Product,Senior,83.6,284900,4.0,66.2,North America,Middle,Yes,50.5,69.3
+NVDA-0273,Fatima Rossi,NVIDIA,NVDA,People/HR,VP,75.1,2033200,9.1,65.4,North America,Middle,Yes,63.8,77.7
+NVDA-0274,Olivia Okafor,NVIDIA,NVDA,People/HR,Principal,74.8,1702000,16.7,63.0,North America,Lower-middle,Yes,67.3,78.1
+NVDA-0275,Hannah Murphy,NVIDIA,NVDA,Engineering,Senior,72.6,157100,4.1,56.2,Latin America,Upper-middle,No,36.8,58.4
+NVDA-0276,Kevin Khan,NVIDIA,NVDA,Engineering,Senior Director,100.0,1418900,6.8,74.8,North America,Upper-middle,No,44.5,68.8
+NVDA-0277,Olivia Khan,NVIDIA,NVDA,Research & AI,Principal,73.5,230500,11.5,71.5,North America,Working class,Yes,96.9,94.7
+NVDA-0278,David Lopez,NVIDIA,NVDA,Marketing,Senior,76.3,161400,14.8,67.6,North America,Lower-middle,Yes,74.4,79.4
+NVDA-0279,Fatima Wilson,NVIDIA,NVDA,Research & AI,Senior,90.6,72300,2.6,61.7,North America,Upper-middle,No,47.4,61.0
+NVDA-0280,Michael Park,NVIDIA,NVDA,Operations,Senior,83.3,247300,3.3,73.3,Oceania,Lower-middle,Yes,88.3,76.1
+NVDA-0281,Zoe Okafor,NVIDIA,NVDA,Design,Staff,75.6,587500,3.6,76.7,South Asia,Lower-middle,Yes,72.2,81.3
+NVDA-0282,Yuki Garcia,NVIDIA,NVDA,Research & AI,Staff,78.9,190200,0.9,64.9,South Asia,Working class,Yes,85.5,72.2
+NVDA-0283,Raj Schmidt,NVIDIA,NVDA,Engineering,Senior,62.6,456500,4.1,71.8,North America,Middle,No,59.1,71.7
+NVDA-0284,Nina Anderson,NVIDIA,NVDA,Research & AI,Senior,63.8,143400,1.4,75.0,South Asia,Upper-middle,Yes,39.9,52.7
+NVDA-0285,Michael Garcia,NVIDIA,NVDA,Legal & Policy,Senior Director,76.9,1184000,9.0,71.9,North America,Middle,Yes,61.8,70.1
+NVDA-0286,Priya Silva,NVIDIA,NVDA,Sales & GTM,Principal,83.1,773600,5.7,75.3,North America,Middle,No,61.0,52.9
+NVDA-0287,Grace Okafor,NVIDIA,NVDA,Sales & GTM,Principal,90.0,1073700,6.1,61.4,Oceania,Affluent,No,26.0,63.5
+NVDA-0288,Zoe Petrov,NVIDIA,NVDA,Engineering,Staff,96.4,690800,1.6,66.0,North America,Middle,No,50.0,72.0
+NVDA-0289,Arjun Cohen,NVIDIA,NVDA,Engineering,Senior,95.3,297700,2.9,58.3,South Asia,Upper-middle,No,34.1,56.5
+NVDA-0290,Hiroshi Ali,NVIDIA,NVDA,Operations,Senior,72.9,313000,7.8,66.5,North America,Middle,No,53.7,82.2
+NVDA-0291,Yuki Cohen,NVIDIA,NVDA,Research & AI,Principal,87.8,877500,7.7,84.8,East Asia,Middle,No,47.3,60.6
+NVDA-0292,Raj Yamamoto,NVIDIA,NVDA,Engineering,Senior Director,96.4,831900,8.1,66.7,Latin America,Lower-middle,No,78.4,77.5
+NVDA-0293,Yuki Davis,NVIDIA,NVDA,Product,Senior,89.0,176300,10.2,56.2,South Asia,Upper-middle,Yes,38.7,56.6
+NVDA-0294,Hannah Schmidt,NVIDIA,NVDA,Engineering,Senior,73.9,406200,6.6,72.6,South Asia,Working class,No,70.6,75.2
+NVDA-0295,Hiroshi Yamamoto,NVIDIA,NVDA,Research & AI,Staff,80.8,380600,1.9,66.0,North America,Middle,Yes,50.5,84.2
+NVDA-0296,Yuki Petrov,NVIDIA,NVDA,Design,VP,78.3,1321200,26.7,70.9,North America,Affluent,No,21.9,84.4
+NVDA-0297,Zoe Davis,NVIDIA,NVDA,Operations,Senior Director,72.9,882100,7.4,74.2,South Asia,Middle,No,49.9,79.4
+NVDA-0298,Sofia Patel,NVIDIA,NVDA,Engineering,Principal,70.5,488200,6.1,78.7,North America,Upper-middle,No,46.6,66.0
+NVDA-0299,David Patel,NVIDIA,NVDA,Finance,SVP,78.8,5048200,14.3,71.1,Middle East,Middle,Yes,59.8,53.3
+NVDA-0300,Nina Smith,NVIDIA,NVDA,Legal & Policy,Principal,84.9,1175200,3.8,61.9,East Asia,Upper-middle,No,50.0,69.3
+NVDA-0301,Olivia Kim,NVIDIA,NVDA,Product,Staff,64.9,429500,4.1,67.7,South Asia,Upper-middle,No,53.1,60.5
+NVDA-0302,Wei Brown,NVIDIA,NVDA,Product,Staff,66.9,239500,1.0,61.6,North America,Middle,No,48.6,62.5
+NVDA-0303,Mary Tanaka,NVIDIA,NVDA,Legal & Policy,Staff,96.2,355700,7.1,71.2,South Asia,Upper-middle,No,43.8,56.8
+NVDA-0304,Hannah Nguyen,NVIDIA,NVDA,Engineering,Senior,78.4,886700,9.1,70.8,North America,Lower-middle,Yes,75.4,77.6
+NVDA-0305,Wei Silva,NVIDIA,NVDA,Operations,Senior,70.4,133800,2.5,73.8,South Asia,Upper-middle,No,33.3,78.6
+NVDA-0306,Thomas Rossi,NVIDIA,NVDA,Engineering,Staff,72.9,210600,3.8,74.1,North America,Middle,No,48.7,80.1
+NVDA-0307,Mary Patel,NVIDIA,NVDA,Product,Staff,100.0,594300,3.6,68.7,Latin America,Upper-middle,No,40.3,87.0
+NVDA-0308,Carlos Petrov,NVIDIA,NVDA,People/HR,Senior,84.4,694200,9.9,61.4,North America,Lower-middle,No,67.1,64.6
+NVDA-0309,Carlos Garcia,NVIDIA,NVDA,Research & AI,Principal,69.2,579700,4.5,79.5,East Asia,Lower-middle,Yes,65.6,78.0
+NVDA-0310,Carlos Wang,NVIDIA,NVDA,Engineering,Senior Director,67.1,506700,5.4,75.4,South Asia,Working class,Yes,96.5,68.7
+NVDA-0311,David Rossi,NVIDIA,NVDA,Engineering,Director,82.3,935800,9.2,82.0,South Asia,Middle,No,59.7,66.2
+NVDA-0312,Carlos Reyes,NVIDIA,NVDA,Design,Director,87.6,1115700,7.5,65.2,Southeast Asia,Middle,No,46.9,79.2
+NVDA-0313,Kevin Lopez,NVIDIA,NVDA,Product,Senior,79.7,435000,8.0,69.2,North America,Working class,Yes,100.0,80.1
+NVDA-0314,Maria Petrov,NVIDIA,NVDA,Engineering,VP,78.9,608300,5.5,66.2,North America,Affluent,No,32.9,76.7
+NVDA-0315,James Smith,NVIDIA,NVDA,Engineering,Senior,71.9,350700,6.0,56.8,North America,Upper-middle,No,49.1,40.6
+NVDA-0316,Grace Kim,NVIDIA,NVDA,Product,Principal,92.1,511100,5.7,71.3,North America,Working class,Yes,91.0,92.9
+NVDA-0317,Samuel Chen,NVIDIA,NVDA,Product,Senior Director,80.7,711900,5.0,75.4,South Asia,Affluent,No,23.5,72.1
+NVDA-0318,Hiroshi Lopez,NVIDIA,NVDA,Engineering,Director,61.7,264700,11.1,68.7,North America,Working class,Yes,88.1,84.0
+NVDA-0319,Yuki Davis,NVIDIA,NVDA,Sales & GTM,Staff,78.0,323300,5.3,66.5,Southeast Asia,Working class,No,74.7,67.8
+NVDA-0320,Nina Petrov,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,686500,16.3,76.6,North America,Working class,Yes,79.4,67.3
+NVDA-0321,Maria Kim,NVIDIA,NVDA,Finance,Staff,87.6,780200,5.9,57.1,South Asia,Middle,No,50.2,84.2
+NVDA-0322,Kevin Ali,NVIDIA,NVDA,Sales & GTM,VP,69.1,440800,23.7,75.5,South Asia,Working class,Yes,75.3,72.4
+NVDA-0323,Grace Tanaka,NVIDIA,NVDA,Legal & Policy,Staff,81.4,411100,3.5,72.3,North America,Upper-middle,No,29.9,65.6
+NVDA-0324,Wei Park,NVIDIA,NVDA,Sales & GTM,Senior,74.9,275300,6.3,55.5,North America,Middle,No,55.6,59.6
+NVDA-0325,Wei Murphy,NVIDIA,NVDA,Research & AI,Principal,71.2,636900,5.4,72.8,Middle East,Working class,Yes,94.0,78.1
+NVDA-0326,Ahmed Singh,NVIDIA,NVDA,Product,Staff,98.4,874500,6.1,70.7,North America,Middle,No,52.3,82.1
+NVDA-0327,Arjun Lopez,NVIDIA,NVDA,Product,Senior,86.3,309400,8.0,65.3,North America,Upper-middle,No,29.4,59.8
+NVDA-0328,Samuel Reyes,NVIDIA,NVDA,Research & AI,Senior,68.6,413200,14.8,71.6,Latin America,Working class,Yes,89.5,79.9
+NVDA-0329,Michael Johnson,NVIDIA,NVDA,Operations,Staff,62.6,293000,6.2,79.8,South Asia,Middle,No,58.8,94.6
+NVDA-0330,Kevin Reyes,NVIDIA,NVDA,Sales & GTM,Senior Director,66.9,675000,7.3,72.7,North America,Lower-middle,No,69.5,65.2
+NVDA-0331,David Ali,NVIDIA,NVDA,Research & AI,Senior Director,88.0,1550700,9.3,75.0,South Asia,Lower-middle,Yes,68.4,95.7
+NVDA-0332,Hiroshi Chen,NVIDIA,NVDA,Finance,Staff,73.3,337400,4.6,73.3,North America,Middle,Yes,61.2,77.6
+NVDA-0333,Elena Murphy,NVIDIA,NVDA,Engineering,Senior,78.9,439500,4.3,70.2,North America,Middle,No,61.2,75.4
+NVDA-0334,Wei Garcia,NVIDIA,NVDA,Research & AI,Senior,57.7,223700,17.8,69.9,North America,Lower-middle,No,78.3,86.4
+NVDA-0335,Sofia Silva,NVIDIA,NVDA,Finance,Senior,83.4,190800,2.5,68.5,East Asia,Working class,No,73.7,77.4
+NVDA-0336,Raj Wilson,NVIDIA,NVDA,Design,Principal,83.2,375200,3.0,71.9,South Asia,Working class,Yes,91.2,76.2
+NVDA-0337,Carlos Ali,NVIDIA,NVDA,Engineering,Senior,73.1,164800,6.1,61.6,North America,Upper-middle,No,52.2,87.2
+NVDA-0338,Nina Garcia,NVIDIA,NVDA,Sales & GTM,Principal,81.0,440900,7.7,70.5,North America,Working class,Yes,92.8,75.1
+NVDA-0339,Elena Lopez,NVIDIA,NVDA,Engineering,Principal,88.3,636400,8.2,80.0,South Asia,Middle,No,58.1,82.9
+NVDA-0340,Michael Petrov,NVIDIA,NVDA,Engineering,Senior,96.2,273600,2.3,59.3,North America,Upper-middle,Yes,54.1,68.7
+NVDA-0341,Grace Silva,NVIDIA,NVDA,Operations,Director,78.1,402300,8.1,79.5,Latin America,Working class,Yes,89.2,71.4
+NVDA-0342,Arjun Singh,NVIDIA,NVDA,Research & AI,Senior,87.2,223500,23.2,76.8,South Asia,Lower-middle,No,59.2,74.0
+NVDA-0343,Carlos Yamamoto,NVIDIA,NVDA,Legal & Policy,VP,100.0,1837600,11.3,67.5,North America,Working class,Yes,94.4,88.9
+NVDA-0344,Nina Anderson,NVIDIA,NVDA,Engineering,Staff,82.4,749900,4.7,49.3,East Asia,Lower-middle,No,53.0,63.4
+NVDA-0345,Yuki Johnson,NVIDIA,NVDA,Research & AI,Staff,78.8,243700,9.9,55.7,North America,Lower-middle,Yes,74.0,76.3
+NVDA-0346,Elena Chen,NVIDIA,NVDA,People/HR,Senior,87.3,208000,6.5,72.7,North America,Lower-middle,No,74.0,63.8
+NVDA-0347,Daniel Schmidt,NVIDIA,NVDA,Product,VP,74.0,721100,10.9,79.8,North America,Working class,No,79.7,84.4
+NVDA-0348,James Brown,NVIDIA,NVDA,Research & AI,Senior,80.9,449700,2.5,61.7,North America,Upper-middle,No,47.7,50.9
+NVDA-0349,Hannah Tanaka,NVIDIA,NVDA,Product,Staff,83.6,296900,2.6,61.1,North America,Upper-middle,No,50.8,72.8
+NVDA-0350,Priya Wang,NVIDIA,NVDA,Marketing,VP,98.5,750900,7.3,71.4,Europe,Working class,Yes,95.0,89.2
+NVDA-0351,Priya Kim,NVIDIA,NVDA,Sales & GTM,Staff,95.2,273700,4.1,74.1,North America,Upper-middle,No,52.9,74.2
+NVDA-0352,Grace Hassan,NVIDIA,NVDA,Operations,Staff,81.0,866800,17.4,57.3,East Asia,Middle,No,54.5,72.3
+NVDA-0353,Daniel Silva,NVIDIA,NVDA,Product,Principal,75.3,351600,6.7,88.6,Middle East,Middle,Yes,69.7,70.2
+NVDA-0354,Raj Reyes,NVIDIA,NVDA,Product,Senior,57.4,186100,11.8,58.0,North America,Lower-middle,Yes,82.3,72.6
+NVDA-0355,Hannah Park,NVIDIA,NVDA,People/HR,Staff,58.3,345300,6.4,63.0,North America,Middle,No,51.6,70.2
+NVDA-0356,Ahmed Okafor,NVIDIA,NVDA,Product,Staff,80.5,397900,11.0,68.3,Oceania,Middle,No,47.0,76.5
+NVDA-0357,Maria Kim,NVIDIA,NVDA,Product,Senior,69.5,193200,8.5,63.9,North America,Lower-middle,No,74.8,58.0
+NVDA-0358,John Davis,NVIDIA,NVDA,Product,Staff,86.3,798500,12.7,66.7,North America,Affluent,No,9.8,72.1
+NVDA-0359,Thomas Smith,NVIDIA,NVDA,People/HR,Director,85.0,657300,10.4,72.7,East Asia,Working class,Yes,99.7,86.6
+NVDA-0360,Olivia Reyes,NVIDIA,NVDA,Marketing,Senior,91.6,198300,13.4,69.8,North America,Upper-middle,No,45.5,71.5
+NVDA-0361,Chen Schmidt,NVIDIA,NVDA,Marketing,Principal,92.7,1099100,4.3,66.6,South Asia,Middle,No,52.1,77.4
+NVDA-0362,Zoe Murphy,NVIDIA,NVDA,Legal & Policy,Principal,100.0,619500,9.8,77.7,North America,Upper-middle,No,39.0,90.5
+NVDA-0363,Arjun Cohen,NVIDIA,NVDA,Engineering,Staff,68.6,291900,8.8,67.6,North America,Working class,Yes,97.8,85.6
+NVDA-0364,Michael Petrov,NVIDIA,NVDA,Engineering,Senior Director,90.5,440700,7.5,73.9,North America,Affluent,No,22.6,73.8
+NVDA-0365,Sofia Anderson,NVIDIA,NVDA,Engineering,Senior,100.0,181400,7.8,70.6,East Asia,Middle,No,52.5,66.4
+NVDA-0366,Yuki Davis,NVIDIA,NVDA,Engineering,Staff,86.3,261300,2.9,67.4,North America,Middle,No,49.3,77.8
+NVDA-0367,Carlos Davis,NVIDIA,NVDA,Operations,Senior Director,94.2,1005300,15.6,65.3,East Asia,Middle,No,48.8,65.8
+NVDA-0368,Thomas Nguyen,NVIDIA,NVDA,Product,Director,95.2,949900,4.3,69.0,North America,Upper-middle,No,50.3,72.0
+NVDA-0369,Raj Lee,NVIDIA,NVDA,Finance,Senior,70.7,304700,6.5,62.1,North America,Middle,Yes,60.5,71.7
+NVDA-0370,Maria Martinez,NVIDIA,NVDA,Engineering,Senior,78.4,394100,3.4,67.3,South Asia,Working class,Yes,93.2,71.1
+NVDA-0371,Maria Smith,NVIDIA,NVDA,Product,Senior Director,97.3,770800,10.3,70.6,North America,Middle,No,45.8,71.2
+NVDA-0372,David Davis,NVIDIA,NVDA,Operations,Senior,100.0,296200,2.6,69.8,East Asia,Middle,No,45.4,72.1
+NVDA-0373,Grace Khan,NVIDIA,NVDA,Operations,Principal,64.2,179600,5.1,64.8,North America,Middle,Yes,64.5,81.7
+NVDA-0374,Kevin Lee,NVIDIA,NVDA,Engineering,Principal,92.6,582600,5.2,61.9,North America,Working class,Yes,89.2,70.9
+NVDA-0375,Thomas Hassan,NVIDIA,NVDA,Product,VP,87.8,843600,6.9,78.9,North America,Working class,No,77.0,87.9
+NVDA-0376,Maria Yamamoto,NVIDIA,NVDA,Sales & GTM,Staff,76.4,307400,4.8,70.8,Latin America,Working class,Yes,75.8,75.4
+NVDA-0377,Emily Tanaka,NVIDIA,NVDA,Engineering,VP,64.4,1268800,13.0,62.6,South Asia,Working class,Yes,90.6,63.5
+NVDA-0378,Samuel Tanaka,NVIDIA,NVDA,Product,Director,75.3,367200,3.9,74.4,South Asia,Affluent,No,24.8,80.7
+NVDA-0379,Kevin Kim,NVIDIA,NVDA,Legal & Policy,VP,77.4,494900,5.2,67.7,Europe,Middle,No,52.8,72.2
+NVDA-0380,Samuel Patel,NVIDIA,NVDA,Research & AI,Director,89.9,834900,6.5,71.1,Southeast Asia,Middle,Yes,56.1,67.3
+NVDA-0381,Carlos Lee,NVIDIA,NVDA,Engineering,SVP,77.1,880100,7.0,74.5,South Asia,Middle,Yes,62.5,81.6
+NVDA-0382,Grace Smith,NVIDIA,NVDA,Engineering,Director,73.5,308000,11.3,61.2,East Asia,Working class,Yes,90.5,61.0
+NVDA-0383,Elena Cohen,NVIDIA,NVDA,Engineering,Staff,64.0,701200,1.8,54.8,South Asia,Working class,Yes,87.6,71.3
+NVDA-0384,Kevin Wilson,NVIDIA,NVDA,Operations,Principal,85.0,281900,8.5,80.1,South Asia,Middle,No,55.8,78.1
+NVDA-0385,Priya Martinez,NVIDIA,NVDA,People/HR,SVP,92.9,877400,14.3,83.2,North America,Lower-middle,No,68.5,78.2
+NVDA-0386,Aisha Yamamoto,NVIDIA,NVDA,Sales & GTM,Staff,89.8,690100,5.9,74.7,North America,Working class,Yes,91.9,88.6
+NVDA-0387,Priya Martinez,NVIDIA,NVDA,Operations,Senior,90.3,274400,5.2,74.1,North America,Lower-middle,No,81.4,75.2
+NVDA-0388,Hannah Anderson,NVIDIA,NVDA,Operations,Principal,84.8,223600,17.4,63.1,North America,Middle,No,51.1,62.4
+NVDA-0389,James Nguyen,NVIDIA,NVDA,Operations,Director,83.5,560700,10.1,78.6,South Asia,Working class,Yes,100.0,86.9
+NVDA-0390,Aisha Anderson,NVIDIA,NVDA,Engineering,Senior,86.0,216200,3.5,63.9,Southeast Asia,Affluent,No,27.6,67.0
+NVDA-0391,Michael Cohen,NVIDIA,NVDA,Product,Director,78.4,253200,7.5,83.2,North America,Lower-middle,Yes,77.7,87.6
+NVDA-0392,Wei Lee,NVIDIA,NVDA,People/HR,Senior Director,76.8,376600,6.3,80.2,North America,Middle,Yes,55.5,82.0
+NVDA-0393,Maria Patel,NVIDIA,NVDA,Sales & GTM,Staff,96.3,758700,4.9,71.8,North America,Working class,Yes,100.0,95.5
+NVDA-0394,Chen Anderson,NVIDIA,NVDA,Sales & GTM,Senior Director,86.8,859100,8.6,79.2,North America,Affluent,Yes,44.2,82.0
+NVDA-0395,Kevin Martinez,NVIDIA,NVDA,Product,Staff,93.2,708800,4.7,65.5,East Asia,Middle,No,56.7,86.6
+NVDA-0396,Nina Nguyen,NVIDIA,NVDA,Research & AI,Director,100.0,905900,11.0,59.1,North America,Affluent,No,22.5,63.1
+NVDA-0397,Sofia Kim,NVIDIA,NVDA,Marketing,Senior,72.9,266500,8.0,64.7,East Asia,Lower-middle,Yes,81.5,79.4
+NVDA-0398,Yuki Garcia,NVIDIA,NVDA,Engineering,Staff,88.2,445200,4.3,62.1,North America,Lower-middle,Yes,68.3,63.1
+NVDA-0399,Hannah Yamamoto,NVIDIA,NVDA,Engineering,Principal,60.4,307300,13.2,80.4,Europe,Middle,No,44.4,74.5
+NVDA-0400,Daniel Patel,NVIDIA,NVDA,People/HR,Director,91.0,512400,5.3,63.9,Latin America,Working class,Yes,90.7,80.1
+NVDA-0401,Chen Patel,NVIDIA,NVDA,Product,Senior,92.3,314900,6.8,63.9,South Asia,Upper-middle,No,42.6,65.9
+NVDA-0402,Mary Davis,NVIDIA,NVDA,Engineering,Director,68.8,1635700,11.2,78.3,North America,Lower-middle,No,60.1,70.6
+NVDA-0403,Zoe Brown,NVIDIA,NVDA,Engineering,Senior,76.0,236400,2.4,60.1,South Asia,Middle,Yes,50.4,60.3
+NVDA-0404,John Hassan,NVIDIA,NVDA,Engineering,Senior,86.6,235200,7.9,59.4,East Asia,Upper-middle,Yes,28.0,52.8
+NVDA-0405,Mary Lee,NVIDIA,NVDA,Research & AI,Senior,73.1,180000,12.1,72.3,South Asia,Middle,No,56.9,65.1
+NVDA-0406,Kevin Wilson,NVIDIA,NVDA,Engineering,Senior Director,89.6,586200,7.4,81.1,Middle East,Middle,Yes,77.0,82.6
+NVDA-0407,Maria Hassan,NVIDIA,NVDA,Product,Principal,93.3,612600,11.5,63.6,Latin America,Middle,Yes,45.9,62.2
+NVDA-0408,Chen Park,NVIDIA,NVDA,Sales & GTM,Principal,87.4,1065300,5.1,73.8,South Asia,Affluent,No,21.1,85.9
+NVDA-0409,David Anderson,NVIDIA,NVDA,Engineering,Director,88.9,1304400,7.5,78.0,Oceania,Lower-middle,Yes,72.8,68.0
+NVDA-0410,Kevin Petrov,NVIDIA,NVDA,Engineering,Senior,73.1,354500,14.8,61.6,Middle East,Upper-middle,No,37.5,69.1
+NVDA-0411,Zoe Schmidt,NVIDIA,NVDA,Engineering,Director,76.2,461600,10.5,67.3,Europe,Middle,Yes,65.7,62.3
+NVDA-0412,Aisha Brown,NVIDIA,NVDA,Operations,Staff,76.7,560600,11.7,66.1,Latin America,Lower-middle,No,70.5,87.3
+NVDA-0413,Sofia Yamamoto,NVIDIA,NVDA,Product,Senior,82.7,387000,4.9,70.7,East Asia,Lower-middle,Yes,75.6,82.5
+NVDA-0414,Grace Davis,NVIDIA,NVDA,Engineering,Staff,72.4,208900,4.1,77.0,South Asia,Working class,Yes,91.6,69.2
+NVDA-0415,Arjun Khan,NVIDIA,NVDA,Sales & GTM,Principal,93.1,271900,6.9,70.8,South Asia,Lower-middle,Yes,82.2,83.4
+NVDA-0416,John Nguyen,NVIDIA,NVDA,Engineering,Principal,81.1,430700,7.6,68.4,North America,Upper-middle,No,22.1,66.4
+NVDA-0417,Kevin Tanaka,NVIDIA,NVDA,Research & AI,Director,67.7,1656800,8.1,67.1,South Asia,Lower-middle,No,55.8,61.7
+NVDA-0418,Fatima Garcia,NVIDIA,NVDA,Operations,Senior,82.0,428900,5.3,55.2,North America,Middle,No,61.8,52.2
+NVDA-0419,Kevin Wilson,NVIDIA,NVDA,Product,Senior,82.5,838600,8.7,63.2,Middle East,Middle,Yes,43.5,74.5
+NVDA-0420,Fatima Wilson,NVIDIA,NVDA,Research & AI,Senior,81.4,151300,15.5,67.2,North America,Affluent,No,27.9,61.3
+NVDA-0421,Michael Reyes,NVIDIA,NVDA,Engineering,Senior,79.4,371300,6.9,66.7,South Asia,Middle,Yes,64.3,79.7
+NVDA-0422,Michael Schmidt,NVIDIA,NVDA,Operations,Principal,81.3,707700,7.0,77.0,East Asia,Lower-middle,Yes,77.8,74.0
+NVDA-0423,Hiroshi Brown,NVIDIA,NVDA,Product,SVP,86.5,1115600,17.4,66.4,North America,Lower-middle,No,69.7,83.0
+NVDA-0424,Thomas Ali,NVIDIA,NVDA,Operations,Staff,97.3,253000,0.8,81.9,Latin America,Upper-middle,No,46.4,79.7
+NVDA-0425,David Patel,NVIDIA,NVDA,Marketing,Senior,62.3,312000,4.3,59.8,North America,Lower-middle,Yes,68.0,66.9
+NVDA-0426,Fatima Yamamoto,NVIDIA,NVDA,Product,VP,95.3,1780700,7.1,77.4,North America,Affluent,Yes,34.6,70.8
+NVDA-0427,Olivia Kim,NVIDIA,NVDA,Operations,VP,84.0,822300,15.6,67.4,North America,Lower-middle,No,64.7,62.1
+NVDA-0428,Samuel Khan,NVIDIA,NVDA,Engineering,Senior,76.9,440900,22.2,61.8,North America,Middle,Yes,70.4,71.7
+NVDA-0429,Raj Singh,NVIDIA,NVDA,Engineering,Staff,71.2,502600,4.4,64.7,East Asia,Upper-middle,No,35.2,70.9
+NVDA-0430,Olivia Murphy,NVIDIA,NVDA,Operations,VP,69.6,1124700,13.0,76.4,North America,Middle,No,58.9,76.0
+NVDA-0431,Michael Schmidt,NVIDIA,NVDA,Research & AI,Principal,62.6,458500,5.7,66.2,South Asia,Working class,Yes,85.7,74.8
+NVDA-0432,Fatima Cohen,NVIDIA,NVDA,Design,Senior,73.6,577600,8.0,77.4,South Asia,Affluent,No,15.5,67.0
+NVDA-0433,Chen Cohen,NVIDIA,NVDA,Sales & GTM,Staff,82.0,546700,7.6,56.0,North America,Working class,Yes,81.7,88.5
+NVDA-0434,Priya Anderson,NVIDIA,NVDA,Research & AI,Senior,78.8,381400,4.7,64.6,South Asia,Lower-middle,Yes,79.9,59.0
+NVDA-0435,Grace Hassan,NVIDIA,NVDA,Finance,Principal,100.0,269300,13.6,70.4,North America,Working class,Yes,98.9,68.9
+NVDA-0436,Arjun Brown,NVIDIA,NVDA,Product,Staff,88.1,489900,10.3,75.0,South Asia,Affluent,No,29.1,71.1
+NVDA-0437,David Singh,NVIDIA,NVDA,Finance,Principal,87.2,598500,3.4,64.1,East Asia,Working class,Yes,93.4,73.9
+NVDA-0438,Linda Martinez,NVIDIA,NVDA,Engineering,VP,70.5,551500,8.3,61.3,Southeast Asia,Working class,Yes,90.7,66.4
+NVDA-0439,Aisha Okafor,NVIDIA,NVDA,Marketing,Senior,88.4,268400,3.6,60.5,East Asia,Middle,Yes,68.9,82.6
+NVDA-0440,Chen Johnson,NVIDIA,NVDA,Marketing,VP,89.2,1330300,12.2,62.8,North America,Upper-middle,No,48.2,69.0
+NVDA-0441,Carlos Rossi,NVIDIA,NVDA,Research & AI,Senior Director,57.9,257000,6.6,79.2,North America,Working class,Yes,86.2,69.8
+NVDA-0442,John Kim,NVIDIA,NVDA,Sales & GTM,Principal,84.0,654400,6.4,73.1,North America,Lower-middle,Yes,81.6,66.6
+NVDA-0443,Carlos Brown,NVIDIA,NVDA,Product,Director,80.5,1050500,3.4,84.4,North America,Working class,No,91.0,80.6
+NVDA-0444,Hiroshi Johnson,NVIDIA,NVDA,Sales & GTM,Senior,83.1,145000,8.4,79.8,South Asia,Middle,Yes,66.2,74.7
+NVDA-0445,Samuel Wilson,NVIDIA,NVDA,Engineering,Senior,82.4,177100,2.4,56.7,North America,Middle,Yes,73.5,88.3
+NVDA-0446,Aisha Silva,NVIDIA,NVDA,Engineering,Director,65.5,314100,7.6,67.1,East Asia,Middle,No,45.8,72.1
+NVDA-0447,Olivia Lopez,NVIDIA,NVDA,People/HR,Staff,74.6,347500,3.9,67.4,East Asia,Lower-middle,No,77.4,81.9
+NVDA-0448,Emily Okafor,NVIDIA,NVDA,Sales & GTM,Principal,73.0,793200,7.3,67.8,Europe,Upper-middle,No,38.1,71.9
+NVDA-0449,Priya Lopez,NVIDIA,NVDA,Engineering,VP,100.0,987400,7.4,70.7,Southeast Asia,Middle,Yes,62.0,77.8
+NVDA-0450,Michael Okafor,NVIDIA,NVDA,Operations,VP,79.9,922200,9.7,69.6,North America,Middle,Yes,69.6,97.6
+NVDA-0451,John Singh,NVIDIA,NVDA,Research & AI,Senior,100.0,654100,3.5,87.2,East Asia,Upper-middle,No,31.0,68.5
+NVDA-0452,Priya Schmidt,NVIDIA,NVDA,Engineering,Staff,100.0,237400,1.9,68.5,North America,Lower-middle,No,69.7,71.3
+NVDA-0453,Yuki Wilson,NVIDIA,NVDA,Sales & GTM,Director,65.1,702200,11.4,69.7,South Asia,Middle,No,57.0,80.2
+NVDA-0454,Mary Okafor,NVIDIA,NVDA,Product,Principal,64.6,839900,7.3,72.1,Africa,Lower-middle,Yes,87.7,91.4
+NVDA-0455,Mary Hassan,NVIDIA,NVDA,Product,Senior,76.2,411000,7.9,54.6,South Asia,Working class,Yes,89.2,85.7
+NVDA-0456,Priya Lopez,NVIDIA,NVDA,Legal & Policy,VP,85.1,526900,8.8,77.4,North America,Upper-middle,No,28.4,72.3
+NVDA-0457,Maria Petrov,NVIDIA,NVDA,Research & AI,Principal,76.3,173300,16.1,79.1,North America,Working class,Yes,100.0,75.3
+NVDA-0458,Samuel Cohen,NVIDIA,NVDA,Research & AI,Staff,94.5,572900,5.5,81.3,North America,Working class,Yes,82.0,74.8
+NVDA-0459,Carlos Kim,NVIDIA,NVDA,Engineering,Director,97.8,1095000,9.1,72.6,Europe,Working class,No,87.2,65.1
+NVDA-0460,Samuel Yamamoto,NVIDIA,NVDA,Marketing,Senior,77.9,258700,1.2,61.4,East Asia,Middle,No,62.7,71.5
+NVDA-0461,Emily Ali,NVIDIA,NVDA,Research & AI,Staff,71.0,565200,4.6,65.6,North America,Lower-middle,Yes,81.4,67.9
+NVDA-0462,Elena Petrov,NVIDIA,NVDA,Engineering,Director,68.8,309500,3.5,63.3,South Asia,Lower-middle,Yes,70.9,45.8
+NVDA-0463,Sofia Yamamoto,NVIDIA,NVDA,Marketing,Senior Director,96.5,534600,7.6,68.2,North America,Working class,Yes,90.1,72.0
+NVDA-0464,Daniel Wilson,NVIDIA,NVDA,Engineering,Principal,71.6,718500,5.8,76.7,South Asia,Middle,No,66.4,92.9
+NVDA-0465,Carlos Rossi,NVIDIA,NVDA,Research & AI,Senior,99.7,273500,7.0,65.3,Europe,Working class,No,82.5,73.0
+NVDA-0466,Linda Tanaka,NVIDIA,NVDA,Operations,Principal,96.5,790700,14.9,61.2,South Asia,Middle,No,59.4,74.8
+NVDA-0467,Sofia Yamamoto,NVIDIA,NVDA,Engineering,Staff,99.9,307100,10.5,66.7,South Asia,Lower-middle,No,60.1,77.7
+NVDA-0468,Thomas Patel,NVIDIA,NVDA,Product,VP,91.9,1337100,9.6,66.2,Europe,Affluent,No,28.2,63.3
+NVDA-0469,Hiroshi Chen,NVIDIA,NVDA,Engineering,Principal,76.2,683800,12.9,54.5,North America,Lower-middle,No,56.7,68.8
+NVDA-0470,Nina Martinez,NVIDIA,NVDA,Product,Senior,84.1,150400,6.5,66.7,North America,Lower-middle,Yes,78.8,84.7
+NVDA-0471,Hiroshi Yamamoto,NVIDIA,NVDA,Engineering,Director,80.8,639900,10.7,75.4,North America,Middle,No,49.5,89.8
+NVDA-0472,Olivia Johnson,NVIDIA,NVDA,Sales & GTM,Director,74.1,361000,10.6,65.7,North America,Upper-middle,No,26.2,55.6
+NVDA-0473,Raj Singh,NVIDIA,NVDA,Sales & GTM,Staff,84.5,665400,8.3,72.7,North America,Lower-middle,Yes,67.1,68.9
+NVDA-0474,Yuki Okafor,NVIDIA,NVDA,Legal & Policy,Senior,74.5,156600,2.7,74.2,North America,Lower-middle,No,69.4,77.0
+NVDA-0475,Maria Wang,NVIDIA,NVDA,Product,SVP,90.8,1241000,12.4,69.3,North America,Working class,Yes,86.5,65.7
+NVDA-0476,Zoe Yamamoto,NVIDIA,NVDA,Engineering,Senior,93.5,1498700,10.9,73.3,North America,Upper-middle,No,44.7,74.1
+NVDA-0477,Hannah Garcia,NVIDIA,NVDA,Product,Principal,91.9,404700,10.8,70.7,East Asia,Middle,Yes,66.7,68.0
+NVDA-0478,Priya Lee,NVIDIA,NVDA,Engineering,Senior Director,88.9,1224600,10.0,77.8,North America,Middle,Yes,55.4,61.7
+NVDA-0479,Mary Johnson,NVIDIA,NVDA,Legal & Policy,Principal,83.8,319400,9.3,65.2,North America,Middle,No,58.9,47.5
+NVDA-0480,Carlos Martinez,NVIDIA,NVDA,Engineering,Staff,67.7,436200,6.3,55.5,North America,Middle,No,61.1,74.6
+NVDA-0481,Michael Tanaka,NVIDIA,NVDA,Engineering,Principal,86.4,483900,11.4,66.9,North America,Middle,No,42.6,73.6
+NVDA-0482,Ahmed Park,NVIDIA,NVDA,Design,Senior,83.0,550300,11.1,71.6,South Asia,Affluent,No,24.2,70.8
+NVDA-0483,James Smith,NVIDIA,NVDA,Engineering,Senior,89.1,258500,10.3,60.2,North America,Working class,Yes,99.9,66.2
+NVDA-0484,Raj Tanaka,NVIDIA,NVDA,Engineering,Principal,78.9,687800,7.4,72.0,North America,Working class,Yes,84.1,56.6
+NVDA-0485,Chen Brown,NVIDIA,NVDA,Operations,Principal,75.7,200300,7.5,72.1,North America,Upper-middle,No,36.5,79.4
+NVDA-0486,Raj Patel,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,231100,5.8,70.7,South Asia,Working class,Yes,84.3,78.6
+NVDA-0487,Aisha Nguyen,NVIDIA,NVDA,Engineering,Principal,91.3,282300,8.7,71.5,East Asia,Working class,Yes,84.5,81.5
+NVDA-0488,Elena Reyes,NVIDIA,NVDA,Legal & Policy,Principal,86.5,1211700,17.5,59.4,North America,Upper-middle,No,43.5,51.9
+NVDA-0489,James Lopez,NVIDIA,NVDA,Finance,Staff,88.0,431800,13.1,56.9,Southeast Asia,Working class,No,75.7,82.9
+NVDA-0490,Michael Lopez,NVIDIA,NVDA,Product,VP,97.2,917500,6.7,68.3,Middle East,Upper-middle,No,53.1,66.2
+NVDA-0491,Chen Hassan,NVIDIA,NVDA,Research & AI,Staff,86.6,379900,9.4,59.4,North America,Middle,No,54.7,70.9
+NVDA-0492,Hannah Brown,NVIDIA,NVDA,Engineering,SVP,81.0,1748300,8.6,70.7,South Asia,Middle,No,57.3,65.0
+NVDA-0493,Nina Petrov,NVIDIA,NVDA,Research & AI,Senior,77.0,345800,7.1,52.1,Europe,Lower-middle,No,69.6,77.1
+NVDA-0494,Emily Chen,NVIDIA,NVDA,Engineering,Senior Director,84.2,1077800,7.2,77.2,South Asia,Middle,Yes,72.4,62.0
+NVDA-0495,Aisha Smith,NVIDIA,NVDA,Finance,Senior Director,69.9,633700,6.0,79.0,Latin America,Middle,No,44.8,66.4
+NVDA-0496,Linda Chen,NVIDIA,NVDA,Operations,Director,100.0,670700,10.5,65.2,Oceania,Upper-middle,No,50.8,70.2
+NVDA-0497,Grace Khan,NVIDIA,NVDA,Operations,Director,90.8,982300,13.9,72.9,Europe,Working class,Yes,81.2,69.9
+NVDA-0498,Elena Rossi,NVIDIA,NVDA,Operations,VP,82.5,696800,11.1,64.7,South Asia,Middle,Yes,65.8,75.5
+NVDA-0499,Hannah Johnson,NVIDIA,NVDA,Engineering,Senior,76.6,348200,13.3,57.7,North America,Lower-middle,Yes,82.5,78.2
+NVDA-0500,Linda Lee,NVIDIA,NVDA,Operations,Senior,74.4,441800,4.1,56.1,North America,Working class,Yes,100.0,71.9
+NVDA-0501,Arjun Chen,NVIDIA,NVDA,Engineering,Staff,68.7,458600,6.4,64.3,South Asia,Working class,Yes,97.1,73.6
+NVDA-0502,Hannah Johnson,NVIDIA,NVDA,Engineering,Principal,83.9,1730200,4.9,72.8,North America,Upper-middle,No,20.6,59.5
+NVDA-0503,Zoe Cohen,NVIDIA,NVDA,Engineering,Principal,93.2,1381000,6.4,72.7,North America,Upper-middle,No,33.4,81.0
+NVDA-0504,Kevin Tanaka,NVIDIA,NVDA,Finance,Principal,92.1,286500,14.1,68.0,North America,Affluent,No,19.0,67.4
+NVDA-0505,John Rossi,NVIDIA,NVDA,Engineering,Staff,83.2,282700,6.3,63.6,South Asia,Middle,No,42.3,83.3
+NVDA-0506,Olivia Chen,NVIDIA,NVDA,Engineering,Staff,86.6,548500,15.5,63.0,South Asia,Middle,No,45.8,68.8
+NVDA-0507,Yuki Anderson,NVIDIA,NVDA,Research & AI,Staff,94.6,283700,9.0,68.7,North America,Upper-middle,No,33.2,83.7
+NVDA-0508,Nina Murphy,NVIDIA,NVDA,Engineering,Staff,78.6,389700,6.9,69.2,North America,Upper-middle,No,28.4,62.8
+NVDA-0509,Wei Yamamoto,NVIDIA,NVDA,Research & AI,VP,82.3,1922800,11.1,77.5,North America,Working class,Yes,93.3,81.7
+NVDA-0510,Hiroshi Garcia,NVIDIA,NVDA,Sales & GTM,Senior,63.7,263600,8.4,58.2,Europe,Upper-middle,No,31.3,69.1
+NVDA-0511,Daniel Cohen,NVIDIA,NVDA,Operations,Senior,86.4,435800,3.2,58.7,East Asia,Upper-middle,Yes,40.3,79.0
+NVDA-0512,Wei Lee,NVIDIA,NVDA,Engineering,Director,94.4,769400,4.8,77.4,East Asia,Working class,Yes,79.8,77.3
+NVDA-0513,Maria Park,NVIDIA,NVDA,Engineering,Principal,83.6,819900,2.1,74.0,Africa,Middle,No,47.6,68.8
+NVDA-0514,Elena Johnson,NVIDIA,NVDA,Sales & GTM,Senior,79.0,244400,3.3,68.8,South Asia,Middle,Yes,61.1,78.2
+NVDA-0515,James Park,NVIDIA,NVDA,Sales & GTM,Director,91.9,1166100,12.7,82.9,North America,Lower-middle,Yes,84.8,91.3
+NVDA-0516,Sofia Martinez,NVIDIA,NVDA,Legal & Policy,Staff,73.1,330100,11.8,60.1,North America,Working class,Yes,94.7,71.1
+NVDA-0517,Yuki Murphy,NVIDIA,NVDA,Engineering,Director,79.1,701700,14.5,70.4,North America,Lower-middle,Yes,75.8,60.1
+NVDA-0518,Wei Rossi,NVIDIA,NVDA,Operations,Senior,68.6,465000,2.8,74.3,Latin America,Lower-middle,No,74.2,63.3
+NVDA-0519,Daniel Davis,NVIDIA,NVDA,Operations,Senior,78.6,76300,1.9,73.6,Latin America,Middle,Yes,54.3,79.9
+NVDA-0520,Grace Schmidt,NVIDIA,NVDA,Product,Senior,72.7,400700,9.7,55.8,South Asia,Lower-middle,Yes,67.6,65.0
+NVDA-0521,Michael Ali,NVIDIA,NVDA,Design,Director,79.9,240500,5.0,73.8,Southeast Asia,Middle,No,56.8,78.0
+NVDA-0522,John Okafor,NVIDIA,NVDA,Engineering,Principal,95.2,1226400,6.6,57.3,North America,Middle,Yes,58.4,52.3
+NVDA-0523,Fatima Ali,NVIDIA,NVDA,Finance,Staff,69.4,391500,9.5,69.6,North America,Affluent,No,27.4,66.3
+NVDA-0524,Olivia Reyes,NVIDIA,NVDA,Operations,Director,73.8,1507800,7.2,64.7,North America,Working class,Yes,100.0,86.8
+NVDA-0525,Aisha Park,NVIDIA,NVDA,Engineering,Senior,75.0,361200,1.7,67.1,South Asia,Upper-middle,Yes,48.0,59.7
+NVDA-0526,Hannah Chen,NVIDIA,NVDA,Operations,Director,87.7,723400,10.1,84.5,North America,Working class,Yes,95.6,87.5
+NVDA-0527,Ahmed Anderson,NVIDIA,NVDA,Research & AI,Senior,71.5,552400,2.2,69.8,North America,Middle,No,54.7,70.8
+NVDA-0528,Grace Lee,NVIDIA,NVDA,Operations,Staff,79.0,1162600,9.4,66.2,East Asia,Middle,No,54.4,85.9
+NVDA-0529,Elena Kim,NVIDIA,NVDA,People/HR,Staff,76.3,1036400,3.8,64.4,North America,Middle,Yes,49.7,50.7
+NVDA-0530,Emily Kim,NVIDIA,NVDA,Engineering,Principal,93.1,1022600,6.5,67.2,North America,Upper-middle,Yes,49.4,53.3
+NVDA-0531,John Garcia,NVIDIA,NVDA,Research & AI,Staff,90.2,164800,5.2,67.3,North America,Working class,No,73.4,61.1
+NVDA-0532,Arjun Murphy,NVIDIA,NVDA,Engineering,Staff,83.7,330200,4.0,67.4,South Asia,Working class,Yes,96.4,83.2
+NVDA-0533,Carlos Martinez,NVIDIA,NVDA,Engineering,Senior,70.1,141300,1.1,71.0,North America,Middle,No,60.8,91.6
+NVDA-0534,Daniel Wilson,NVIDIA,NVDA,Product,SVP,97.5,888100,23.5,75.0,East Asia,Middle,Yes,64.5,72.6
+NVDA-0535,Fatima Reyes,NVIDIA,NVDA,Operations,Director,88.4,930100,14.5,70.0,North America,Upper-middle,No,38.7,73.0
+NVDA-0536,Samuel Okafor,NVIDIA,NVDA,Engineering,Senior,75.6,434400,19.8,66.3,North America,Middle,No,58.1,78.6
+NVDA-0537,Wei Ali,NVIDIA,NVDA,Design,VP,82.9,1147300,7.8,71.5,Europe,Lower-middle,No,63.0,65.0
+NVDA-0538,Olivia Nguyen,NVIDIA,NVDA,Engineering,Principal,71.3,951300,10.5,70.2,North America,Working class,Yes,88.6,84.5
+NVDA-0539,Arjun Martinez,NVIDIA,NVDA,People/HR,Director,98.7,1703500,8.5,62.8,North America,Affluent,No,38.5,57.1
+NVDA-0540,Maria Davis,NVIDIA,NVDA,Engineering,Senior,76.1,203300,2.5,75.3,Middle East,Middle,No,45.3,72.7
+NVDA-0541,Sofia Park,NVIDIA,NVDA,Engineering,Principal,84.5,1259900,11.7,53.8,East Asia,Upper-middle,No,45.5,85.7
+NVDA-0542,Aisha Cohen,NVIDIA,NVDA,Engineering,Staff,90.3,461600,13.2,57.0,North America,Affluent,No,28.3,51.2
+NVDA-0543,Thomas Park,NVIDIA,NVDA,Research & AI,Senior,85.1,396000,12.1,69.8,North America,Working class,Yes,70.9,93.2
+NVDA-0544,Hiroshi Brown,NVIDIA,NVDA,Engineering,SVP,65.2,1797100,13.8,64.9,North America,Upper-middle,No,43.1,70.0
+NVDA-0545,Nina Lopez,NVIDIA,NVDA,Engineering,Senior,75.9,331900,11.7,67.0,Oceania,Upper-middle,No,38.4,85.7
+NVDA-0546,Linda Lopez,NVIDIA,NVDA,Product,Senior,69.8,322800,2.9,75.7,North America,Lower-middle,Yes,76.2,64.5
+NVDA-0547,Zoe Petrov,NVIDIA,NVDA,Sales & GTM,Senior,81.7,243200,5.3,64.0,North America,Lower-middle,Yes,72.2,62.0
+NVDA-0548,Samuel Brown,NVIDIA,NVDA,Engineering,Principal,83.8,443400,5.6,55.4,North America,Middle,No,58.1,56.4
+NVDA-0549,David Wilson,NVIDIA,NVDA,Product,Principal,96.9,432600,8.8,84.4,Europe,Working class,Yes,100.0,80.3
+NVDA-0550,Thomas Reyes,NVIDIA,NVDA,Research & AI,Senior,87.5,741300,6.2,64.0,North America,Middle,No,57.4,46.6
+NVDA-0551,Sofia Hassan,NVIDIA,NVDA,Marketing,Director,100.0,974800,9.8,72.9,North America,Middle,Yes,64.1,80.6
+NVDA-0552,Michael Ali,NVIDIA,NVDA,Design,Senior,69.9,365200,10.0,63.2,East Asia,Middle,No,59.6,81.9
+NVDA-0553,Chen Silva,NVIDIA,NVDA,Engineering,Senior,77.1,890700,1.3,67.1,Southeast Asia,Lower-middle,Yes,78.7,67.3
+NVDA-0554,Ahmed Johnson,NVIDIA,NVDA,Product,Staff,78.9,324900,11.5,66.7,East Asia,Middle,No,55.7,71.6
+NVDA-0555,Kevin Anderson,NVIDIA,NVDA,Research & AI,Director,90.9,499600,7.1,70.7,North America,Middle,No,51.0,75.7
+NVDA-0556,Raj Ali,NVIDIA,NVDA,Engineering,Principal,71.8,411000,4.0,75.3,North America,Working class,Yes,86.6,78.4
+NVDA-0557,Carlos Hassan,NVIDIA,NVDA,Research & AI,Director,80.7,542700,6.8,83.9,East Asia,Middle,Yes,45.5,66.9
+NVDA-0558,Kevin Singh,NVIDIA,NVDA,Operations,Principal,69.3,412800,8.0,65.2,North America,Upper-middle,No,26.7,63.3
+NVDA-0559,Wei Ali,NVIDIA,NVDA,Sales & GTM,Staff,90.5,875200,3.5,60.5,South Asia,Lower-middle,No,78.0,78.1
+NVDA-0560,Hannah Smith,NVIDIA,NVDA,Sales & GTM,Senior Director,100.0,920300,6.7,92.4,East Asia,Lower-middle,No,69.9,77.0
+NVDA-0561,Linda Murphy,NVIDIA,NVDA,Operations,Senior,82.4,184600,6.5,62.5,North America,Upper-middle,Yes,43.8,75.7
+NVDA-0562,Kevin Lopez,NVIDIA,NVDA,Engineering,Director,69.0,590200,12.0,83.1,North America,Middle,Yes,63.7,90.9
+NVDA-0563,Linda Nguyen,NVIDIA,NVDA,Finance,Senior,83.9,422300,9.1,55.6,South Asia,Working class,Yes,80.6,70.3
+NVDA-0564,Raj Ali,NVIDIA,NVDA,Sales & GTM,Principal,85.5,1887800,8.4,64.2,Latin America,Upper-middle,No,36.4,59.2
+NVDA-0565,Hannah Park,NVIDIA,NVDA,Engineering,Staff,85.1,236800,3.2,68.3,East Asia,Lower-middle,No,57.4,89.3
+NVDA-0566,Ahmed Davis,NVIDIA,NVDA,Engineering,Principal,80.1,334300,6.4,74.0,East Asia,Affluent,No,24.9,61.8
+NVDA-0567,Maria Anderson,NVIDIA,NVDA,Legal & Policy,Senior,79.6,320300,1.8,55.8,Europe,Lower-middle,Yes,70.6,58.4
+NVDA-0568,Hiroshi Rossi,NVIDIA,NVDA,Engineering,Director,66.0,644700,13.2,61.0,North America,Upper-middle,No,34.4,71.9
+NVDA-0569,Samuel Murphy,NVIDIA,NVDA,Marketing,Director,72.3,334700,14.0,64.3,South Asia,Upper-middle,No,34.2,89.0
+NVDA-0570,Samuel Lee,NVIDIA,NVDA,Product,Staff,74.2,308300,4.7,65.2,North America,Middle,No,65.3,77.6
+NVDA-0571,Fatima Okafor,NVIDIA,NVDA,Engineering,Staff,76.5,464000,3.9,64.4,East Asia,Upper-middle,No,38.6,77.6
+NVDA-0572,Carlos Chen,NVIDIA,NVDA,Product,Senior,70.3,207400,1.2,62.5,North America,Middle,No,60.4,79.2
+NVDA-0573,Ahmed Cohen,NVIDIA,NVDA,Operations,Senior,67.2,499000,6.9,70.6,East Asia,Lower-middle,Yes,72.8,97.3
+NVDA-0574,Hannah Davis,NVIDIA,NVDA,Research & AI,Senior,73.4,361200,10.1,62.1,North America,Lower-middle,Yes,70.2,76.5
+NVDA-0575,Daniel Petrov,NVIDIA,NVDA,Engineering,Senior,93.6,682900,9.0,67.9,East Asia,Lower-middle,Yes,80.9,80.2
+NVDA-0576,Grace Garcia,NVIDIA,NVDA,Engineering,Principal,76.0,205900,4.9,64.3,North America,Upper-middle,No,39.0,72.7
+NVDA-0577,Daniel Chen,NVIDIA,NVDA,Marketing,Senior,86.3,87900,3.7,66.0,East Asia,Middle,No,51.4,81.9
+NVDA-0578,Zoe Davis,NVIDIA,NVDA,Research & AI,Principal,83.6,783600,3.7,71.8,North America,Upper-middle,No,46.0,79.4
+NVDA-0579,Elena Nguyen,NVIDIA,NVDA,Engineering,Senior Director,72.1,577200,13.8,68.1,North America,Middle,Yes,59.0,68.0
+NVDA-0580,Maria Johnson,NVIDIA,NVDA,Research & AI,Senior,80.3,252800,4.8,67.4,East Asia,Upper-middle,No,54.1,60.4
+NVDA-0581,Chen Johnson,NVIDIA,NVDA,Engineering,VP,75.3,635800,4.8,57.3,North America,Middle,No,57.9,71.2
+NVDA-0582,David Rossi,NVIDIA,NVDA,Operations,SVP,71.4,798000,13.8,78.8,South Asia,Working class,No,85.2,89.6
+NVDA-0583,Fatima Chen,NVIDIA,NVDA,Engineering,Senior,79.8,198900,9.6,57.3,North America,Upper-middle,No,50.0,70.2
+NVDA-0584,Yuki Martinez,NVIDIA,NVDA,Operations,VP,89.4,1374700,11.9,86.3,South Asia,Middle,Yes,56.1,70.9
+NVDA-0585,Ahmed Petrov,NVIDIA,NVDA,Design,Principal,80.7,598000,13.6,65.5,Europe,Lower-middle,Yes,83.5,73.0
+NVDA-0586,Ahmed Park,NVIDIA,NVDA,Finance,Principal,89.4,523900,3.9,81.2,North America,Working class,No,82.3,85.1
+NVDA-0587,Wei Murphy,NVIDIA,NVDA,Engineering,Senior,77.7,168400,2.0,58.2,East Asia,Upper-middle,No,32.9,61.6
+NVDA-0588,Fatima Patel,NVIDIA,NVDA,Engineering,Senior,63.0,363600,14.0,62.7,South Asia,Lower-middle,Yes,71.8,62.3
+NVDA-0589,Yuki Davis,NVIDIA,NVDA,Operations,VP,100.0,1244500,12.3,82.3,South Asia,Middle,No,42.4,81.8
+NVDA-0590,Sofia Anderson,NVIDIA,NVDA,Product,Principal,76.4,263200,2.9,72.6,Latin America,Middle,No,62.1,72.7
+NVDA-0591,Carlos Nguyen,NVIDIA,NVDA,Engineering,Director,80.2,911400,12.2,68.8,East Asia,Middle,No,42.5,71.5
+NVDA-0592,Mary Johnson,NVIDIA,NVDA,Engineering,Director,82.5,797500,6.8,74.4,South Asia,Middle,No,64.1,68.1
+NVDA-0593,Arjun Lopez,NVIDIA,NVDA,Operations,Senior Director,86.1,748600,15.3,68.3,North America,Working class,Yes,91.5,91.2
+NVDA-0594,Arjun Schmidt,NVIDIA,NVDA,Research & AI,Senior,73.3,212500,9.2,71.9,North America,Working class,Yes,89.8,80.2
+NVDA-0595,John Smith,NVIDIA,NVDA,Legal & Policy,Director,89.8,388500,5.5,75.6,Latin America,Middle,Yes,66.3,71.9
+NVDA-0596,Hannah Chen,NVIDIA,NVDA,Engineering,Principal,79.8,422100,9.7,74.2,North America,Middle,No,56.8,68.8
+NVDA-0597,Maria Singh,NVIDIA,NVDA,Engineering,Staff,78.4,266500,6.6,69.7,South Asia,Lower-middle,Yes,72.0,78.6
+NVDA-0598,Chen Garcia,NVIDIA,NVDA,Engineering,Director,77.0,558500,7.7,69.4,Southeast Asia,Middle,No,49.1,72.2
+NVDA-0599,Yuki Murphy,NVIDIA,NVDA,Design,Senior,93.6,177700,14.1,71.3,Europe,Working class,Yes,83.7,73.7
+NVDA-0600,Aisha Yamamoto,NVIDIA,NVDA,Product,Senior,73.9,212600,3.3,68.4,Middle East,Affluent,No,35.6,77.3
+NVDA-0601,Nina Reyes,NVIDIA,NVDA,Research & AI,Senior,93.9,561500,5.1,65.9,North America,Lower-middle,No,68.4,64.1
+NVDA-0602,Hiroshi Lopez,NVIDIA,NVDA,Design,Senior,65.7,250000,1.8,78.0,South Asia,Working class,Yes,100.0,85.7
+NVDA-0603,Hannah Tanaka,NVIDIA,NVDA,Operations,Senior,72.2,339100,1.8,63.7,South Asia,Upper-middle,No,33.7,71.7
+NVDA-0604,Samuel Brown,NVIDIA,NVDA,Research & AI,Senior,98.7,390100,2.7,61.9,South Asia,Upper-middle,No,38.2,74.3
+NVDA-0605,Grace Yamamoto,NVIDIA,NVDA,Legal & Policy,Principal,88.2,280900,9.4,66.1,Europe,Middle,Yes,57.2,84.7
+NVDA-0606,Fatima Hassan,NVIDIA,NVDA,Research & AI,Senior,88.4,125000,7.2,62.6,South Asia,Affluent,No,22.6,51.6
+NVDA-0607,Aisha Okafor,NVIDIA,NVDA,Sales & GTM,Senior,86.4,350600,5.0,60.2,South Asia,Middle,No,51.5,69.6
+NVDA-0608,Zoe Anderson,NVIDIA,NVDA,Engineering,Senior,76.0,483500,2.6,70.9,South Asia,Middle,No,43.2,66.2
+NVDA-0609,Ahmed Chen,NVIDIA,NVDA,Research & AI,Director,70.4,716500,7.5,65.8,North America,Middle,No,52.8,68.2
+NVDA-0610,Ahmed Tanaka,NVIDIA,NVDA,Product,Staff,65.5,541500,11.5,73.8,North America,Upper-middle,No,40.5,80.8
+NVDA-0611,Emily Garcia,NVIDIA,NVDA,Legal & Policy,Principal,88.0,332600,7.9,62.5,North America,Working class,Yes,86.0,68.2
+NVDA-0612,Wei Reyes,NVIDIA,NVDA,Engineering,Principal,69.6,446100,10.9,66.2,South Asia,Working class,Yes,81.8,70.9
+NVDA-0613,Hannah Anderson,NVIDIA,NVDA,Engineering,VP,89.7,1074200,7.3,72.7,North America,Middle,No,48.3,90.9
+NVDA-0614,Arjun Rossi,NVIDIA,NVDA,Engineering,Staff,70.5,221200,4.7,67.0,South Asia,Working class,Yes,90.1,90.4
+NVDA-0615,David Okafor,NVIDIA,NVDA,Legal & Policy,Staff,91.7,1695100,2.4,57.3,South Asia,Lower-middle,Yes,73.6,74.9
+NVDA-0616,Zoe Rossi,NVIDIA,NVDA,Research & AI,Staff,78.3,261500,5.5,65.4,North America,Middle,No,47.1,72.6
+NVDA-0617,Priya Park,NVIDIA,NVDA,Research & AI,Senior Director,100.0,1172100,8.6,70.3,North America,Middle,Yes,60.3,65.3
+NVDA-0618,Mary Reyes,NVIDIA,NVDA,Engineering,Staff,71.6,452600,2.9,72.9,South Asia,Working class,Yes,80.1,76.2
+NVDA-0619,Zoe Davis,NVIDIA,NVDA,Engineering,Senior,86.0,535800,5.3,78.3,North America,Upper-middle,No,30.4,75.2
+NVDA-0620,Samuel Okafor,NVIDIA,NVDA,Engineering,Senior,72.8,1430600,7.4,69.4,East Asia,Lower-middle,No,71.4,75.4
+NVDA-0621,Raj Singh,NVIDIA,NVDA,Marketing,Director,83.4,454500,11.0,69.0,Europe,Upper-middle,Yes,64.3,71.3
+NVDA-0622,Linda Ali,NVIDIA,NVDA,Operations,Staff,87.0,567600,5.5,67.4,East Asia,Affluent,No,24.7,59.3
+NVDA-0623,Mary Kim,NVIDIA,NVDA,Engineering,Principal,100.0,518400,6.6,64.3,North America,Working class,Yes,97.7,84.2
+NVDA-0624,Chen Chen,NVIDIA,NVDA,Research & AI,Staff,87.7,278300,8.4,63.2,Middle East,Lower-middle,Yes,81.7,80.9
+NVDA-0625,Olivia Brown,NVIDIA,NVDA,Engineering,Senior,62.9,285400,6.0,45.3,North America,Middle,No,48.7,53.5
+NVDA-0626,Aisha Smith,NVIDIA,NVDA,Engineering,Senior,75.2,426200,5.7,67.6,Southeast Asia,Upper-middle,No,40.4,64.5
+NVDA-0627,Maria Wilson,NVIDIA,NVDA,Operations,Staff,92.2,157300,4.0,65.3,Latin America,Middle,No,58.0,67.2
+NVDA-0628,Fatima Reyes,NVIDIA,NVDA,Engineering,Senior,84.8,237900,5.5,57.0,Africa,Middle,No,41.4,64.4
+NVDA-0629,Linda Nguyen,NVIDIA,NVDA,Sales & GTM,Principal,100.0,612900,3.6,68.0,East Asia,Lower-middle,Yes,74.9,100.0
+NVDA-0630,Carlos Tanaka,NVIDIA,NVDA,Engineering,Senior,80.7,339900,1.4,70.5,North America,Working class,No,78.4,78.6
+NVDA-0631,John Nguyen,NVIDIA,NVDA,Sales & GTM,Staff,80.2,1160800,15.6,65.7,East Asia,Upper-middle,No,23.4,74.7
+NVDA-0632,Aisha Lopez,NVIDIA,NVDA,Engineering,Staff,72.7,501400,7.7,73.3,South Asia,Working class,Yes,93.1,66.4
+NVDA-0633,Thomas Khan,NVIDIA,NVDA,Engineering,Staff,81.0,344200,4.3,71.6,North America,Lower-middle,Yes,68.0,66.5
+NVDA-0634,Priya Park,NVIDIA,NVDA,Engineering,Director,70.8,426400,9.9,57.5,Europe,Affluent,No,23.1,67.4
+NVDA-0635,Chen Park,NVIDIA,NVDA,Product,Senior,67.7,378600,6.4,66.2,North America,Upper-middle,Yes,48.2,80.1
+NVDA-0636,Wei Park,NVIDIA,NVDA,Sales & GTM,Staff,83.5,221700,6.4,76.2,North America,Lower-middle,No,68.9,57.1
+NVDA-0637,Michael Wilson,NVIDIA,NVDA,Finance,Principal,65.4,288900,5.3,64.3,North America,Upper-middle,No,25.8,65.3
+NVDA-0638,Elena Lee,NVIDIA,NVDA,Engineering,Director,92.6,3041300,3.2,93.1,North America,Middle,Yes,67.4,74.7
+NVDA-0639,Chen Anderson,NVIDIA,NVDA,Engineering,Principal,76.5,237200,9.1,60.6,Oceania,Lower-middle,No,67.2,64.4
+NVDA-0640,James Brown,NVIDIA,NVDA,Product,Staff,65.1,332300,11.6,56.3,Southeast Asia,Affluent,No,31.4,70.2
+NVDA-0641,Priya Singh,NVIDIA,NVDA,Engineering,Senior,80.0,408800,5.3,56.6,East Asia,Lower-middle,No,69.0,74.5
+NVDA-0642,Fatima Brown,NVIDIA,NVDA,Sales & GTM,Senior,79.5,412500,3.0,75.1,South Asia,Lower-middle,No,57.2,74.0
+NVDA-0643,Wei Okafor,NVIDIA,NVDA,Engineering,Staff,79.1,933200,3.5,67.2,North America,Middle,Yes,58.7,65.8
+NVDA-0644,Hiroshi Martinez,NVIDIA,NVDA,Marketing,Senior,87.2,467300,2.4,74.2,East Asia,Working class,No,83.5,72.6
+NVDA-0645,Priya Yamamoto,NVIDIA,NVDA,Engineering,Senior,96.4,559100,2.0,69.5,East Asia,Affluent,No,26.3,74.9
+NVDA-0646,Nina Nguyen,NVIDIA,NVDA,Product,Senior,94.1,732000,0.7,60.8,North America,Middle,Yes,45.0,67.7
+NVDA-0647,Grace Yamamoto,NVIDIA,NVDA,Product,Principal,76.8,630100,3.6,59.4,South Asia,Affluent,No,24.5,73.3
+NVDA-0648,Priya Garcia,NVIDIA,NVDA,Marketing,Principal,68.7,773300,9.2,63.7,North America,Middle,Yes,58.4,69.3
+NVDA-0649,Elena Schmidt,NVIDIA,NVDA,Product,Principal,87.6,2567100,7.6,68.8,North America,Middle,No,58.4,76.3
+NVDA-0650,Nina Davis,NVIDIA,NVDA,Engineering,Director,79.0,809600,7.4,57.0,North America,Upper-middle,No,37.0,79.4
+NVDA-0651,Sofia Ali,NVIDIA,NVDA,Product,Director,74.8,987800,5.0,71.9,North America,Middle,Yes,70.0,62.9
+NVDA-0652,Daniel Reyes,NVIDIA,NVDA,Engineering,Staff,66.1,374200,7.3,69.3,North America,Upper-middle,No,41.4,65.7
+NVDA-0653,Zoe Smith,NVIDIA,NVDA,Engineering,Director,84.5,413700,4.8,69.3,South Asia,Working class,Yes,86.1,73.3
+NVDA-0654,Yuki Hassan,NVIDIA,NVDA,Operations,Senior,88.5,194500,3.8,59.9,North America,Affluent,No,27.4,71.1
+NVDA-0655,Priya Murphy,NVIDIA,NVDA,Engineering,Staff,95.2,685100,7.8,68.6,Europe,Affluent,No,21.6,68.2
+NVDA-0656,Raj Okafor,NVIDIA,NVDA,Engineering,Senior,83.7,256200,9.9,65.6,Southeast Asia,Working class,Yes,96.6,76.1
+NVDA-0657,Chen Lee,NVIDIA,NVDA,Engineering,Staff,100.0,409500,10.4,57.3,South Asia,Working class,Yes,93.9,66.5
+NVDA-0658,Hannah Reyes,NVIDIA,NVDA,Engineering,Staff,69.9,902500,2.0,74.5,North America,Lower-middle,No,73.9,59.9
+NVDA-0659,Carlos Murphy,NVIDIA,NVDA,Sales & GTM,Staff,75.6,545300,6.2,78.2,North America,Lower-middle,No,62.6,65.6
+NVDA-0660,Hannah Lee,NVIDIA,NVDA,Sales & GTM,Senior,73.9,343300,1.7,64.0,Oceania,Affluent,No,32.9,70.6
+NVDA-0661,Hannah Silva,NVIDIA,NVDA,Marketing,Principal,69.7,359300,17.7,71.2,North America,Working class,Yes,95.8,85.9
+NVDA-0662,Sofia Lee,NVIDIA,NVDA,Marketing,Staff,81.3,262600,3.7,71.2,North America,Middle,Yes,58.7,72.8
+NVDA-0663,Hiroshi Anderson,NVIDIA,NVDA,Product,Director,82.8,634200,12.4,65.1,South Asia,Middle,Yes,55.4,74.5
+NVDA-0664,David Petrov,NVIDIA,NVDA,Operations,Staff,62.8,705700,13.7,66.6,North America,Middle,No,38.8,73.0
+NVDA-0665,Hannah Chen,NVIDIA,NVDA,Product,Principal,100.0,392400,12.8,62.0,North America,Lower-middle,No,70.9,68.4
+NVDA-0666,Aisha Reyes,NVIDIA,NVDA,Legal & Policy,Staff,74.3,922100,3.6,75.2,South Asia,Middle,No,61.3,75.8
+NVDA-0667,Kevin Khan,NVIDIA,NVDA,Engineering,Staff,84.9,455200,1.5,67.5,East Asia,Affluent,No,19.0,68.7
+NVDA-0668,Raj Martinez,NVIDIA,NVDA,Research & AI,Senior,69.3,226900,4.1,69.3,South Asia,Lower-middle,Yes,73.4,99.4
+NVDA-0669,David Wang,NVIDIA,NVDA,Legal & Policy,Staff,89.3,974000,10.6,59.8,North America,Lower-middle,No,59.2,75.1
+NVDA-0670,Daniel Nguyen,NVIDIA,NVDA,Engineering,Staff,85.8,173400,3.4,69.1,North America,Middle,No,54.9,69.1
+NVDA-0671,Hiroshi Tanaka,NVIDIA,NVDA,Operations,Staff,91.5,159800,3.6,68.3,Africa,Middle,Yes,62.5,78.8
+NVDA-0672,Samuel Ali,NVIDIA,NVDA,Design,Director,77.1,756800,4.1,76.2,North America,Working class,Yes,81.8,60.7
+NVDA-0673,Daniel Garcia,NVIDIA,NVDA,Engineering,Staff,85.5,465900,2.7,55.0,North America,Working class,Yes,85.8,73.1
+NVDA-0674,Raj Wilson,NVIDIA,NVDA,Engineering,Senior,89.6,269200,2.8,64.2,Europe,Upper-middle,Yes,57.3,64.4
+NVDA-0675,Elena Anderson,NVIDIA,NVDA,Sales & GTM,Senior,86.4,422300,17.3,61.9,North America,Upper-middle,No,37.1,63.7
+NVDA-0676,Carlos Martinez,NVIDIA,NVDA,Product,Senior,94.5,712300,3.3,61.8,South Asia,Affluent,No,20.3,71.1
+NVDA-0677,Priya Murphy,NVIDIA,NVDA,Engineering,Principal,82.2,281100,5.3,71.3,East Asia,Middle,No,40.9,79.2
+NVDA-0678,Mary Smith,NVIDIA,NVDA,Engineering,Senior,100.0,430700,3.3,68.8,South Asia,Upper-middle,No,34.0,74.4
+NVDA-0679,Hiroshi Cohen,NVIDIA,NVDA,Engineering,Principal,90.6,667300,13.3,69.0,North America,Upper-middle,No,35.9,66.1
+NVDA-0680,Carlos Yamamoto,NVIDIA,NVDA,Engineering,Director,84.2,390000,12.2,62.0,North America,Middle,No,51.1,59.8
+NVDA-0681,Thomas Kim,NVIDIA,NVDA,Finance,Senior,76.8,210600,7.8,68.3,North America,Middle,Yes,59.8,83.3
+NVDA-0682,Arjun Patel,NVIDIA,NVDA,Research & AI,Senior Director,80.8,1280900,7.1,83.3,North America,Middle,No,53.6,80.1
+NVDA-0683,Wei Silva,NVIDIA,NVDA,Sales & GTM,Senior,71.4,246700,5.8,63.1,East Asia,Working class,Yes,94.5,67.3
+NVDA-0684,Hiroshi Kim,NVIDIA,NVDA,Finance,Principal,98.4,430700,12.0,57.5,Latin America,Affluent,No,17.6,71.6
+NVDA-0685,Hannah Schmidt,NVIDIA,NVDA,Operations,Senior,76.5,612800,1.1,73.4,North America,Upper-middle,No,42.1,78.2
+NVDA-0686,Linda Martinez,NVIDIA,NVDA,Finance,Senior Director,89.2,243300,9.3,64.1,Middle East,Middle,No,52.9,73.5
+NVDA-0687,Thomas Hassan,NVIDIA,NVDA,Engineering,Director,91.8,208500,6.6,74.9,South Asia,Upper-middle,No,42.1,78.8
+NVDA-0688,Chen Hassan,NVIDIA,NVDA,Engineering,Staff,75.3,329700,7.8,62.7,North America,Middle,No,47.5,76.5
+NVDA-0689,Samuel Lee,NVIDIA,NVDA,Research & AI,Senior,90.9,361400,9.7,62.0,South Asia,Affluent,No,19.9,67.1
+NVDA-0690,James Park,NVIDIA,NVDA,Engineering,VP,71.2,676900,5.4,78.4,Middle East,Lower-middle,No,53.2,72.8
+NVDA-0691,Elena Reyes,NVIDIA,NVDA,Research & AI,Staff,64.2,374400,9.9,65.0,Middle East,Upper-middle,No,31.2,77.7
+NVDA-0692,David Smith,NVIDIA,NVDA,Finance,Director,63.7,494500,6.0,64.7,North America,Middle,Yes,52.5,75.0
+NVDA-0693,Sofia Lee,NVIDIA,NVDA,Operations,Director,88.3,694800,14.5,72.3,North America,Middle,No,52.2,57.1
+NVDA-0694,Arjun Johnson,NVIDIA,NVDA,Design,Senior,56.9,209000,3.4,62.9,North America,Lower-middle,No,65.3,57.2
+NVDA-0695,Ahmed Nguyen,NVIDIA,NVDA,Engineering,Senior,73.2,193900,6.8,61.5,North America,Affluent,No,25.5,74.2
+NVDA-0696,David Yamamoto,NVIDIA,NVDA,Operations,Staff,75.1,134400,4.7,69.8,North America,Upper-middle,No,40.6,81.7
+NVDA-0697,Emily Rossi,NVIDIA,NVDA,Operations,Senior,69.5,390300,4.6,65.9,East Asia,Middle,No,49.4,80.3
+NVDA-0698,Raj Petrov,NVIDIA,NVDA,Operations,VP,62.1,1261300,8.0,57.9,North America,Lower-middle,No,71.8,59.4
+NVDA-0699,Thomas Silva,NVIDIA,NVDA,Engineering,Senior,88.0,320200,15.9,71.4,Europe,Upper-middle,No,37.8,85.3
+NVDA-0700,Arjun Schmidt,NVIDIA,NVDA,Sales & GTM,Senior,70.4,149200,2.0,54.9,North America,Lower-middle,No,64.6,59.5
+NVDA-0701,Sofia Anderson,NVIDIA,NVDA,Design,Director,78.1,304200,11.1,76.1,East Asia,Upper-middle,Yes,44.8,79.8
+NVDA-0702,Olivia Garcia,NVIDIA,NVDA,Research & AI,Senior,73.9,304800,6.1,58.2,East Asia,Working class,Yes,86.4,85.5
+NVDA-0703,Yuki Tanaka,NVIDIA,NVDA,Engineering,Senior,62.1,409200,5.4,60.9,North America,Lower-middle,No,60.0,69.4
+NVDA-0704,Michael Rossi,NVIDIA,NVDA,Operations,Staff,79.8,594500,11.7,57.1,North America,Middle,No,48.5,50.1
+NVDA-0705,Ahmed Okafor,NVIDIA,NVDA,Product,VP,92.9,2172500,13.5,68.1,South Asia,Middle,Yes,61.3,58.5
+NVDA-0706,Nina Petrov,NVIDIA,NVDA,Engineering,SVP,85.8,2544600,7.8,75.5,Africa,Working class,Yes,96.6,87.6
+NVDA-0707,Olivia Brown,NVIDIA,NVDA,Engineering,Senior,75.5,259700,13.3,70.0,South Asia,Working class,Yes,92.6,78.2
+NVDA-0708,Nina Yamamoto,NVIDIA,NVDA,Sales & GTM,Senior,71.3,358500,2.2,61.5,North America,Middle,No,51.5,56.0
+NVDA-0709,Elena Reyes,NVIDIA,NVDA,Operations,Principal,73.8,481500,10.2,65.9,North America,Middle,No,39.0,62.9
+NVDA-0710,Thomas Patel,NVIDIA,NVDA,Operations,Staff,87.7,194900,15.1,63.3,North America,Working class,Yes,81.8,73.3
+NVDA-0711,Michael Lee,NVIDIA,NVDA,Marketing,Senior Director,83.8,2081400,8.9,76.5,North America,Middle,No,52.8,87.1
+NVDA-0712,Carlos Anderson,NVIDIA,NVDA,Engineering,Staff,71.2,371000,6.4,70.6,South Asia,Working class,Yes,93.2,76.7
+NVDA-0713,Zoe Ali,NVIDIA,NVDA,Sales & GTM,Senior,82.5,336600,3.6,57.5,North America,Working class,Yes,78.0,54.9
+NVDA-0714,Hannah Khan,NVIDIA,NVDA,Finance,Senior Director,72.9,735500,6.8,73.0,East Asia,Upper-middle,No,36.9,53.1
+NVDA-0715,Michael Lee,NVIDIA,NVDA,Engineering,Staff,100.0,202000,5.8,70.9,North America,Upper-middle,Yes,43.7,67.2
+NVDA-0716,Samuel Silva,NVIDIA,NVDA,People/HR,Senior Director,84.0,443800,5.0,72.2,North America,Upper-middle,No,34.3,59.1
+NVDA-0717,Thomas Nguyen,NVIDIA,NVDA,Engineering,Principal,60.8,690300,4.8,67.2,South Asia,Affluent,No,16.9,63.2
+NVDA-0718,Emily Kim,NVIDIA,NVDA,Engineering,Senior,76.9,213100,8.4,79.3,North America,Lower-middle,No,65.4,70.0
+NVDA-0719,Samuel Petrov,NVIDIA,NVDA,Sales & GTM,Principal,91.4,1361400,4.5,69.3,North America,Lower-middle,Yes,64.6,91.1
+NVDA-0720,Olivia Smith,NVIDIA,NVDA,Operations,Senior,87.4,402000,5.9,69.6,North America,Middle,No,53.4,79.7
+NVDA-0721,Hannah Smith,NVIDIA,NVDA,Engineering,Staff,85.9,134900,6.4,66.9,South Asia,Middle,No,45.7,62.7
+NVDA-0722,Fatima Martinez,NVIDIA,NVDA,Product,Staff,72.0,989900,10.0,58.3,North America,Middle,No,40.8,55.2
+NVDA-0723,David Okafor,NVIDIA,NVDA,Product,Principal,94.1,354600,17.9,59.6,South Asia,Middle,Yes,73.5,84.5
+NVDA-0724,Carlos Tanaka,NVIDIA,NVDA,Design,Senior,67.1,633600,13.6,49.5,North America,Working class,Yes,97.7,73.9
+NVDA-0725,John Park,NVIDIA,NVDA,Engineering,VP,76.2,1000800,7.1,79.8,North America,Upper-middle,No,46.6,73.3
+NVDA-0726,Raj Kim,NVIDIA,NVDA,Product,Senior,83.5,241300,15.6,70.5,Europe,Lower-middle,No,70.3,75.5
+NVDA-0727,Thomas Hassan,NVIDIA,NVDA,Design,Senior,75.3,604100,6.8,75.1,North America,Affluent,No,33.6,80.0
+NVDA-0728,Olivia Wang,NVIDIA,NVDA,Marketing,Staff,67.0,363200,5.5,66.4,South Asia,Middle,No,40.0,61.4
+NVDA-0729,Chen Martinez,NVIDIA,NVDA,Sales & GTM,Senior,96.0,276400,6.0,62.1,South Asia,Middle,No,59.5,77.5
+NVDA-0730,Thomas Ali,NVIDIA,NVDA,Research & AI,Senior Director,81.8,584200,4.6,73.0,North America,Lower-middle,Yes,85.1,66.4
+NVDA-0731,Yuki Anderson,NVIDIA,NVDA,Design,Senior,92.8,261200,13.5,47.0,North America,Middle,Yes,64.9,71.7
+NVDA-0732,Raj Lopez,NVIDIA,NVDA,Design,Senior,59.7,308800,3.3,60.7,North America,Middle,No,51.0,67.6
+NVDA-0733,Linda Hassan,NVIDIA,NVDA,Engineering,Staff,92.1,332600,3.9,58.8,North America,Lower-middle,No,70.5,69.9
+NVDA-0734,Maria Anderson,NVIDIA,NVDA,Engineering,Staff,76.1,323700,7.4,75.5,South Asia,Lower-middle,No,67.0,79.6
+NVDA-0735,Kevin Brown,NVIDIA,NVDA,Marketing,Senior Director,81.7,1311500,5.2,67.5,South Asia,Lower-middle,Yes,74.1,84.4
+NVDA-0736,Grace Rossi,NVIDIA,NVDA,Research & AI,Principal,80.7,532500,6.4,63.9,North America,Affluent,No,25.0,53.8
+NVDA-0737,Wei Wilson,NVIDIA,NVDA,Finance,Senior,81.5,211600,10.0,72.4,Oceania,Middle,No,62.0,77.0
+NVDA-0738,Hiroshi Tanaka,NVIDIA,NVDA,Finance,Staff,92.1,916900,3.2,59.1,Europe,Lower-middle,No,57.7,81.5
+NVDA-0739,John Martinez,NVIDIA,NVDA,Engineering,Staff,82.2,245400,17.0,61.7,North America,Middle,No,52.9,58.7
+NVDA-0740,Nina Reyes,NVIDIA,NVDA,Engineering,Staff,72.3,444500,4.0,60.5,East Asia,Upper-middle,Yes,57.8,54.6
+NVDA-0741,Michael Lopez,NVIDIA,NVDA,Engineering,Director,73.3,818800,3.4,49.4,South Asia,Lower-middle,Yes,72.8,74.7
+NVDA-0742,Michael Anderson,NVIDIA,NVDA,Research & AI,Principal,89.0,1014500,13.6,79.0,Latin America,Middle,No,61.2,81.6
+NVDA-0743,Michael Yamamoto,NVIDIA,NVDA,Engineering,Senior Director,88.6,1584900,12.3,68.7,South Asia,Working class,Yes,85.2,73.4
+NVDA-0744,Zoe Singh,NVIDIA,NVDA,People/HR,Senior,87.3,339800,1.0,67.2,Southeast Asia,Middle,No,61.7,70.2
+NVDA-0745,Samuel Park,NVIDIA,NVDA,Operations,SVP,89.4,2669700,10.8,63.0,South Asia,Working class,Yes,82.9,82.5
+NVDA-0746,Hiroshi Kim,NVIDIA,NVDA,Sales & GTM,Director,85.9,1144300,12.7,67.9,East Asia,Working class,Yes,81.0,77.0
+NVDA-0747,Aisha Rossi,NVIDIA,NVDA,People/HR,Staff,60.8,123600,1.8,71.1,East Asia,Affluent,No,23.2,66.8
+NVDA-0748,Sofia Lopez,NVIDIA,NVDA,Research & AI,Principal,82.4,194900,4.7,70.2,North America,Middle,No,41.8,63.4
+NVDA-0749,Hiroshi Reyes,NVIDIA,NVDA,Sales & GTM,Director,81.5,652600,13.6,69.0,Europe,Affluent,No,26.0,72.3
+NVDA-0750,Fatima Okafor,NVIDIA,NVDA,Sales & GTM,Principal,82.4,578900,4.5,75.3,North America,Affluent,No,24.3,71.8
+NVDA-0751,Grace Yamamoto,NVIDIA,NVDA,Research & AI,VP,87.0,535700,17.5,71.6,North America,Upper-middle,No,38.6,69.5
+NVDA-0752,Chen Tanaka,NVIDIA,NVDA,Sales & GTM,VP,69.8,1034800,7.8,65.3,East Asia,Working class,No,72.9,86.9
+NVDA-0753,Olivia Chen,NVIDIA,NVDA,Engineering,Director,70.5,1125400,12.1,65.0,North America,Lower-middle,No,66.8,66.2
+NVDA-0754,Emily Johnson,NVIDIA,NVDA,Research & AI,Senior,100.0,336600,8.3,73.2,South Asia,Upper-middle,No,46.8,68.2
+NVDA-0755,Daniel Garcia,NVIDIA,NVDA,Engineering,Principal,56.0,141400,11.8,57.6,Europe,Middle,Yes,56.2,58.0
+NVDA-0756,Sofia Reyes,NVIDIA,NVDA,Engineering,Senior,59.3,214900,10.1,63.1,South Asia,Working class,Yes,94.3,71.9
+NVDA-0757,Raj Schmidt,NVIDIA,NVDA,Engineering,Staff,75.8,253200,2.4,72.8,East Asia,Lower-middle,No,68.9,60.5
+NVDA-0758,John Reyes,NVIDIA,NVDA,Marketing,Staff,81.5,563400,6.8,60.9,North America,Affluent,No,30.4,50.3
+NVDA-0759,John Martinez,NVIDIA,NVDA,Product,Staff,72.6,445900,7.8,68.9,Middle East,Middle,No,47.1,74.2
+NVDA-0760,Yuki Reyes,NVIDIA,NVDA,Sales & GTM,Director,77.4,342800,6.3,71.8,North America,Middle,No,55.3,77.9
+NVDA-0761,Olivia Garcia,NVIDIA,NVDA,Design,Senior,76.4,256000,0.7,74.2,North America,Affluent,No,27.8,62.8
+NVDA-0762,Nina Khan,NVIDIA,NVDA,Marketing,Staff,78.6,661400,2.6,62.7,South Asia,Middle,No,35.5,54.6
+NVDA-0763,Thomas Patel,NVIDIA,NVDA,Operations,Senior,79.6,184800,5.1,57.8,Southeast Asia,Middle,Yes,70.0,61.9
+NVDA-0764,Samuel Rossi,NVIDIA,NVDA,Engineering,Staff,84.4,428300,8.6,70.7,South Asia,Upper-middle,No,55.7,88.2
+NVDA-0765,Kevin Ali,NVIDIA,NVDA,Product,Staff,79.4,1149200,1.7,66.2,South Asia,Upper-middle,No,37.6,77.2
+NVDA-0766,Yuki Anderson,NVIDIA,NVDA,Engineering,Staff,94.8,436400,10.9,67.2,Oceania,Lower-middle,Yes,70.0,84.3
+NVDA-0767,Aisha Silva,NVIDIA,NVDA,Legal & Policy,Staff,100.0,1003700,5.1,71.8,Europe,Middle,Yes,57.5,69.0
+NVDA-0768,Kevin Patel,NVIDIA,NVDA,Legal & Policy,Senior Director,89.2,1030500,18.4,66.3,North America,Affluent,No,31.6,76.9
+NVDA-0769,Nina Okafor,NVIDIA,NVDA,Operations,Staff,75.9,632000,7.3,53.5,North America,Upper-middle,No,34.9,75.7
+NVDA-0770,Thomas Nguyen,NVIDIA,NVDA,Engineering,VP,82.0,1130100,12.6,80.9,North America,Affluent,No,17.7,76.2
+NVDA-0771,Hannah Murphy,NVIDIA,NVDA,Engineering,Senior,78.9,226200,4.9,60.0,Middle East,Working class,Yes,97.1,67.7
+NVDA-0772,James Rossi,NVIDIA,NVDA,Sales & GTM,Principal,84.0,845300,6.2,61.3,North America,Middle,Yes,71.6,77.0
+NVDA-0773,David Johnson,NVIDIA,NVDA,Research & AI,Senior,86.6,308800,10.7,70.3,Latin America,Lower-middle,Yes,83.0,88.7
+NVDA-0774,Fatima Davis,NVIDIA,NVDA,Marketing,Director,78.5,706000,12.7,57.8,East Asia,Lower-middle,Yes,62.8,75.7
+NVDA-0775,Priya Lopez,NVIDIA,NVDA,Research & AI,Senior,74.6,512800,0.8,70.4,South Asia,Middle,No,49.6,62.2
+NVDA-0776,John Ali,NVIDIA,NVDA,Engineering,Staff,87.2,387300,11.4,73.7,Latin America,Lower-middle,No,67.1,79.7
+NVDA-0777,Raj Petrov,NVIDIA,NVDA,Product,Senior,84.0,440700,10.5,63.3,Oceania,Middle,Yes,68.0,66.0
+NVDA-0778,Ahmed Anderson,NVIDIA,NVDA,Product,Principal,83.9,202900,4.8,75.7,North America,Working class,Yes,91.6,84.8
+NVDA-0779,David Petrov,NVIDIA,NVDA,Design,Senior,87.5,148700,3.2,74.0,South Asia,Working class,No,85.1,63.8
+NVDA-0780,Elena Chen,NVIDIA,NVDA,Operations,Senior Director,73.7,2072600,21.6,67.1,North America,Lower-middle,Yes,65.5,70.5
+NVDA-0781,Linda Silva,NVIDIA,NVDA,Sales & GTM,Principal,85.1,696200,3.2,63.6,South Asia,Affluent,No,19.0,80.4
+NVDA-0782,Aisha Nguyen,NVIDIA,NVDA,Engineering,Senior Director,65.1,391200,4.5,77.8,South Asia,Affluent,No,31.6,65.2
+NVDA-0783,James Silva,NVIDIA,NVDA,Product,Staff,77.5,213300,5.8,74.4,Middle East,Affluent,No,29.6,72.6
+NVDA-0784,David Johnson,NVIDIA,NVDA,Research & AI,Senior,72.4,398700,3.0,59.3,South Asia,Middle,No,59.6,70.4
+NVDA-0785,Olivia Ali,NVIDIA,NVDA,Engineering,Staff,90.0,441400,5.6,68.2,Southeast Asia,Upper-middle,Yes,34.4,75.1
+NVDA-0786,Mary Singh,NVIDIA,NVDA,Operations,Principal,91.3,439400,9.5,70.0,Southeast Asia,Upper-middle,No,45.4,54.7
+NVDA-0787,Chen Davis,NVIDIA,NVDA,Engineering,Staff,95.1,524200,11.8,72.9,South Asia,Middle,No,62.5,71.8
+NVDA-0788,Elena Park,NVIDIA,NVDA,Engineering,Staff,94.0,250000,2.7,69.4,Latin America,Working class,Yes,96.7,70.5
+NVDA-0789,Hannah Nguyen,NVIDIA,NVDA,Engineering,Staff,70.4,972400,2.8,76.0,North America,Working class,Yes,88.3,74.5
+NVDA-0790,Ahmed Patel,NVIDIA,NVDA,Operations,Staff,98.4,200700,6.8,67.5,North America,Working class,Yes,85.0,74.9
+NVDA-0791,Daniel Lee,NVIDIA,NVDA,Sales & GTM,Staff,77.8,410200,7.5,87.5,North America,Working class,Yes,100.0,92.4
+NVDA-0792,Daniel Davis,NVIDIA,NVDA,Product,Staff,75.0,159700,1.8,70.3,South Asia,Upper-middle,No,42.1,75.1
+NVDA-0793,Michael Brown,NVIDIA,NVDA,Operations,VP,100.0,967400,9.5,81.1,Middle East,Lower-middle,Yes,58.5,61.1
+NVDA-0794,Elena Garcia,NVIDIA,NVDA,Engineering,Director,73.2,678400,6.9,79.7,Southeast Asia,Affluent,No,27.6,63.7
+NVDA-0795,Elena Petrov,NVIDIA,NVDA,Engineering,Staff,99.2,320100,7.2,65.9,Europe,Working class,Yes,84.1,69.0
+NVDA-0796,Sofia Garcia,NVIDIA,NVDA,Marketing,Staff,78.6,208100,3.8,58.3,Africa,Upper-middle,No,44.6,74.5
+NVDA-0797,Hannah Nguyen,NVIDIA,NVDA,Marketing,Senior,90.3,609100,3.2,72.9,Africa,Upper-middle,No,38.4,77.3
+NVDA-0798,Kevin Wilson,NVIDIA,NVDA,Operations,Staff,77.9,442500,17.1,63.3,North America,Working class,Yes,92.9,88.9
+NVDA-0799,Sofia Lee,NVIDIA,NVDA,People/HR,Senior,77.8,386500,7.7,68.0,North America,Lower-middle,No,66.5,87.3
+NVDA-0800,Linda Yamamoto,NVIDIA,NVDA,Engineering,Director,100.0,889700,7.0,70.6,North America,Lower-middle,No,67.0,86.3
+NVDA-0801,Samuel Garcia,NVIDIA,NVDA,Engineering,Principal,71.9,216800,6.8,76.2,North America,Lower-middle,No,80.8,72.9
+NVDA-0802,Priya Okafor,NVIDIA,NVDA,Engineering,Staff,67.2,212200,5.0,63.0,North America,Lower-middle,No,69.2,79.7
+NVDA-0803,Wei Silva,NVIDIA,NVDA,Operations,Director,79.4,417300,5.0,65.9,South Asia,Affluent,No,20.2,63.3
+NVDA-0804,Carlos Schmidt,NVIDIA,NVDA,Engineering,Senior Director,68.9,1288600,16.7,73.5,South Asia,Working class,Yes,88.2,83.1
+NVDA-0805,Nina Lopez,NVIDIA,NVDA,Product,Senior,75.8,220800,3.5,68.5,Europe,Lower-middle,Yes,79.5,97.3
+NVDA-0806,Elena Singh,NVIDIA,NVDA,Engineering,Principal,74.1,274000,7.3,61.6,Europe,Lower-middle,Yes,80.1,69.1
+NVDA-0807,Wei Lopez,NVIDIA,NVDA,Engineering,Senior,74.5,772100,1.7,74.1,North America,Middle,No,58.1,67.5
+NVDA-0808,Yuki Wang,NVIDIA,NVDA,Research & AI,Senior,66.2,200600,3.4,72.7,South Asia,Middle,No,43.7,73.8
+NVDA-0809,Olivia Davis,NVIDIA,NVDA,Research & AI,Staff,66.6,240300,6.4,68.6,North America,Middle,Yes,72.9,73.8
+NVDA-0810,Mary Tanaka,NVIDIA,NVDA,Engineering,Director,96.8,792800,4.1,66.9,North America,Middle,No,48.0,84.2
+NVDA-0811,Thomas Petrov,NVIDIA,NVDA,Research & AI,Senior,65.3,100800,4.3,61.0,South Asia,Lower-middle,No,63.6,66.3
+NVDA-0812,Daniel Chen,NVIDIA,NVDA,Engineering,Principal,99.3,822600,2.3,57.8,Europe,Middle,No,45.7,56.9
+NVDA-0813,Grace Lee,NVIDIA,NVDA,Engineering,Principal,83.2,374700,7.1,72.4,Africa,Working class,Yes,92.5,77.1
+NVDA-0814,Chen Rossi,NVIDIA,NVDA,Product,Principal,84.5,218400,2.9,77.6,East Asia,Upper-middle,Yes,35.3,73.1
+NVDA-0815,Hiroshi Garcia,NVIDIA,NVDA,Engineering,Staff,85.0,661800,4.4,75.0,North America,Lower-middle,Yes,79.6,86.7
+NVDA-0816,Wei Okafor,NVIDIA,NVDA,Legal & Policy,Staff,71.1,251700,10.2,69.2,South Asia,Middle,No,56.4,70.5
+NVDA-0817,Raj Murphy,NVIDIA,NVDA,Finance,Senior,72.6,525600,2.3,64.0,South Asia,Working class,Yes,87.1,74.2
+NVDA-0818,Emily Wang,NVIDIA,NVDA,Engineering,Senior,82.5,107400,2.0,55.9,North America,Lower-middle,Yes,75.2,71.9
+NVDA-0819,Fatima Khan,NVIDIA,NVDA,Engineering,Principal,89.9,310400,15.2,76.0,South Asia,Middle,No,47.3,63.3
+NVDA-0820,Linda Cohen,NVIDIA,NVDA,Legal & Policy,Staff,77.4,238900,3.0,61.2,Europe,Middle,No,51.8,69.6
+NVDA-0821,Arjun Martinez,NVIDIA,NVDA,Finance,Staff,83.5,305700,13.6,62.7,Middle East,Lower-middle,Yes,72.5,71.6
+NVDA-0822,Yuki Kim,NVIDIA,NVDA,Sales & GTM,Senior Director,76.9,920900,8.3,72.6,North America,Lower-middle,No,69.5,86.3
+NVDA-0823,David Tanaka,NVIDIA,NVDA,Research & AI,Senior,92.3,343500,3.7,72.9,Latin America,Working class,Yes,79.5,73.7
+NVDA-0824,Olivia Petrov,NVIDIA,NVDA,Finance,Director,79.9,648600,10.1,66.0,North America,Upper-middle,No,39.1,55.8
+NVDA-0825,Samuel Hassan,NVIDIA,NVDA,Sales & GTM,Principal,74.1,455300,6.4,64.4,North America,Lower-middle,Yes,70.4,66.3
+NVDA-0826,Raj Garcia,NVIDIA,NVDA,Engineering,Senior,77.5,677400,2.2,70.0,North America,Affluent,No,28.3,66.5
+NVDA-0827,Grace Lopez,NVIDIA,NVDA,Research & AI,C-Suite,100.0,5069900,9.2,62.0,East Asia,Upper-middle,Yes,47.1,50.5
+NVDA-0828,Raj Lee,NVIDIA,NVDA,Sales & GTM,Director,90.6,598700,24.5,68.8,Southeast Asia,Affluent,No,33.3,83.0
+NVDA-0829,Emily Tanaka,NVIDIA,NVDA,Research & AI,Senior,72.7,312400,13.0,77.3,North America,Working class,No,82.7,80.5
+NVDA-0830,Elena Chen,NVIDIA,NVDA,Product,Staff,70.6,894400,6.7,67.8,Latin America,Middle,Yes,62.3,83.9
+NVDA-0831,David Ali,NVIDIA,NVDA,Research & AI,Senior,82.9,132100,4.8,67.3,Africa,Middle,Yes,56.9,62.1
+NVDA-0832,Olivia Lee,NVIDIA,NVDA,Engineering,Senior,64.6,167600,2.5,53.6,North America,Working class,Yes,100.0,70.9
+NVDA-0833,Michael Anderson,NVIDIA,NVDA,Research & AI,Director,86.4,847300,5.6,67.9,Europe,Middle,No,54.3,77.5
+NVDA-0834,Priya Hassan,NVIDIA,NVDA,Research & AI,Principal,74.3,362000,8.2,70.3,South Asia,Lower-middle,Yes,78.3,91.4
+NVDA-0835,Michael Ali,NVIDIA,NVDA,Engineering,Senior,88.7,198900,5.1,73.0,Middle East,Lower-middle,Yes,71.2,58.3
+NVDA-0836,Arjun Martinez,NVIDIA,NVDA,Finance,Senior,63.1,157700,0.6,67.1,South Asia,Lower-middle,Yes,87.0,77.9
+NVDA-0837,Wei Silva,NVIDIA,NVDA,Engineering,Director,92.6,658700,7.3,75.8,North America,Upper-middle,Yes,42.5,69.4
+NVDA-0838,Grace Silva,NVIDIA,NVDA,Engineering,Senior,78.6,244900,12.6,68.3,South Asia,Lower-middle,Yes,64.7,57.1
+NVDA-0839,Mary Johnson,NVIDIA,NVDA,Marketing,Principal,74.3,289300,10.1,68.8,Latin America,Affluent,No,27.0,59.4
+NVDA-0840,James Anderson,NVIDIA,NVDA,Product,Senior,94.2,123500,2.6,65.4,North America,Lower-middle,Yes,74.6,82.4
+NVDA-0841,John Martinez,NVIDIA,NVDA,Legal & Policy,Staff,74.1,525200,2.1,71.9,North America,Working class,No,64.7,59.2
+NVDA-0842,Olivia Rossi,NVIDIA,NVDA,Research & AI,Senior,100.0,304300,8.0,63.3,South Asia,Lower-middle,Yes,66.0,71.1
+NVDA-0843,Arjun Martinez,NVIDIA,NVDA,Engineering,Senior,62.7,203800,3.2,54.5,East Asia,Lower-middle,No,67.2,58.9
+NVDA-0844,Priya Davis,NVIDIA,NVDA,Design,Senior,55.8,207700,6.1,70.5,North America,Middle,No,42.5,71.7
+NVDA-0845,Olivia Chen,NVIDIA,NVDA,Research & AI,Staff,54.9,554000,2.7,69.7,Europe,Lower-middle,Yes,90.4,87.7
+NVDA-0846,Emily Singh,NVIDIA,NVDA,Operations,Principal,64.0,421000,4.9,71.5,South Asia,Lower-middle,No,63.8,68.3
+NVDA-0847,Grace Cohen,NVIDIA,NVDA,Finance,Senior,96.8,300200,15.9,56.0,Latin America,Middle,No,55.0,71.7
+NVDA-0848,Zoe Hassan,NVIDIA,NVDA,Engineering,Director,96.4,1470900,11.2,80.8,North America,Affluent,No,32.2,69.7
+NVDA-0849,Yuki Patel,NVIDIA,NVDA,Sales & GTM,Principal,77.1,343200,4.7,62.7,Latin America,Lower-middle,Yes,73.9,61.0
+NVDA-0850,Fatima Martinez,NVIDIA,NVDA,Engineering,Staff,84.5,669700,4.0,65.6,Southeast Asia,Lower-middle,No,71.4,91.2
+NVDA-0851,Maria Singh,NVIDIA,NVDA,Engineering,Director,90.5,745500,10.2,70.2,East Asia,Affluent,No,43.6,57.5
+NVDA-0852,Kevin Park,NVIDIA,NVDA,Sales & GTM,Senior,86.3,365800,3.0,73.7,East Asia,Working class,Yes,93.1,79.4
+NVDA-0853,Raj Ali,NVIDIA,NVDA,Product,VP,85.3,1753300,7.3,75.7,North America,Middle,No,53.9,63.5
+NVDA-0854,Arjun Patel,NVIDIA,NVDA,Engineering,Director,69.3,1025100,4.1,63.6,Middle East,Upper-middle,No,24.2,65.9
+NVDA-0855,Wei Chen,NVIDIA,NVDA,Finance,VP,89.3,2202800,9.6,64.2,North America,Middle,No,52.4,65.1
+NVDA-0856,Thomas Garcia,NVIDIA,NVDA,People/HR,Senior,83.8,352300,1.7,63.2,North America,Working class,Yes,98.9,88.0
+NVDA-0857,Wei Tanaka,NVIDIA,NVDA,People/HR,Senior,82.7,296900,5.9,73.7,North America,Lower-middle,Yes,78.1,88.6
+NVDA-0858,Linda Ali,NVIDIA,NVDA,People/HR,Senior,87.4,334700,4.1,65.6,Middle East,Upper-middle,No,41.7,66.6
+NVDA-0859,Emily Garcia,NVIDIA,NVDA,Operations,Senior,85.7,214200,6.3,70.3,South Asia,Lower-middle,Yes,81.0,84.8
+NVDA-0860,Grace Brown,NVIDIA,NVDA,Operations,VP,85.6,1715700,9.2,73.9,East Asia,Upper-middle,No,39.0,66.5
+NVDA-0861,Michael Park,NVIDIA,NVDA,Finance,Senior,79.1,340400,2.6,76.0,South Asia,Upper-middle,No,32.0,79.3
+NVDA-0862,Carlos Murphy,NVIDIA,NVDA,Research & AI,Staff,100.0,346800,0.7,59.6,North America,Working class,Yes,98.3,87.8
+NVDA-0863,Mary Martinez,NVIDIA,NVDA,Engineering,Senior,73.6,547300,4.4,58.7,North America,Upper-middle,Yes,44.1,69.5
+NVDA-0864,Carlos Park,NVIDIA,NVDA,Engineering,Principal,78.7,588700,8.5,63.9,North America,Working class,Yes,82.3,70.2
+NVDA-0865,Michael Reyes,NVIDIA,NVDA,Research & AI,Staff,85.5,565400,2.1,74.5,North America,Lower-middle,Yes,81.7,79.3
+NVDA-0866,Wei Wang,NVIDIA,NVDA,Finance,Principal,89.7,1060000,8.2,60.4,Southeast Asia,Upper-middle,Yes,48.3,76.0
+NVDA-0867,Chen Singh,NVIDIA,NVDA,Sales & GTM,Senior,98.1,356900,2.6,64.3,Latin America,Lower-middle,Yes,67.8,87.5
+NVDA-0868,Emily Kim,NVIDIA,NVDA,Engineering,Staff,58.6,223800,2.6,65.0,Middle East,Lower-middle,Yes,84.3,89.8
+NVDA-0869,Priya Brown,NVIDIA,NVDA,Sales & GTM,Senior,68.4,194100,1.0,69.0,East Asia,Working class,Yes,91.2,78.2
+NVDA-0870,Michael Davis,NVIDIA,NVDA,Engineering,Principal,81.7,1188200,4.0,68.5,North America,Middle,Yes,53.8,57.8
+NVDA-0871,Yuki Park,NVIDIA,NVDA,Engineering,Staff,61.8,105200,9.2,56.2,Southeast Asia,Lower-middle,No,61.6,79.1
+NVDA-0872,Arjun Lopez,NVIDIA,NVDA,Engineering,Staff,81.9,260000,3.3,78.3,North America,Upper-middle,No,38.7,56.9
+NVDA-0873,Hiroshi Reyes,NVIDIA,NVDA,Operations,Principal,70.7,309400,5.5,74.3,North America,Middle,No,64.8,78.4
+NVDA-0874,Arjun Petrov,NVIDIA,NVDA,Engineering,Principal,86.5,975500,11.8,79.3,South Asia,Lower-middle,Yes,70.0,80.6
+NVDA-0875,Sofia Martinez,NVIDIA,NVDA,Sales & GTM,Principal,83.5,261800,6.2,57.6,Europe,Lower-middle,No,57.0,63.4
+NVDA-0876,Priya Smith,NVIDIA,NVDA,Research & AI,Senior,77.0,342000,6.7,77.5,North America,Upper-middle,No,51.6,65.7
+NVDA-0877,Hannah Tanaka,NVIDIA,NVDA,Sales & GTM,Senior,79.9,245900,16.3,54.0,North America,Middle,No,56.9,67.7
+NVDA-0878,Michael Lee,NVIDIA,NVDA,Operations,Director,79.2,1073300,12.7,74.9,North America,Lower-middle,Yes,64.2,82.0
+NVDA-0879,John Khan,NVIDIA,NVDA,Finance,Senior,88.2,274700,3.7,75.3,North America,Upper-middle,No,35.9,50.8
+NVDA-0880,Daniel Patel,NVIDIA,NVDA,Sales & GTM,Staff,70.5,982300,1.7,63.2,North America,Upper-middle,Yes,40.0,75.3
+NVDA-0881,Hannah Murphy,NVIDIA,NVDA,Research & AI,Senior Director,70.0,689700,8.6,70.3,North America,Affluent,No,26.8,64.3
+NVDA-0882,Raj Lopez,NVIDIA,NVDA,Product,Senior,82.1,155400,4.2,64.5,Latin America,Middle,No,48.4,75.6
+NVDA-0883,Fatima Yamamoto,NVIDIA,NVDA,Marketing,Director,78.0,700000,4.9,66.4,South Asia,Working class,No,87.6,58.4
+NVDA-0884,Kevin Chen,NVIDIA,NVDA,Engineering,Staff,88.3,294200,14.0,64.5,North America,Lower-middle,Yes,68.7,76.0
+NVDA-0885,Kevin Murphy,NVIDIA,NVDA,Legal & Policy,Staff,68.0,295800,4.7,80.7,North America,Working class,Yes,96.2,89.9
+NVDA-0886,Olivia Lee,NVIDIA,NVDA,Engineering,Senior,80.7,229300,2.9,69.3,East Asia,Upper-middle,No,31.1,76.4
+NVDA-0887,Hannah Lee,NVIDIA,NVDA,Legal & Policy,Senior,93.5,334900,6.1,56.5,South Asia,Middle,No,49.5,68.0
+NVDA-0888,Emily Nguyen,NVIDIA,NVDA,Product,Senior,71.2,294300,3.3,52.4,North America,Lower-middle,No,62.5,61.7
+NVDA-0889,Nina Martinez,NVIDIA,NVDA,Engineering,Principal,80.4,550600,13.1,68.4,Europe,Lower-middle,No,63.3,66.5
+NVDA-0890,Hiroshi Garcia,NVIDIA,NVDA,Sales & GTM,Senior,72.0,204500,5.9,60.0,North America,Middle,No,59.0,71.7
+NVDA-0891,Kevin Ali,NVIDIA,NVDA,Research & AI,Senior,84.4,246000,0.7,63.6,Europe,Middle,No,64.3,60.0
+NVDA-0892,Maria Brown,NVIDIA,NVDA,Engineering,Principal,83.1,696600,3.6,73.9,North America,Lower-middle,Yes,71.0,66.2
+NVDA-0893,Wei Chen,NVIDIA,NVDA,Engineering,Senior,80.1,300800,5.2,72.0,North America,Working class,Yes,70.6,76.2
+NVDA-0894,Elena Lee,NVIDIA,NVDA,People/HR,Director,100.0,362800,3.7,61.5,North America,Upper-middle,No,42.6,75.9
+NVDA-0895,Elena Murphy,NVIDIA,NVDA,Sales & GTM,Senior,84.9,310900,6.1,84.3,North America,Working class,Yes,92.7,79.7
+NVDA-0896,Chen Singh,NVIDIA,NVDA,Sales & GTM,Staff,83.3,534100,4.2,66.2,North America,Working class,Yes,94.0,75.9
+NVDA-0897,Hannah Chen,NVIDIA,NVDA,Engineering,Staff,91.1,437100,9.7,69.3,North America,Working class,Yes,90.5,76.5
+NVDA-0898,Aisha Park,NVIDIA,NVDA,Engineering,Staff,86.2,1337600,8.2,71.1,Europe,Working class,No,74.4,89.4
+NVDA-0899,James Brown,NVIDIA,NVDA,Sales & GTM,VP,89.6,605200,6.2,86.1,Middle East,Lower-middle,Yes,80.5,72.2
+NVDA-0900,James Singh,NVIDIA,NVDA,Engineering,Staff,94.3,327700,8.0,67.7,Latin America,Middle,No,30.3,75.2
+NVDA-0901,James Cohen,NVIDIA,NVDA,Legal & Policy,Senior,87.5,960000,7.6,56.7,Africa,Working class,Yes,91.0,70.4
+NVDA-0902,Wei Davis,NVIDIA,NVDA,Engineering,Senior Director,93.2,814100,3.8,67.7,North America,Upper-middle,No,31.4,70.1
+NVDA-0903,Zoe Rossi,NVIDIA,NVDA,Design,Senior,69.9,371400,5.1,77.2,North America,Lower-middle,Yes,82.7,71.7
+NVDA-0904,Sofia Silva,NVIDIA,NVDA,Sales & GTM,Staff,74.5,599400,3.0,70.8,Latin America,Lower-middle,Yes,78.0,77.6
+NVDA-0905,James Tanaka,NVIDIA,NVDA,Finance,Director,86.5,374900,10.3,67.2,South Asia,Upper-middle,No,33.5,70.3
+NVDA-0906,Aisha Schmidt,NVIDIA,NVDA,Engineering,Staff,77.7,404100,6.0,44.4,North America,Middle,No,51.8,60.4
+NVDA-0907,Daniel Lopez,NVIDIA,NVDA,Sales & GTM,Staff,85.3,97400,2.5,68.2,East Asia,Middle,No,58.6,58.2
+NVDA-0908,Michael Martinez,NVIDIA,NVDA,Operations,SVP,83.0,976500,18.4,73.2,Middle East,Working class,Yes,100.0,88.7
+NVDA-0909,Raj Chen,NVIDIA,NVDA,Engineering,Senior,81.0,246500,2.5,54.9,South Asia,Upper-middle,No,39.5,69.4
+NVDA-0910,James Singh,NVIDIA,NVDA,Product,Director,78.6,502700,9.3,71.0,East Asia,Lower-middle,No,61.1,85.8
+NVDA-0911,Linda Chen,NVIDIA,NVDA,Engineering,Senior,76.5,422200,8.2,52.7,North America,Middle,No,49.2,53.9
+NVDA-0912,Sofia Davis,NVIDIA,NVDA,Operations,Staff,97.7,863700,5.1,61.3,North America,Lower-middle,Yes,74.3,96.8
+NVDA-0913,Elena Martinez,NVIDIA,NVDA,Engineering,Senior,73.6,310800,7.7,77.7,South Asia,Upper-middle,Yes,37.3,73.8
+NVDA-0914,Sofia Chen,NVIDIA,NVDA,Operations,SVP,89.7,2013700,11.6,79.1,East Asia,Upper-middle,No,35.0,58.2
+NVDA-0915,Linda Petrov,NVIDIA,NVDA,Sales & GTM,Senior,76.9,319900,10.6,73.6,Europe,Lower-middle,Yes,83.5,81.7
+NVDA-0916,Mary Park,NVIDIA,NVDA,Design,Staff,73.6,561300,4.7,60.3,Europe,Upper-middle,No,37.1,73.2
+NVDA-0917,Maria Schmidt,NVIDIA,NVDA,Operations,Senior,90.3,471400,4.4,69.2,Latin America,Middle,Yes,69.3,76.5
+NVDA-0918,Olivia Garcia,NVIDIA,NVDA,Product,Principal,66.3,240300,5.6,72.2,South Asia,Working class,No,84.7,78.9
+NVDA-0919,Ahmed Lee,NVIDIA,NVDA,Engineering,Senior,76.0,483600,7.8,73.3,North America,Upper-middle,Yes,50.9,86.6
+NVDA-0920,John Wang,NVIDIA,NVDA,Finance,Senior Director,85.3,758400,10.9,73.4,South Asia,Middle,No,63.5,74.7
+NVDA-0921,Yuki Patel,NVIDIA,NVDA,Engineering,Senior,82.0,618200,13.8,74.4,Southeast Asia,Affluent,No,22.1,81.2
+NVDA-0922,Mary Smith,NVIDIA,NVDA,Design,Staff,95.7,297800,4.7,73.8,South Asia,Working class,Yes,88.2,87.0
+NVDA-0923,Nina Silva,NVIDIA,NVDA,Engineering,Director,89.8,955600,11.6,84.0,North America,Affluent,No,19.7,82.9
+NVDA-0924,Fatima Lopez,NVIDIA,NVDA,Marketing,Staff,92.7,559800,5.8,76.6,North America,Lower-middle,Yes,81.6,82.2
+NVDA-0925,Grace Park,NVIDIA,NVDA,Research & AI,Principal,86.2,336600,7.6,69.5,Latin America,Affluent,No,23.6,83.7
+NVDA-0926,Grace Okafor,NVIDIA,NVDA,Marketing,VP,62.5,723400,7.0,71.1,North America,Lower-middle,No,73.2,79.7
+NVDA-0927,Samuel Lopez,NVIDIA,NVDA,Engineering,Staff,83.7,377800,0.7,74.7,North America,Upper-middle,No,33.5,73.4
+NVDA-0928,Hiroshi Garcia,NVIDIA,NVDA,Engineering,Staff,79.8,310200,6.6,85.3,South Asia,Lower-middle,Yes,75.2,86.9
+NVDA-0929,Elena Garcia,NVIDIA,NVDA,Finance,Staff,90.4,1092000,5.1,60.0,North America,Upper-middle,No,41.1,85.5
+NVDA-0930,James Murphy,NVIDIA,NVDA,Engineering,Senior,69.2,159100,1.7,71.5,Europe,Middle,No,60.7,84.7
+NVDA-0931,Priya Ali,NVIDIA,NVDA,People/HR,Senior Director,77.8,1582100,11.2,75.2,South Asia,Working class,Yes,94.7,75.3
+NVDA-0932,Elena Davis,NVIDIA,NVDA,Product,Principal,97.4,531800,12.3,75.0,North America,Lower-middle,Yes,83.3,82.7
+NVDA-0933,Yuki Lee,NVIDIA,NVDA,Legal & Policy,SVP,79.5,1458100,10.7,72.3,Southeast Asia,Lower-middle,Yes,70.3,75.1
+NVDA-0934,Linda Johnson,NVIDIA,NVDA,Engineering,Senior,84.4,202800,8.9,66.9,South Asia,Lower-middle,Yes,66.7,77.3
+NVDA-0935,Raj Khan,NVIDIA,NVDA,Sales & GTM,Principal,82.9,336200,5.7,78.1,North America,Working class,Yes,96.7,78.6
+NVDA-0936,Samuel Anderson,NVIDIA,NVDA,Engineering,Senior,71.1,549200,5.0,62.4,Latin America,Lower-middle,Yes,57.8,69.3
+NVDA-0937,Daniel Park,NVIDIA,NVDA,Engineering,Staff,79.5,143400,7.3,72.3,North America,Lower-middle,No,66.8,73.9
+NVDA-0938,Michael Tanaka,NVIDIA,NVDA,Engineering,Staff,93.0,823000,3.4,77.4,North America,Working class,No,80.1,85.3
+NVDA-0939,David Okafor,NVIDIA,NVDA,Operations,Senior,78.9,761500,2.4,76.3,East Asia,Working class,Yes,94.1,79.5
+NVDA-0940,Nina Davis,NVIDIA,NVDA,Engineering,Principal,92.7,561800,2.7,57.9,Europe,Middle,No,45.4,53.5
+NVDA-0941,Michael Rossi,NVIDIA,NVDA,Product,Principal,78.2,613800,12.4,74.1,Middle East,Middle,No,48.3,57.3
+NVDA-0942,Linda Yamamoto,NVIDIA,NVDA,Engineering,Principal,75.3,305000,2.6,77.4,North America,Middle,Yes,64.6,82.9
+NVDA-0943,John Park,NVIDIA,NVDA,Research & AI,Senior,76.3,133500,4.7,80.0,South Asia,Middle,No,50.9,75.8
+NVDA-0944,Yuki Cohen,NVIDIA,NVDA,Marketing,Director,94.3,347100,7.5,63.1,North America,Lower-middle,Yes,69.6,59.0
+NVDA-0945,Hannah Lee,NVIDIA,NVDA,Marketing,Senior Director,64.5,1116400,5.9,78.1,North America,Upper-middle,No,38.0,72.8
+NVDA-0946,Zoe Reyes,NVIDIA,NVDA,Engineering,Principal,68.4,465700,4.9,85.6,Europe,Middle,No,44.6,67.4
+NVDA-0947,Raj Kim,NVIDIA,NVDA,Research & AI,Senior Director,79.2,693000,17.0,57.3,North America,Lower-middle,Yes,69.6,81.4
+NVDA-0948,Mary Murphy,NVIDIA,NVDA,Engineering,Senior,66.0,146600,5.7,60.1,North America,Middle,Yes,60.5,71.4
+NVDA-0949,Chen Garcia,NVIDIA,NVDA,Sales & GTM,Principal,89.0,274700,9.9,75.3,South Asia,Lower-middle,No,71.8,98.8
+NVDA-0950,John Wilson,NVIDIA,NVDA,Product,Senior,75.0,487900,6.4,70.0,North America,Affluent,No,17.9,51.5
+NVDA-0951,Kevin Park,NVIDIA,NVDA,Research & AI,Senior,66.3,618000,10.7,49.0,South Asia,Lower-middle,No,61.5,67.5
+NVDA-0952,Mary Petrov,NVIDIA,NVDA,Engineering,Principal,68.8,561400,6.0,87.7,North America,Middle,No,56.4,78.7
+NVDA-0953,Carlos Cohen,NVIDIA,NVDA,Sales & GTM,Director,94.2,536300,4.0,87.1,North America,Middle,No,42.9,59.4
+NVDA-0954,Kevin Davis,NVIDIA,NVDA,Engineering,Senior,77.0,398400,7.2,68.9,North America,Middle,No,56.3,83.3
+NVDA-0955,Aisha Ali,NVIDIA,NVDA,Research & AI,Director,99.0,639500,8.5,81.0,South Asia,Middle,No,49.6,81.0
+NVDA-0956,Linda Brown,NVIDIA,NVDA,Finance,C-Suite,82.2,3549200,7.0,90.9,North America,Middle,No,36.5,90.6
+NVDA-0957,Yuki Reyes,NVIDIA,NVDA,Design,Director,100.0,526600,4.3,52.3,North America,Upper-middle,No,23.2,62.1
+NVDA-0958,James Lopez,NVIDIA,NVDA,Operations,Senior,89.6,140800,4.3,67.6,North America,Middle,No,66.0,100.0
+NVDA-0959,Linda Schmidt,NVIDIA,NVDA,People/HR,Staff,87.1,805400,4.0,59.9,North America,Middle,No,52.3,83.1
+NVDA-0960,Linda Ali,NVIDIA,NVDA,Engineering,Staff,83.6,180200,2.1,77.3,Middle East,Lower-middle,Yes,73.2,80.6
+NVDA-0961,Priya Ali,NVIDIA,NVDA,Engineering,Senior,96.6,192700,7.4,70.5,Europe,Middle,No,58.1,77.5
+NVDA-0962,Grace Ali,NVIDIA,NVDA,People/HR,Senior,83.1,480600,7.3,62.2,North America,Affluent,No,12.9,53.7
+NVDA-0963,Daniel Chen,NVIDIA,NVDA,Legal & Policy,Senior,84.4,346900,10.8,63.0,Latin America,Middle,No,58.2,65.3
+NVDA-0964,Hiroshi Martinez,NVIDIA,NVDA,Sales & GTM,Senior,78.1,118400,8.6,58.0,South Asia,Middle,No,45.0,87.8
+NVDA-0965,David Yamamoto,NVIDIA,NVDA,Engineering,Senior,81.2,257100,4.9,81.3,North America,Lower-middle,Yes,63.3,60.8
+NVDA-0966,Yuki Johnson,NVIDIA,NVDA,Operations,Senior Director,77.9,331300,12.6,71.9,Latin America,Upper-middle,Yes,52.7,72.7
+NVDA-0967,Sofia Brown,NVIDIA,NVDA,Legal & Policy,Director,81.6,851100,10.2,69.7,North America,Middle,No,59.4,68.3
+NVDA-0968,Ahmed Tanaka,NVIDIA,NVDA,Product,Senior,85.7,231300,14.0,52.0,South Asia,Middle,No,48.4,68.8
+NVDA-0969,Carlos Chen,NVIDIA,NVDA,Marketing,Director,67.2,1222100,5.1,73.9,Africa,Middle,No,43.0,88.0
+NVDA-0970,John Patel,NVIDIA,NVDA,Engineering,Senior Director,84.9,533300,16.9,77.4,North America,Middle,No,54.1,55.8
+NVDA-0971,Raj Silva,NVIDIA,NVDA,Research & AI,Staff,72.4,438800,5.5,66.7,North America,Middle,Yes,66.7,64.1
+NVDA-0972,Kevin Wilson,NVIDIA,NVDA,Engineering,Principal,68.5,255100,11.3,61.8,Africa,Lower-middle,No,63.7,76.6
+NVDA-0973,Olivia Davis,NVIDIA,NVDA,People/HR,Senior Director,85.5,1343600,5.2,73.0,Southeast Asia,Working class,Yes,87.9,74.3
+NVDA-0974,Michael Petrov,NVIDIA,NVDA,Design,SVP,89.5,1485100,10.0,77.0,North America,Working class,Yes,85.3,78.9
+NVDA-0975,Mary Garcia,NVIDIA,NVDA,Operations,Staff,83.0,616700,6.2,63.9,East Asia,Middle,Yes,59.4,70.0
+NVDA-0976,Priya Petrov,NVIDIA,NVDA,Product,Staff,76.9,228900,7.4,74.4,South Asia,Working class,Yes,100.0,84.5
+NVDA-0977,John Rossi,NVIDIA,NVDA,Sales & GTM,Staff,68.5,462700,5.5,77.5,North America,Middle,Yes,64.5,81.5
+NVDA-0978,Fatima Okafor,NVIDIA,NVDA,Legal & Policy,Principal,70.8,295000,2.1,74.2,South Asia,Lower-middle,No,66.2,75.0
+NVDA-0979,Olivia Rossi,NVIDIA,NVDA,Research & AI,Senior,74.3,184400,7.3,79.0,Africa,Working class,No,82.7,80.1
+NVDA-0980,James Garcia,NVIDIA,NVDA,Sales & GTM,Senior Director,94.1,246100,8.3,89.0,South Asia,Working class,Yes,83.8,79.6
+NVDA-0981,Thomas Wilson,NVIDIA,NVDA,Engineering,Senior,84.3,751300,0.8,69.0,Latin America,Middle,No,44.3,60.2
+NVDA-0982,Sofia Singh,NVIDIA,NVDA,Engineering,Senior,84.5,362400,5.2,68.4,North America,Middle,Yes,61.0,90.3
+NVDA-0983,Thomas Chen,NVIDIA,NVDA,Engineering,Principal,56.4,335500,3.4,52.5,South Asia,Lower-middle,Yes,62.6,70.4
+NVDA-0984,James Davis,NVIDIA,NVDA,Research & AI,Director,92.2,1156800,5.6,65.2,Europe,Lower-middle,No,78.7,71.4
+NVDA-0985,Ahmed Anderson,NVIDIA,NVDA,Sales & GTM,Senior,91.5,257800,12.5,75.2,North America,Lower-middle,Yes,75.1,88.2
+NVDA-0986,Carlos Singh,NVIDIA,NVDA,Engineering,Principal,86.6,285900,5.0,77.4,North America,Lower-middle,No,69.3,78.4
+NVDA-0987,Kevin Park,NVIDIA,NVDA,Sales & GTM,Director,81.0,2033900,4.4,77.2,East Asia,Middle,No,43.8,65.6
+NVDA-0988,David Khan,NVIDIA,NVDA,Engineering,Staff,94.5,452600,8.7,63.2,North America,Upper-middle,No,35.6,56.1
+NVDA-0989,Daniel Martinez,NVIDIA,NVDA,Operations,Senior,61.6,221600,4.6,62.2,East Asia,Working class,No,86.0,63.2
+NVDA-0990,Maria Davis,NVIDIA,NVDA,Legal & Policy,Principal,82.6,366800,15.2,63.7,South Asia,Lower-middle,No,55.0,73.3
+NVDA-0991,Elena Martinez,NVIDIA,NVDA,Engineering,Staff,81.9,164600,5.5,69.8,North America,Working class,No,73.7,76.0
+NVDA-0992,Aisha Park,NVIDIA,NVDA,People/HR,Staff,78.7,240100,6.2,77.4,North America,Lower-middle,Yes,81.4,66.7
+NVDA-0993,Nina Johnson,NVIDIA,NVDA,Research & AI,Director,86.9,1409000,7.1,65.9,North America,Affluent,No,21.3,67.8
+NVDA-0994,Maria Nguyen,NVIDIA,NVDA,Engineering,Senior,68.0,406100,4.3,62.1,South Asia,Lower-middle,No,60.2,73.9
+NVDA-0995,Raj Singh,NVIDIA,NVDA,Product,Staff,72.1,342600,4.0,67.7,North America,Middle,No,51.9,62.9
+NVDA-0996,Emily Singh,NVIDIA,NVDA,Research & AI,SVP,76.7,808800,12.9,64.0,South Asia,Middle,No,72.3,68.7
+NVDA-0997,Raj Yamamoto,NVIDIA,NVDA,Engineering,Staff,79.8,197100,7.2,61.4,North America,Lower-middle,No,59.9,62.0
+NVDA-0998,Hannah Garcia,NVIDIA,NVDA,Operations,Staff,86.3,391000,3.0,67.4,Oceania,Affluent,No,30.8,84.4
+NVDA-0999,Kevin Okafor,NVIDIA,NVDA,Sales & GTM,Senior,70.6,565000,3.8,66.8,Africa,Working class,No,91.4,81.4
+NVDA-1000,Thomas Ali,NVIDIA,NVDA,Research & AI,Staff,96.1,348200,1.5,70.6,North America,Middle,Yes,58.1,58.9

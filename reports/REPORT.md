@@ -1,15 +1,16 @@
-# Which of the World's 10 Biggest Companies Becomes the *Tyrell Corporation*?
+# Which of the World's Biggest Companies Becomes the *Tyrell Corporation*?
 
-**A workforce-and-dominance study** · Prepared 2026-06-09 · 10 companies × 1,000 employees = **10,000 records** · **6 metrics** each
+**A workforce-and-dominance study** · Prepared 2026-06-09 · **12 companies × 1,000 employees = 12,000 records** · **6 metrics** each
 
-> **Main objective.** Predict which of the ten largest companies by market cap is
-> most likely to become the **Tyrell Corporation** of our universe — not because
-> Tyrell builds androids, but because it is a **globally dominant megacorporation**
-> the world cannot route around. We answer it with a transparent **Tyrell Index**
-> built from market dominance, strategic moat, and the *character* of each
-> workforce.
+> **Main objective.** Predict which of the largest companies by value is most likely
+> to become the **Tyrell Corporation** of our universe — not because Tyrell builds
+> androids, but because it is a **globally dominant megacorporation** the world cannot
+> route around. We answer it with a transparent **Tyrell Index** built from market
+> dominance, strategic moat, and the *character* of each workforce.
 >
-> ### 🏆 Verdict: **NVIDIA** (Tyrell Index **91.9 / 100**), well ahead of Alphabet (73.3) and Apple (66.4).
+> ### 🏆 Verdict: **NVIDIA** (Tyrell Index **86.2 / 100**), ahead of Alphabet (71.3) and Apple (65.8).
+> The two private newcomers debut high — **SpaceX #4 (59.1)** and **OpenAI #5 (57.8)** —
+> punching far above their valuation on workforce character and moat.
 
 ---
 
@@ -17,59 +18,70 @@
 
 | Part | Source | Status |
 |------|--------|--------|
-| The 10 companies + market cap / sector / country | [companiesmarketcap.com](https://companiesmarketcap.com/) (June 2026) | ✅ **Real, sourced** |
-| Strategic-moat scores in the Tyrell Index | Curated from public facts (chips, cloud, AI, energy) | 🟨 **Editorial, sourced rationale** |
+| The 10 public companies + market cap | [companiesmarketcap.com](https://companiesmarketcap.com/) (June 2026) | ✅ **Real, sourced** |
+| OpenAI & SpaceX **private valuations** | Latest funding/tender rounds (2026) | ✅ **Real, sourced** |
+| Strategic-moat scores in the Tyrell Index | Curated from public facts | 🟨 **Editorial, sourced rationale** |
 | The 1,000 employees/company + all 6 per-person metrics | `scripts/generate_data.py` | ⚠️ **Synthetic** |
 
-No company publishes a roster of its "1,000 most important employees" with
-performance, pay, tenure — let alone their **potential, origins, or mental
-strength**. That data does not exist publicly, and "character" and "origins" are
-*unmeasurable* for anyone, let alone fictional people. So the 10,000 employee
-records are **modelled**: every metric is drawn from a distribution calibrated to
-public, *company-level* characteristics (pay scale, seniority mix, turnover,
-hiring geography, culture). It is realistic in **shape**, reproducible (seed
-`20260609`), and useful for **methodology and comparison** — but it is **not** data
-about real individuals. Treat the character metrics especially as an *illustrative
-model*, not a measurement.
+**On the two newcomers:** OpenAI and SpaceX are **private companies — they have no
+market cap.** We use their latest *private valuations* instead (clearly flagged), and
+**rank them by valuation**, where they slot in at #11–12. (SpaceX's IPO is reportedly
+imminent — see §1.)
+
+**On the employees:** no company publishes a roster of its "1,000 most important
+employees" with performance, pay, tenure — let alone **potential, origins, or mental
+strength**. That data does not exist, and "character" is unmeasurable for anyone, let
+alone fictional people. The 12,000 records are **modelled** from distributions
+calibrated to public, *company-level* traits (pay scale, seniority, turnover, hiring
+geography, culture). Realistic in **shape**, reproducible (seed `20260609`), useful for
+**methodology and comparison** — **not** data about real individuals.
 
 ---
 
-## 1. The 10 companies
+## 1. The 12 companies
 
-| Rank | Company | Ticker | Country | Sector | Market cap ($T) |
-|-----:|---------|--------|---------|--------|----------------:|
-| 1 | NVIDIA | NVDA | 🇺🇸 USA | Semiconductors / AI | 5.053 |
-| 2 | Apple | AAPL | 🇺🇸 USA | Consumer Electronics | 4.428 |
-| 3 | Alphabet (Google) | GOOG | 🇺🇸 USA | Internet / AI | 4.404 |
-| 4 | Microsoft | MSFT | 🇺🇸 USA | Software / Cloud | 3.058 |
-| 5 | Amazon | AMZN | 🇺🇸 USA | E-commerce / Cloud | 2.637 |
-| 6 | TSMC | TSM | 🇹🇼 Taiwan | Semiconductor Foundry | 2.213 |
-| 7 | Broadcom | AVGO | 🇺🇸 USA | Semiconductors / Software | 1.877 |
-| 8 | Saudi Aramco | 2222.SR | 🇸🇦 Saudi Arabia | Oil & Gas | 1.750 |
-| 9 | Tesla | TSLA | 🇺🇸 USA | Automotive / Energy | 1.535 |
-| 10 | Meta Platforms | META | 🇺🇸 USA | Social / AI | 1.485 |
+Ranked by value (market cap for public firms; latest private valuation for the two
+private firms). USD trillions.
+
+| Rank | Company | Ticker | Country | Sector | Ownership | Value ($T) |
+|-----:|---------|--------|---------|--------|-----------|-----------:|
+| 1 | NVIDIA | NVDA | 🇺🇸 USA | Semiconductors / AI | Public | 5.053 |
+| 2 | Apple | AAPL | 🇺🇸 USA | Consumer Electronics | Public | 4.428 |
+| 3 | Alphabet (Google) | GOOG | 🇺🇸 USA | Internet / AI | Public | 4.404 |
+| 4 | Microsoft | MSFT | 🇺🇸 USA | Software / Cloud | Public | 3.058 |
+| 5 | Amazon | AMZN | 🇺🇸 USA | E-commerce / Cloud | Public | 2.637 |
+| 6 | TSMC | TSM | 🇹🇼 Taiwan | Semiconductor Foundry | Public | 2.213 |
+| 7 | Broadcom | AVGO | 🇺🇸 USA | Semiconductors / Software | Public | 1.877 |
+| 8 | Saudi Aramco | 2222.SR | 🇸🇦 Saudi Arabia | Oil & Gas | Public | 1.750 |
+| 9 | Tesla | TSLA | 🇺🇸 USA | Automotive / Energy | Public | 1.535 |
+| 10 | Meta Platforms | META | 🇺🇸 USA | Social / AI | Public | 1.485 |
+| **11** | **SpaceX** 🔒 | — | 🇺🇸 USA | Aerospace / Satellites / AI | **Private** | **1.250** |
+| **12** | **OpenAI** 🔒 | — | 🇺🇸 USA | Frontier AI | **Private** | **0.852** |
+
+🔒 = private; figure is a private valuation, not a market cap.
+**SpaceX** $1.25T reflects the post-**xAI-merger** combined entity (Feb 2026). Its IPO
+is reportedly targeted for **~June 12, 2026 at $1.75–2T** — which, if priced there,
+would vault it into the public top tier (≈#7). **OpenAI** $0.852T is the March 2026
+Series-G valuation (up from $300B a year earlier).
 
 ---
 
 ## 2. The six metrics
 
-Each of the 10,000 employees carries **three performance metrics** and **three
-character metrics**. The character metrics are each a 0–100 index built from named
-sub-traits, so they're interpretable rather than black boxes.
+Three **performance** metrics + three **character** metrics (each character metric is a
+0–100 index of named sub-traits, so it's interpretable).
 
-| # | Metric | Type | What it captures |
-|---|--------|------|------------------|
+| # | Metric | Type | Captures |
+|---|--------|------|----------|
 | 1 | **Performance score** (0–100) | performance | Annual rating. |
-| 2 | **Total compensation** (USD) | performance | All-in pay: base + bonus + equity. |
+| 2 | **Total compensation** (USD) | performance | Base + bonus + equity. |
 | 3 | **Tenure** (years) | performance | Retention / institutional knowledge. |
-| 4 | **Potential index** (0–100) | **character** | Growth ceiling = learning agility + ambition/drive + promotion *trajectory* (level reached vs tenure) + a little grit. |
-| 5 | **Adversity-of-origin score** (0–100) | **character** | *Where they come from*, quantified: higher = started further back / more self-made. Built from **origin region** + **socioeconomic background** + first-generation-professional status. |
-| 6 | **Mental strength** (0–100) | **character** | Resilience + stress tolerance + grit, tilted up by a harder start and stronger performance. |
+| 4 | **Potential index** (0–100) | **character** | Learning agility + ambition + promotion *trajectory* + grit. |
+| 5 | **Adversity-of-origin** (0–100) | **character** | *Where they come from*: origin region + socioeconomic background + first-gen status. Higher = more self-made. |
+| 6 | **Mental strength** (0–100) | **character** | Resilience + stress tolerance + grit. |
 
-Two descriptive fields back metric 5: `origin_region` (9 world regions) and
-`socioeconomic_origin` (Working class → Affluent), plus a
-`first_generation_professional` flag. Full per-employee tables:
-`data/employees/<rank>_<company>.csv`; combined: `data/all_employees.csv`.
+Per-employee files: `data/employees/<rank>_<company>.csv`; combined:
+`data/all_employees.csv`.
 
 ---
 
@@ -87,11 +99,17 @@ Two descriptive fields back metric 5: `origin_region` (9 world regions) and
 | Saudi Aramco | 80.4 | $195,650 | 11.9 yr |
 | Tesla | 76.2 | $311,800 | 4.8 yr |
 | Meta | 79.3 | $450,250 | 5.5 yr |
+| **SpaceX** | 82.3 | $245,200 | 5.0 yr |
+| **OpenAI** | **83.5** | **$1,034,950** | **3.8 yr** |
+
+> **OpenAI is the new compensation king at ~$1.03M median — 2.3× NVIDIA** — and the
+> youngest workforce (3.8 yr). **SpaceX pays modestly ($245k)**, mission-over-money,
+> despite the highest grit (see §4).
 
 ## 4. Company summary — character metrics
 
-| Company | Potential (mean) | % high-potential (≥75) | Adversity-of-origin | % first-gen | Mental strength | % high-mental (≥80) |
-|---------|----------------:|----------------------:|--------------------:|------------:|----------------:|--------------------:|
+| Company | Potential | % high-pot. (≥75) | Adversity-of-origin | % first-gen | Mental strength | % high-mental (≥80) |
+|---------|----------:|------------------:|--------------------:|------------:|----------------:|--------------------:|
 | NVIDIA | 68.6 | 19.1% | 60.7 | 41.9% | 73.3 | 25.6% |
 | Apple | 65.7 | 10.7% | 59.9 | 41.0% | 68.7 | 13.9% |
 | Alphabet | 67.4 | 14.5% | 60.3 | 41.3% | 69.4 | 14.3% |
@@ -100,23 +118,29 @@ Two descriptive fields back metric 5: `origin_region` (9 world regions) and
 | TSMC | 66.3 | 13.3% | 59.4 | 41.4% | 72.3 | 22.6% |
 | Broadcom | 66.6 | 13.6% | 59.4 | 38.4% | 71.1 | 17.8% |
 | Saudi Aramco | 64.4 | 9.0% | 60.7 | 40.8% | 70.3 | 16.3% |
-| Tesla | **70.1** | **26.2%** | 60.0 | 36.8% | **75.5** | **33.9%** |
+| Tesla | 70.1 | 26.2% | 60.0 | 36.8% | 75.5 | 33.9% |
 | Meta | 68.6 | 20.0% | 59.7 | 39.5% | 71.8 | 21.7% |
+| **SpaceX** | 71.5 | 31.3% | 59.6 | 39.2% | **80.5** | **53.3%** |
+| **OpenAI** | **72.3** | **36.4%** | 59.7 | 41.2% | 79.0 | 46.3% |
 
-Full versions: `data/company_metrics_summary.csv`.
+> **OpenAI and SpaceX top every character pillar.** OpenAI leads on potential (72.3,
+> with 36% high-potential); **SpaceX has the strongest mental strength of all 12
+> (80.5), with a majority (53%) high-grit** — consistent with its famously grueling
+> mission culture.
 
 ## 5. Where they come from — origin region mix
 
-Origin geography is the one dimension where the companies look *radically*
-different (full table: `data/origin_region_breakdown.csv`):
-
 | Company | Dominant origin region | Share |
 |---------|------------------------|------:|
-| TSMC | East Asia | **88.9%** |
-| Saudi Aramco | Middle East | **79.1%** |
-| The 8 US firms | North America (then South Asia ~20%, East Asia ~11%) | 43–47% |
+| TSMC | East Asia | 88.9% |
+| Saudi Aramco | Middle East | 79.1% |
+| **SpaceX** | **North America** (ITAR/export-control effect) | **78.2%** |
+| OpenAI | North America (then South Asia 22%) | 43.2% |
+| Other US firms | North America | 43–47% |
 
-![Origin region mix](figures/origin_region_mix.png)
+SpaceX joins TSMC and Aramco as a **"demographic island"** — but a US-concentrated one,
+driven by the citizenship requirements of export-controlled aerospace work. Full table:
+`data/origin_region_breakdown.csv`.
 
 ---
 
@@ -128,131 +152,130 @@ different (full table: `data/origin_region_breakdown.csv`):
 |---|---|
 | ![Potential](figures/potential_mean.png) | ![Mental strength](figures/mental_strength_mean.png) |
 | ![Adversity of origin](figures/adversity_origin_mean.png) | ![Median compensation](figures/comp_median.png) |
-| ![Tenure](figures/tenure_median.png) | ![Performance](figures/perf_mean.png) |
+| ![Tenure](figures/tenure_median.png) | ![Origin region mix](figures/origin_region_mix.png) |
 
 ![Correlation heatmap](figures/correlation_heatmap.png)
-![Origins vs mental strength](figures/adversity_vs_mental.png)
 
 ---
 
 ## 7. THE TYRELL INDEX — main objective
 
-To predict the future global hegemon we score five pillars and combine them
-(weights in brackets). Dominance and moat carry most of the weight — they *are*
-global dominance — while workforce character decides who **extends** the lead.
+Five pillars, combined into a 0–100 score. Dominance + moat carry most of the weight —
+they *are* global dominance — while workforce character decides who **extends** the lead.
 
-| Pillar | Weight | What it measures |
-|--------|-------:|------------------|
-| **Dominance now** | 0.34 | Market cap (scaled 0–100). |
-| **Strategic moat** | 0.34 | Control of a critical global chokepoint the world depends on (curated, 0–100). |
+| Pillar | Weight | Measures |
+|--------|-------:|----------|
+| **Dominance now** | 0.34 | Value/market cap (scaled 0–100). |
+| **Strategic moat** | 0.34 | Control of a critical global chokepoint (curated). |
 | **Workforce potential** | 0.14 | Mean potential index. |
 | **Mental strength** | 0.10 | Mean mental strength. |
-| **Builder origins** | 0.08 | Mean adversity-of-origin (hungry vs complacent). |
+| **Builder origins** | 0.08 | Mean adversity-of-origin. |
 
-**Strategic-moat rationale** (the editorial, sourced factor):
+**Strategic-moat rationale:**
 
 | Company | Moat | Why |
 |---------|-----:|-----|
 | NVIDIA | 95 | Controls AI compute — *the* chokepoint of the AI era. |
-| TSMC | 90 | Fabricates virtually all leading-edge chips; the ultimate chokepoint. |
+| TSMC | 90 | Fabricates ~all leading-edge chips; the ultimate chokepoint. |
+| **OpenAI** | 90 | Frontier-model leader + ChatGPT, the consumer face of AI. |
 | Alphabet | 86 | Search / ads / Android / cloud — the world's information layer. |
+| **SpaceX** | 86 | Launch near-monopoly + Starlink global comms + xAI frontier AI. |
 | Microsoft | 85 | Windows / Office / Azure enterprise lock-in. |
 | Apple | 84 | iOS ecosystem + services across ~2.2bn devices. |
 | Amazon | 82 | E-commerce + AWS, the backbone of the internet. |
 | Meta | 74 | ~4bn users; the global attention chokepoint. |
-| Saudi Aramco | 70 | Swing producer of world oil — but a declining-dependence sector. |
-| Broadcom | 66 | Critical networking + custom AI silicon infrastructure. |
-| Tesla | 55 | Strong EV/energy brand, but the most contestable position. |
+| Saudi Aramco | 70 | Swing producer of world oil — declining-dependence sector. |
+| Broadcom | 66 | Critical networking + custom AI silicon. |
+| Tesla | 55 | Strong EV/energy brand, most contestable position. |
 
 ### Result
 
 | Rank | Company | **Tyrell Index** | Dominance | Moat | Potential | Mental | Builder |
 |-----:|---------|----------------:|----------:|-----:|----------:|-------:|--------:|
-| **1** | **NVIDIA** | **91.9** | 100.0 | 95 | 73.7 | 72.5 | 100.0 |
-| 2 | Alphabet | 73.3 | 81.8 | 86 | 52.6 | 23.8 | 81.8 |
-| 3 | Apple | 66.4 | 82.5 | 84 | 22.8 | 15.0 | 63.6 |
-| 4 | Amazon | 56.5 | 32.3 | 82 | 75.4 | 71.3 | 0.0 |
-| 5 | TSMC | 51.5 | 20.4 | 90 | 33.3 | 60.0 | 40.9 |
-| 6 | Microsoft | 50.1 | 44.1 | 85 | 21.1 | 0.0 | 40.9 |
-| 7 | Tesla | 48.6 | 1.4 | 55 | 100.0 | 100.0 | 68.2 |
-| 8 | Meta | 45.2 | 0.0 | 74 | 73.7 | 53.7 | 54.5 |
-| 9 | Broadcom | 39.4 | 11.0 | 66 | 38.6 | 45.0 | 40.9 |
-| 10 | Saudi Aramco | 37.8 | 7.4 | 70 | 0.0 | 35.0 | 100.0 |
+| **1** | **NVIDIA** | **86.2** | 100.0 | 95 | 53.2 | 44.6 | 100.0 |
+| 2 | Alphabet | 71.3 | 84.6 | 86 | 38.0 | 14.6 | 81.8 |
+| 3 | Apple | 65.8 | 85.1 | 84 | 16.5 | 9.2 | 63.6 |
+| 4 | **SpaceX** 🔒 | 59.1 | 9.5 | 86 | 89.9 | 100.0 | 50.0 |
+| 5 | **OpenAI** 🔒 | 57.8 | 0.0 | 90 | 100.0 | 88.5 | 54.5 |
+| 6 | Amazon | 54.3 | 42.5 | 82 | 54.4 | 43.8 | 0.0 |
+| 7 | Microsoft | 52.2 | 52.5 | 85 | 15.2 | 0.0 | 40.9 |
+| 8 | TSMC | 52.0 | 32.4 | 90 | 24.1 | 36.9 | 40.9 |
+| 9 | Tesla | 46.0 | 16.3 | 55 | 72.2 | 61.5 | 68.2 |
+| 10 | Meta | 45.4 | 15.1 | 74 | 53.2 | 33.1 | 54.5 |
+| 11 | Saudi Aramco | 41.2 | 21.4 | 70 | 0.0 | 21.5 | 100.0 |
+| 12 | Broadcom | 40.7 | 24.4 | 66 | 27.8 | 27.7 | 40.9 |
 
-*(Pillar columns are min-max scaled across the 10 companies, so 0/100 mark the
-relative bottom/top, not absolutes.)* Full table: `data/tyrell_index.csv`.
+*(Pillar columns are min-max scaled across the 12 companies.)* Full table:
+`data/tyrell_index.csv`.
 
 ### Verdict & reasoning
 
-**NVIDIA is the most likely Tyrell Corporation (91.9/100).** It is the only company
-that tops *both* heavyweight pillars simultaneously: it is the **largest company on
-earth** (dominance 100) **and** it sits on the era's single most important chokepoint
-— **AI compute** (moat 95). Whoever supplies the picks and shovels of the AI gold
-rush taxes everyone else's ambition, which is the textbook shape of durable global
-dominance. Its modelled workforce reinforces this: top-decile potential and the
-highest builder-origin score of the ten (a hungry, self-made culture rather than a
-complacent incumbent).
+**NVIDIA remains the most likely Tyrell Corporation (86.2/100)** even with the two
+formidable newcomers added. It is the only company to top *both* heavyweight pillars at
+once: **largest entity in the study** (dominance 100) **and** owner of the era's single
+most important chokepoint, **AI compute** (moat 95) — and its modelled workforce has the
+hungriest "builder" origins of all twelve. Whoever sells the picks and shovels of the AI
+gold rush taxes everyone else's ambition; that is the shape of durable dominance.
 
-- **Alphabet (73.3)** is the clearest challenger — huge scale plus an information-
-  layer moat — but trails NVIDIA on every workforce-character pillar in the model.
-- **Apple (66.4)** has comparable dominance and a strong moat, but the model's
-  conservative, long-tenure, lower-potential workforce caps its breakaway odds.
-- **TSMC (51.5)** holds a *fearsome* moat (90) yet ranks mid-pack: its lower market
-  cap and geographically concentrated, lower-paid (if very stable) workforce make it
-  the indispensable **supplier** to the hegemon rather than the hegemon itself.
-- **Tesla (48.6)** wins the workforce-character pillars outright (highest potential
-  *and* mental strength) but is dragged down by the smallest market cap and the most
-  contestable moat — high-variance challenger, not front-runner.
+**The story this round is the newcomers.** SpaceX (#4) and OpenAI (#5) **leapfrog
+Amazon, Microsoft and TSMC** despite being the two *smallest* companies by value —
+because they sweep the workforce-character pillars (OpenAI's potential = 100, SpaceX's
+mental strength = 100 on the scaled axis) and carry elite moats (90 / 86). They are
+**dominance in waiting**: their only weak pillar is current scale.
+
+- **OpenAI** is the *mercenary-genius* archetype — highest pay ($1.03M), highest
+  potential, frontier-AI moat — but still 6× smaller than NVIDIA, on whose chips it runs.
+- **SpaceX** is the *missionary* archetype — highest grit of anyone, modest pay, a moat
+  spanning launch, Starlink and (post-merger) xAI. Its **imminent IPO at $1.75–2T would
+  roughly double its dominance pillar** and push it toward the Apple/Alphabet tier — the
+  single most likely event to reshuffle this board.
 
 **One-line answer:** in a world where compute is power, the company that *owns the
-compute* becomes Tyrell. That is **NVIDIA**.
+compute* becomes Tyrell — **NVIDIA** — with **OpenAI and SpaceX the most dangerous
+challengers** the moment scale catches up to their talent.
 
 ### Sensitivity
-The verdict is robust. NVIDIA leads on the two dominant pillars, so reasonable
-weight changes don't unseat it — only heavily down-weighting both dominance **and**
-moat in favour of workforce character would promote Tesla/Amazon. Re-run
-`scripts/analyze.py` after editing `WEIGHTS` / `STRATEGIC_MOAT` to test your own
-assumptions.
+NVIDIA leads the two dominant pillars, so it is robust to reasonable weight changes.
+The live swing factor is **SpaceX's IPO**: repricing it to ~$2T lifts its dominance
+pillar from 9.5 toward ~27, moving it into a near-tie with Apple for #3. Edit `WEIGHTS`
+/ `STRATEGIC_MOAT` and re-run `scripts/analyze.py` to test your own assumptions.
 
 ---
 
 ## 8. Cross-company conclusions (beyond the verdict)
 
-1. **Pay and tenure move inversely.** Highest payers (Meta $450k, NVIDIA $437k,
-   Alphabet $409k) have the shortest-to-middling tenures; lowest payers (TSMC $180k,
-   Aramco $196k) have the longest (Aramco 11.9 yr vs Tesla 4.8 yr). **Pay buys
-   talent, not loyalty.**
-2. **Market cap doesn't predict pay.** TSMC is #6 by cap yet pays its senior cohort
-   the least (~2.5× below Meta, #10). Geography dominates pay.
-3. **Performance barely separates the firms** (all within a ~5-pt band) — everyone
-   hires from the top of the pool. Pay tracks **level and employer, not the rating**
-   (comp↔performance `r ≈ 0.15`).
-4. **Character splits by culture, not market cap.** The "intense" cultures — Tesla,
-   NVIDIA, Amazon, Meta — cluster at the top of *both* potential and mental strength;
-   the mature incumbents (Microsoft, Apple) sit lower. Tesla leads both character
-   pillars despite being the smallest company here.
-5. **Origins make grit (the model's strongest character link).** Adversity-of-origin
-   correlates with mental strength at `r ≈ 0.32` — the single strongest relationship
-   in the dataset — and potential correlates with mental strength at `r ≈ 0.25`. A
-   harder start, in this model, builds resilience, which feeds upside.
-6. **Two companies are demographic islands.** TSMC (88.9% East-Asian origin) and
-   Aramco (79.1% Middle-Eastern) are far more homogeneous than the US firms (~45%
-   North-American, ~20% South-Asian, ~11% East-Asian) — a structural difference in
-   global talent reach that matters for a *global* hegemon.
+1. **Two opposite ways to win elite talent.** **OpenAI = mercenary** (highest pay,
+   highest potential, shortest tenure — money buys genius). **SpaceX = missionary**
+   (modest pay, highest grit — mission buys endurance). They sit at opposite corners of
+   the pay/character map yet both top the field.
+2. **Pay buys talent, not loyalty.** Across all 12, higher pay tracks *shorter* tenure
+   (OpenAI 3.8 yr at $1.03M; Aramco 11.9 yr at $196k). Stability lives in the
+   lower-paying, mission- or career-driven firms.
+3. **Value doesn't predict pay.** TSMC (#6) pays its senior cohort the least; OpenAI
+   (#12 by value) pays the most. Geography, sector and talent scarcity dominate.
+4. **Character splits by culture, not size.** The intense, mission-driven cultures —
+   SpaceX, OpenAI, Tesla, NVIDIA, Amazon — cluster at the top of *both* potential and
+   mental strength; mature incumbents (Microsoft, Apple) sit lower. The two *smallest*
+   companies lead the character table.
+5. **Origins make grit (the model's strongest link).** Adversity-of-origin ↔ mental
+   strength `r ≈ 0.30`; potential ↔ mental strength `r ≈ 0.29`.
+6. **Three demographic islands, two logics.** TSMC (88.9% East-Asian) and Aramco (79.1%
+   Middle-Eastern) reflect *national* labour markets; **SpaceX (78.2% North-American)**
+   reflects *regulation* (ITAR/export control). The rest of the US firms draw ~45% North
+   America, ~20% South Asia, ~11% East Asia.
 
 ---
 
 ## 9. Caveats & limitations
 
-- **The employee data — and therefore every character finding — is synthetic.** It
-  reflects the assumptions baked into the model (e.g. "intense cultures select for
-  grit", "adversity builds resilience"). The analysis faithfully reports those
-  modelled relationships; it does **not** discover new facts about real workforces.
-- **The Tyrell Index is an opinion expressed as arithmetic.** The moat scores and
-  weights are defensible editorial choices, made transparent so you can disagree and
-  re-run. Predicting the future is inherently uncertain.
+- **The employee data — and every character finding — is synthetic**, reflecting the
+  assumptions baked into the model (e.g. "mission cultures select for grit"). It is a
+  transparent framework, not a measurement of real workforces.
+- **OpenAI and SpaceX are private; their figures are valuations, not market caps**, and
+  move fast (SpaceX's may be obsolete the day it IPOs).
+- **The Tyrell Index is an opinion expressed as arithmetic** — moat scores and weights
+  are defensible editorial choices, made transparent so you can disagree and re-run.
 - "Most important employees" = a seniority-weighted cohort, not any real ranking.
-- Market-cap and moat reflect a single June-2026 snapshot.
 
 ---
 
@@ -260,10 +283,12 @@ assumptions.
 
 ```bash
 pip install numpy pandas matplotlib
-python3 scripts/generate_data.py   # 10 companies + 10×1000 employees + combined table
+python3 scripts/generate_data.py   # 12 companies + 12×1000 employees + combined table
 python3 scripts/analyze.py         # summaries, correlations, Tyrell Index, all charts
 ```
 
-**Sources (company list):**
-[companiesmarketcap.com](https://companiesmarketcap.com/) ·
-[The Motley Fool — Largest Companies by Market Cap, June 2026](https://www.fool.com/research/largest-companies-by-market-cap/)
+**Sources:** [companiesmarketcap.com](https://companiesmarketcap.com/) ·
+[Motley Fool — Largest Companies by Market Cap, June 2026](https://www.fool.com/research/largest-companies-by-market-cap/) ·
+[CNBC — OpenAI $852B round](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) ·
+[Fortune — SpaceX $800B valuation & 2026 IPO](https://fortune.com/2025/12/13/spacex-ipo-plan-2026-secondary-offering-insider-share-sale-800-billion-valuation/) ·
+[Bloomberg — SpaceX targets $1.75–2T IPO](https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-ipo-at-135-per-share-reuters-says)

@@ -1,4 +1,4 @@
-company,headcount,perf_mean,comp_median_usd,tenure_median_yrs,potential_mean,pct_high_potential,adversity_origin_mean,pct_first_gen,mental_strength_mean,pct_high_mental,market_cap_usd_trillions,sector
+company,headcount,perf_mean,comp_median_usd,tenure_median_yrs,potential_mean,pct_high_potential,adversity_origin_mean,pct_first_gen,mental_strength_mean,pct_high_mental,valuation_usd_trillions,sector
 NVIDIA,1000,81.3,436900,6.8,68.6,19.1,60.7,41.9,73.3,25.6,5.053,Semiconductors / AI
 Apple,1000,79.2,380100,8.4,65.7,10.7,59.9,41.0,68.7,13.9,4.428,Consumer Electronics
 Alphabet (Google),1000,80.4,409050,7.6,67.4,14.5,60.3,41.3,69.4,14.3,4.404,Internet / AI
@@ -9,3 +9,5 @@ Broadcom,1000,78.5,365450,7.0,66.6,13.6,59.4,38.4,71.1,17.8,1.877,Semiconductors
 Saudi Aramco,1000,80.4,195650,11.9,64.4,9.0,60.7,40.8,70.3,16.3,1.75,Oil & Gas
 Tesla,1000,76.2,311800,4.8,70.1,26.2,60.0,36.8,75.5,33.9,1.535,Automotive / Energy
 Meta Platforms,1000,79.3,450250,5.5,68.6,20.0,59.7,39.5,71.8,21.7,1.485,Social / AI
+SpaceX,1000,82.3,245200,5.0,71.5,31.3,59.6,39.2,80.5,53.3,1.25,Aerospace / Satellites / AI
+OpenAI,1000,83.5,1034950,3.8,72.3,36.4,59.7,41.2,79.0,46.3,0.852,Frontier AI

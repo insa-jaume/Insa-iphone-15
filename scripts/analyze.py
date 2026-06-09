@@ -58,7 +58,7 @@ summary = pd.DataFrame({
     "mental_strength_mean": g["mental_strength"].mean().round(1),
     "pct_high_mental": (g["mental_strength"].apply(lambda s: (s >= 80).mean() * 100)).round(1),
 }).reindex(order)
-summary = summary.merge(companies.set_index("company")[["market_cap_usd_trillions", "sector"]],
+summary = summary.merge(companies.set_index("company")[["valuation_usd_trillions", "sector"]],
                         left_index=True, right_index=True)
 summary.to_csv(os.path.join(DATA, "company_metrics_summary.csv"))
 print(summary.to_string())
@@ -158,7 +158,7 @@ print("wrote correlation_heatmap.png")
 
 # Adversity-of-origin vs mental strength scatter (company means)
 fig, ax = plt.subplots(figsize=(9, 6))
-sizes = (companies.set_index("company").reindex(order)["market_cap_usd_trillions"] * 120).values
+sizes = (companies.set_index("company").reindex(order)["valuation_usd_trillions"] * 120).values
 ax.scatter(summary["adversity_origin_mean"], summary["mental_strength_mean"],
            s=sizes, alpha=0.6, c=range(len(order)), cmap="plasma")
 for i, c in enumerate(labels):
@@ -241,6 +241,8 @@ STRATEGIC_MOAT = {
     "Saudi Aramco": 70,      # swing producer of world oil; declining-sector dependence
     "Broadcom": 66,          # critical networking + custom AI silicon infrastructure
     "Tesla": 55,             # strong EV/energy brand but the most contestable position
+    "OpenAI": 90,           # frontier-model leader + ChatGPT, the consumer face of AI
+    "SpaceX": 86,           # launch near-monopoly + Starlink global comms + xAI frontier AI
 }
 
 WEIGHTS = {"dominance": 0.34, "moat": 0.34, "potential": 0.14,
@@ -255,7 +257,7 @@ def scale_0_100(s: pd.Series) -> pd.Series:
 
 
 tyrell = pd.DataFrame(index=order)
-tyrell["dominance"] = scale_0_100(companies.set_index("company").reindex(order)["market_cap_usd_trillions"])
+tyrell["dominance"] = scale_0_100(companies.set_index("company").reindex(order)["valuation_usd_trillions"])
 tyrell["moat"] = pd.Series(STRATEGIC_MOAT).reindex(order)
 tyrell["potential"] = scale_0_100(summary["potential_mean"])
 tyrell["mental"] = scale_0_100(summary["mental_strength_mean"])

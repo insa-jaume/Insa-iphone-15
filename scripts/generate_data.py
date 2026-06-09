@@ -63,6 +63,9 @@ class Company:
     perf_sd: float
     name_locale: str            # which name pool to weight toward
     departments: dict = field(default_factory=dict)
+    ownership: str = "Public"   # Public (market cap) or Private (valuation)
+    valuation_basis: str = "market cap"
+    origin_locale: str = ""     # origin-region pool; defaults to name_locale
 
 
 # Department weighting reflects each firm's centre of gravity.
@@ -85,6 +88,16 @@ AUTO_DEPTS = {
     "Engineering": 0.30, "Manufacturing": 0.22, "Autonomy & AI": 0.12,
     "Operations": 0.10, "Sales & Service": 0.09, "Energy/Charging": 0.06,
     "Design": 0.04, "Finance": 0.03, "Legal & Policy": 0.02, "People/HR": 0.02,
+}
+AILAB_DEPTS = {  # frontier-AI research lab (OpenAI)
+    "Research & AI": 0.40, "Engineering": 0.30, "Product": 0.08, "Operations": 0.05,
+    "Safety & Alignment": 0.06, "Sales & GTM": 0.05, "Finance": 0.03,
+    "Design": 0.02, "People/HR": 0.01,
+}
+AERO_DEPTS = {  # aerospace / launch / satellites + xAI (SpaceX)
+    "Engineering": 0.38, "Manufacturing": 0.22, "Avionics & Software": 0.10,
+    "Operations": 0.10, "Launch & Test": 0.06, "AI (xAI)": 0.05,
+    "Supply Chain": 0.04, "Finance": 0.03, "Legal & Policy": 0.01, "People/HR": 0.01,
 }
 
 COMPANIES = [
@@ -118,6 +131,16 @@ COMPANIES = [
     Company(10, "Meta Platforms", "META", "USA", "Social / AI", 1.485, "meta",
             comp_median=400_000, comp_sigma=0.57, tenure_mean=4.5, tenure_sd=3.2,
             perf_mean=78, perf_sd=11, name_locale="us_mixed", departments=TECH_DEPTS),
+    # --- Private companies (ranked by latest private VALUATION, not market cap) ---
+    Company(11, "SpaceX", "SPACEX", "USA", "Aerospace / Satellites / AI", 1.250, "spacex",
+            comp_median=235_000, comp_sigma=0.52, tenure_mean=4.2, tenure_sd=3.0,
+            perf_mean=81, perf_sd=10, name_locale="us_mixed", departments=AERO_DEPTS,
+            ownership="Private", valuation_basis="private valuation (incl. xAI merger)",
+            origin_locale="us_aero"),
+    Company(12, "OpenAI", "OPENAI", "USA", "Frontier AI", 0.852, "openai",
+            comp_median=900_000, comp_sigma=0.60, tenure_mean=2.8, tenure_sd=1.8,
+            perf_mean=82, perf_sd=10, name_locale="us_mixed", departments=AILAB_DEPTS,
+            ownership="Private", valuation_basis="private valuation (Series G)"),
 ]
 
 
@@ -188,6 +211,8 @@ ORIGIN_PROFILES = {
     "us_mixed": [0.44, 0.05, 0.08, 0.03, 0.025, 0.21, 0.12, 0.03, 0.015],
     "taiwan":   [0.04, 0.00, 0.01, 0.00, 0.005, 0.02, 0.88, 0.045, 0.00],
     "saudi":    [0.01, 0.00, 0.02, 0.78, 0.05, 0.10, 0.005, 0.035, 0.00],
+    # aerospace (SpaceX): ITAR/export-control work skews heavily to US persons.
+    "us_aero":  [0.79, 0.03, 0.05, 0.01, 0.02, 0.06, 0.03, 0.01, 0.00],
 }
 
 # Socioeconomic background of origin and its base adversity weight (0-100,
@@ -202,10 +227,12 @@ FIRST_GEN_PROB = {"Working class": 0.80, "Lower-middle": 0.55, "Middle": 0.30,
 # Per-company culture tilt on mental strength (aggressive / high-churn cultures
 # select for higher grit). Keyed by ticker stem.
 MENTAL_MEAN = {"NVDA": 72, "AAPL": 68, "GOOG": 68, "MSFT": 67, "AMZN": 73,
-               "TSM": 71, "AVGO": 70, "2222": 69, "TSLA": 75, "META": 71}
+               "TSM": 71, "AVGO": 70, "2222": 69, "TSLA": 75, "META": 71,
+               "SPACEX": 80, "OPENAI": 78}
 # Per-company ambition tilt feeding potential.
 AMBITION_MEAN = {"NVDA": 74, "AAPL": 69, "GOOG": 72, "MSFT": 68, "AMZN": 73,
-                 "TSM": 70, "AVGO": 69, "2222": 67, "TSLA": 76, "META": 73}
+                 "TSM": 70, "AVGO": 69, "2222": 67, "TSLA": 76, "META": 73,
+                 "SPACEX": 79, "OPENAI": 82}
 
 LEVEL_TRAJECTORY = {"Senior": 45, "Staff": 55, "Principal": 65, "Director": 72,
                     "Senior Director": 78, "VP": 85, "SVP": 92, "C-Suite": 98}
@@ -217,7 +244,8 @@ def generate_character(c: Company, levels, tenure, perf):
     stem = c.ticker.split(".")[0]
 
     # --- Origin / roots ---------------------------------------------------
-    region = rng.choice(ORIGIN_REGIONS, size=n, p=np.array(ORIGIN_PROFILES[c.name_locale]))
+    origin_locale = c.origin_locale or c.name_locale
+    region = rng.choice(ORIGIN_REGIONS, size=n, p=np.array(ORIGIN_PROFILES[origin_locale]))
     socio = rng.choice(SOCIO, size=n, p=SOCIO_WEIGHTS)
     first_gen = np.array([rng.random() < FIRST_GEN_PROB[s] for s in socio])
     adversity = np.array([SOCIO_ADVERSITY[s] for s in socio], dtype=float)
@@ -319,9 +347,11 @@ def main() -> None:
     comp_path = os.path.join(OUT_DIR, "companies.csv")
     with open(comp_path, "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["rank", "company", "ticker", "country", "sector", "market_cap_usd_trillions"])
+        w.writerow(["rank", "company", "ticker", "country", "sector", "ownership",
+                    "valuation_basis", "valuation_usd_trillions"])
         for c in COMPANIES:
-            w.writerow([c.rank, c.name, c.ticker, c.country, c.sector, c.market_cap_usd_tn])
+            w.writerow([c.rank, c.name, c.ticker, c.country, c.sector, c.ownership,
+                        c.valuation_basis, c.market_cap_usd_tn])
     print(f"wrote {comp_path}")
 
     fieldnames = ["employee_id", "name", "company", "ticker", "department", "level",

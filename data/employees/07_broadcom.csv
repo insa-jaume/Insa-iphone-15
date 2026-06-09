@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+AVGO-0001,Ahmed Park,Broadcom,AVGO,Engineering,Staff,98.2,268500,4.8
+AVGO-0002,Nina Ali,Broadcom,AVGO,Finance,Staff,80.3,347700,5.8
+AVGO-0003,Olivia Patel,Broadcom,AVGO,Finance,Director,65.5,981200,6.2
+AVGO-0004,David Davis,Broadcom,AVGO,Operations,Senior,62.7,541400,10.7
+AVGO-0005,James Yamamoto,Broadcom,AVGO,Fab/Manufacturing,Senior,95.9,150700,3.4
+AVGO-0006,Olivia Nguyen,Broadcom,AVGO,Fab/Manufacturing,SVP,83.8,4374100,9.6
+AVGO-0007,James Davis,Broadcom,AVGO,Fab/Manufacturing,Director,80.0,324800,9.6
+AVGO-0008,Kevin Khan,Broadcom,AVGO,Fab/Manufacturing,Principal,68.9,314300,10.1
+AVGO-0009,Mary Brown,Broadcom,AVGO,Operations,Senior,87.6,380400,12.8
+AVGO-0010,Samuel Davis,Broadcom,AVGO,Fab/Manufacturing,Director,86.2,1023700,4.3
+AVGO-0011,Olivia Anderson,Broadcom,AVGO,Engineering,Senior Director,88.8,1246200,7.6
+AVGO-0012,Daniel Martinez,Broadcom,AVGO,Operations,Director,65.6,760500,7.8
+AVGO-0013,John Nguyen,Broadcom,AVGO,Engineering,VP,76.9,868400,6.8
+AVGO-0014,Hannah Hassan,Broadcom,AVGO,Fab/Manufacturing,C-Suite,72.8,2014300,10.7
+AVGO-0015,Hannah Murphy,Broadcom,AVGO,Supply Chain,Director,86.9,902800,7.4
+AVGO-0016,Wei Wilson,Broadcom,AVGO,Engineering,Senior,64.0,163300,11.1
+AVGO-0017,Thomas Brown,Broadcom,AVGO,Engineering,Principal,79.8,411500,5.3
+AVGO-0018,Zoe Nguyen,Broadcom,AVGO,Fab/Manufacturing,Senior,87.1,209100,9.7
+AVGO-0019,Yuki Tanaka,Broadcom,AVGO,Sales & GTM,C-Suite,75.5,1622100,13.1
+AVGO-0020,Arjun Wang,Broadcom,AVGO,Legal & Policy,Director,91.1,1310500,14.1
+AVGO-0021,Kevin Yamamoto,Broadcom,AVGO,Engineering,Principal,73.9,1293200,13.6
+AVGO-0022,John Kim,Broadcom,AVGO,Engineering,Staff,95.7,1713800,3.5
+AVGO-0023,Ahmed Khan,Broadcom,AVGO,Fab/Manufacturing,Staff,86.1,293800,4.3
+AVGO-0024,Kevin Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,73.1,174300,2.0
+AVGO-0025,Thomas Wang,Broadcom,AVGO,Finance,Senior,90.8,269200,8.0
+AVGO-0026,Aisha Chen,Broadcom,AVGO,Finance,Senior Director,79.7,366700,11.1
+AVGO-0027,Yuki Yamamoto,Broadcom,AVGO,Research & AI,Senior,73.1,191500,4.9
+AVGO-0028,Olivia Reyes,Broadcom,AVGO,Sales & GTM,Senior,81.5,167500,6.8
+AVGO-0029,David Hassan,Broadcom,AVGO,Sales & GTM,Senior,76.3,185300,8.5
+AVGO-0030,Kevin Cohen,Broadcom,AVGO,Engineering,Staff,74.2,201800,6.5
+AVGO-0031,Arjun Lopez,Broadcom,AVGO,Fab/Manufacturing,Director,70.4,409400,25.5
+AVGO-0032,Grace Petrov,Broadcom,AVGO,Quality,Senior Director,83.3,1056800,16.8
+AVGO-0033,Priya Chen,Broadcom,AVGO,Engineering,Staff,74.6,128700,15.0
+AVGO-0034,Priya Cohen,Broadcom,AVGO,Finance,Principal,84.5,1029100,5.7
+AVGO-0035,Sofia Nguyen,Broadcom,AVGO,Engineering,Staff,66.1,790000,3.6
+AVGO-0036,Aisha Garcia,Broadcom,AVGO,Operations,Senior,66.5,177800,5.2
+AVGO-0037,Michael Nguyen,Broadcom,AVGO,Engineering,Principal,78.9,515400,9.5
+AVGO-0038,Sofia Wilson,Broadcom,AVGO,Research & AI,Staff,68.7,206900,12.5
+AVGO-0039,Zoe Brown,Broadcom,AVGO,Finance,SVP,70.4,1242600,16.6
+AVGO-0040,Fatima Smith,Broadcom,AVGO,Engineering,Principal,82.6,457400,5.6
+AVGO-0041,Michael Park,Broadcom,AVGO,Engineering,Principal,86.5,1391200,9.9
+AVGO-0042,Thomas Smith,Broadcom,AVGO,Quality,Director,73.4,361900,9.1
+AVGO-0043,James Singh,Broadcom,AVGO,Engineering,Principal,82.3,911400,4.2
+AVGO-0044,Thomas Schmidt,Broadcom,AVGO,Engineering,VP,74.4,1101900,9.4
+AVGO-0045,Mary Lopez,Broadcom,AVGO,Research & AI,Senior,81.5,197400,4.9
+AVGO-0046,Grace Hassan,Broadcom,AVGO,Supply Chain,Staff,79.7,384000,6.5
+AVGO-0047,Daniel Davis,Broadcom,AVGO,Fab/Manufacturing,Senior Director,80.1,1531000,12.1
+AVGO-0048,Thomas Park,Broadcom,AVGO,Sales & GTM,Staff,66.7,540800,10.1
+AVGO-0049,Priya Davis,Broadcom,AVGO,Engineering,Staff,90.9,729100,2.6
+AVGO-0050,Yuki Lee,Broadcom,AVGO,Engineering,Staff,96.2,450000,5.6
+AVGO-0051,Carlos Smith,Broadcom,AVGO,Fab/Manufacturing,Senior,67.6,246000,2.0
+AVGO-0052,Emily Anderson,Broadcom,AVGO,Engineering,VP,88.4,565500,7.7
+AVGO-0053,Yuki Tanaka,Broadcom,AVGO,Engineering,Director,87.5,504800,14.5
+AVGO-0054,Grace Smith,Broadcom,AVGO,Supply Chain,Staff,83.9,356700,2.2
+AVGO-0055,Wei Schmidt,Broadcom,AVGO,Research & AI,Staff,73.4,127900,9.2
+AVGO-0056,Michael Wang,Broadcom,AVGO,Engineering,Staff,83.5,175200,6.1
+AVGO-0057,Carlos Petrov,Broadcom,AVGO,Finance,Staff,83.0,379400,14.8
+AVGO-0058,Hiroshi Yamamoto,Broadcom,AVGO,Engineering,Director,90.0,1072900,8.4
+AVGO-0059,Daniel Singh,Broadcom,AVGO,Fab/Manufacturing,Senior,68.3,189000,4.1
+AVGO-0060,Mary Kim,Broadcom,AVGO,Engineering,C-Suite,87.6,1093700,9.8
+AVGO-0061,Samuel Park,Broadcom,AVGO,Fab/Manufacturing,SVP,76.5,802700,20.1
+AVGO-0062,Arjun Nguyen,Broadcom,AVGO,Fab/Manufacturing,Senior,68.3,266200,9.8
+AVGO-0063,Priya Wang,Broadcom,AVGO,Engineering,Principal,85.4,417800,5.4
+AVGO-0064,Sofia Khan,Broadcom,AVGO,Fab/Manufacturing,Senior Director,81.0,381500,13.4
+AVGO-0065,Nina Lee,Broadcom,AVGO,Fab/Manufacturing,Senior,87.6,256400,19.9
+AVGO-0066,Michael Murphy,Broadcom,AVGO,Operations,VP,76.5,1416400,6.3
+AVGO-0067,Arjun Schmidt,Broadcom,AVGO,Research & AI,Principal,78.7,304000,12.7
+AVGO-0068,Ahmed Lopez,Broadcom,AVGO,Engineering,Staff,78.3,1251800,9.9
+AVGO-0069,Ahmed Cohen,Broadcom,AVGO,Engineering,Senior,72.9,144400,4.5
+AVGO-0070,Carlos Anderson,Broadcom,AVGO,Fab/Manufacturing,Senior,80.9,200100,3.4
+AVGO-0071,Priya Smith,Broadcom,AVGO,Engineering,Principal,89.3,302900,5.3
+AVGO-0072,Fatima Wang,Broadcom,AVGO,Supply Chain,Senior,67.3,214800,13.7
+AVGO-0073,Aisha Nguyen,Broadcom,AVGO,People/HR,Staff,67.0,398800,6.2
+AVGO-0074,Ahmed Brown,Broadcom,AVGO,Engineering,Principal,66.0,585900,12.8
+AVGO-0075,Nina Cohen,Broadcom,AVGO,Operations,Principal,76.4,1206600,6.5
+AVGO-0076,Mary Cohen,Broadcom,AVGO,Operations,Staff,75.4,639400,7.4
+AVGO-0077,Arjun Park,Broadcom,AVGO,Sales & GTM,Principal,89.1,306200,9.0
+AVGO-0078,Yuki Anderson,Broadcom,AVGO,Sales & GTM,Senior,82.4,74300,8.8
+AVGO-0079,Raj Yamamoto,Broadcom,AVGO,Research & AI,Staff,92.1,179100,18.7
+AVGO-0080,Michael Murphy,Broadcom,AVGO,Sales & GTM,Staff,98.7,309300,5.6
+AVGO-0081,Priya Martinez,Broadcom,AVGO,Fab/Manufacturing,Senior,99.0,155300,4.2
+AVGO-0082,Hiroshi Schmidt,Broadcom,AVGO,Research & AI,Staff,88.0,380200,7.2
+AVGO-0083,Carlos Murphy,Broadcom,AVGO,Quality,Principal,81.4,223000,17.9
+AVGO-0084,Chen Wilson,Broadcom,AVGO,Fab/Manufacturing,Director,75.1,972500,7.0
+AVGO-0085,Sofia Martinez,Broadcom,AVGO,People/HR,Senior,94.8,844600,2.4
+AVGO-0086,Sofia Nguyen,Broadcom,AVGO,Research & AI,Senior Director,57.0,1099500,13.7
+AVGO-0087,David Schmidt,Broadcom,AVGO,Operations,Senior Director,84.8,504200,17.6
+AVGO-0088,Olivia Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,65.8,430400,9.9
+AVGO-0089,Sofia Anderson,Broadcom,AVGO,Engineering,Senior,79.5,772500,6.2
+AVGO-0090,Michael Okafor,Broadcom,AVGO,Engineering,Director,78.1,489300,7.0
+AVGO-0091,Ahmed Yamamoto,Broadcom,AVGO,Engineering,Principal,75.1,723700,10.5
+AVGO-0092,Aisha Hassan,Broadcom,AVGO,Research & AI,Principal,79.4,864300,10.7
+AVGO-0093,Wei Lopez,Broadcom,AVGO,Finance,Principal,81.0,288800,17.2
+AVGO-0094,Yuki Brown,Broadcom,AVGO,Research & AI,Staff,83.2,417600,4.9
+AVGO-0095,Samuel Rossi,Broadcom,AVGO,Fab/Manufacturing,Senior,79.8,229700,0.4
+AVGO-0096,Nina Brown,Broadcom,AVGO,Fab/Manufacturing,Senior,68.3,107500,3.6
+AVGO-0097,Hiroshi Schmidt,Broadcom,AVGO,Operations,Senior,77.5,510300,5.6
+AVGO-0098,Chen Wang,Broadcom,AVGO,Operations,Senior Director,70.6,164700,14.6
+AVGO-0099,Yuki Patel,Broadcom,AVGO,Operations,Senior,66.4,278600,1.3
+AVGO-0100,Hannah Garcia,Broadcom,AVGO,People/HR,Staff,90.9,377100,1.6
+AVGO-0101,Carlos Park,Broadcom,AVGO,Fab/Manufacturing,Senior,48.5,63500,6.7
+AVGO-0102,Raj Lee,Broadcom,AVGO,Engineering,Senior,85.7,106900,4.3
+AVGO-0103,Kevin Chen,Broadcom,AVGO,Operations,Director,70.6,279600,3.7
+AVGO-0104,Raj Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,83.3,513600,3.7
+AVGO-0105,Thomas Wilson,Broadcom,AVGO,Operations,Senior Director,81.4,283500,8.2
+AVGO-0106,Arjun Davis,Broadcom,AVGO,Operations,Senior,72.9,482800,10.1
+AVGO-0107,John Schmidt,Broadcom,AVGO,Fab/Manufacturing,Principal,78.4,406900,8.3
+AVGO-0108,Olivia Rossi,Broadcom,AVGO,Fab/Manufacturing,Principal,72.7,672900,4.1
+AVGO-0109,Michael Murphy,Broadcom,AVGO,Supply Chain,Director,81.1,346800,6.9
+AVGO-0110,Mary Rossi,Broadcom,AVGO,Operations,Staff,64.4,221100,9.6
+AVGO-0111,Mary Ali,Broadcom,AVGO,Engineering,Principal,80.0,369100,5.1
+AVGO-0112,Linda Cohen,Broadcom,AVGO,Finance,Principal,82.4,278700,5.9
+AVGO-0113,Grace Tanaka,Broadcom,AVGO,Engineering,Senior,47.7,155900,1.3
+AVGO-0114,Wei Wang,Broadcom,AVGO,People/HR,Staff,80.1,287900,17.5
+AVGO-0115,Linda Ali,Broadcom,AVGO,Research & AI,Senior,64.1,238800,1.7
+AVGO-0116,Chen Lee,Broadcom,AVGO,Sales & GTM,Staff,78.6,547400,4.8
+AVGO-0117,Yuki Murphy,Broadcom,AVGO,Research & AI,Staff,90.3,645800,19.0
+AVGO-0118,Nina Lopez,Broadcom,AVGO,Sales & GTM,Staff,62.5,286500,3.0
+AVGO-0119,Carlos Cohen,Broadcom,AVGO,Engineering,Staff,73.9,491700,5.3
+AVGO-0120,Daniel Anderson,Broadcom,AVGO,Engineering,Senior,72.7,391000,7.5
+AVGO-0121,Sofia Murphy,Broadcom,AVGO,Operations,Senior,70.0,554200,3.7
+AVGO-0122,Carlos Smith,Broadcom,AVGO,Legal & Policy,Staff,90.4,234000,7.8
+AVGO-0123,Raj Chen,Broadcom,AVGO,Fab/Manufacturing,Senior,84.9,611700,1.6
+AVGO-0124,Hannah Petrov,Broadcom,AVGO,Fab/Manufacturing,Senior,81.4,162700,6.8
+AVGO-0125,Yuki Tanaka,Broadcom,AVGO,Fab/Manufacturing,Senior,82.0,384400,7.4
+AVGO-0126,James Lopez,Broadcom,AVGO,Operations,VP,64.6,706100,8.9
+AVGO-0127,Aisha Cohen,Broadcom,AVGO,Finance,Senior,96.6,289000,8.2
+AVGO-0128,Daniel Martinez,Broadcom,AVGO,Fab/Manufacturing,Senior,79.0,207200,3.2
+AVGO-0129,Nina Silva,Broadcom,AVGO,Fab/Manufacturing,Director,72.3,412400,6.8
+AVGO-0130,Samuel Schmidt,Broadcom,AVGO,Fab/Manufacturing,Senior Director,84.9,1063100,13.3
+AVGO-0131,Elena Brown,Broadcom,AVGO,Sales & GTM,Principal,87.2,231500,9.3
+AVGO-0132,Emily Park,Broadcom,AVGO,Quality,Director,78.6,335700,14.7
+AVGO-0133,Aisha Ali,Broadcom,AVGO,Engineering,Staff,74.9,949500,5.9
+AVGO-0134,Samuel Yamamoto,Broadcom,AVGO,Engineering,Senior,78.3,220200,4.2
+AVGO-0135,Priya Brown,Broadcom,AVGO,Fab/Manufacturing,VP,78.3,408000,6.9
+AVGO-0136,Chen Okafor,Broadcom,AVGO,Operations,Staff,77.2,474000,3.8
+AVGO-0137,Linda Lopez,Broadcom,AVGO,Quality,Principal,64.7,1003000,4.4
+AVGO-0138,Yuki Cohen,Broadcom,AVGO,Engineering,Senior,75.2,199000,6.9
+AVGO-0139,Sofia Patel,Broadcom,AVGO,Operations,VP,85.4,1314200,14.3
+AVGO-0140,Maria Kim,Broadcom,AVGO,Operations,Senior Director,85.5,1232600,6.7
+AVGO-0141,Michael Smith,Broadcom,AVGO,Research & AI,Principal,69.8,435200,6.9
+AVGO-0142,Grace Petrov,Broadcom,AVGO,Engineering,Staff,70.2,203400,2.9
+AVGO-0143,James Kim,Broadcom,AVGO,Fab/Manufacturing,Principal,77.0,372600,2.5
+AVGO-0144,Arjun Reyes,Broadcom,AVGO,Fab/Manufacturing,Senior Director,100.0,926300,14.3
+AVGO-0145,Zoe Rossi,Broadcom,AVGO,Finance,Staff,79.9,218000,4.5
+AVGO-0146,Arjun Patel,Broadcom,AVGO,Operations,Staff,74.4,222400,3.2
+AVGO-0147,Samuel Singh,Broadcom,AVGO,Engineering,Senior,72.6,134000,8.9
+AVGO-0148,Kevin Anderson,Broadcom,AVGO,Engineering,Principal,82.7,320900,6.6
+AVGO-0149,Olivia Davis,Broadcom,AVGO,Operations,Principal,85.0,897200,14.8
+AVGO-0150,Maria Garcia,Broadcom,AVGO,Quality,VP,97.9,967100,13.5
+AVGO-0151,Priya Wilson,Broadcom,AVGO,Operations,Director,72.2,387800,7.9
+AVGO-0152,Kevin Brown,Broadcom,AVGO,Engineering,Senior,92.8,548800,12.7
+AVGO-0153,Priya Wilson,Broadcom,AVGO,Engineering,Principal,94.9,178300,10.8
+AVGO-0154,Thomas Brown,Broadcom,AVGO,Research & AI,Senior Director,93.0,1789400,9.2
+AVGO-0155,Yuki Yamamoto,Broadcom,AVGO,Operations,Director,84.2,555900,3.3
+AVGO-0156,Kevin Okafor,Broadcom,AVGO,Engineering,C-Suite,98.5,1396800,21.7
+AVGO-0157,Mary Kim,Broadcom,AVGO,Quality,Director,57.3,393900,10.3
+AVGO-0158,Maria Lopez,Broadcom,AVGO,Engineering,Principal,46.4,259000,5.4
+AVGO-0159,Hannah Hassan,Broadcom,AVGO,Quality,Senior,74.8,390900,6.2
+AVGO-0160,Raj Rossi,Broadcom,AVGO,Engineering,SVP,72.8,1231700,16.3
+AVGO-0161,Wei Johnson,Broadcom,AVGO,Operations,Principal,75.1,230700,8.6
+AVGO-0162,Priya Anderson,Broadcom,AVGO,Quality,SVP,76.0,1538500,11.4
+AVGO-0163,Aisha Wang,Broadcom,AVGO,Fab/Manufacturing,Senior,95.6,109900,5.6
+AVGO-0164,Maria Singh,Broadcom,AVGO,Engineering,Director,69.8,1014800,7.2
+AVGO-0165,Maria Hassan,Broadcom,AVGO,Operations,Senior Director,68.1,503600,11.2
+AVGO-0166,Yuki Lopez,Broadcom,AVGO,Engineering,Staff,79.4,214500,3.0
+AVGO-0167,David Yamamoto,Broadcom,AVGO,Research & AI,Staff,75.3,462600,7.7
+AVGO-0168,Sofia Kim,Broadcom,AVGO,Fab/Manufacturing,Staff,60.9,435200,3.2
+AVGO-0169,Daniel Kim,Broadcom,AVGO,Engineering,Staff,80.6,162300,15.1
+AVGO-0170,Priya Cohen,Broadcom,AVGO,Engineering,Director,78.6,395300,15.0
+AVGO-0171,Maria Patel,Broadcom,AVGO,People/HR,Staff,63.5,298100,4.6
+AVGO-0172,Carlos Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,90.8,573000,7.5
+AVGO-0173,Linda Nguyen,Broadcom,AVGO,Engineering,Director,83.0,1357000,5.3
+AVGO-0174,Hannah Okafor,Broadcom,AVGO,Engineering,Senior,73.2,294100,12.3
+AVGO-0175,Aisha Murphy,Broadcom,AVGO,Finance,VP,86.4,708200,13.3
+AVGO-0176,Wei Lopez,Broadcom,AVGO,Engineering,Staff,80.1,743300,4.1
+AVGO-0177,Thomas Silva,Broadcom,AVGO,Fab/Manufacturing,Senior,54.9,416400,1.7
+AVGO-0178,Chen Tanaka,Broadcom,AVGO,Fab/Manufacturing,Staff,80.5,736800,18.7
+AVGO-0179,Daniel Martinez,Broadcom,AVGO,Engineering,Senior,69.5,156100,5.7
+AVGO-0180,Carlos Patel,Broadcom,AVGO,Research & AI,Principal,86.0,453700,4.7
+AVGO-0181,Yuki Anderson,Broadcom,AVGO,Sales & GTM,Senior,91.8,208700,20.2
+AVGO-0182,Chen Khan,Broadcom,AVGO,Fab/Manufacturing,Director,89.4,683700,14.5
+AVGO-0183,Sofia Reyes,Broadcom,AVGO,Fab/Manufacturing,Director,76.9,135900,4.4
+AVGO-0184,Zoe Okafor,Broadcom,AVGO,Sales & GTM,Director,78.4,417100,5.9
+AVGO-0185,Hiroshi Khan,Broadcom,AVGO,Operations,Senior,80.1,210900,3.7
+AVGO-0186,Daniel Khan,Broadcom,AVGO,Fab/Manufacturing,Senior,83.0,481900,2.2
+AVGO-0187,Nina Nguyen,Broadcom,AVGO,Sales & GTM,VP,72.8,326800,8.4
+AVGO-0188,Chen Anderson,Broadcom,AVGO,Fab/Manufacturing,Director,77.2,1096900,17.1
+AVGO-0189,Raj Patel,Broadcom,AVGO,Engineering,Staff,79.0,143200,7.1
+AVGO-0190,Carlos Lopez,Broadcom,AVGO,Fab/Manufacturing,Staff,76.8,380200,4.1
+AVGO-0191,Wei Schmidt,Broadcom,AVGO,Engineering,SVP,88.5,1346700,7.1
+AVGO-0192,Michael Rossi,Broadcom,AVGO,Engineering,Director,68.0,560900,12.3
+AVGO-0193,Samuel Ali,Broadcom,AVGO,Legal & Policy,Director,92.0,505300,4.0
+AVGO-0194,James Nguyen,Broadcom,AVGO,Quality,Senior,71.2,296100,3.0
+AVGO-0195,Elena Cohen,Broadcom,AVGO,Operations,Staff,75.1,387400,10.3
+AVGO-0196,Maria Wilson,Broadcom,AVGO,Fab/Manufacturing,Senior,85.3,244700,3.3
+AVGO-0197,Grace Park,Broadcom,AVGO,Supply Chain,VP,88.8,1745700,13.5
+AVGO-0198,Kevin Lee,Broadcom,AVGO,Fab/Manufacturing,Principal,80.5,694900,15.3
+AVGO-0199,Zoe Smith,Broadcom,AVGO,Engineering,Principal,71.0,976100,9.3
+AVGO-0200,Linda Brown,Broadcom,AVGO,Engineering,Senior,67.4,363200,5.6
+AVGO-0201,John Brown,Broadcom,AVGO,Fab/Manufacturing,Senior Director,83.3,1173100,5.3
+AVGO-0202,Aisha Tanaka,Broadcom,AVGO,Engineering,Principal,75.2,540900,7.0
+AVGO-0203,Raj Garcia,Broadcom,AVGO,Finance,VP,100.0,3174100,8.2
+AVGO-0204,James Kim,Broadcom,AVGO,Operations,Principal,76.3,711500,3.7
+AVGO-0205,Samuel Wilson,Broadcom,AVGO,Fab/Manufacturing,Senior,75.8,150600,4.3
+AVGO-0206,James Reyes,Broadcom,AVGO,Engineering,Principal,86.8,507500,12.1
+AVGO-0207,Maria Anderson,Broadcom,AVGO,Engineering,Senior,84.0,482200,6.2
+AVGO-0208,Carlos Patel,Broadcom,AVGO,Fab/Manufacturing,Staff,78.2,197200,4.5
+AVGO-0209,Arjun Wang,Broadcom,AVGO,Sales & GTM,Senior,72.0,236800,0.7
+AVGO-0210,Mary Wang,Broadcom,AVGO,Sales & GTM,Staff,60.9,1049100,7.3
+AVGO-0211,Zoe Singh,Broadcom,AVGO,Fab/Manufacturing,Principal,76.1,731300,10.3
+AVGO-0212,Priya Ali,Broadcom,AVGO,Finance,VP,86.1,402600,7.3
+AVGO-0213,Raj Yamamoto,Broadcom,AVGO,Engineering,Director,84.6,490800,11.5
+AVGO-0214,Arjun Johnson,Broadcom,AVGO,Fab/Manufacturing,Senior,72.1,165200,2.7
+AVGO-0215,Yuki Rossi,Broadcom,AVGO,Engineering,Senior,74.0,212000,4.5
+AVGO-0216,Chen Brown,Broadcom,AVGO,Engineering,Senior,73.3,211100,5.6
+AVGO-0217,Yuki Kim,Broadcom,AVGO,Supply Chain,Staff,73.5,430100,12.2
+AVGO-0218,Olivia Singh,Broadcom,AVGO,Engineering,Staff,83.3,320700,1.4
+AVGO-0219,Carlos Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,81.5,98700,2.0
+AVGO-0220,Michael Johnson,Broadcom,AVGO,Engineering,Principal,72.8,869000,8.0
+AVGO-0221,Thomas Murphy,Broadcom,AVGO,Fab/Manufacturing,Senior,88.5,339600,2.3
+AVGO-0222,Michael Tanaka,Broadcom,AVGO,Sales & GTM,Senior,75.6,421200,3.9
+AVGO-0223,Samuel Johnson,Broadcom,AVGO,Quality,Staff,77.9,468000,11.8
+AVGO-0224,Elena Lee,Broadcom,AVGO,Engineering,Senior Director,80.9,1254300,13.6
+AVGO-0225,Carlos Garcia,Broadcom,AVGO,Engineering,VP,82.5,750400,13.3
+AVGO-0226,David Wilson,Broadcom,AVGO,Fab/Manufacturing,Senior Director,69.6,1080200,7.8
+AVGO-0227,Mary Park,Broadcom,AVGO,Operations,Director,78.2,206900,13.6
+AVGO-0228,Carlos Petrov,Broadcom,AVGO,Supply Chain,Staff,80.1,365400,8.2
+AVGO-0229,David Schmidt,Broadcom,AVGO,Engineering,Senior,77.9,308400,9.7
+AVGO-0230,Zoe Cohen,Broadcom,AVGO,Finance,Principal,97.1,1680300,6.6
+AVGO-0231,Sofia Anderson,Broadcom,AVGO,Engineering,Senior Director,100.0,621700,11.1
+AVGO-0232,Aisha Wilson,Broadcom,AVGO,Finance,Principal,68.1,818900,8.7
+AVGO-0233,David Anderson,Broadcom,AVGO,Engineering,Senior Director,80.9,1490200,10.9
+AVGO-0234,David Park,Broadcom,AVGO,Engineering,Principal,87.0,718100,5.0
+AVGO-0235,Zoe Khan,Broadcom,AVGO,Engineering,Senior,77.9,192700,3.0
+AVGO-0236,James Singh,Broadcom,AVGO,Engineering,Director,82.8,337600,8.3
+AVGO-0237,Ahmed Petrov,Broadcom,AVGO,Engineering,Principal,77.6,203400,9.0
+AVGO-0238,Carlos Tanaka,Broadcom,AVGO,Fab/Manufacturing,Staff,63.9,489400,12.4
+AVGO-0239,Priya Rossi,Broadcom,AVGO,Sales & GTM,Staff,89.8,271300,4.8
+AVGO-0240,Elena Khan,Broadcom,AVGO,Engineering,Staff,83.0,136800,3.5
+AVGO-0241,Priya Schmidt,Broadcom,AVGO,Fab/Manufacturing,Director,60.2,253800,4.3
+AVGO-0242,Thomas Ali,Broadcom,AVGO,Engineering,Director,86.7,1164700,8.9
+AVGO-0243,Hiroshi Reyes,Broadcom,AVGO,Operations,Principal,75.0,448100,18.1
+AVGO-0244,Michael Patel,Broadcom,AVGO,Quality,Senior,65.4,183400,4.7
+AVGO-0245,David Kim,Broadcom,AVGO,Sales & GTM,Senior,82.9,110200,11.3
+AVGO-0246,James Petrov,Broadcom,AVGO,Sales & GTM,Senior,84.0,259600,1.6
+AVGO-0247,Hiroshi Patel,Broadcom,AVGO,Operations,Principal,82.2,829200,4.2
+AVGO-0248,John Lopez,Broadcom,AVGO,Research & AI,Principal,84.1,699300,2.5
+AVGO-0249,Linda Schmidt,Broadcom,AVGO,Fab/Manufacturing,Principal,86.0,316100,4.7
+AVGO-0250,Maria Anderson,Broadcom,AVGO,Research & AI,Senior,82.4,255600,7.7
+AVGO-0251,Arjun Murphy,Broadcom,AVGO,Engineering,Staff,90.0,595200,11.4
+AVGO-0252,Priya Cohen,Broadcom,AVGO,Finance,Staff,79.6,170700,7.7
+AVGO-0253,Grace Murphy,Broadcom,AVGO,Legal & Policy,Staff,74.1,844500,3.9
+AVGO-0254,Nina Murphy,Broadcom,AVGO,Finance,Senior,85.6,309800,1.3
+AVGO-0255,Samuel Petrov,Broadcom,AVGO,Fab/Manufacturing,Senior,85.8,299700,6.3
+AVGO-0256,Chen Petrov,Broadcom,AVGO,Engineering,Senior,87.9,160300,22.2
+AVGO-0257,James Lee,Broadcom,AVGO,Research & AI,Senior,91.3,130000,2.6
+AVGO-0258,David Rossi,Broadcom,AVGO,Engineering,Senior,71.8,68700,1.7
+AVGO-0259,Maria Wilson,Broadcom,AVGO,Engineering,Staff,86.8,615900,9.9
+AVGO-0260,Priya Singh,Broadcom,AVGO,Fab/Manufacturing,Principal,84.6,603100,2.5
+AVGO-0261,Kevin Lopez,Broadcom,AVGO,Fab/Manufacturing,Senior,91.9,756200,5.4
+AVGO-0262,Nina Brown,Broadcom,AVGO,Fab/Manufacturing,Director,86.7,142900,14.4
+AVGO-0263,Kevin Nguyen,Broadcom,AVGO,Engineering,VP,74.8,938700,15.3
+AVGO-0264,David Lopez,Broadcom,AVGO,Fab/Manufacturing,Principal,68.4,277300,17.1
+AVGO-0265,Arjun Hassan,Broadcom,AVGO,Fab/Manufacturing,Senior Director,72.5,241500,4.3
+AVGO-0266,Arjun Anderson,Broadcom,AVGO,Legal & Policy,Principal,66.0,224300,6.9
+AVGO-0267,Kevin Singh,Broadcom,AVGO,Engineering,Staff,83.6,735300,3.9
+AVGO-0268,Daniel Silva,Broadcom,AVGO,Fab/Manufacturing,Director,78.0,914100,17.8
+AVGO-0269,Ahmed Johnson,Broadcom,AVGO,Operations,Senior,69.4,709600,8.3
+AVGO-0270,Aisha Wang,Broadcom,AVGO,Sales & GTM,Principal,77.3,392200,6.5
+AVGO-0271,David Martinez,Broadcom,AVGO,Operations,C-Suite,75.9,1433700,17.0
+AVGO-0272,Samuel Reyes,Broadcom,AVGO,Operations,Staff,82.3,492900,1.4
+AVGO-0273,Zoe Brown,Broadcom,AVGO,Engineering,Principal,73.6,350400,5.3
+AVGO-0274,Raj Ali,Broadcom,AVGO,Engineering,VP,57.1,779700,6.8
+AVGO-0275,Chen Kim,Broadcom,AVGO,Operations,Senior Director,100.0,572200,4.6
+AVGO-0276,Linda Cohen,Broadcom,AVGO,Engineering,VP,67.4,919700,10.8
+AVGO-0277,Ahmed Schmidt,Broadcom,AVGO,Research & AI,Staff,93.2,361100,8.7
+AVGO-0278,Carlos Kim,Broadcom,AVGO,Operations,Staff,68.4,255100,7.8
+AVGO-0279,Sofia Khan,Broadcom,AVGO,Fab/Manufacturing,SVP,98.1,326700,14.9
+AVGO-0280,Nina Okafor,Broadcom,AVGO,Engineering,Staff,84.3,318000,10.2
+AVGO-0281,Hannah Brown,Broadcom,AVGO,Research & AI,Senior,73.1,410300,8.2
+AVGO-0282,Grace Martinez,Broadcom,AVGO,Engineering,Senior,70.5,166800,10.1
+AVGO-0283,Olivia Cohen,Broadcom,AVGO,Sales & GTM,Principal,80.7,713800,3.5
+AVGO-0284,Samuel Okafor,Broadcom,AVGO,Operations,Principal,82.9,162500,3.0
+AVGO-0285,Chen Khan,Broadcom,AVGO,People/HR,Senior,78.1,264600,7.1
+AVGO-0286,David Wang,Broadcom,AVGO,Fab/Manufacturing,Staff,73.9,459600,11.5
+AVGO-0287,Daniel Murphy,Broadcom,AVGO,Fab/Manufacturing,VP,88.9,1859600,11.7
+AVGO-0288,Olivia Lee,Broadcom,AVGO,Fab/Manufacturing,Staff,74.0,318400,2.6
+AVGO-0289,Emily Yamamoto,Broadcom,AVGO,Engineering,Director,87.0,642300,15.6
+AVGO-0290,David Nguyen,Broadcom,AVGO,Engineering,Director,84.0,487500,13.8
+AVGO-0291,Michael Murphy,Broadcom,AVGO,Sales & GTM,Senior,88.5,68800,7.0
+AVGO-0292,James Davis,Broadcom,AVGO,Engineering,Senior,61.3,365900,1.9
+AVGO-0293,Yuki Wang,Broadcom,AVGO,Operations,Senior,90.4,130900,9.5
+AVGO-0294,Nina Reyes,Broadcom,AVGO,Operations,Senior,66.3,276500,6.4
+AVGO-0295,Ahmed Nguyen,Broadcom,AVGO,Engineering,Senior,69.9,536800,7.3
+AVGO-0296,Hannah Martinez,Broadcom,AVGO,Fab/Manufacturing,Staff,83.2,818300,9.5
+AVGO-0297,Hannah Chen,Broadcom,AVGO,Operations,Principal,90.5,358400,14.7
+AVGO-0298,Maria Chen,Broadcom,AVGO,Operations,VP,77.4,1261100,9.5
+AVGO-0299,Nina Brown,Broadcom,AVGO,Fab/Manufacturing,Staff,67.6,279400,7.5
+AVGO-0300,Ahmed Khan,Broadcom,AVGO,Engineering,Principal,64.2,414000,3.4
+AVGO-0301,Ahmed Wang,Broadcom,AVGO,Engineering,Principal,78.9,1393700,6.0
+AVGO-0302,Arjun Silva,Broadcom,AVGO,Operations,Director,89.5,583300,3.0
+AVGO-0303,Zoe Cohen,Broadcom,AVGO,Operations,Staff,56.1,584300,9.2
+AVGO-0304,Priya Okafor,Broadcom,AVGO,Engineering,Staff,84.4,337800,7.0
+AVGO-0305,Elena Johnson,Broadcom,AVGO,Engineering,Senior,61.3,508000,3.6
+AVGO-0306,David Hassan,Broadcom,AVGO,Fab/Manufacturing,Principal,75.4,426700,16.4
+AVGO-0307,Fatima Nguyen,Broadcom,AVGO,Engineering,Director,80.0,435300,5.6
+AVGO-0308,Hiroshi Davis,Broadcom,AVGO,Fab/Manufacturing,Director,70.9,556500,5.3
+AVGO-0309,Fatima Patel,Broadcom,AVGO,Research & AI,Director,82.1,723600,4.8
+AVGO-0310,Yuki Martinez,Broadcom,AVGO,Engineering,Director,87.5,439600,13.5
+AVGO-0311,Ahmed Hassan,Broadcom,AVGO,Finance,VP,65.6,491500,9.5
+AVGO-0312,Priya Brown,Broadcom,AVGO,Research & AI,Director,80.7,924000,14.7
+AVGO-0313,Olivia Wang,Broadcom,AVGO,People/HR,Senior Director,73.5,410900,8.6
+AVGO-0314,James Tanaka,Broadcom,AVGO,Research & AI,Senior,70.6,213600,3.0
+AVGO-0315,Olivia Schmidt,Broadcom,AVGO,Fab/Manufacturing,Staff,78.3,169700,5.6
+AVGO-0316,Samuel Lee,Broadcom,AVGO,Sales & GTM,Principal,59.0,414000,18.9
+AVGO-0317,Fatima Hassan,Broadcom,AVGO,Quality,Director,82.5,787100,7.4
+AVGO-0318,Ahmed Chen,Broadcom,AVGO,Fab/Manufacturing,Staff,100.0,461200,7.7
+AVGO-0319,Mary Chen,Broadcom,AVGO,Engineering,Staff,70.1,124600,7.5
+AVGO-0320,Carlos Rossi,Broadcom,AVGO,Fab/Manufacturing,Staff,78.1,361500,2.4
+AVGO-0321,Fatima Chen,Broadcom,AVGO,Engineering,Principal,78.3,527900,5.3
+AVGO-0322,Arjun Wilson,Broadcom,AVGO,Sales & GTM,Staff,76.2,362800,2.0
+AVGO-0323,Maria Lee,Broadcom,AVGO,Finance,Senior Director,60.3,596100,5.1
+AVGO-0324,Ahmed Reyes,Broadcom,AVGO,Engineering,Senior,79.4,149400,6.6
+AVGO-0325,Grace Nguyen,Broadcom,AVGO,Legal & Policy,Senior,71.2,79000,6.0
+AVGO-0326,Grace Silva,Broadcom,AVGO,Fab/Manufacturing,Senior,65.4,249400,12.5
+AVGO-0327,Priya Brown,Broadcom,AVGO,Sales & GTM,Staff,84.5,195300,16.4
+AVGO-0328,Ahmed Park,Broadcom,AVGO,Fab/Manufacturing,Staff,71.2,72200,3.6
+AVGO-0329,Sofia Johnson,Broadcom,AVGO,Engineering,Principal,66.1,356600,3.9
+AVGO-0330,Kevin Anderson,Broadcom,AVGO,Fab/Manufacturing,Senior,76.7,159200,7.5
+AVGO-0331,Hiroshi Rossi,Broadcom,AVGO,Research & AI,Staff,79.2,745800,3.0
+AVGO-0332,Michael Wilson,Broadcom,AVGO,Supply Chain,Staff,79.4,424500,5.2
+AVGO-0333,John Lee,Broadcom,AVGO,Fab/Manufacturing,Principal,92.7,325100,7.0
+AVGO-0334,James Kim,Broadcom,AVGO,Operations,Senior,63.5,255300,7.5
+AVGO-0335,Nina Schmidt,Broadcom,AVGO,Engineering,Staff,81.0,327300,7.1
+AVGO-0336,Arjun Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,68.6,121600,8.1
+AVGO-0337,Raj Ali,Broadcom,AVGO,Operations,Director,71.5,312500,7.7
+AVGO-0338,Thomas Cohen,Broadcom,AVGO,Sales & GTM,Staff,69.8,414000,5.3
+AVGO-0339,Daniel Rossi,Broadcom,AVGO,Supply Chain,Senior,64.7,103500,3.4
+AVGO-0340,Hiroshi Okafor,Broadcom,AVGO,Engineering,Director,54.1,978100,6.0
+AVGO-0341,Priya Singh,Broadcom,AVGO,Finance,Senior Director,80.7,408900,15.3
+AVGO-0342,Emily Nguyen,Broadcom,AVGO,Engineering,Senior,67.2,217700,5.7
+AVGO-0343,Elena Silva,Broadcom,AVGO,Quality,Principal,84.1,263600,3.4
+AVGO-0344,Emily Wilson,Broadcom,AVGO,Fab/Manufacturing,Staff,76.3,446600,8.6
+AVGO-0345,David Park,Broadcom,AVGO,Research & AI,Senior Director,54.8,640900,9.8
+AVGO-0346,Nina Wilson,Broadcom,AVGO,Fab/Manufacturing,Staff,78.1,59000,4.4
+AVGO-0347,Fatima Singh,Broadcom,AVGO,Legal & Policy,Senior,64.8,584200,5.4
+AVGO-0348,Wei Wang,Broadcom,AVGO,Engineering,Senior,63.1,364000,7.0
+AVGO-0349,Maria Wang,Broadcom,AVGO,Quality,Senior Director,78.6,329100,7.4
+AVGO-0350,Sofia Kim,Broadcom,AVGO,Engineering,VP,87.9,2369900,24.8
+AVGO-0351,James Brown,Broadcom,AVGO,People/HR,Senior Director,86.9,1512400,7.5
+AVGO-0352,Raj Martinez,Broadcom,AVGO,Fab/Manufacturing,Director,71.5,404900,7.2
+AVGO-0353,Linda Martinez,Broadcom,AVGO,Engineering,Staff,74.7,858100,13.2
+AVGO-0354,Maria Chen,Broadcom,AVGO,Fab/Manufacturing,Senior,74.5,119900,5.2
+AVGO-0355,Emily Chen,Broadcom,AVGO,Engineering,Senior,80.9,560100,5.3
+AVGO-0356,Nina Cohen,Broadcom,AVGO,Operations,Director,68.9,703300,9.2
+AVGO-0357,Priya Silva,Broadcom,AVGO,Operations,Principal,63.3,180400,6.8
+AVGO-0358,Aisha Ali,Broadcom,AVGO,Engineering,Staff,87.5,379800,4.8
+AVGO-0359,Mary Rossi,Broadcom,AVGO,Legal & Policy,Staff,71.4,206700,12.1
+AVGO-0360,Emily Murphy,Broadcom,AVGO,Engineering,Senior Director,66.9,515300,3.9
+AVGO-0361,Chen Lopez,Broadcom,AVGO,Operations,Senior,70.5,338800,6.1
+AVGO-0362,Ahmed Ali,Broadcom,AVGO,Fab/Manufacturing,Staff,92.2,248600,7.9
+AVGO-0363,Arjun Khan,Broadcom,AVGO,Engineering,Staff,75.5,960500,6.8
+AVGO-0364,Hannah Lopez,Broadcom,AVGO,Fab/Manufacturing,Senior,76.6,211500,9.2
+AVGO-0365,Samuel Park,Broadcom,AVGO,Operations,Senior,74.7,332600,4.0
+AVGO-0366,Linda Rossi,Broadcom,AVGO,Engineering,Principal,71.9,65400,14.8
+AVGO-0367,Yuki Lopez,Broadcom,AVGO,Fab/Manufacturing,Director,64.9,927900,13.4
+AVGO-0368,Priya Okafor,Broadcom,AVGO,Fab/Manufacturing,Staff,60.7,318200,4.9
+AVGO-0369,Elena Schmidt,Broadcom,AVGO,Operations,Staff,87.8,574800,5.1
+AVGO-0370,Priya Khan,Broadcom,AVGO,Engineering,Senior,70.7,200500,4.2
+AVGO-0371,Olivia Brown,Broadcom,AVGO,Engineering,Principal,82.6,332100,6.3
+AVGO-0372,Mary Smith,Broadcom,AVGO,Sales & GTM,Senior,95.7,150500,3.9
+AVGO-0373,Zoe Davis,Broadcom,AVGO,Sales & GTM,Director,89.7,556600,12.2
+AVGO-0374,Raj Lopez,Broadcom,AVGO,Engineering,Staff,76.0,184500,17.9
+AVGO-0375,John Garcia,Broadcom,AVGO,People/HR,Senior,87.6,171500,2.7
+AVGO-0376,Samuel Reyes,Broadcom,AVGO,Fab/Manufacturing,Senior,78.6,85100,6.7
+AVGO-0377,John Rossi,Broadcom,AVGO,Engineering,Senior,79.9,542100,1.8
+AVGO-0378,Priya Cohen,Broadcom,AVGO,Engineering,Principal,83.0,651400,5.7
+AVGO-0379,Michael Wilson,Broadcom,AVGO,Sales & GTM,Senior,74.6,493400,11.9
+AVGO-0380,Kevin Rossi,Broadcom,AVGO,Fab/Manufacturing,Senior,84.9,448600,6.7
+AVGO-0381,Sofia Ali,Broadcom,AVGO,Engineering,VP,89.0,798300,20.6
+AVGO-0382,Olivia Silva,Broadcom,AVGO,Engineering,Senior,55.9,432200,8.1
+AVGO-0383,Kevin Okafor,Broadcom,AVGO,Supply Chain,Senior Director,79.2,1091000,5.8
+AVGO-0384,Chen Park,Broadcom,AVGO,Finance,Director,61.2,359500,9.6
+AVGO-0385,Olivia Singh,Broadcom,AVGO,People/HR,Principal,78.5,367300,6.8
+AVGO-0386,David Hassan,Broadcom,AVGO,Operations,Staff,79.7,110700,6.8
+AVGO-0387,Thomas Smith,Broadcom,AVGO,Engineering,Senior,71.7,585100,3.6
+AVGO-0388,Grace Murphy,Broadcom,AVGO,Engineering,Senior Director,93.6,597700,14.2
+AVGO-0389,Hiroshi Schmidt,Broadcom,AVGO,Operations,Staff,74.0,155100,2.2
+AVGO-0390,Samuel Kim,Broadcom,AVGO,Sales & GTM,Staff,76.8,647700,14.9
+AVGO-0391,Linda Reyes,Broadcom,AVGO,Finance,Senior,91.8,232600,6.6
+AVGO-0392,David Ali,Broadcom,AVGO,Engineering,Staff,83.3,453400,2.2
+AVGO-0393,David Anderson,Broadcom,AVGO,Supply Chain,Senior,69.6,188700,3.3
+AVGO-0394,David Yamamoto,Broadcom,AVGO,Sales & GTM,SVP,90.4,1850500,16.7
+AVGO-0395,Elena Okafor,Broadcom,AVGO,Fab/Manufacturing,Principal,100.0,178200,8.2
+AVGO-0396,Yuki Schmidt,Broadcom,AVGO,Sales & GTM,SVP,67.6,1101200,13.6
+AVGO-0397,Yuki Nguyen,Broadcom,AVGO,Supply Chain,Staff,78.0,385300,4.2
+AVGO-0398,Daniel Okafor,Broadcom,AVGO,Engineering,Principal,82.1,460200,3.6
+AVGO-0399,Priya Hassan,Broadcom,AVGO,Engineering,Senior,75.8,202900,7.7
+AVGO-0400,Olivia Garcia,Broadcom,AVGO,Engineering,Staff,83.5,356400,5.2
+AVGO-0401,Samuel Singh,Broadcom,AVGO,Sales & GTM,Director,70.2,259600,10.3
+AVGO-0402,James Khan,Broadcom,AVGO,Engineering,Principal,71.1,161200,5.0
+AVGO-0403,Maria Hassan,Broadcom,AVGO,Sales & GTM,Staff,78.0,247400,18.0
+AVGO-0404,Emily Tanaka,Broadcom,AVGO,People/HR,Senior Director,77.4,1210200,6.3
+AVGO-0405,James Yamamoto,Broadcom,AVGO,Engineering,Senior,75.6,109000,6.7
+AVGO-0406,Fatima Reyes,Broadcom,AVGO,Fab/Manufacturing,Senior,78.3,149100,1.6
+AVGO-0407,Yuki Murphy,Broadcom,AVGO,Sales & GTM,VP,81.0,684800,7.5
+AVGO-0408,Maria Davis,Broadcom,AVGO,Finance,VP,80.0,184800,7.2
+AVGO-0409,Emily Khan,Broadcom,AVGO,Research & AI,Senior,99.9,245400,6.5
+AVGO-0410,Grace Khan,Broadcom,AVGO,Sales & GTM,Staff,71.7,324800,17.1
+AVGO-0411,Michael Martinez,Broadcom,AVGO,Fab/Manufacturing,Senior Director,78.2,271600,12.8
+AVGO-0412,Priya Khan,Broadcom,AVGO,Engineering,Director,83.4,525600,11.4
+AVGO-0413,Sofia Garcia,Broadcom,AVGO,Operations,Principal,79.8,718600,12.2
+AVGO-0414,Raj Wilson,Broadcom,AVGO,Quality,Principal,69.4,270700,11.3
+AVGO-0415,Aisha Khan,Broadcom,AVGO,Fab/Manufacturing,Staff,72.9,246900,5.1
+AVGO-0416,Samuel Anderson,Broadcom,AVGO,Engineering,Senior Director,76.7,587800,8.2
+AVGO-0417,John Smith,Broadcom,AVGO,Engineering,Staff,92.7,368500,11.8
+AVGO-0418,Daniel Garcia,Broadcom,AVGO,Legal & Policy,Staff,82.1,275300,1.9
+AVGO-0419,Raj Singh,Broadcom,AVGO,Engineering,Principal,84.7,524400,6.4
+AVGO-0420,Chen Brown,Broadcom,AVGO,Engineering,C-Suite,84.9,1699900,20.2
+AVGO-0421,Michael Garcia,Broadcom,AVGO,Fab/Manufacturing,VP,76.7,857900,17.5
+AVGO-0422,Maria Petrov,Broadcom,AVGO,Sales & GTM,Principal,70.9,233000,7.0
+AVGO-0423,Hannah Petrov,Broadcom,AVGO,Operations,Senior,79.1,204100,2.8
+AVGO-0424,Priya Ali,Broadcom,AVGO,Engineering,Principal,77.7,445600,6.1
+AVGO-0425,Grace Nguyen,Broadcom,AVGO,Finance,Staff,86.6,536600,9.1
+AVGO-0426,Thomas Lee,Broadcom,AVGO,Supply Chain,Senior,63.5,116500,5.1
+AVGO-0427,Sofia Patel,Broadcom,AVGO,Engineering,Staff,91.1,906100,14.0
+AVGO-0428,Zoe Silva,Broadcom,AVGO,Fab/Manufacturing,Senior,76.9,182700,6.5
+AVGO-0429,Kevin Schmidt,Broadcom,AVGO,Finance,Senior,84.6,88200,5.9
+AVGO-0430,Hannah Cohen,Broadcom,AVGO,Engineering,Senior,75.4,338000,7.4
+AVGO-0431,David Okafor,Broadcom,AVGO,Sales & GTM,Director,89.7,979200,9.4
+AVGO-0432,Fatima Garcia,Broadcom,AVGO,Engineering,Staff,60.7,352500,3.8
+AVGO-0433,Arjun Cohen,Broadcom,AVGO,Fab/Manufacturing,Director,93.2,1144800,5.1
+AVGO-0434,Hiroshi Garcia,Broadcom,AVGO,Sales & GTM,Staff,85.3,459800,6.4
+AVGO-0435,Olivia Yamamoto,Broadcom,AVGO,Supply Chain,Principal,73.5,660400,9.5
+AVGO-0436,David Kim,Broadcom,AVGO,Engineering,Senior,84.3,330000,0.8
+AVGO-0437,Sofia Anderson,Broadcom,AVGO,Fab/Manufacturing,Senior,79.8,114100,3.8
+AVGO-0438,Hiroshi Singh,Broadcom,AVGO,Engineering,VP,100.0,438900,9.0
+AVGO-0439,Arjun Murphy,Broadcom,AVGO,Engineering,Senior,58.8,126300,0.7
+AVGO-0440,Priya Wang,Broadcom,AVGO,Engineering,Staff,91.0,513500,8.9
+AVGO-0441,Ahmed Smith,Broadcom,AVGO,Engineering,Senior,69.2,324400,7.0
+AVGO-0442,Michael Lopez,Broadcom,AVGO,Research & AI,Senior,74.3,286900,6.3
+AVGO-0443,Samuel Petrov,Broadcom,AVGO,Fab/Manufacturing,Staff,82.5,331600,12.7
+AVGO-0444,James Nguyen,Broadcom,AVGO,Engineering,Senior,77.6,88700,6.6
+AVGO-0445,Michael Kim,Broadcom,AVGO,Research & AI,Senior,79.3,195200,10.1
+AVGO-0446,Sofia Patel,Broadcom,AVGO,Supply Chain,Senior,74.0,260600,17.5
+AVGO-0447,Raj Patel,Broadcom,AVGO,Engineering,Senior,66.8,120900,2.2
+AVGO-0448,Arjun Wang,Broadcom,AVGO,Fab/Manufacturing,Director,86.2,281700,3.8
+AVGO-0449,Grace Patel,Broadcom,AVGO,Engineering,Senior,87.6,332800,1.9
+AVGO-0450,Ahmed Tanaka,Broadcom,AVGO,Fab/Manufacturing,Staff,79.1,237900,3.7
+AVGO-0451,Elena Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,60.4,509400,5.7
+AVGO-0452,Olivia Martinez,Broadcom,AVGO,Operations,Staff,93.2,203900,4.6
+AVGO-0453,Ahmed Yamamoto,Broadcom,AVGO,Sales & GTM,VP,78.6,507500,18.5
+AVGO-0454,Olivia Yamamoto,Broadcom,AVGO,Engineering,Director,86.6,1308300,18.2
+AVGO-0455,Emily Singh,Broadcom,AVGO,Fab/Manufacturing,Principal,74.3,392500,3.9
+AVGO-0456,Fatima Nguyen,Broadcom,AVGO,Research & AI,Senior,64.6,383900,1.4
+AVGO-0457,Michael Nguyen,Broadcom,AVGO,Supply Chain,Principal,97.6,578300,6.8
+AVGO-0458,Sofia Hassan,Broadcom,AVGO,Operations,Principal,87.5,339400,6.7
+AVGO-0459,Olivia Lee,Broadcom,AVGO,Sales & GTM,Senior,84.3,459600,13.0
+AVGO-0460,Olivia Rossi,Broadcom,AVGO,Fab/Manufacturing,VP,96.9,1800200,7.1
+AVGO-0461,David Martinez,Broadcom,AVGO,Fab/Manufacturing,Principal,87.8,178600,4.0
+AVGO-0462,Thomas Hassan,Broadcom,AVGO,Engineering,Staff,93.7,236500,1.9
+AVGO-0463,Fatima Martinez,Broadcom,AVGO,Sales & GTM,SVP,89.8,1422800,12.3
+AVGO-0464,Chen Garcia,Broadcom,AVGO,Supply Chain,Senior,73.5,553000,7.7
+AVGO-0465,Grace Singh,Broadcom,AVGO,Supply Chain,Principal,64.6,391500,3.7
+AVGO-0466,Priya Kim,Broadcom,AVGO,Engineering,Senior,76.6,146600,1.2
+AVGO-0467,Hannah Petrov,Broadcom,AVGO,Engineering,Senior Director,76.0,1434900,7.6
+AVGO-0468,Arjun Cohen,Broadcom,AVGO,Fab/Manufacturing,Senior,76.8,94700,6.0
+AVGO-0469,Sofia Okafor,Broadcom,AVGO,Research & AI,Senior,91.1,234400,2.6
+AVGO-0470,Sofia Brown,Broadcom,AVGO,Fab/Manufacturing,Staff,88.2,251800,11.2
+AVGO-0471,John Okafor,Broadcom,AVGO,Fab/Manufacturing,Senior Director,84.4,412600,14.7
+AVGO-0472,Mary Tanaka,Broadcom,AVGO,Operations,Staff,71.3,95200,9.3
+AVGO-0473,Hannah Davis,Broadcom,AVGO,Operations,Principal,80.5,805300,7.9
+AVGO-0474,Hannah Yamamoto,Broadcom,AVGO,Fab/Manufacturing,Staff,82.9,180100,4.8
+AVGO-0475,Wei Singh,Broadcom,AVGO,Quality,Senior,82.6,435500,10.8
+AVGO-0476,Ahmed Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,77.7,318300,4.0
+AVGO-0477,Hiroshi Garcia,Broadcom,AVGO,Engineering,Staff,78.0,722700,4.5
+AVGO-0478,Olivia Brown,Broadcom,AVGO,Research & AI,Staff,79.4,359100,3.2
+AVGO-0479,Michael Wilson,Broadcom,AVGO,Engineering,Senior,77.8,160400,14.7
+AVGO-0480,John Khan,Broadcom,AVGO,Finance,Senior Director,76.5,667100,13.2
+AVGO-0481,Kevin Davis,Broadcom,AVGO,Fab/Manufacturing,Senior,71.2,134000,5.1
+AVGO-0482,John Kim,Broadcom,AVGO,Engineering,Senior,76.1,210300,8.2
+AVGO-0483,Sofia Hassan,Broadcom,AVGO,Fab/Manufacturing,C-Suite,78.3,1224800,28.8
+AVGO-0484,Wei Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,66.8,362300,5.2
+AVGO-0485,Priya Wang,Broadcom,AVGO,Research & AI,Senior,67.5,180800,2.2
+AVGO-0486,Kevin Nguyen,Broadcom,AVGO,People/HR,Senior,92.1,154700,7.7
+AVGO-0487,Ahmed Murphy,Broadcom,AVGO,Operations,Principal,59.1,589700,17.9
+AVGO-0488,Maria Garcia,Broadcom,AVGO,Fab/Manufacturing,Principal,87.5,889500,7.5
+AVGO-0489,Kevin Murphy,Broadcom,AVGO,Engineering,Senior Director,84.0,855900,9.3
+AVGO-0490,Linda Reyes,Broadcom,AVGO,Fab/Manufacturing,Principal,90.3,463800,6.3
+AVGO-0491,Yuki Chen,Broadcom,AVGO,Operations,Senior Director,76.1,459700,10.0
+AVGO-0492,Grace Lopez,Broadcom,AVGO,Research & AI,Senior Director,73.7,736500,15.2
+AVGO-0493,Daniel Wang,Broadcom,AVGO,Engineering,Director,77.5,269000,8.4
+AVGO-0494,James Johnson,Broadcom,AVGO,Engineering,Staff,88.7,914000,6.1
+AVGO-0495,Maria Patel,Broadcom,AVGO,Finance,Senior,75.4,236000,21.5
+AVGO-0496,Olivia Rossi,Broadcom,AVGO,Quality,Director,72.9,369600,4.1
+AVGO-0497,Fatima Smith,Broadcom,AVGO,Quality,Senior,62.5,327000,4.4
+AVGO-0498,Grace Cohen,Broadcom,AVGO,Sales & GTM,Senior,64.0,89000,2.8
+AVGO-0499,Nina Ali,Broadcom,AVGO,Finance,Staff,82.1,286400,6.9
+AVGO-0500,David Tanaka,Broadcom,AVGO,Fab/Manufacturing,Staff,69.9,69600,6.1
+AVGO-0501,Samuel Smith,Broadcom,AVGO,Fab/Manufacturing,Senior,75.8,225400,12.4
+AVGO-0502,Kevin Anderson,Broadcom,AVGO,Engineering,Senior Director,81.8,1594100,6.5
+AVGO-0503,Yuki Khan,Broadcom,AVGO,Engineering,Staff,76.5,368400,9.5
+AVGO-0504,Yuki Wang,Broadcom,AVGO,Finance,Principal,84.3,335700,5.7
+AVGO-0505,Arjun Davis,Broadcom,AVGO,Engineering,Principal,75.9,237100,4.3
+AVGO-0506,Yuki Brown,Broadcom,AVGO,Fab/Manufacturing,Principal,94.6,374300,7.2
+AVGO-0507,James Rossi,Broadcom,AVGO,Research & AI,SVP,72.8,1906200,7.4
+AVGO-0508,Nina Wilson,Broadcom,AVGO,Fab/Manufacturing,Principal,69.7,152200,7.2
+AVGO-0509,Aisha Patel,Broadcom,AVGO,Fab/Manufacturing,Staff,89.1,1510600,6.7
+AVGO-0510,Sofia Johnson,Broadcom,AVGO,Engineering,VP,75.7,553200,11.7
+AVGO-0511,Hiroshi Chen,Broadcom,AVGO,Operations,Senior,91.7,153300,13.4
+AVGO-0512,Emily Khan,Broadcom,AVGO,Research & AI,Principal,81.8,483800,3.1
+AVGO-0513,Yuki Hassan,Broadcom,AVGO,Operations,Senior,63.0,197500,3.7
+AVGO-0514,Hiroshi Schmidt,Broadcom,AVGO,Finance,VP,71.7,443800,8.7
+AVGO-0515,Priya Khan,Broadcom,AVGO,Fab/Manufacturing,Senior,74.5,475600,12.7
+AVGO-0516,Chen Davis,Broadcom,AVGO,Engineering,Senior,65.5,306700,3.0
+AVGO-0517,Raj Martinez,Broadcom,AVGO,Research & AI,Staff,74.7,280400,6.8
+AVGO-0518,Michael Garcia,Broadcom,AVGO,Fab/Manufacturing,Principal,89.0,489300,5.0
+AVGO-0519,Carlos Tanaka,Broadcom,AVGO,Fab/Manufacturing,Senior,80.6,397500,2.6
+AVGO-0520,Fatima Brown,Broadcom,AVGO,Operations,Staff,81.3,242300,4.1
+AVGO-0521,John Chen,Broadcom,AVGO,Research & AI,Principal,76.7,601300,10.4
+AVGO-0522,Elena Wilson,Broadcom,AVGO,Engineering,Senior,94.0,539400,1.0
+AVGO-0523,Maria Singh,Broadcom,AVGO,Supply Chain,Senior Director,93.0,1142700,7.9
+AVGO-0524,Zoe Wilson,Broadcom,AVGO,Engineering,Principal,78.3,829600,3.8
+AVGO-0525,Maria Kim,Broadcom,AVGO,Sales & GTM,Staff,80.5,720400,6.2
+AVGO-0526,Chen Smith,Broadcom,AVGO,Research & AI,Staff,68.9,78600,5.1
+AVGO-0527,Aisha Tanaka,Broadcom,AVGO,Finance,Principal,83.4,309300,6.3
+AVGO-0528,Fatima Smith,Broadcom,AVGO,Fab/Manufacturing,Senior,73.2,195200,4.0
+AVGO-0529,Hiroshi Smith,Broadcom,AVGO,Fab/Manufacturing,Director,70.0,570700,6.1
+AVGO-0530,Carlos Yamamoto,Broadcom,AVGO,Research & AI,Senior,75.1,310300,2.3
+AVGO-0531,Nina Murphy,Broadcom,AVGO,Research & AI,VP,78.7,1453400,7.0
+AVGO-0532,Linda Garcia,Broadcom,AVGO,Supply Chain,Senior,75.3,257000,10.7
+AVGO-0533,Thomas Martinez,Broadcom,AVGO,Fab/Manufacturing,Staff,85.8,239300,6.9
+AVGO-0534,Olivia Martinez,Broadcom,AVGO,Sales & GTM,Staff,67.2,232400,2.6
+AVGO-0535,Raj Tanaka,Broadcom,AVGO,Engineering,Senior,87.9,527100,4.3
+AVGO-0536,Zoe Smith,Broadcom,AVGO,Engineering,Senior Director,72.2,438300,8.9
+AVGO-0537,Fatima Anderson,Broadcom,AVGO,Sales & GTM,Senior,71.1,326600,9.9
+AVGO-0538,Olivia Reyes,Broadcom,AVGO,Fab/Manufacturing,VP,72.8,794000,5.7
+AVGO-0539,Hannah Yamamoto,Broadcom,AVGO,Engineering,Staff,85.5,625600,10.4
+AVGO-0540,Priya Murphy,Broadcom,AVGO,Legal & Policy,Principal,79.2,408300,6.7
+AVGO-0541,Sofia Petrov,Broadcom,AVGO,Supply Chain,Principal,73.7,293200,2.9
+AVGO-0542,Grace Johnson,Broadcom,AVGO,Engineering,Staff,86.7,250100,3.3
+AVGO-0543,Sofia Lopez,Broadcom,AVGO,Engineering,Director,78.1,516000,4.1
+AVGO-0544,Linda Brown,Broadcom,AVGO,Engineering,Senior,73.0,176900,7.2
+AVGO-0545,David Khan,Broadcom,AVGO,Engineering,C-Suite,69.1,4136800,15.4
+AVGO-0546,Zoe Hassan,Broadcom,AVGO,Research & AI,Staff,71.0,486100,3.2
+AVGO-0547,Michael Cohen,Broadcom,AVGO,Finance,Senior Director,98.6,310000,10.0
+AVGO-0548,Michael Rossi,Broadcom,AVGO,Engineering,Senior,65.1,325800,5.0
+AVGO-0549,Kevin Okafor,Broadcom,AVGO,Quality,Senior,76.8,728000,3.3
+AVGO-0550,Olivia Yamamoto,Broadcom,AVGO,Supply Chain,Staff,82.3,561400,5.3
+AVGO-0551,Carlos Wilson,Broadcom,AVGO,Engineering,Senior,90.4,301400,12.2
+AVGO-0552,Mary Park,Broadcom,AVGO,Engineering,Staff,70.4,328100,4.5
+AVGO-0553,Zoe Cohen,Broadcom,AVGO,Engineering,Senior,90.0,411500,4.6
+AVGO-0554,John Brown,Broadcom,AVGO,Finance,Senior,71.8,132700,7.2
+AVGO-0555,Priya Okafor,Broadcom,AVGO,Engineering,Senior,71.0,297100,7.1
+AVGO-0556,Daniel Wang,Broadcom,AVGO,Operations,Principal,66.4,648800,3.5
+AVGO-0557,Priya Rossi,Broadcom,AVGO,Research & AI,Senior,89.3,869400,6.4
+AVGO-0558,Aisha Yamamoto,Broadcom,AVGO,Sales & GTM,Principal,82.7,635800,4.2
+AVGO-0559,James Lopez,Broadcom,AVGO,Supply Chain,Principal,88.1,1551000,6.5
+AVGO-0560,Maria Silva,Broadcom,AVGO,Finance,Principal,80.2,696300,3.2
+AVGO-0561,Chen Park,Broadcom,AVGO,Fab/Manufacturing,Principal,75.1,192500,9.1
+AVGO-0562,Olivia Chen,Broadcom,AVGO,Fab/Manufacturing,Senior,63.3,270400,1.2
+AVGO-0563,Nina Park,Broadcom,AVGO,Quality,Principal,72.6,1004000,11.5
+AVGO-0564,Mary Wang,Broadcom,AVGO,Quality,VP,73.6,441400,12.6
+AVGO-0565,Aisha Okafor,Broadcom,AVGO,Engineering,Principal,80.2,473800,12.2
+AVGO-0566,Fatima Wang,Broadcom,AVGO,Supply Chain,Senior,74.0,484500,4.0
+AVGO-0567,Arjun Anderson,Broadcom,AVGO,Operations,Principal,78.1,254000,6.2
+AVGO-0568,David Okafor,Broadcom,AVGO,Legal & Policy,Principal,81.9,268000,8.5
+AVGO-0569,Zoe Cohen,Broadcom,AVGO,Legal & Policy,Principal,89.2,340800,5.2
+AVGO-0570,Priya Lee,Broadcom,AVGO,Engineering,Senior,84.4,365700,5.9
+AVGO-0571,Sofia Cohen,Broadcom,AVGO,Fab/Manufacturing,Senior,85.0,139000,2.8
+AVGO-0572,James Ali,Broadcom,AVGO,Engineering,Senior,84.0,453500,4.3
+AVGO-0573,Carlos Martinez,Broadcom,AVGO,Research & AI,Principal,71.8,1083200,4.3
+AVGO-0574,James Petrov,Broadcom,AVGO,Supply Chain,Senior Director,82.7,662600,5.1
+AVGO-0575,Hiroshi Lee,Broadcom,AVGO,Supply Chain,Senior Director,100.0,900500,9.8
+AVGO-0576,Zoe Wang,Broadcom,AVGO,Operations,Principal,73.5,850600,2.5
+AVGO-0577,Daniel Murphy,Broadcom,AVGO,Engineering,Staff,84.6,196200,6.8
+AVGO-0578,Emily Silva,Broadcom,AVGO,Operations,Director,79.9,544400,4.8
+AVGO-0579,Fatima Davis,Broadcom,AVGO,Engineering,Principal,97.3,429400,5.4
+AVGO-0580,Yuki Petrov,Broadcom,AVGO,Fab/Manufacturing,Senior Director,97.5,1231500,9.9
+AVGO-0581,Grace Chen,Broadcom,AVGO,Supply Chain,Staff,84.6,200200,6.7
+AVGO-0582,Linda Rossi,Broadcom,AVGO,Research & AI,Senior,76.8,146800,4.5
+AVGO-0583,Olivia Cohen,Broadcom,AVGO,Sales & GTM,Staff,81.8,434800,8.9
+AVGO-0584,Michael Patel,Broadcom,AVGO,Research & AI,Principal,81.3,929500,7.6
+AVGO-0585,John Khan,Broadcom,AVGO,Fab/Manufacturing,Staff,80.9,244300,11.1
+AVGO-0586,Thomas Cohen,Broadcom,AVGO,Sales & GTM,Senior,89.9,382800,8.9
+AVGO-0587,Olivia Martinez,Broadcom,AVGO,Sales & GTM,Staff,70.4,192200,4.5
+AVGO-0588,Nina Yamamoto,Broadcom,AVGO,Engineering,Senior,87.0,372900,4.0
+AVGO-0589,Fatima Davis,Broadcom,AVGO,People/HR,Senior,73.5,439700,9.4
+AVGO-0590,Priya Anderson,Broadcom,AVGO,Fab/Manufacturing,Staff,89.7,1161800,4.3
+AVGO-0591,Carlos Patel,Broadcom,AVGO,Supply Chain,Senior,67.7,233100,1.5
+AVGO-0592,Aisha Petrov,Broadcom,AVGO,Engineering,Senior,73.5,241400,7.2
+AVGO-0593,Daniel Reyes,Broadcom,AVGO,Engineering,VP,81.4,224000,8.6
+AVGO-0594,Chen Schmidt,Broadcom,AVGO,Engineering,Staff,77.8,396100,5.2
+AVGO-0595,Grace Brown,Broadcom,AVGO,Engineering,Director,96.7,353500,6.4
+AVGO-0596,Nina Petrov,Broadcom,AVGO,Engineering,Principal,86.4,914800,9.4
+AVGO-0597,Aisha Okafor,Broadcom,AVGO,Engineering,Senior,76.7,226700,3.4
+AVGO-0598,Grace Okafor,Broadcom,AVGO,Finance,Staff,82.9,320100,5.0
+AVGO-0599,Yuki Singh,Broadcom,AVGO,Engineering,Senior,70.2,350200,10.2
+AVGO-0600,Thomas Garcia,Broadcom,AVGO,Fab/Manufacturing,Staff,83.5,195000,3.6
+AVGO-0601,Michael Martinez,Broadcom,AVGO,Operations,Senior Director,91.3,1125300,6.9
+AVGO-0602,Emily Anderson,Broadcom,AVGO,Operations,Principal,93.6,1442600,12.2
+AVGO-0603,James Wilson,Broadcom,AVGO,Sales & GTM,Senior,78.5,288100,7.6
+AVGO-0604,Linda Wilson,Broadcom,AVGO,Fab/Manufacturing,Director,83.2,816900,10.5
+AVGO-0605,Olivia Singh,Broadcom,AVGO,Engineering,Senior,66.3,161100,4.4
+AVGO-0606,Yuki Ali,Broadcom,AVGO,Engineering,Staff,58.5,155800,12.2
+AVGO-0607,Arjun Wilson,Broadcom,AVGO,Research & AI,Senior,87.0,366600,3.4
+AVGO-0608,Yuki Cohen,Broadcom,AVGO,Finance,Staff,84.9,241000,9.7
+AVGO-0609,Ahmed Anderson,Broadcom,AVGO,Operations,Staff,73.5,379900,8.8
+AVGO-0610,Thomas Yamamoto,Broadcom,AVGO,Engineering,Director,67.7,460300,7.7
+AVGO-0611,Aisha Khan,Broadcom,AVGO,Fab/Manufacturing,Director,81.9,393200,15.3
+AVGO-0612,James Wang,Broadcom,AVGO,Engineering,Principal,82.8,197200,5.3
+AVGO-0613,Raj Singh,Broadcom,AVGO,Finance,Principal,75.0,368200,4.9
+AVGO-0614,Linda Petrov,Broadcom,AVGO,Sales & GTM,Principal,81.7,209500,10.4
+AVGO-0615,Emily Schmidt,Broadcom,AVGO,Engineering,VP,80.0,493500,10.8
+AVGO-0616,Carlos Park,Broadcom,AVGO,Operations,Senior,100.0,153100,6.3
+AVGO-0617,Hiroshi Silva,Broadcom,AVGO,Operations,Senior,85.0,241400,4.8
+AVGO-0618,Wei Chen,Broadcom,AVGO,Engineering,Staff,76.2,354500,7.1
+AVGO-0619,Hiroshi Martinez,Broadcom,AVGO,Operations,Staff,81.6,232500,7.3
+AVGO-0620,Samuel Smith,Broadcom,AVGO,Engineering,Staff,79.7,480500,5.4
+AVGO-0621,Wei Anderson,Broadcom,AVGO,Engineering,Principal,67.6,472100,6.1
+AVGO-0622,Arjun Smith,Broadcom,AVGO,Engineering,Senior,61.6,476800,8.8
+AVGO-0623,Thomas Park,Broadcom,AVGO,Research & AI,Senior,92.5,219900,11.2
+AVGO-0624,Elena Wang,Broadcom,AVGO,Finance,Principal,78.5,627200,11.4
+AVGO-0625,Arjun Lee,Broadcom,AVGO,Engineering,Senior,83.0,510600,8.9
+AVGO-0626,Thomas Tanaka,Broadcom,AVGO,Finance,Senior,57.8,424000,15.9
+AVGO-0627,Aisha Chen,Broadcom,AVGO,Engineering,Senior,88.1,124900,12.0
+AVGO-0628,Priya Khan,Broadcom,AVGO,Sales & GTM,Staff,100.0,126800,7.9
+AVGO-0629,Linda Brown,Broadcom,AVGO,Engineering,Director,59.8,326100,5.9
+AVGO-0630,Chen Singh,Broadcom,AVGO,Engineering,Staff,72.1,88400,6.5
+AVGO-0631,Sofia Murphy,Broadcom,AVGO,Fab/Manufacturing,Staff,61.4,226800,7.8
+AVGO-0632,Aisha Murphy,Broadcom,AVGO,Engineering,Staff,84.0,667900,6.3
+AVGO-0633,John Davis,Broadcom,AVGO,Fab/Manufacturing,Director,73.3,460600,12.0
+AVGO-0634,Hiroshi Ali,Broadcom,AVGO,Sales & GTM,Staff,82.1,271800,7.2
+AVGO-0635,Raj Davis,Broadcom,AVGO,Operations,Senior,82.8,128900,7.6
+AVGO-0636,Elena Davis,Broadcom,AVGO,Operations,Senior,76.9,91300,2.8
+AVGO-0637,Kevin Johnson,Broadcom,AVGO,Engineering,Senior Director,76.8,660400,8.1
+AVGO-0638,Nina Petrov,Broadcom,AVGO,Operations,Principal,74.9,653200,14.9
+AVGO-0639,Nina Park,Broadcom,AVGO,Finance,Principal,73.9,1271400,18.0
+AVGO-0640,Maria Davis,Broadcom,AVGO,Sales & GTM,Senior Director,100.0,527900,9.3
+AVGO-0641,Nina Ali,Broadcom,AVGO,Operations,Principal,64.6,129300,4.9
+AVGO-0642,Zoe Silva,Broadcom,AVGO,Engineering,VP,76.2,2455700,13.2
+AVGO-0643,John Murphy,Broadcom,AVGO,Fab/Manufacturing,Staff,81.9,391600,4.4
+AVGO-0644,Aisha Khan,Broadcom,AVGO,Fab/Manufacturing,Director,69.7,538600,5.9
+AVGO-0645,Mary Davis,Broadcom,AVGO,Fab/Manufacturing,Staff,73.9,361400,3.3
+AVGO-0646,Aisha Silva,Broadcom,AVGO,Fab/Manufacturing,Senior,81.7,183900,0.7
+AVGO-0647,Grace Lee,Broadcom,AVGO,Sales & GTM,Staff,73.7,200900,6.9
+AVGO-0648,Hiroshi Cohen,Broadcom,AVGO,Finance,Senior,90.3,193100,13.5
+AVGO-0649,Michael Davis,Broadcom,AVGO,Finance,Senior,68.0,433800,12.1
+AVGO-0650,Priya Garcia,Broadcom,AVGO,Finance,Senior,85.5,132100,17.3
+AVGO-0651,Zoe Petrov,Broadcom,AVGO,Sales & GTM,Principal,73.3,396000,10.7
+AVGO-0652,Nina Wang,Broadcom,AVGO,Engineering,Senior,81.3,286000,0.8
+AVGO-0653,Grace Davis,Broadcom,AVGO,Sales & GTM,VP,85.7,2443000,7.6
+AVGO-0654,Michael Hassan,Broadcom,AVGO,Research & AI,Principal,85.2,380800,5.0
+AVGO-0655,David Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,81.0,375400,0.4
+AVGO-0656,James Tanaka,Broadcom,AVGO,Fab/Manufacturing,Principal,86.1,1037700,4.7
+AVGO-0657,Maria Nguyen,Broadcom,AVGO,Fab/Manufacturing,Senior,75.6,480600,8.8
+AVGO-0658,Fatima Martinez,Broadcom,AVGO,Supply Chain,Principal,67.1,687700,4.6
+AVGO-0659,Grace Kim,Broadcom,AVGO,Engineering,Senior,70.5,525500,5.5
+AVGO-0660,Hannah Wang,Broadcom,AVGO,Research & AI,Senior Director,78.7,1669800,10.5
+AVGO-0661,Chen Garcia,Broadcom,AVGO,Engineering,Principal,79.0,178500,3.2
+AVGO-0662,Sofia Silva,Broadcom,AVGO,Engineering,Senior,68.0,634600,9.7
+AVGO-0663,Olivia Wilson,Broadcom,AVGO,Engineering,Senior Director,84.6,456900,10.1
+AVGO-0664,Sofia Hassan,Broadcom,AVGO,Fab/Manufacturing,Senior,87.7,114100,7.4
+AVGO-0665,Chen Ali,Broadcom,AVGO,Sales & GTM,Principal,77.7,1052100,4.6
+AVGO-0666,Hannah Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,64.9,257600,6.3
+AVGO-0667,Hannah Petrov,Broadcom,AVGO,Fab/Manufacturing,Director,82.4,250000,11.6
+AVGO-0668,Kevin Khan,Broadcom,AVGO,Operations,Senior Director,78.7,350500,11.0
+AVGO-0669,Thomas Hassan,Broadcom,AVGO,Quality,Senior,73.0,772700,6.7
+AVGO-0670,David Johnson,Broadcom,AVGO,Engineering,Senior,84.8,71100,2.5
+AVGO-0671,James Johnson,Broadcom,AVGO,People/HR,Director,70.0,272400,4.6
+AVGO-0672,Carlos Martinez,Broadcom,AVGO,Engineering,Senior,80.9,186900,3.9
+AVGO-0673,Priya Smith,Broadcom,AVGO,Engineering,Staff,56.5,335500,21.7
+AVGO-0674,Michael Smith,Broadcom,AVGO,Operations,Staff,82.3,340400,12.6
+AVGO-0675,David Yamamoto,Broadcom,AVGO,People/HR,Senior Director,73.7,1228200,11.4
+AVGO-0676,Michael Yamamoto,Broadcom,AVGO,Engineering,Senior,74.5,437700,3.3
+AVGO-0677,Hiroshi Lee,Broadcom,AVGO,Engineering,Principal,61.9,600000,20.2
+AVGO-0678,Chen Okafor,Broadcom,AVGO,Operations,Staff,51.1,194800,3.1
+AVGO-0679,Elena Ali,Broadcom,AVGO,Operations,Senior,81.5,587800,4.3
+AVGO-0680,Carlos Smith,Broadcom,AVGO,Fab/Manufacturing,Staff,66.3,191000,5.4
+AVGO-0681,Kevin Nguyen,Broadcom,AVGO,Operations,Senior,73.0,98400,12.8
+AVGO-0682,Aisha Wang,Broadcom,AVGO,Engineering,Senior,83.8,189200,2.8
+AVGO-0683,Olivia Murphy,Broadcom,AVGO,Supply Chain,SVP,71.7,466500,11.7
+AVGO-0684,Emily Cohen,Broadcom,AVGO,Fab/Manufacturing,Director,56.0,670000,5.5
+AVGO-0685,Kevin Ali,Broadcom,AVGO,Fab/Manufacturing,Senior,73.4,267000,2.5
+AVGO-0686,Fatima Murphy,Broadcom,AVGO,Supply Chain,Senior,86.2,205200,4.8
+AVGO-0687,Fatima Patel,Broadcom,AVGO,Engineering,Director,85.6,1294200,30.4
+AVGO-0688,Carlos Yamamoto,Broadcom,AVGO,Operations,Staff,99.0,347400,6.5
+AVGO-0689,Sofia Lee,Broadcom,AVGO,Engineering,Director,84.5,717900,7.1
+AVGO-0690,Maria Silva,Broadcom,AVGO,Operations,Senior,59.7,186100,3.1
+AVGO-0691,Daniel Singh,Broadcom,AVGO,Fab/Manufacturing,Senior,68.6,429700,7.5
+AVGO-0692,Yuki Petrov,Broadcom,AVGO,Fab/Manufacturing,Staff,80.4,277700,2.4
+AVGO-0693,Raj Patel,Broadcom,AVGO,Engineering,Senior Director,67.8,662200,20.9
+AVGO-0694,Michael Khan,Broadcom,AVGO,Research & AI,Staff,72.1,181800,2.0
+AVGO-0695,Hannah Smith,Broadcom,AVGO,Engineering,Senior,77.6,247900,5.1
+AVGO-0696,Raj Smith,Broadcom,AVGO,Fab/Manufacturing,Principal,83.5,262000,2.2
+AVGO-0697,Grace Khan,Broadcom,AVGO,Fab/Manufacturing,VP,74.8,959200,8.8
+AVGO-0698,Elena Lopez,Broadcom,AVGO,Engineering,Staff,72.6,168000,2.3
+AVGO-0699,Thomas Brown,Broadcom,AVGO,Operations,Staff,73.0,296400,5.2
+AVGO-0700,Sofia Brown,Broadcom,AVGO,Engineering,Principal,81.4,329000,5.6
+AVGO-0701,Zoe Anderson,Broadcom,AVGO,Quality,Staff,60.3,293800,8.7
+AVGO-0702,Wei Cohen,Broadcom,AVGO,Engineering,Staff,80.1,225500,15.5
+AVGO-0703,Maria Chen,Broadcom,AVGO,Engineering,Director,78.0,887500,7.3
+AVGO-0704,Yuki Chen,Broadcom,AVGO,Operations,Director,95.8,659600,6.3
+AVGO-0705,Zoe Khan,Broadcom,AVGO,Sales & GTM,Senior,100.0,132300,7.4
+AVGO-0706,John Kim,Broadcom,AVGO,Sales & GTM,Staff,77.6,177800,1.3
+AVGO-0707,Thomas Murphy,Broadcom,AVGO,Engineering,Senior,85.2,250400,2.7
+AVGO-0708,Carlos Brown,Broadcom,AVGO,Engineering,Staff,69.0,323000,7.2
+AVGO-0709,Raj Johnson,Broadcom,AVGO,Operations,Director,93.9,998900,29.8
+AVGO-0710,Yuki Brown,Broadcom,AVGO,Research & AI,Staff,94.8,284300,10.9
+AVGO-0711,Elena Nguyen,Broadcom,AVGO,Engineering,Senior,82.4,185100,4.4
+AVGO-0712,Arjun Johnson,Broadcom,AVGO,Research & AI,Senior,100.0,185700,7.0
+AVGO-0713,Olivia Johnson,Broadcom,AVGO,Engineering,Staff,84.9,428900,4.6
+AVGO-0714,Raj Chen,Broadcom,AVGO,Operations,Principal,67.2,560400,14.1
+AVGO-0715,Linda Petrov,Broadcom,AVGO,Fab/Manufacturing,Staff,57.6,231600,3.7
+AVGO-0716,Raj Nguyen,Broadcom,AVGO,Fab/Manufacturing,Senior,65.7,392000,8.0
+AVGO-0717,Daniel Park,Broadcom,AVGO,Research & AI,Staff,100.0,316600,5.6
+AVGO-0718,Hannah Hassan,Broadcom,AVGO,Operations,Staff,61.1,228600,8.5
+AVGO-0719,Hiroshi Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,87.6,580200,10.2
+AVGO-0720,Priya Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,90.8,406200,13.6
+AVGO-0721,Maria Smith,Broadcom,AVGO,Fab/Manufacturing,Principal,69.3,484800,11.2
+AVGO-0722,Olivia Johnson,Broadcom,AVGO,Sales & GTM,SVP,89.6,967300,10.6
+AVGO-0723,Hiroshi Cohen,Broadcom,AVGO,Research & AI,Senior,58.2,100000,12.8
+AVGO-0724,Emily Kim,Broadcom,AVGO,Operations,Senior,79.6,316600,8.2
+AVGO-0725,Yuki Yamamoto,Broadcom,AVGO,Engineering,VP,79.0,1447900,8.6
+AVGO-0726,Carlos Lee,Broadcom,AVGO,Engineering,Staff,75.2,278700,4.6
+AVGO-0727,Olivia Brown,Broadcom,AVGO,Operations,Staff,75.7,114700,7.7
+AVGO-0728,Arjun Wang,Broadcom,AVGO,Engineering,Principal,71.8,411500,8.7
+AVGO-0729,John Silva,Broadcom,AVGO,Engineering,Senior,86.9,408300,9.5
+AVGO-0730,Grace Cohen,Broadcom,AVGO,Legal & Policy,Senior,91.4,132000,9.9
+AVGO-0731,Samuel Martinez,Broadcom,AVGO,Fab/Manufacturing,Senior,64.6,190900,11.1
+AVGO-0732,Kevin Yamamoto,Broadcom,AVGO,Sales & GTM,Staff,73.8,381900,9.8
+AVGO-0733,Maria Silva,Broadcom,AVGO,Fab/Manufacturing,Senior Director,86.3,839700,5.2
+AVGO-0734,Thomas Lee,Broadcom,AVGO,Quality,Senior,86.9,206400,8.0
+AVGO-0735,Elena Reyes,Broadcom,AVGO,Fab/Manufacturing,SVP,73.3,1163900,8.2
+AVGO-0736,Carlos Smith,Broadcom,AVGO,Engineering,Senior Director,71.9,1057800,24.0
+AVGO-0737,Linda Chen,Broadcom,AVGO,Engineering,Staff,77.4,360300,8.2
+AVGO-0738,Wei Nguyen,Broadcom,AVGO,Operations,Staff,64.7,674700,3.7
+AVGO-0739,Yuki Brown,Broadcom,AVGO,Engineering,Staff,90.2,320600,8.1
+AVGO-0740,Ahmed Anderson,Broadcom,AVGO,Fab/Manufacturing,VP,68.2,781400,8.2
+AVGO-0741,Sofia Okafor,Broadcom,AVGO,Engineering,Senior Director,60.8,809300,12.9
+AVGO-0742,Fatima Smith,Broadcom,AVGO,Fab/Manufacturing,Senior,76.1,699300,3.5
+AVGO-0743,Linda Davis,Broadcom,AVGO,Engineering,Senior,91.2,675800,2.8
+AVGO-0744,Thomas Yamamoto,Broadcom,AVGO,Engineering,Staff,80.6,232600,6.6
+AVGO-0745,Maria Lee,Broadcom,AVGO,Operations,Staff,84.3,441600,4.0
+AVGO-0746,Mary Petrov,Broadcom,AVGO,Engineering,Principal,75.3,361700,5.5
+AVGO-0747,Carlos Lopez,Broadcom,AVGO,Fab/Manufacturing,Principal,83.8,633200,8.5
+AVGO-0748,Arjun Yamamoto,Broadcom,AVGO,Operations,VP,88.3,1317300,10.1
+AVGO-0749,Thomas Okafor,Broadcom,AVGO,Operations,Senior,75.4,147500,6.2
+AVGO-0750,David Khan,Broadcom,AVGO,Quality,Director,100.0,427100,7.1
+AVGO-0751,Ahmed Patel,Broadcom,AVGO,Fab/Manufacturing,Senior Director,84.6,816500,16.4
+AVGO-0752,Yuki Chen,Broadcom,AVGO,Engineering,Staff,72.2,319200,9.1
+AVGO-0753,Wei Singh,Broadcom,AVGO,Quality,Staff,98.4,506900,11.5
+AVGO-0754,Olivia Rossi,Broadcom,AVGO,Operations,Senior Director,70.8,478700,7.5
+AVGO-0755,Carlos Anderson,Broadcom,AVGO,Operations,Staff,77.6,163700,8.5
+AVGO-0756,Yuki Hassan,Broadcom,AVGO,Quality,Staff,78.8,456100,9.2
+AVGO-0757,Kevin Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,74.3,119400,1.7
+AVGO-0758,Elena Okafor,Broadcom,AVGO,People/HR,Senior,56.0,181100,5.4
+AVGO-0759,Carlos Okafor,Broadcom,AVGO,Supply Chain,Senior,78.7,154900,6.7
+AVGO-0760,Olivia Kim,Broadcom,AVGO,Engineering,Senior Director,65.3,817400,11.2
+AVGO-0761,Mary Garcia,Broadcom,AVGO,Sales & GTM,Staff,82.2,578000,8.1
+AVGO-0762,Zoe Rossi,Broadcom,AVGO,Sales & GTM,Senior,73.7,346300,2.0
+AVGO-0763,Michael Smith,Broadcom,AVGO,Research & AI,Principal,81.7,590600,5.2
+AVGO-0764,James Brown,Broadcom,AVGO,Sales & GTM,VP,72.2,447600,7.2
+AVGO-0765,Hiroshi Kim,Broadcom,AVGO,Fab/Manufacturing,Staff,77.9,626000,7.4
+AVGO-0766,Linda Okafor,Broadcom,AVGO,Fab/Manufacturing,VP,84.9,1045400,10.3
+AVGO-0767,Michael Anderson,Broadcom,AVGO,Sales & GTM,Senior,82.5,349800,9.4
+AVGO-0768,Aisha Martinez,Broadcom,AVGO,Supply Chain,Senior Director,83.6,531700,9.7
+AVGO-0769,Hiroshi Petrov,Broadcom,AVGO,Engineering,Principal,94.8,253100,6.2
+AVGO-0770,Fatima Patel,Broadcom,AVGO,Engineering,Principal,77.2,303900,2.2
+AVGO-0771,Kevin Okafor,Broadcom,AVGO,Research & AI,Senior,66.2,684500,0.7
+AVGO-0772,Arjun Rossi,Broadcom,AVGO,Quality,Staff,76.3,218500,6.8
+AVGO-0773,Yuki Smith,Broadcom,AVGO,Quality,Senior,72.7,386700,10.7
+AVGO-0774,Chen Wilson,Broadcom,AVGO,Engineering,Senior,68.2,70400,7.1
+AVGO-0775,Nina Hassan,Broadcom,AVGO,Sales & GTM,Staff,84.0,175400,21.4
+AVGO-0776,Sofia Wang,Broadcom,AVGO,Engineering,Senior,90.5,193100,6.4
+AVGO-0777,Aisha Rossi,Broadcom,AVGO,Engineering,Staff,92.6,495000,11.9
+AVGO-0778,Arjun Petrov,Broadcom,AVGO,Quality,Staff,80.5,568200,9.1
+AVGO-0779,Fatima Smith,Broadcom,AVGO,Engineering,Principal,76.3,473800,9.8
+AVGO-0780,Thomas Okafor,Broadcom,AVGO,Operations,Senior,84.1,111500,5.0
+AVGO-0781,Chen Tanaka,Broadcom,AVGO,Engineering,Staff,60.5,158000,13.3
+AVGO-0782,Michael Khan,Broadcom,AVGO,Fab/Manufacturing,Staff,85.8,391900,6.9
+AVGO-0783,Ahmed Park,Broadcom,AVGO,Fab/Manufacturing,Staff,90.2,315500,8.3
+AVGO-0784,Carlos Rossi,Broadcom,AVGO,Engineering,Staff,84.5,188700,3.7
+AVGO-0785,Elena Reyes,Broadcom,AVGO,Supply Chain,Senior,87.1,631600,4.3
+AVGO-0786,Kevin Kim,Broadcom,AVGO,Finance,Director,84.7,1712700,5.0
+AVGO-0787,Emily Martinez,Broadcom,AVGO,Fab/Manufacturing,Staff,70.6,217100,2.1
+AVGO-0788,Mary Lopez,Broadcom,AVGO,Research & AI,Senior,67.7,167500,6.5
+AVGO-0789,Thomas Park,Broadcom,AVGO,Research & AI,Director,82.6,468600,9.7
+AVGO-0790,Chen Wang,Broadcom,AVGO,Research & AI,Principal,83.9,303300,5.3
+AVGO-0791,Hannah Rossi,Broadcom,AVGO,Engineering,Senior,81.3,321900,15.0
+AVGO-0792,Aisha Okafor,Broadcom,AVGO,Quality,Senior,78.5,378900,2.4
+AVGO-0793,Hiroshi Johnson,Broadcom,AVGO,Finance,Senior,61.1,97100,11.9
+AVGO-0794,Mary Hassan,Broadcom,AVGO,Finance,Senior,72.6,176400,3.5
+AVGO-0795,Fatima Reyes,Broadcom,AVGO,Finance,Staff,83.2,460100,17.4
+AVGO-0796,Wei Cohen,Broadcom,AVGO,Engineering,Senior,76.5,232600,4.9
+AVGO-0797,Kevin Smith,Broadcom,AVGO,Engineering,Senior,76.6,256600,4.7
+AVGO-0798,Samuel Cohen,Broadcom,AVGO,Finance,Director,86.9,639500,5.8
+AVGO-0799,Priya Tanaka,Broadcom,AVGO,Engineering,Director,65.2,422400,7.7
+AVGO-0800,Samuel Khan,Broadcom,AVGO,Finance,SVP,81.1,783000,6.5
+AVGO-0801,Linda Brown,Broadcom,AVGO,Engineering,Senior,67.7,255000,3.5
+AVGO-0802,Linda Singh,Broadcom,AVGO,Sales & GTM,Director,83.4,214500,9.2
+AVGO-0803,Hiroshi Reyes,Broadcom,AVGO,People/HR,Staff,71.5,429400,9.6
+AVGO-0804,Sofia Nguyen,Broadcom,AVGO,Engineering,Director,85.9,499600,6.6
+AVGO-0805,Raj Anderson,Broadcom,AVGO,Fab/Manufacturing,Senior,87.0,437500,4.5
+AVGO-0806,Arjun Wilson,Broadcom,AVGO,Engineering,Senior,77.1,129600,1.3
+AVGO-0807,Hiroshi Murphy,Broadcom,AVGO,Engineering,Senior,73.7,145800,5.6
+AVGO-0808,Samuel Tanaka,Broadcom,AVGO,Engineering,Senior,68.5,96500,3.0
+AVGO-0809,Kevin Ali,Broadcom,AVGO,Engineering,Staff,65.9,426100,11.0
+AVGO-0810,Olivia Ali,Broadcom,AVGO,Research & AI,Director,97.7,357000,4.9
+AVGO-0811,James Chen,Broadcom,AVGO,Sales & GTM,Principal,78.7,368400,3.7
+AVGO-0812,Wei Johnson,Broadcom,AVGO,Fab/Manufacturing,Senior Director,79.4,1107900,15.4
+AVGO-0813,Fatima Patel,Broadcom,AVGO,Fab/Manufacturing,Senior,71.6,181600,4.8
+AVGO-0814,Olivia Nguyen,Broadcom,AVGO,Operations,Director,70.4,633400,11.7
+AVGO-0815,Sofia Schmidt,Broadcom,AVGO,Supply Chain,Principal,71.3,373300,17.6
+AVGO-0816,Chen Johnson,Broadcom,AVGO,Operations,Staff,85.5,180900,6.7
+AVGO-0817,Raj Johnson,Broadcom,AVGO,Engineering,Director,85.8,481400,9.4
+AVGO-0818,John Ali,Broadcom,AVGO,Sales & GTM,Staff,75.5,127500,3.8
+AVGO-0819,Michael Silva,Broadcom,AVGO,Sales & GTM,Principal,89.0,352100,8.3
+AVGO-0820,Linda Cohen,Broadcom,AVGO,Finance,Principal,75.3,256700,5.9
+AVGO-0821,Linda Davis,Broadcom,AVGO,Fab/Manufacturing,Senior,88.1,202600,10.1
+AVGO-0822,Wei Murphy,Broadcom,AVGO,Operations,Director,90.4,315500,9.6
+AVGO-0823,Mary Khan,Broadcom,AVGO,Sales & GTM,Director,94.8,532300,7.4
+AVGO-0824,Emily Chen,Broadcom,AVGO,Research & AI,Staff,72.1,410400,8.4
+AVGO-0825,Emily Lopez,Broadcom,AVGO,Research & AI,Senior,77.4,465600,14.5
+AVGO-0826,Zoe Murphy,Broadcom,AVGO,Engineering,Senior Director,79.0,456900,9.7
+AVGO-0827,Michael Reyes,Broadcom,AVGO,Research & AI,Senior Director,75.8,653000,7.2
+AVGO-0828,John Ali,Broadcom,AVGO,Operations,Staff,63.4,568100,2.0
+AVGO-0829,James Wang,Broadcom,AVGO,Supply Chain,Senior Director,77.5,799300,11.8
+AVGO-0830,Thomas Lopez,Broadcom,AVGO,Engineering,Senior,82.4,185300,4.1
+AVGO-0831,Grace Davis,Broadcom,AVGO,Fab/Manufacturing,Director,86.2,772100,6.4
+AVGO-0832,Nina Wilson,Broadcom,AVGO,Fab/Manufacturing,Principal,77.7,304400,7.7
+AVGO-0833,Michael Johnson,Broadcom,AVGO,Sales & GTM,Senior,54.7,434100,4.9
+AVGO-0834,Chen Petrov,Broadcom,AVGO,Engineering,Principal,93.7,202900,4.5
+AVGO-0835,Grace Petrov,Broadcom,AVGO,Engineering,Staff,83.2,331500,6.4
+AVGO-0836,Elena Lee,Broadcom,AVGO,Fab/Manufacturing,Staff,73.9,305900,6.0
+AVGO-0837,Yuki Lee,Broadcom,AVGO,Fab/Manufacturing,Senior,80.1,225800,1.9
+AVGO-0838,Grace Lopez,Broadcom,AVGO,People/HR,Senior,54.9,147400,4.3
+AVGO-0839,Elena Martinez,Broadcom,AVGO,Engineering,Senior,70.5,592400,5.3
+AVGO-0840,Chen Garcia,Broadcom,AVGO,Fab/Manufacturing,Staff,87.7,332600,1.8
+AVGO-0841,Michael Yamamoto,Broadcom,AVGO,Operations,Staff,89.5,290500,6.2
+AVGO-0842,Emily Reyes,Broadcom,AVGO,Research & AI,Staff,75.9,111700,18.7
+AVGO-0843,Arjun Silva,Broadcom,AVGO,Sales & GTM,C-Suite,55.7,1592000,7.7
+AVGO-0844,Fatima Yamamoto,Broadcom,AVGO,Sales & GTM,Principal,76.0,840000,4.9
+AVGO-0845,Elena Singh,Broadcom,AVGO,Research & AI,Senior Director,84.5,1226100,17.2
+AVGO-0846,Arjun Petrov,Broadcom,AVGO,Engineering,Senior,98.8,116600,4.0
+AVGO-0847,Thomas Khan,Broadcom,AVGO,Research & AI,Senior Director,69.7,699400,16.1
+AVGO-0848,Zoe Martinez,Broadcom,AVGO,Fab/Manufacturing,VP,85.2,1580800,8.3
+AVGO-0849,Sofia Lee,Broadcom,AVGO,Fab/Manufacturing,VP,65.1,1672800,18.8
+AVGO-0850,James Petrov,Broadcom,AVGO,Engineering,Principal,80.6,464100,5.1
+AVGO-0851,Samuel Hassan,Broadcom,AVGO,Research & AI,Principal,85.7,167300,12.2
+AVGO-0852,Wei Ali,Broadcom,AVGO,Sales & GTM,Staff,72.0,154400,7.2
+AVGO-0853,Daniel Lopez,Broadcom,AVGO,Engineering,Principal,84.2,884300,4.1
+AVGO-0854,Aisha Brown,Broadcom,AVGO,Sales & GTM,Principal,89.3,815300,4.9
+AVGO-0855,Ahmed Anderson,Broadcom,AVGO,Sales & GTM,Senior,75.3,74600,9.6
+AVGO-0856,Wei Park,Broadcom,AVGO,Finance,Principal,59.9,244300,9.5
+AVGO-0857,Carlos Reyes,Broadcom,AVGO,Engineering,Staff,79.9,269900,6.8
+AVGO-0858,John Khan,Broadcom,AVGO,Engineering,Principal,58.6,270200,8.5
+AVGO-0859,Raj Schmidt,Broadcom,AVGO,Finance,Staff,86.6,600900,3.9
+AVGO-0860,Arjun Petrov,Broadcom,AVGO,Engineering,Principal,79.5,789400,6.3
+AVGO-0861,Mary Khan,Broadcom,AVGO,Research & AI,Senior,97.1,421300,5.9
+AVGO-0862,Hiroshi Ali,Broadcom,AVGO,Engineering,Director,86.9,432300,9.3
+AVGO-0863,Raj Petrov,Broadcom,AVGO,Engineering,Senior,73.7,224800,6.5
+AVGO-0864,Arjun Patel,Broadcom,AVGO,Engineering,C-Suite,64.2,3805700,7.6
+AVGO-0865,Hiroshi Yamamoto,Broadcom,AVGO,Sales & GTM,Principal,88.2,551200,5.6
+AVGO-0866,Emily Kim,Broadcom,AVGO,Research & AI,Director,67.8,414600,4.9
+AVGO-0867,Arjun Brown,Broadcom,AVGO,Quality,Principal,68.4,598200,3.0
+AVGO-0868,Carlos Wilson,Broadcom,AVGO,Fab/Manufacturing,Senior,65.9,316500,3.5
+AVGO-0869,Arjun Kim,Broadcom,AVGO,Fab/Manufacturing,Principal,76.9,927200,13.3
+AVGO-0870,Carlos Schmidt,Broadcom,AVGO,Supply Chain,Principal,81.2,326600,13.0
+AVGO-0871,Elena Petrov,Broadcom,AVGO,Engineering,Senior,68.5,229700,7.2
+AVGO-0872,Nina Patel,Broadcom,AVGO,Engineering,Staff,66.5,328500,9.1
+AVGO-0873,Raj Lee,Broadcom,AVGO,Fab/Manufacturing,Director,69.2,722500,16.8
+AVGO-0874,Yuki Chen,Broadcom,AVGO,Engineering,Principal,71.7,586800,2.6
+AVGO-0875,Ahmed Kim,Broadcom,AVGO,Operations,Senior,79.3,93300,5.9
+AVGO-0876,Linda Reyes,Broadcom,AVGO,Supply Chain,Staff,67.7,656800,4.9
+AVGO-0877,Nina Khan,Broadcom,AVGO,Fab/Manufacturing,Senior,83.5,205500,11.2
+AVGO-0878,Kevin Martinez,Broadcom,AVGO,Operations,Senior Director,96.0,1071800,5.5
+AVGO-0879,Thomas Smith,Broadcom,AVGO,Fab/Manufacturing,VP,67.7,1141900,16.8
+AVGO-0880,Samuel Brown,Broadcom,AVGO,Finance,Staff,93.1,479300,4.8
+AVGO-0881,John Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,77.1,213900,2.4
+AVGO-0882,Zoe Garcia,Broadcom,AVGO,Sales & GTM,Director,80.8,470900,4.5
+AVGO-0883,Emily Lee,Broadcom,AVGO,Engineering,SVP,64.3,1030800,9.4
+AVGO-0884,Fatima Rossi,Broadcom,AVGO,Engineering,Principal,86.7,1548300,8.1
+AVGO-0885,Yuki Smith,Broadcom,AVGO,Engineering,Staff,83.0,464300,7.0
+AVGO-0886,Olivia Okafor,Broadcom,AVGO,Operations,Staff,75.9,164100,15.4
+AVGO-0887,Thomas Yamamoto,Broadcom,AVGO,Operations,Senior,71.8,401500,16.1
+AVGO-0888,Raj Johnson,Broadcom,AVGO,Engineering,Principal,83.5,362400,15.7
+AVGO-0889,Priya Silva,Broadcom,AVGO,Operations,Senior,69.7,308000,4.2
+AVGO-0890,Daniel Cohen,Broadcom,AVGO,Fab/Manufacturing,VP,84.5,2138800,8.0
+AVGO-0891,Chen Chen,Broadcom,AVGO,Research & AI,Principal,84.5,857200,10.6
+AVGO-0892,Olivia Khan,Broadcom,AVGO,Finance,Senior,73.1,128100,14.5
+AVGO-0893,Emily Tanaka,Broadcom,AVGO,Research & AI,Principal,91.4,425500,7.7
+AVGO-0894,Wei Silva,Broadcom,AVGO,People/HR,Senior Director,83.4,564200,11.7
+AVGO-0895,Hiroshi Kim,Broadcom,AVGO,Engineering,Senior Director,93.5,768200,10.7
+AVGO-0896,James Park,Broadcom,AVGO,Fab/Manufacturing,SVP,74.7,1332200,12.6
+AVGO-0897,Raj Reyes,Broadcom,AVGO,Supply Chain,Principal,64.6,452200,6.3
+AVGO-0898,David Martinez,Broadcom,AVGO,Operations,SVP,74.8,484700,34.9
+AVGO-0899,Fatima Martinez,Broadcom,AVGO,Operations,VP,59.2,1158700,12.0
+AVGO-0900,Zoe Chen,Broadcom,AVGO,Engineering,Senior Director,84.0,517100,8.7
+AVGO-0901,Olivia Murphy,Broadcom,AVGO,Engineering,Staff,83.8,540800,11.5
+AVGO-0902,Sofia Hassan,Broadcom,AVGO,Fab/Manufacturing,Staff,80.1,292400,2.1
+AVGO-0903,David Brown,Broadcom,AVGO,Fab/Manufacturing,Senior,80.9,189800,3.7
+AVGO-0904,Thomas Anderson,Broadcom,AVGO,Research & AI,Staff,68.6,229800,2.3
+AVGO-0905,Samuel Lee,Broadcom,AVGO,Fab/Manufacturing,Principal,80.5,676100,5.1
+AVGO-0906,Raj Lopez,Broadcom,AVGO,Research & AI,Principal,80.8,447700,12.1
+AVGO-0907,Aisha Wilson,Broadcom,AVGO,Engineering,Senior,73.6,418100,8.4
+AVGO-0908,Arjun Silva,Broadcom,AVGO,Sales & GTM,Senior,79.9,313000,8.3
+AVGO-0909,Olivia Silva,Broadcom,AVGO,Sales & GTM,Principal,85.0,329000,2.0
+AVGO-0910,Chen Johnson,Broadcom,AVGO,Quality,Director,87.7,604500,6.9
+AVGO-0911,Emily Reyes,Broadcom,AVGO,Engineering,Principal,88.9,1737000,4.2
+AVGO-0912,Kevin Tanaka,Broadcom,AVGO,Supply Chain,Principal,77.3,609400,8.7
+AVGO-0913,Thomas Garcia,Broadcom,AVGO,Quality,SVP,70.3,766800,7.0
+AVGO-0914,Samuel Smith,Broadcom,AVGO,Operations,Staff,69.5,191700,2.2
+AVGO-0915,Wei Wang,Broadcom,AVGO,Sales & GTM,Senior,68.2,724600,13.3
+AVGO-0916,Fatima Chen,Broadcom,AVGO,People/HR,Director,73.0,490300,12.5
+AVGO-0917,Aisha Khan,Broadcom,AVGO,Quality,Principal,96.0,2000200,6.9
+AVGO-0918,Sofia Wang,Broadcom,AVGO,Fab/Manufacturing,Staff,69.3,224800,12.7
+AVGO-0919,Olivia Silva,Broadcom,AVGO,People/HR,Senior,78.5,447200,6.9
+AVGO-0920,Hannah Lopez,Broadcom,AVGO,Fab/Manufacturing,SVP,77.8,1501700,12.3
+AVGO-0921,Chen Garcia,Broadcom,AVGO,Quality,Senior,65.7,301900,3.6
+AVGO-0922,Michael Yamamoto,Broadcom,AVGO,Fab/Manufacturing,Staff,59.1,262200,6.6
+AVGO-0923,James Khan,Broadcom,AVGO,Sales & GTM,Staff,81.4,288100,4.9
+AVGO-0924,Maria Rossi,Broadcom,AVGO,Fab/Manufacturing,Senior,67.5,235900,9.3
+AVGO-0925,Aisha Park,Broadcom,AVGO,Engineering,VP,69.4,1524700,9.8
+AVGO-0926,Samuel Brown,Broadcom,AVGO,Supply Chain,Senior,78.5,311000,4.7
+AVGO-0927,Arjun Garcia,Broadcom,AVGO,Engineering,Senior,63.4,192200,3.5
+AVGO-0928,Michael Wilson,Broadcom,AVGO,Supply Chain,VP,78.7,728400,8.4
+AVGO-0929,Zoe Johnson,Broadcom,AVGO,Fab/Manufacturing,Staff,79.4,386100,6.2
+AVGO-0930,Grace Lee,Broadcom,AVGO,People/HR,Senior Director,90.4,1963500,18.9
+AVGO-0931,David Wilson,Broadcom,AVGO,Research & AI,Senior Director,77.8,276100,11.8
+AVGO-0932,Chen Yamamoto,Broadcom,AVGO,Fab/Manufacturing,Staff,89.0,161000,9.8
+AVGO-0933,Kevin Lee,Broadcom,AVGO,Fab/Manufacturing,Senior,71.3,186000,1.6
+AVGO-0934,Ahmed Reyes,Broadcom,AVGO,Engineering,VP,90.6,1294700,18.6
+AVGO-0935,Chen Wilson,Broadcom,AVGO,Engineering,Senior,85.6,172700,5.7
+AVGO-0936,Grace Martinez,Broadcom,AVGO,Engineering,Staff,89.8,720900,3.4
+AVGO-0937,Yuki Anderson,Broadcom,AVGO,Fab/Manufacturing,Principal,80.4,446800,14.2
+AVGO-0938,Wei Murphy,Broadcom,AVGO,Operations,Senior,85.7,233000,13.8
+AVGO-0939,Kevin Chen,Broadcom,AVGO,Engineering,Senior,79.7,236300,9.1
+AVGO-0940,Emily Singh,Broadcom,AVGO,Quality,Senior,82.5,167900,9.4
+AVGO-0941,Hannah Lee,Broadcom,AVGO,Operations,Senior,84.7,565500,3.7
+AVGO-0942,Wei Petrov,Broadcom,AVGO,Engineering,Senior,65.3,364300,3.0
+AVGO-0943,Wei Tanaka,Broadcom,AVGO,Research & AI,Principal,70.3,442800,5.1
+AVGO-0944,Zoe Wang,Broadcom,AVGO,Research & AI,Staff,84.2,214800,7.8
+AVGO-0945,Maria Wilson,Broadcom,AVGO,Research & AI,Director,52.1,680500,8.8
+AVGO-0946,Mary Murphy,Broadcom,AVGO,Engineering,Director,90.2,584900,4.2
+AVGO-0947,Maria Smith,Broadcom,AVGO,Engineering,VP,100.0,937400,12.4
+AVGO-0948,Sofia Tanaka,Broadcom,AVGO,Finance,VP,75.6,437000,8.5
+AVGO-0949,Carlos Garcia,Broadcom,AVGO,Research & AI,Director,62.8,1466900,7.1
+AVGO-0950,Grace Petrov,Broadcom,AVGO,Engineering,Staff,67.5,250300,3.2
+AVGO-0951,Michael Nguyen,Broadcom,AVGO,Engineering,Staff,88.4,265100,3.4
+AVGO-0952,Hiroshi Petrov,Broadcom,AVGO,Fab/Manufacturing,Senior Director,85.2,1505400,9.9
+AVGO-0953,John Khan,Broadcom,AVGO,Engineering,Staff,94.5,222600,6.0
+AVGO-0954,Maria Cohen,Broadcom,AVGO,Engineering,Director,83.8,765900,5.2
+AVGO-0955,James Tanaka,Broadcom,AVGO,Research & AI,Principal,90.3,405100,8.5
+AVGO-0956,Hannah Tanaka,Broadcom,AVGO,Fab/Manufacturing,Senior,76.6,303900,5.9
+AVGO-0957,John Wilson,Broadcom,AVGO,Quality,Staff,79.4,307800,5.7
+AVGO-0958,Raj Silva,Broadcom,AVGO,Engineering,Senior,69.1,116700,4.0
+AVGO-0959,David Silva,Broadcom,AVGO,Operations,VP,100.0,866500,7.0
+AVGO-0960,Maria Murphy,Broadcom,AVGO,Engineering,Senior,88.2,281100,6.3
+AVGO-0961,Priya Chen,Broadcom,AVGO,Fab/Manufacturing,Principal,65.8,556700,6.3
+AVGO-0962,Thomas Yamamoto,Broadcom,AVGO,Engineering,Principal,81.8,725800,7.3
+AVGO-0963,Ahmed Garcia,Broadcom,AVGO,Finance,Principal,83.6,410700,4.9
+AVGO-0964,Arjun Ali,Broadcom,AVGO,Engineering,Staff,59.3,236200,2.6
+AVGO-0965,Michael Garcia,Broadcom,AVGO,Operations,Staff,75.2,152700,28.0
+AVGO-0966,Raj Silva,Broadcom,AVGO,Engineering,VP,75.1,670700,18.8
+AVGO-0967,Thomas Johnson,Broadcom,AVGO,Fab/Manufacturing,Senior,84.8,119600,3.8
+AVGO-0968,Nina Johnson,Broadcom,AVGO,Fab/Manufacturing,Senior,67.2,261400,24.3
+AVGO-0969,Mary Kim,Broadcom,AVGO,Quality,Senior Director,85.3,991300,11.4
+AVGO-0970,Olivia Martinez,Broadcom,AVGO,Operations,Principal,100.0,967400,10.1
+AVGO-0971,Daniel Lopez,Broadcom,AVGO,Fab/Manufacturing,VP,73.6,898400,11.7
+AVGO-0972,Priya Lopez,Broadcom,AVGO,Fab/Manufacturing,Principal,76.5,257400,5.2
+AVGO-0973,Carlos Schmidt,Broadcom,AVGO,Operations,Senior,65.1,270200,7.9
+AVGO-0974,Arjun Garcia,Broadcom,AVGO,Engineering,VP,83.2,1467300,16.3
+AVGO-0975,Daniel Martinez,Broadcom,AVGO,Quality,Senior Director,69.6,296700,10.5
+AVGO-0976,John Cohen,Broadcom,AVGO,Operations,Senior,95.9,287100,8.0
+AVGO-0977,Aisha Yamamoto,Broadcom,AVGO,Engineering,Senior Director,77.6,743800,12.3
+AVGO-0978,Samuel Garcia,Broadcom,AVGO,Operations,Senior,81.0,225400,4.8
+AVGO-0979,David Wilson,Broadcom,AVGO,Fab/Manufacturing,Principal,84.7,416200,4.2
+AVGO-0980,Elena Garcia,Broadcom,AVGO,Fab/Manufacturing,Senior,72.8,149700,4.4
+AVGO-0981,Ahmed Khan,Broadcom,AVGO,Supply Chain,Staff,58.5,264900,2.7
+AVGO-0982,Maria Hassan,Broadcom,AVGO,Operations,Staff,66.1,301600,13.1
+AVGO-0983,Zoe Lee,Broadcom,AVGO,Engineering,Director,60.9,562400,6.2
+AVGO-0984,Hiroshi Lee,Broadcom,AVGO,Fab/Manufacturing,Principal,97.2,603900,6.1
+AVGO-0985,James Anderson,Broadcom,AVGO,Fab/Manufacturing,Senior,88.1,180100,1.7
+AVGO-0986,Kevin Kim,Broadcom,AVGO,Fab/Manufacturing,Senior,62.3,494600,4.1
+AVGO-0987,Raj Cohen,Broadcom,AVGO,Engineering,Principal,71.3,832200,4.5
+AVGO-0988,Emily Murphy,Broadcom,AVGO,Operations,Senior,94.2,153300,2.1
+AVGO-0989,Zoe Ali,Broadcom,AVGO,Engineering,Director,78.2,962600,8.6
+AVGO-0990,Raj Yamamoto,Broadcom,AVGO,Engineering,Senior,77.2,218100,2.3
+AVGO-0991,Arjun Reyes,Broadcom,AVGO,Engineering,Senior,85.8,508900,3.9
+AVGO-0992,Raj Lopez,Broadcom,AVGO,Sales & GTM,VP,72.8,842500,10.3
+AVGO-0993,Thomas Murphy,Broadcom,AVGO,Engineering,Principal,81.8,203200,6.8
+AVGO-0994,Grace Smith,Broadcom,AVGO,Engineering,Staff,70.4,465200,19.1
+AVGO-0995,Thomas Anderson,Broadcom,AVGO,Engineering,Senior,82.9,236500,5.5
+AVGO-0996,Wei Ali,Broadcom,AVGO,Legal & Policy,Senior,79.0,330100,4.3
+AVGO-0997,Grace Petrov,Broadcom,AVGO,Engineering,Director,71.5,2185800,9.3
+AVGO-0998,Chen Chen,Broadcom,AVGO,Research & AI,Director,94.0,946400,6.5
+AVGO-0999,Priya Murphy,Broadcom,AVGO,Engineering,VP,80.0,2375300,9.4
+AVGO-1000,Carlos Schmidt,Broadcom,AVGO,Engineering,Staff,84.5,153900,9.4

@@ -1,0 +1,11 @@
+company,headcount,perf_mean,perf_median,comp_median_usd,comp_mean_usd,comp_p90_usd,tenure_mean_yrs,tenure_median_yrs,pct_high_performers,market_cap_usd_trillions,sector
+NVIDIA,1000,81.3,81.6,436900,593304,1144870,7.4,6.8,36.2,5.053,Semiconductors / AI
+Apple,1000,79.9,79.9,394850,512540,1020140,9.4,8.6,33.6,4.428,Consumer Electronics
+Alphabet (Google),1000,80.6,80.8,441600,562427,1051470,8.1,7.4,33.2,4.404,Internet / AI
+Microsoft,1000,79.6,79.5,372550,505299,990520,8.9,8.1,29.5,3.058,Software / Cloud
+Amazon,1000,76.9,76.9,359150,488133,996910,6.3,5.6,24.5,2.637,E-commerce / Cloud
+TSMC,1000,81.1,81.0,166600,220287,422790,10.6,9.8,33.2,2.213,Semiconductor Foundry
+Broadcom,1000,78.4,78.5,385700,515750,1049400,7.9,7.0,24.1,1.877,Semiconductors / Software
+Saudi Aramco,1000,80.5,80.7,210700,262769,499870,12.8,12.2,28.3,1.75,Oil & Gas
+Tesla,1000,76.5,76.8,303250,435701,915920,5.2,4.6,24.1,1.535,Automotive / Energy
+Meta Platforms,1000,79.9,80.0,446650,613093,1200660,6.0,5.4,32.8,1.485,Social / AI

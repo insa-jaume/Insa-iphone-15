@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+GOOG-0001,Grace Singh,Alphabet (Google),GOOG,Research & AI,VP,73.8,2645800,8.8
+GOOG-0002,John Anderson,Alphabet (Google),GOOG,Engineering,Principal,80.8,331700,10.4
+GOOG-0003,David Petrov,Alphabet (Google),GOOG,Engineering,Staff,79.6,341800,4.6
+GOOG-0004,Nina Brown,Alphabet (Google),GOOG,Finance,Staff,74.6,225200,3.9
+GOOG-0005,Maria Park,Alphabet (Google),GOOG,Operations,Principal,90.1,257800,6.9
+GOOG-0006,Aisha Johnson,Alphabet (Google),GOOG,Research & AI,Staff,73.4,613000,2.4
+GOOG-0007,Elena Tanaka,Alphabet (Google),GOOG,Engineering,Senior,83.6,238600,10.6
+GOOG-0008,Daniel Kim,Alphabet (Google),GOOG,Engineering,Director,99.9,155100,8.8
+GOOG-0009,Daniel Cohen,Alphabet (Google),GOOG,Product,Director,91.4,437700,4.7
+GOOG-0010,Maria Brown,Alphabet (Google),GOOG,Engineering,Staff,65.6,200300,6.6
+GOOG-0011,Zoe Silva,Alphabet (Google),GOOG,Product,Director,75.0,366500,7.0
+GOOG-0012,Mary Lopez,Alphabet (Google),GOOG,Product,Director,76.6,1426500,6.1
+GOOG-0013,Fatima Johnson,Alphabet (Google),GOOG,Engineering,Senior,64.0,123900,17.2
+GOOG-0014,Thomas Silva,Alphabet (Google),GOOG,Finance,Senior,66.4,126200,6.5
+GOOG-0015,David Khan,Alphabet (Google),GOOG,Research & AI,Director,93.1,945000,10.2
+GOOG-0016,Arjun Okafor,Alphabet (Google),GOOG,People/HR,Senior,93.3,241900,12.8
+GOOG-0017,Hannah Brown,Alphabet (Google),GOOG,Product,Staff,84.0,655000,10.7
+GOOG-0018,Daniel Davis,Alphabet (Google),GOOG,Engineering,Director,81.3,744700,5.6
+GOOG-0019,Samuel Singh,Alphabet (Google),GOOG,Research & AI,Principal,73.7,518500,13.3
+GOOG-0020,Michael Rossi,Alphabet (Google),GOOG,Design,Principal,70.9,465700,5.8
+GOOG-0021,Priya Chen,Alphabet (Google),GOOG,Marketing,Senior Director,86.6,626000,8.4
+GOOG-0022,Aisha Tanaka,Alphabet (Google),GOOG,Finance,Senior,75.5,126200,8.3
+GOOG-0023,Priya Lee,Alphabet (Google),GOOG,Engineering,Senior,82.2,110800,4.9
+GOOG-0024,Samuel Lopez,Alphabet (Google),GOOG,Engineering,Staff,89.1,519700,11.5
+GOOG-0025,Yuki Silva,Alphabet (Google),GOOG,Engineering,Senior Director,75.1,365600,11.1
+GOOG-0026,Michael Lee,Alphabet (Google),GOOG,Engineering,Senior Director,65.1,823100,7.6
+GOOG-0027,David Davis,Alphabet (Google),GOOG,Engineering,Staff,74.7,95500,3.2
+GOOG-0028,Arjun Khan,Alphabet (Google),GOOG,Engineering,Senior,94.8,1099600,7.5
+GOOG-0029,David Lopez,Alphabet (Google),GOOG,Research & AI,VP,85.4,1146800,10.2
+GOOG-0030,Grace Smith,Alphabet (Google),GOOG,Engineering,C-Suite,85.4,2453900,12.3
+GOOG-0031,Hannah Rossi,Alphabet (Google),GOOG,Marketing,Staff,78.8,321900,7.2
+GOOG-0032,Fatima Smith,Alphabet (Google),GOOG,Finance,Senior,80.4,242000,10.6
+GOOG-0033,Linda Wilson,Alphabet (Google),GOOG,Research & AI,Senior,95.1,372000,19.7
+GOOG-0034,Ahmed Petrov,Alphabet (Google),GOOG,Engineering,Principal,77.2,490600,8.4
+GOOG-0035,Daniel Tanaka,Alphabet (Google),GOOG,Finance,Staff,76.1,131700,13.7
+GOOG-0036,Emily Rossi,Alphabet (Google),GOOG,Design,VP,82.8,1405700,5.2
+GOOG-0037,Sofia Yamamoto,Alphabet (Google),GOOG,Sales & GTM,Senior,96.4,409000,4.1
+GOOG-0038,Michael Martinez,Alphabet (Google),GOOG,Product,Director,82.9,1239700,4.4
+GOOG-0039,Nina Smith,Alphabet (Google),GOOG,Product,C-Suite,93.2,1553200,11.2
+GOOG-0040,Daniel Murphy,Alphabet (Google),GOOG,Research & AI,Principal,65.1,954100,8.1
+GOOG-0041,Zoe Okafor,Alphabet (Google),GOOG,Engineering,Staff,84.9,276100,5.2
+GOOG-0042,Carlos Garcia,Alphabet (Google),GOOG,Finance,Director,86.2,449800,3.8
+GOOG-0043,Arjun Johnson,Alphabet (Google),GOOG,Engineering,Director,69.9,742700,16.5
+GOOG-0044,Elena Lopez,Alphabet (Google),GOOG,People/HR,Staff,74.2,431900,3.1
+GOOG-0045,Yuki Tanaka,Alphabet (Google),GOOG,Marketing,Senior,73.4,199000,1.6
+GOOG-0046,Nina Chen,Alphabet (Google),GOOG,Engineering,Senior,99.4,936600,17.9
+GOOG-0047,Carlos Brown,Alphabet (Google),GOOG,Engineering,Senior,79.8,201800,2.8
+GOOG-0048,Carlos Reyes,Alphabet (Google),GOOG,Engineering,Principal,100.0,165300,9.7
+GOOG-0049,Aisha Singh,Alphabet (Google),GOOG,Engineering,Senior,91.8,426300,4.8
+GOOG-0050,Wei Smith,Alphabet (Google),GOOG,Product,VP,80.3,773200,12.9
+GOOG-0051,Thomas Kim,Alphabet (Google),GOOG,Sales & GTM,Senior,86.9,264900,11.5
+GOOG-0052,David Reyes,Alphabet (Google),GOOG,People/HR,Senior,79.1,164400,11.8
+GOOG-0053,Linda Brown,Alphabet (Google),GOOG,Engineering,Staff,80.1,281500,8.8
+GOOG-0054,Hiroshi Singh,Alphabet (Google),GOOG,Engineering,Senior,77.7,451400,9.5
+GOOG-0055,Mary Chen,Alphabet (Google),GOOG,People/HR,Senior Director,75.2,629800,8.8
+GOOG-0056,Sofia Silva,Alphabet (Google),GOOG,Operations,VP,100.0,1175600,10.5
+GOOG-0057,Kevin Schmidt,Alphabet (Google),GOOG,Legal & Policy,Director,80.9,668700,9.3
+GOOG-0058,Carlos Smith,Alphabet (Google),GOOG,Research & AI,Principal,67.6,731700,8.1
+GOOG-0059,Fatima Anderson,Alphabet (Google),GOOG,Engineering,Staff,88.3,446800,3.5
+GOOG-0060,Zoe Park,Alphabet (Google),GOOG,Engineering,Principal,93.3,384800,4.6
+GOOG-0061,James Murphy,Alphabet (Google),GOOG,Operations,Senior,69.3,389000,12.2
+GOOG-0062,Kevin Tanaka,Alphabet (Google),GOOG,People/HR,Principal,90.2,255800,7.0
+GOOG-0063,Raj Rossi,Alphabet (Google),GOOG,Design,Senior,81.0,403600,12.4
+GOOG-0064,Yuki Smith,Alphabet (Google),GOOG,Finance,Principal,67.3,429100,8.1
+GOOG-0065,Mary Patel,Alphabet (Google),GOOG,Sales & GTM,Director,81.1,295100,6.6
+GOOG-0066,Raj Park,Alphabet (Google),GOOG,Design,Senior Director,77.4,242800,10.1
+GOOG-0067,Priya Tanaka,Alphabet (Google),GOOG,Product,Senior,87.2,286500,6.1
+GOOG-0068,James Okafor,Alphabet (Google),GOOG,Engineering,VP,92.2,826600,10.3
+GOOG-0069,Ahmed Tanaka,Alphabet (Google),GOOG,Engineering,Senior,74.4,496000,4.6
+GOOG-0070,Fatima Tanaka,Alphabet (Google),GOOG,Operations,Senior,84.3,360100,6.8
+GOOG-0071,David Johnson,Alphabet (Google),GOOG,Legal & Policy,Staff,82.6,246400,3.9
+GOOG-0072,James Lee,Alphabet (Google),GOOG,Research & AI,Senior,74.8,158500,11.4
+GOOG-0073,John Park,Alphabet (Google),GOOG,Research & AI,Staff,81.6,413600,2.1
+GOOG-0074,Linda Cohen,Alphabet (Google),GOOG,Finance,Director,80.0,1143400,7.7
+GOOG-0075,Chen Ali,Alphabet (Google),GOOG,Operations,Staff,85.6,407000,4.3
+GOOG-0076,Michael Tanaka,Alphabet (Google),GOOG,Engineering,Senior Director,68.0,506900,14.5
+GOOG-0077,Raj Johnson,Alphabet (Google),GOOG,Research & AI,Principal,63.6,598000,22.0
+GOOG-0078,Arjun Silva,Alphabet (Google),GOOG,Engineering,Senior,92.9,866300,12.1
+GOOG-0079,Fatima Reyes,Alphabet (Google),GOOG,Sales & GTM,Staff,67.7,196300,6.5
+GOOG-0080,Kevin Okafor,Alphabet (Google),GOOG,Marketing,Staff,78.4,543500,13.4
+GOOG-0081,Fatima Brown,Alphabet (Google),GOOG,People/HR,Senior Director,73.1,581400,6.7
+GOOG-0082,Arjun Anderson,Alphabet (Google),GOOG,Research & AI,Senior,80.0,282900,3.0
+GOOG-0083,Hannah Tanaka,Alphabet (Google),GOOG,Operations,Principal,89.8,705200,14.9
+GOOG-0084,Grace Park,Alphabet (Google),GOOG,Engineering,Principal,75.3,556400,3.6
+GOOG-0085,Fatima Park,Alphabet (Google),GOOG,Design,Senior,86.3,89500,3.6
+GOOG-0086,Michael Okafor,Alphabet (Google),GOOG,Marketing,Staff,84.0,845700,4.0
+GOOG-0087,Thomas Park,Alphabet (Google),GOOG,Engineering,Senior Director,80.9,797100,9.8
+GOOG-0088,David Chen,Alphabet (Google),GOOG,Design,Staff,74.4,263400,4.9
+GOOG-0089,Olivia Lee,Alphabet (Google),GOOG,Engineering,Senior Director,84.1,1276900,14.6
+GOOG-0090,James Kim,Alphabet (Google),GOOG,Sales & GTM,Senior,76.1,479100,14.5
+GOOG-0091,Kevin Cohen,Alphabet (Google),GOOG,Sales & GTM,Staff,87.9,304200,7.0
+GOOG-0092,Ahmed Patel,Alphabet (Google),GOOG,Design,Staff,83.4,592800,2.5
+GOOG-0093,John Wang,Alphabet (Google),GOOG,Research & AI,Principal,89.7,604300,2.9
+GOOG-0094,David Cohen,Alphabet (Google),GOOG,Research & AI,Senior Director,88.4,730800,5.5
+GOOG-0095,David Petrov,Alphabet (Google),GOOG,Marketing,VP,76.0,751000,5.2
+GOOG-0096,Yuki Silva,Alphabet (Google),GOOG,Marketing,Staff,86.3,190800,16.5
+GOOG-0097,Chen Reyes,Alphabet (Google),GOOG,Marketing,Principal,63.0,244100,2.3
+GOOG-0098,Nina Tanaka,Alphabet (Google),GOOG,Product,Staff,99.1,303200,11.5
+GOOG-0099,Ahmed Anderson,Alphabet (Google),GOOG,Sales & GTM,Senior Director,76.6,836000,7.9
+GOOG-0100,Ahmed Patel,Alphabet (Google),GOOG,Operations,Senior Director,87.4,1040300,10.7
+GOOG-0101,Zoe Ali,Alphabet (Google),GOOG,Engineering,Senior Director,76.6,1020400,9.4
+GOOG-0102,John Chen,Alphabet (Google),GOOG,Engineering,VP,85.1,1345600,5.4
+GOOG-0103,Mary Smith,Alphabet (Google),GOOG,Legal & Policy,Principal,80.9,608600,12.2
+GOOG-0104,Ahmed Wang,Alphabet (Google),GOOG,Research & AI,Senior,73.5,130900,2.8
+GOOG-0105,Yuki Okafor,Alphabet (Google),GOOG,Sales & GTM,Principal,87.2,619100,3.0
+GOOG-0106,Emily Hassan,Alphabet (Google),GOOG,Research & AI,Staff,83.6,639200,4.0
+GOOG-0107,Ahmed Garcia,Alphabet (Google),GOOG,Operations,Principal,71.6,237200,10.4
+GOOG-0108,Michael Khan,Alphabet (Google),GOOG,People/HR,Senior Director,83.1,296600,10.1
+GOOG-0109,Raj Wilson,Alphabet (Google),GOOG,Engineering,Senior,65.2,157300,10.1
+GOOG-0110,Elena Wilson,Alphabet (Google),GOOG,Operations,Senior,79.9,203700,7.4
+GOOG-0111,Maria Davis,Alphabet (Google),GOOG,Engineering,Director,97.2,603900,9.6
+GOOG-0112,Yuki Lee,Alphabet (Google),GOOG,Engineering,SVP,81.4,1369800,9.6
+GOOG-0113,Kevin Brown,Alphabet (Google),GOOG,Research & AI,Senior,100.0,1206000,8.1
+GOOG-0114,Elena Park,Alphabet (Google),GOOG,Research & AI,Staff,69.0,569900,9.6
+GOOG-0115,Arjun Davis,Alphabet (Google),GOOG,Legal & Policy,Senior,75.6,308600,8.8
+GOOG-0116,Zoe Davis,Alphabet (Google),GOOG,Engineering,Staff,74.0,115500,4.5
+GOOG-0117,John Brown,Alphabet (Google),GOOG,Engineering,Senior,74.0,755600,5.8
+GOOG-0118,Mary Ali,Alphabet (Google),GOOG,Engineering,Senior Director,89.7,694500,11.0
+GOOG-0119,Arjun Davis,Alphabet (Google),GOOG,Design,Director,90.6,341300,11.3
+GOOG-0120,Hannah Yamamoto,Alphabet (Google),GOOG,Engineering,Senior,96.3,290400,8.7
+GOOG-0121,John Singh,Alphabet (Google),GOOG,Research & AI,Staff,91.1,695200,4.5
+GOOG-0122,Fatima Garcia,Alphabet (Google),GOOG,Engineering,Senior,65.7,389900,3.3
+GOOG-0123,Linda Anderson,Alphabet (Google),GOOG,Engineering,Senior,73.9,182100,12.5
+GOOG-0124,Thomas Petrov,Alphabet (Google),GOOG,Engineering,Principal,78.9,531300,5.2
+GOOG-0125,Mary Rossi,Alphabet (Google),GOOG,Research & AI,Principal,72.4,262500,10.8
+GOOG-0126,Samuel Schmidt,Alphabet (Google),GOOG,Engineering,C-Suite,68.3,769400,11.0
+GOOG-0127,Olivia Cohen,Alphabet (Google),GOOG,Finance,Senior,82.3,164200,7.5
+GOOG-0128,Olivia Silva,Alphabet (Google),GOOG,Operations,Senior Director,91.1,709100,5.0
+GOOG-0129,Zoe Khan,Alphabet (Google),GOOG,Research & AI,Staff,64.0,446900,2.4
+GOOG-0130,David Park,Alphabet (Google),GOOG,Engineering,Principal,90.7,354200,5.2
+GOOG-0131,Carlos Rossi,Alphabet (Google),GOOG,Sales & GTM,Senior,85.0,324800,1.6
+GOOG-0132,Kevin Nguyen,Alphabet (Google),GOOG,Product,Senior,72.0,121100,2.7
+GOOG-0133,Maria Okafor,Alphabet (Google),GOOG,Sales & GTM,Senior,88.3,679000,2.4
+GOOG-0134,Linda Kim,Alphabet (Google),GOOG,Research & AI,VP,84.5,920100,8.2
+GOOG-0135,Aisha Rossi,Alphabet (Google),GOOG,Research & AI,Principal,82.5,589000,10.6
+GOOG-0136,Thomas Lee,Alphabet (Google),GOOG,Finance,Principal,73.1,149900,6.5
+GOOG-0137,Mary Khan,Alphabet (Google),GOOG,Research & AI,Staff,96.4,233100,5.4
+GOOG-0138,Michael Wang,Alphabet (Google),GOOG,Finance,Senior,74.6,226600,2.6
+GOOG-0139,Maria Chen,Alphabet (Google),GOOG,Engineering,Staff,76.3,442800,21.8
+GOOG-0140,Linda Rossi,Alphabet (Google),GOOG,Engineering,Staff,83.6,310000,6.6
+GOOG-0141,Aisha Wang,Alphabet (Google),GOOG,Product,Senior,80.8,238700,13.3
+GOOG-0142,Samuel Park,Alphabet (Google),GOOG,Research & AI,Senior,70.3,206600,10.0
+GOOG-0143,Grace Johnson,Alphabet (Google),GOOG,Marketing,Senior,100.0,590700,4.8
+GOOG-0144,Elena Garcia,Alphabet (Google),GOOG,Engineering,Senior Director,77.8,1287200,12.0
+GOOG-0145,Priya Khan,Alphabet (Google),GOOG,Research & AI,Senior,84.5,322300,2.7
+GOOG-0146,Grace Yamamoto,Alphabet (Google),GOOG,People/HR,Senior,65.4,596900,4.2
+GOOG-0147,Daniel Hassan,Alphabet (Google),GOOG,Engineering,Senior,73.1,394800,5.5
+GOOG-0148,Zoe Tanaka,Alphabet (Google),GOOG,Product,Senior,70.9,130700,4.3
+GOOG-0149,Chen Silva,Alphabet (Google),GOOG,Sales & GTM,Senior,74.4,355800,18.7
+GOOG-0150,David Silva,Alphabet (Google),GOOG,Product,Senior,74.5,549500,13.3
+GOOG-0151,John Anderson,Alphabet (Google),GOOG,Engineering,Principal,70.7,415700,5.6
+GOOG-0152,Samuel Anderson,Alphabet (Google),GOOG,Product,VP,81.4,1792800,9.5
+GOOG-0153,Arjun Petrov,Alphabet (Google),GOOG,Marketing,Director,80.6,834900,8.4
+GOOG-0154,Elena Okafor,Alphabet (Google),GOOG,Engineering,Senior,51.0,186500,10.2
+GOOG-0155,James Johnson,Alphabet (Google),GOOG,Sales & GTM,Director,89.9,1005000,9.8
+GOOG-0156,Wei Johnson,Alphabet (Google),GOOG,Design,Senior Director,81.9,459800,7.0
+GOOG-0157,Emily Anderson,Alphabet (Google),GOOG,People/HR,Staff,66.2,403000,4.0
+GOOG-0158,Ahmed Davis,Alphabet (Google),GOOG,Engineering,Principal,91.1,265700,9.0
+GOOG-0159,Fatima Tanaka,Alphabet (Google),GOOG,Operations,SVP,95.4,809100,9.3
+GOOG-0160,Priya Nguyen,Alphabet (Google),GOOG,Product,Staff,78.5,502800,10.7
+GOOG-0161,Hannah Davis,Alphabet (Google),GOOG,Engineering,Principal,70.9,365500,6.0
+GOOG-0162,Wei Brown,Alphabet (Google),GOOG,Marketing,Director,96.4,569700,10.0
+GOOG-0163,Grace Silva,Alphabet (Google),GOOG,Operations,Staff,91.7,594200,11.0
+GOOG-0164,Elena Anderson,Alphabet (Google),GOOG,Engineering,Senior,63.2,121300,3.4
+GOOG-0165,Thomas Johnson,Alphabet (Google),GOOG,Finance,Senior,74.8,110700,3.7
+GOOG-0166,Zoe Schmidt,Alphabet (Google),GOOG,Sales & GTM,Director,63.9,187500,6.5
+GOOG-0167,Arjun Anderson,Alphabet (Google),GOOG,Sales & GTM,Senior,87.4,258900,5.1
+GOOG-0168,Fatima Ali,Alphabet (Google),GOOG,People/HR,Staff,65.1,1228100,7.3
+GOOG-0169,Yuki Okafor,Alphabet (Google),GOOG,Product,Senior,75.5,155400,3.9
+GOOG-0170,Mary Khan,Alphabet (Google),GOOG,Engineering,Principal,82.2,2339100,3.1
+GOOG-0171,Daniel Anderson,Alphabet (Google),GOOG,Product,Principal,85.8,360100,16.8
+GOOG-0172,Chen Murphy,Alphabet (Google),GOOG,Operations,Staff,74.0,566900,4.3
+GOOG-0173,Hannah Singh,Alphabet (Google),GOOG,Engineering,Principal,85.5,354300,14.4
+GOOG-0174,Priya Nguyen,Alphabet (Google),GOOG,Engineering,Principal,89.1,500000,11.5
+GOOG-0175,Linda Garcia,Alphabet (Google),GOOG,Engineering,Staff,99.1,431600,5.2
+GOOG-0176,Ahmed Yamamoto,Alphabet (Google),GOOG,Product,SVP,93.9,717800,16.6
+GOOG-0177,Yuki Cohen,Alphabet (Google),GOOG,Research & AI,Principal,90.7,794200,4.7
+GOOG-0178,Mary Johnson,Alphabet (Google),GOOG,Engineering,Senior Director,91.5,1597400,4.2
+GOOG-0179,Chen Petrov,Alphabet (Google),GOOG,Engineering,Senior Director,72.0,1177700,11.2
+GOOG-0180,Ahmed Smith,Alphabet (Google),GOOG,Research & AI,Principal,94.0,693700,11.0
+GOOG-0181,David Murphy,Alphabet (Google),GOOG,Product,Staff,71.7,246800,4.3
+GOOG-0182,John Silva,Alphabet (Google),GOOG,Research & AI,Staff,75.8,378700,14.2
+GOOG-0183,Hannah Smith,Alphabet (Google),GOOG,Design,Staff,71.1,111800,8.4
+GOOG-0184,Elena Davis,Alphabet (Google),GOOG,Engineering,Senior,79.4,348500,13.7
+GOOG-0185,Carlos Yamamoto,Alphabet (Google),GOOG,Legal & Policy,Senior,92.1,259200,11.8
+GOOG-0186,Ahmed Rossi,Alphabet (Google),GOOG,Engineering,Director,71.2,520100,7.3
+GOOG-0187,Ahmed Lee,Alphabet (Google),GOOG,Operations,Staff,68.2,176900,5.1
+GOOG-0188,Kevin Yamamoto,Alphabet (Google),GOOG,Engineering,Senior,81.9,382300,6.4
+GOOG-0189,Aisha Schmidt,Alphabet (Google),GOOG,Research & AI,Senior,86.1,575800,7.7
+GOOG-0190,Aisha Martinez,Alphabet (Google),GOOG,Design,Staff,83.9,711400,6.2
+GOOG-0191,Kevin Smith,Alphabet (Google),GOOG,Engineering,Principal,78.7,438500,10.6
+GOOG-0192,Ahmed Martinez,Alphabet (Google),GOOG,Sales & GTM,Senior,63.7,309300,7.1
+GOOG-0193,Kevin Hassan,Alphabet (Google),GOOG,People/HR,Director,87.7,490100,3.9
+GOOG-0194,Maria Nguyen,Alphabet (Google),GOOG,Research & AI,Staff,85.2,282300,21.3
+GOOG-0195,Fatima Yamamoto,Alphabet (Google),GOOG,Operations,Senior,77.6,312100,8.1
+GOOG-0196,Daniel Davis,Alphabet (Google),GOOG,Research & AI,Senior,88.9,212700,4.5
+GOOG-0197,Wei Park,Alphabet (Google),GOOG,Design,Principal,70.5,543600,16.7
+GOOG-0198,Linda Brown,Alphabet (Google),GOOG,Operations,Director,100.0,596600,6.2
+GOOG-0199,Sofia Cohen,Alphabet (Google),GOOG,Engineering,Senior,91.0,285400,15.2
+GOOG-0200,Chen Davis,Alphabet (Google),GOOG,Engineering,Senior Director,87.2,1427500,5.0
+GOOG-0201,Thomas Wilson,Alphabet (Google),GOOG,Product,Principal,76.9,1265500,5.0
+GOOG-0202,Chen Johnson,Alphabet (Google),GOOG,Research & AI,Senior,90.5,603400,3.5
+GOOG-0203,Olivia Davis,Alphabet (Google),GOOG,Design,Senior,66.6,229800,1.5
+GOOG-0204,Linda Murphy,Alphabet (Google),GOOG,Engineering,Principal,83.7,295100,7.3
+GOOG-0205,Wei Khan,Alphabet (Google),GOOG,Operations,Senior,70.5,552600,5.1
+GOOG-0206,Olivia Garcia,Alphabet (Google),GOOG,Legal & Policy,Principal,62.2,383300,10.3
+GOOG-0207,Chen Patel,Alphabet (Google),GOOG,Finance,Senior,89.5,370700,0.9
+GOOG-0208,John Martinez,Alphabet (Google),GOOG,Engineering,VP,90.3,2258300,18.8
+GOOG-0209,Hiroshi Chen,Alphabet (Google),GOOG,People/HR,Senior,79.5,216300,4.2
+GOOG-0210,Fatima Murphy,Alphabet (Google),GOOG,Operations,Director,85.9,414100,6.0
+GOOG-0211,Sofia Tanaka,Alphabet (Google),GOOG,Product,Staff,84.9,289100,5.1
+GOOG-0212,Mary Anderson,Alphabet (Google),GOOG,Engineering,Staff,82.2,680600,10.3
+GOOG-0213,Wei Hassan,Alphabet (Google),GOOG,Engineering,Principal,97.5,364400,12.9
+GOOG-0214,Mary Yamamoto,Alphabet (Google),GOOG,Research & AI,Principal,80.7,575700,5.7
+GOOG-0215,Kevin Nguyen,Alphabet (Google),GOOG,Research & AI,Principal,98.5,404200,14.4
+GOOG-0216,Aisha Lee,Alphabet (Google),GOOG,Product,Director,84.3,416000,4.9
+GOOG-0217,Chen Johnson,Alphabet (Google),GOOG,Research & AI,VP,100.0,2707700,10.5
+GOOG-0218,Arjun Wilson,Alphabet (Google),GOOG,Legal & Policy,Senior,86.1,449300,2.4
+GOOG-0219,Chen Kim,Alphabet (Google),GOOG,Research & AI,Senior,72.8,200000,4.3
+GOOG-0220,Yuki Kim,Alphabet (Google),GOOG,Engineering,Director,88.4,800200,17.8
+GOOG-0221,Samuel Wang,Alphabet (Google),GOOG,Research & AI,Senior,81.9,275300,9.3
+GOOG-0222,Fatima Hassan,Alphabet (Google),GOOG,Engineering,Principal,84.8,272900,5.6
+GOOG-0223,Samuel Martinez,Alphabet (Google),GOOG,Operations,Principal,77.3,399500,5.6
+GOOG-0224,Sofia Martinez,Alphabet (Google),GOOG,Product,Principal,81.1,496900,4.0
+GOOG-0225,Linda Garcia,Alphabet (Google),GOOG,Operations,Senior Director,90.4,495500,7.9
+GOOG-0226,Linda Murphy,Alphabet (Google),GOOG,Engineering,Director,86.2,1116500,11.5
+GOOG-0227,John Lopez,Alphabet (Google),GOOG,Research & AI,Senior,78.3,364300,9.3
+GOOG-0228,Hiroshi Silva,Alphabet (Google),GOOG,Finance,Senior,65.3,500700,6.7
+GOOG-0229,Maria Anderson,Alphabet (Google),GOOG,Engineering,Principal,82.4,671200,9.0
+GOOG-0230,Hiroshi Reyes,Alphabet (Google),GOOG,Engineering,C-Suite,82.6,2098200,13.5
+GOOG-0231,Samuel Singh,Alphabet (Google),GOOG,Operations,Staff,62.4,219500,11.4
+GOOG-0232,Grace Wilson,Alphabet (Google),GOOG,Sales & GTM,Principal,75.0,306600,8.3
+GOOG-0233,Linda Schmidt,Alphabet (Google),GOOG,Research & AI,Senior,78.9,100300,1.2
+GOOG-0234,Elena Tanaka,Alphabet (Google),GOOG,Legal & Policy,Senior,74.0,429600,4.7
+GOOG-0235,Hannah Schmidt,Alphabet (Google),GOOG,Sales & GTM,Senior,72.0,286100,1.1
+GOOG-0236,Thomas Cohen,Alphabet (Google),GOOG,Operations,Staff,85.5,216700,14.9
+GOOG-0237,Hiroshi Kim,Alphabet (Google),GOOG,Finance,Principal,88.9,902900,6.6
+GOOG-0238,Samuel Petrov,Alphabet (Google),GOOG,Research & AI,Staff,87.0,841100,2.7
+GOOG-0239,Hiroshi Martinez,Alphabet (Google),GOOG,Operations,Senior,74.4,1062800,8.5
+GOOG-0240,Yuki Lopez,Alphabet (Google),GOOG,Product,Principal,91.1,333900,6.2
+GOOG-0241,Maria Cohen,Alphabet (Google),GOOG,Sales & GTM,Staff,71.7,170500,7.3
+GOOG-0242,James Wang,Alphabet (Google),GOOG,Product,Principal,86.7,428300,4.7
+GOOG-0243,Carlos Yamamoto,Alphabet (Google),GOOG,Operations,Staff,67.1,135600,9.1
+GOOG-0244,Hannah Reyes,Alphabet (Google),GOOG,Engineering,Senior,98.8,159200,2.9
+GOOG-0245,Raj Brown,Alphabet (Google),GOOG,Research & AI,Principal,69.7,152300,13.3
+GOOG-0246,Wei Kim,Alphabet (Google),GOOG,Sales & GTM,Principal,73.9,267300,9.3
+GOOG-0247,Linda Silva,Alphabet (Google),GOOG,Research & AI,Senior,81.3,410400,8.3
+GOOG-0248,David Smith,Alphabet (Google),GOOG,Marketing,VP,86.0,1395800,14.5
+GOOG-0249,John Yamamoto,Alphabet (Google),GOOG,Operations,Senior,69.1,423300,4.6
+GOOG-0250,Wei Hassan,Alphabet (Google),GOOG,Engineering,Director,91.9,1179700,10.8
+GOOG-0251,David Chen,Alphabet (Google),GOOG,Marketing,Senior,75.0,330200,4.6
+GOOG-0252,Carlos Garcia,Alphabet (Google),GOOG,Sales & GTM,Principal,87.3,1002500,12.0
+GOOG-0253,Nina Silva,Alphabet (Google),GOOG,People/HR,Staff,78.5,198600,6.4
+GOOG-0254,Fatima Murphy,Alphabet (Google),GOOG,People/HR,Senior,85.8,883800,6.2
+GOOG-0255,Arjun Yamamoto,Alphabet (Google),GOOG,Operations,Senior,67.9,164100,3.3
+GOOG-0256,Linda Wilson,Alphabet (Google),GOOG,Operations,Senior,82.6,597300,7.9
+GOOG-0257,Hiroshi Brown,Alphabet (Google),GOOG,Marketing,Director,100.0,731300,7.7
+GOOG-0258,James Wilson,Alphabet (Google),GOOG,Engineering,Staff,54.8,344400,3.3
+GOOG-0259,Elena Wilson,Alphabet (Google),GOOG,Product,Senior,72.2,198000,2.4
+GOOG-0260,Daniel Ali,Alphabet (Google),GOOG,Product,VP,85.0,604500,11.7
+GOOG-0261,Samuel Anderson,Alphabet (Google),GOOG,Sales & GTM,Staff,86.6,484700,4.7
+GOOG-0262,Sofia Chen,Alphabet (Google),GOOG,Sales & GTM,Staff,64.9,324500,9.7
+GOOG-0263,Thomas Garcia,Alphabet (Google),GOOG,Marketing,Principal,78.2,819300,8.7
+GOOG-0264,Ahmed Brown,Alphabet (Google),GOOG,Product,Director,92.4,1057500,9.8
+GOOG-0265,Carlos Garcia,Alphabet (Google),GOOG,People/HR,Director,87.1,1766400,5.7
+GOOG-0266,Ahmed Cohen,Alphabet (Google),GOOG,Sales & GTM,Senior,87.9,422300,3.0
+GOOG-0267,Chen Tanaka,Alphabet (Google),GOOG,Engineering,Staff,90.2,661900,3.0
+GOOG-0268,Samuel Anderson,Alphabet (Google),GOOG,Operations,Staff,82.5,227200,6.2
+GOOG-0269,Kevin Murphy,Alphabet (Google),GOOG,Engineering,Senior,65.2,208900,10.1
+GOOG-0270,Kevin Khan,Alphabet (Google),GOOG,Operations,VP,99.8,1114000,6.7
+GOOG-0271,Maria Wang,Alphabet (Google),GOOG,Product,Principal,100.0,639100,5.8
+GOOG-0272,Nina Hassan,Alphabet (Google),GOOG,Engineering,C-Suite,86.6,1214400,12.2
+GOOG-0273,Wei Yamamoto,Alphabet (Google),GOOG,Product,Senior,83.2,589000,5.2
+GOOG-0274,Priya Ali,Alphabet (Google),GOOG,Engineering,Principal,96.5,654900,8.9
+GOOG-0275,Hannah Murphy,Alphabet (Google),GOOG,Sales & GTM,Director,100.0,509200,6.0
+GOOG-0276,Daniel Chen,Alphabet (Google),GOOG,Engineering,Principal,79.6,424500,8.8
+GOOG-0277,Hannah Silva,Alphabet (Google),GOOG,Engineering,VP,67.2,1392000,10.4
+GOOG-0278,Fatima Tanaka,Alphabet (Google),GOOG,Marketing,Staff,63.1,397800,9.1
+GOOG-0279,Chen Okafor,Alphabet (Google),GOOG,Marketing,Senior,83.4,318100,7.4
+GOOG-0280,James Brown,Alphabet (Google),GOOG,Product,Staff,69.7,133800,1.3
+GOOG-0281,Priya Johnson,Alphabet (Google),GOOG,Engineering,Senior,74.3,164300,4.6
+GOOG-0282,Samuel Yamamoto,Alphabet (Google),GOOG,Design,Director,88.3,761700,8.5
+GOOG-0283,James Johnson,Alphabet (Google),GOOG,Design,Senior,75.3,104700,4.8
+GOOG-0284,Fatima Khan,Alphabet (Google),GOOG,Operations,Staff,79.2,510000,4.8
+GOOG-0285,Olivia Cohen,Alphabet (Google),GOOG,Design,Staff,79.6,206200,5.0
+GOOG-0286,Ahmed Wilson,Alphabet (Google),GOOG,Research & AI,Senior Director,77.5,867400,18.4
+GOOG-0287,Raj Khan,Alphabet (Google),GOOG,Research & AI,Staff,82.5,233700,5.0
+GOOG-0288,Hannah Reyes,Alphabet (Google),GOOG,Marketing,Director,83.5,430600,7.5
+GOOG-0289,Wei Yamamoto,Alphabet (Google),GOOG,Operations,Senior,95.4,495600,10.8
+GOOG-0290,Raj Martinez,Alphabet (Google),GOOG,Sales & GTM,Staff,90.2,780900,7.9
+GOOG-0291,Ahmed Lee,Alphabet (Google),GOOG,Product,Principal,89.8,1341600,6.1
+GOOG-0292,Aisha Murphy,Alphabet (Google),GOOG,Sales & GTM,Staff,75.8,640600,2.8
+GOOG-0293,Wei Smith,Alphabet (Google),GOOG,Sales & GTM,Senior,75.6,512000,3.5
+GOOG-0294,Fatima Lopez,Alphabet (Google),GOOG,Research & AI,Director,98.9,1022600,5.8
+GOOG-0295,Arjun Kim,Alphabet (Google),GOOG,Engineering,Senior Director,98.9,667200,5.5
+GOOG-0296,Elena Wilson,Alphabet (Google),GOOG,Engineering,Senior,81.3,124200,6.3
+GOOG-0297,Linda Garcia,Alphabet (Google),GOOG,Engineering,Principal,92.2,729000,10.1
+GOOG-0298,Raj Murphy,Alphabet (Google),GOOG,Engineering,Principal,67.1,601100,3.8
+GOOG-0299,Hannah Wilson,Alphabet (Google),GOOG,Operations,Staff,93.8,612000,9.5
+GOOG-0300,Elena Reyes,Alphabet (Google),GOOG,Engineering,Staff,82.0,492800,5.6
+GOOG-0301,Emily Ali,Alphabet (Google),GOOG,Sales & GTM,Staff,77.4,436700,5.1
+GOOG-0302,Ahmed Hassan,Alphabet (Google),GOOG,Engineering,Director,69.8,254100,12.5
+GOOG-0303,Yuki Kim,Alphabet (Google),GOOG,Design,Senior,94.3,515300,3.1
+GOOG-0304,Yuki Hassan,Alphabet (Google),GOOG,Engineering,Senior Director,80.9,473300,8.5
+GOOG-0305,Olivia Khan,Alphabet (Google),GOOG,Engineering,Principal,76.5,1280400,4.5
+GOOG-0306,Grace Ali,Alphabet (Google),GOOG,Product,Director,83.7,905000,6.3
+GOOG-0307,Ahmed Lopez,Alphabet (Google),GOOG,Design,Director,89.4,624300,10.9
+GOOG-0308,Carlos Martinez,Alphabet (Google),GOOG,Engineering,Senior Director,81.6,1526100,9.7
+GOOG-0309,Olivia Chen,Alphabet (Google),GOOG,Marketing,Director,67.0,364900,6.0
+GOOG-0310,Maria Wang,Alphabet (Google),GOOG,Engineering,Director,85.4,432000,13.0
+GOOG-0311,Grace Nguyen,Alphabet (Google),GOOG,Engineering,Senior,89.5,294000,9.5
+GOOG-0312,John Yamamoto,Alphabet (Google),GOOG,Product,Director,71.6,568700,7.7
+GOOG-0313,Ahmed Johnson,Alphabet (Google),GOOG,Finance,Senior,86.9,421400,1.5
+GOOG-0314,Zoe Martinez,Alphabet (Google),GOOG,Engineering,Staff,66.1,411400,4.4
+GOOG-0315,John Ali,Alphabet (Google),GOOG,Engineering,Staff,91.1,239500,7.0
+GOOG-0316,James Brown,Alphabet (Google),GOOG,Finance,Senior,96.3,256900,3.0
+GOOG-0317,Raj Smith,Alphabet (Google),GOOG,Research & AI,Senior,79.4,198300,29.4
+GOOG-0318,Grace Lee,Alphabet (Google),GOOG,Sales & GTM,Staff,87.5,581100,3.7
+GOOG-0319,Ahmed Hassan,Alphabet (Google),GOOG,Operations,Staff,84.6,385600,2.7
+GOOG-0320,John Singh,Alphabet (Google),GOOG,Research & AI,Senior,70.6,109700,3.5
+GOOG-0321,Michael Wilson,Alphabet (Google),GOOG,Engineering,Senior,87.7,315500,11.7
+GOOG-0322,Hannah Nguyen,Alphabet (Google),GOOG,Legal & Policy,Senior Director,76.1,1073700,12.5
+GOOG-0323,Fatima Murphy,Alphabet (Google),GOOG,Design,Staff,71.6,480900,3.4
+GOOG-0324,Priya Khan,Alphabet (Google),GOOG,Engineering,VP,88.7,1688500,7.6
+GOOG-0325,Grace Schmidt,Alphabet (Google),GOOG,Sales & GTM,Senior,91.8,213400,7.7
+GOOG-0326,Arjun Reyes,Alphabet (Google),GOOG,Research & AI,VP,78.6,1572400,12.0
+GOOG-0327,Hannah Tanaka,Alphabet (Google),GOOG,Finance,Principal,58.9,185900,9.2
+GOOG-0328,Priya Khan,Alphabet (Google),GOOG,Engineering,Senior,69.0,587000,8.0
+GOOG-0329,James Chen,Alphabet (Google),GOOG,Engineering,Director,90.0,957100,13.2
+GOOG-0330,Mary Nguyen,Alphabet (Google),GOOG,Legal & Policy,VP,73.8,961400,7.5
+GOOG-0331,Hiroshi Kim,Alphabet (Google),GOOG,Operations,Senior Director,96.1,563200,6.9
+GOOG-0332,Thomas Rossi,Alphabet (Google),GOOG,Legal & Policy,Senior,71.6,582000,4.0
+GOOG-0333,Yuki Wilson,Alphabet (Google),GOOG,Research & AI,Principal,78.1,401600,13.2
+GOOG-0334,Raj Okafor,Alphabet (Google),GOOG,Legal & Policy,Principal,82.6,278500,10.4
+GOOG-0335,David Lopez,Alphabet (Google),GOOG,Engineering,Senior Director,93.0,345100,10.7
+GOOG-0336,Aisha Tanaka,Alphabet (Google),GOOG,People/HR,Staff,76.1,324900,7.3
+GOOG-0337,Nina Wang,Alphabet (Google),GOOG,Operations,Senior,63.4,177000,7.1
+GOOG-0338,Nina Murphy,Alphabet (Google),GOOG,Sales & GTM,Senior,82.3,154300,4.9
+GOOG-0339,Sofia Petrov,Alphabet (Google),GOOG,Research & AI,Staff,78.5,526800,4.3
+GOOG-0340,Yuki Cohen,Alphabet (Google),GOOG,Engineering,Staff,77.8,937900,4.2
+GOOG-0341,Aisha Hassan,Alphabet (Google),GOOG,People/HR,Senior Director,99.4,998100,11.2
+GOOG-0342,Daniel Hassan,Alphabet (Google),GOOG,Engineering,Senior,82.4,329200,6.2
+GOOG-0343,Kevin Kim,Alphabet (Google),GOOG,Operations,Senior,77.0,197600,5.1
+GOOG-0344,Ahmed Chen,Alphabet (Google),GOOG,Operations,Staff,82.3,298500,10.1
+GOOG-0345,Thomas Garcia,Alphabet (Google),GOOG,Research & AI,Staff,72.2,589100,6.5
+GOOG-0346,Wei Singh,Alphabet (Google),GOOG,Legal & Policy,Director,76.6,1000500,5.8
+GOOG-0347,Michael Lee,Alphabet (Google),GOOG,Operations,Staff,83.7,488500,5.1
+GOOG-0348,John Khan,Alphabet (Google),GOOG,Research & AI,Principal,82.1,212100,8.0
+GOOG-0349,Grace Cohen,Alphabet (Google),GOOG,Engineering,Senior Director,87.9,777800,7.0
+GOOG-0350,Fatima Schmidt,Alphabet (Google),GOOG,Research & AI,Senior,81.8,291300,9.8
+GOOG-0351,Kevin Martinez,Alphabet (Google),GOOG,Engineering,Senior,83.9,239200,2.8
+GOOG-0352,Aisha Nguyen,Alphabet (Google),GOOG,Engineering,Senior,100.0,242000,2.0
+GOOG-0353,Raj Wang,Alphabet (Google),GOOG,Engineering,Staff,73.9,633900,5.2
+GOOG-0354,Hannah Silva,Alphabet (Google),GOOG,Operations,C-Suite,79.7,2802300,17.0
+GOOG-0355,Daniel Rossi,Alphabet (Google),GOOG,Engineering,Principal,70.5,658400,10.2
+GOOG-0356,Priya Martinez,Alphabet (Google),GOOG,Sales & GTM,Principal,67.6,968800,3.9
+GOOG-0357,Nina Lee,Alphabet (Google),GOOG,Engineering,Staff,68.7,627700,4.1
+GOOG-0358,Elena Park,Alphabet (Google),GOOG,Engineering,Principal,77.7,519600,23.4
+GOOG-0359,Maria Petrov,Alphabet (Google),GOOG,Operations,Senior Director,86.5,727100,8.2
+GOOG-0360,Linda Okafor,Alphabet (Google),GOOG,Operations,Senior,84.1,245400,2.8
+GOOG-0361,Hiroshi Kim,Alphabet (Google),GOOG,Sales & GTM,Director,86.0,585000,12.4
+GOOG-0362,Maria Petrov,Alphabet (Google),GOOG,Engineering,SVP,100.0,1299200,10.3
+GOOG-0363,Sofia Tanaka,Alphabet (Google),GOOG,Finance,Staff,78.5,439100,9.7
+GOOG-0364,Nina Petrov,Alphabet (Google),GOOG,Engineering,Senior,89.0,606100,5.1
+GOOG-0365,Thomas Yamamoto,Alphabet (Google),GOOG,Product,Staff,75.8,422300,2.1
+GOOG-0366,James Brown,Alphabet (Google),GOOG,Sales & GTM,VP,88.8,1973800,10.1
+GOOG-0367,Wei Singh,Alphabet (Google),GOOG,Operations,Senior,100.0,113800,8.4
+GOOG-0368,Priya Park,Alphabet (Google),GOOG,Engineering,Principal,76.1,269000,12.5
+GOOG-0369,Olivia Johnson,Alphabet (Google),GOOG,Engineering,Staff,75.4,308600,6.5
+GOOG-0370,Zoe Chen,Alphabet (Google),GOOG,Sales & GTM,Director,86.4,225800,3.6
+GOOG-0371,Carlos Singh,Alphabet (Google),GOOG,Engineering,Principal,85.5,638800,11.8
+GOOG-0372,Daniel Petrov,Alphabet (Google),GOOG,Engineering,Principal,73.3,920500,6.8
+GOOG-0373,David Nguyen,Alphabet (Google),GOOG,Product,Staff,69.9,157300,29.5
+GOOG-0374,Aisha Johnson,Alphabet (Google),GOOG,People/HR,Staff,82.9,443600,6.5
+GOOG-0375,Raj Ali,Alphabet (Google),GOOG,Engineering,Senior,73.5,609600,3.8
+GOOG-0376,Aisha Singh,Alphabet (Google),GOOG,Sales & GTM,Senior,100.0,316800,3.0
+GOOG-0377,Ahmed Lee,Alphabet (Google),GOOG,Finance,Director,82.7,559300,14.2
+GOOG-0378,Fatima Brown,Alphabet (Google),GOOG,Engineering,Director,85.3,522800,9.9
+GOOG-0379,Arjun Khan,Alphabet (Google),GOOG,Design,Director,92.2,691300,8.9
+GOOG-0380,Aisha Schmidt,Alphabet (Google),GOOG,Legal & Policy,Staff,78.4,736000,4.1
+GOOG-0381,Samuel Silva,Alphabet (Google),GOOG,Operations,Director,83.6,1239200,8.1
+GOOG-0382,Chen Yamamoto,Alphabet (Google),GOOG,Sales & GTM,Senior,72.6,223600,9.8
+GOOG-0383,Ahmed Schmidt,Alphabet (Google),GOOG,Finance,Director,71.7,803800,6.0
+GOOG-0384,Daniel Reyes,Alphabet (Google),GOOG,Product,Staff,85.7,317300,14.5
+GOOG-0385,Grace Wilson,Alphabet (Google),GOOG,Engineering,Staff,88.0,319600,12.8
+GOOG-0386,Yuki Smith,Alphabet (Google),GOOG,Product,Director,76.5,550600,7.1
+GOOG-0387,Priya Nguyen,Alphabet (Google),GOOG,Engineering,Senior,84.5,580200,1.3
+GOOG-0388,Fatima Cohen,Alphabet (Google),GOOG,Engineering,Staff,75.7,215500,4.2
+GOOG-0389,Chen Cohen,Alphabet (Google),GOOG,Engineering,Senior,83.8,249600,5.6
+GOOG-0390,Priya Kim,Alphabet (Google),GOOG,Finance,Senior Director,74.1,1016400,7.6
+GOOG-0391,Maria Garcia,Alphabet (Google),GOOG,Design,Principal,95.1,584300,4.2
+GOOG-0392,Wei Smith,Alphabet (Google),GOOG,Sales & GTM,Senior Director,68.6,503300,10.7
+GOOG-0393,Carlos Khan,Alphabet (Google),GOOG,Finance,Senior,78.4,413600,20.0
+GOOG-0394,Samuel Hassan,Alphabet (Google),GOOG,Research & AI,Staff,71.9,264800,4.2
+GOOG-0395,Wei Patel,Alphabet (Google),GOOG,Design,Staff,77.1,470800,4.4
+GOOG-0396,Olivia Brown,Alphabet (Google),GOOG,Design,VP,80.6,565500,5.8
+GOOG-0397,Samuel Johnson,Alphabet (Google),GOOG,Research & AI,Staff,98.2,259700,15.6
+GOOG-0398,Priya Lopez,Alphabet (Google),GOOG,Sales & GTM,Senior,81.6,208400,3.1
+GOOG-0399,Nina Lopez,Alphabet (Google),GOOG,Engineering,Director,61.4,487500,13.4
+GOOG-0400,Ahmed Silva,Alphabet (Google),GOOG,People/HR,Director,100.0,1061000,7.2
+GOOG-0401,Hannah Singh,Alphabet (Google),GOOG,Design,Principal,87.2,740000,4.0
+GOOG-0402,Emily Martinez,Alphabet (Google),GOOG,Legal & Policy,Director,88.8,723300,9.0
+GOOG-0403,Daniel Singh,Alphabet (Google),GOOG,Research & AI,Senior,60.6,225400,4.0
+GOOG-0404,Carlos Wang,Alphabet (Google),GOOG,Finance,Staff,79.9,640000,12.5
+GOOG-0405,Daniel Murphy,Alphabet (Google),GOOG,Sales & GTM,Staff,79.4,671200,2.4
+GOOG-0406,Michael Hassan,Alphabet (Google),GOOG,Operations,Senior,83.6,665000,10.1
+GOOG-0407,Nina Murphy,Alphabet (Google),GOOG,Research & AI,Senior,86.7,207500,6.5
+GOOG-0408,Arjun Rossi,Alphabet (Google),GOOG,Finance,Director,81.6,401500,10.3
+GOOG-0409,Wei Cohen,Alphabet (Google),GOOG,Research & AI,Director,78.1,309500,9.6
+GOOG-0410,Aisha Smith,Alphabet (Google),GOOG,Product,Director,83.1,158300,3.9
+GOOG-0411,Wei Park,Alphabet (Google),GOOG,Product,VP,91.4,1995700,9.1
+GOOG-0412,Hannah Silva,Alphabet (Google),GOOG,Legal & Policy,Senior,61.0,371600,7.4
+GOOG-0413,Thomas Davis,Alphabet (Google),GOOG,Product,Senior,79.6,334700,3.7
+GOOG-0414,Linda Ali,Alphabet (Google),GOOG,Marketing,Principal,72.9,621100,6.2
+GOOG-0415,Grace Davis,Alphabet (Google),GOOG,Operations,Principal,75.2,330200,10.9
+GOOG-0416,Emily Kim,Alphabet (Google),GOOG,Sales & GTM,Staff,83.1,537600,3.4
+GOOG-0417,John Singh,Alphabet (Google),GOOG,Engineering,Staff,99.2,375600,10.8
+GOOG-0418,Zoe Silva,Alphabet (Google),GOOG,Product,SVP,83.7,1146500,24.9
+GOOG-0419,Thomas Schmidt,Alphabet (Google),GOOG,Sales & GTM,Senior,68.9,298200,5.4
+GOOG-0420,Kevin Lopez,Alphabet (Google),GOOG,Sales & GTM,Senior,76.5,469800,3.4
+GOOG-0421,Samuel Johnson,Alphabet (Google),GOOG,Operations,Staff,97.7,498100,2.4
+GOOG-0422,Chen Davis,Alphabet (Google),GOOG,Engineering,Director,92.0,709200,15.7
+GOOG-0423,Wei Lee,Alphabet (Google),GOOG,Finance,Senior,79.0,487500,5.1
+GOOG-0424,Nina Park,Alphabet (Google),GOOG,Engineering,Senior,73.6,209300,7.8
+GOOG-0425,Hannah Silva,Alphabet (Google),GOOG,Operations,Staff,79.9,540700,12.0
+GOOG-0426,Daniel Ali,Alphabet (Google),GOOG,Engineering,Principal,62.9,730100,2.8
+GOOG-0427,James Hassan,Alphabet (Google),GOOG,Research & AI,Director,75.9,682100,10.5
+GOOG-0428,David Ali,Alphabet (Google),GOOG,Product,Staff,79.4,429200,5.2
+GOOG-0429,Emily Lopez,Alphabet (Google),GOOG,Sales & GTM,Senior Director,87.4,328200,11.9
+GOOG-0430,Chen Nguyen,Alphabet (Google),GOOG,Operations,Director,80.2,824400,10.1
+GOOG-0431,Maria Patel,Alphabet (Google),GOOG,Operations,Staff,75.0,406000,13.7
+GOOG-0432,Emily Schmidt,Alphabet (Google),GOOG,Marketing,Director,84.9,470700,18.4
+GOOG-0433,Thomas Ali,Alphabet (Google),GOOG,Marketing,Senior,68.7,348300,9.0
+GOOG-0434,Maria Lee,Alphabet (Google),GOOG,Finance,Staff,76.5,185800,8.2
+GOOG-0435,Hiroshi Nguyen,Alphabet (Google),GOOG,Finance,Staff,79.3,413700,15.5
+GOOG-0436,Linda Brown,Alphabet (Google),GOOG,Marketing,Principal,86.1,743800,5.7
+GOOG-0437,Samuel Tanaka,Alphabet (Google),GOOG,Engineering,SVP,82.6,794000,11.6
+GOOG-0438,Samuel Lopez,Alphabet (Google),GOOG,Engineering,Senior,73.2,289500,7.7
+GOOG-0439,Carlos Smith,Alphabet (Google),GOOG,Engineering,VP,72.8,2236000,9.2
+GOOG-0440,Linda Tanaka,Alphabet (Google),GOOG,Marketing,Director,70.6,361500,13.0
+GOOG-0441,Aisha Chen,Alphabet (Google),GOOG,Operations,Principal,84.8,469100,8.3
+GOOG-0442,Hannah Wilson,Alphabet (Google),GOOG,Sales & GTM,Senior,82.7,422100,10.2
+GOOG-0443,Raj Rossi,Alphabet (Google),GOOG,Research & AI,Director,68.9,710900,4.7
+GOOG-0444,Aisha Smith,Alphabet (Google),GOOG,Sales & GTM,Senior Director,68.2,785400,6.3
+GOOG-0445,Samuel Davis,Alphabet (Google),GOOG,Engineering,Senior,90.1,204800,1.7
+GOOG-0446,Sofia Lee,Alphabet (Google),GOOG,Sales & GTM,Director,76.9,476800,6.8
+GOOG-0447,Carlos Lee,Alphabet (Google),GOOG,Engineering,Senior Director,67.9,1445800,7.6
+GOOG-0448,Emily Wang,Alphabet (Google),GOOG,Engineering,Senior Director,94.8,3004900,10.6
+GOOG-0449,Elena Anderson,Alphabet (Google),GOOG,Research & AI,Senior,62.7,465300,5.7
+GOOG-0450,Priya Johnson,Alphabet (Google),GOOG,Product,Principal,80.7,569200,13.7
+GOOG-0451,Thomas Khan,Alphabet (Google),GOOG,Research & AI,Staff,95.2,606500,9.7
+GOOG-0452,Linda Martinez,Alphabet (Google),GOOG,Finance,Senior,59.1,151100,4.6
+GOOG-0453,Nina Silva,Alphabet (Google),GOOG,Research & AI,Principal,88.7,445800,5.2
+GOOG-0454,Emily Okafor,Alphabet (Google),GOOG,Engineering,Senior,82.4,125700,3.6
+GOOG-0455,Fatima Nguyen,Alphabet (Google),GOOG,People/HR,Senior,76.4,399000,3.4
+GOOG-0456,Mary Anderson,Alphabet (Google),GOOG,Sales & GTM,Staff,62.6,295800,4.0
+GOOG-0457,Hannah Khan,Alphabet (Google),GOOG,Operations,Senior,62.9,197800,6.9
+GOOG-0458,Mary Tanaka,Alphabet (Google),GOOG,Research & AI,Principal,81.5,479300,5.7
+GOOG-0459,Wei Patel,Alphabet (Google),GOOG,Marketing,Senior,76.0,178100,6.5
+GOOG-0460,John Reyes,Alphabet (Google),GOOG,Design,Principal,90.6,540400,5.3
+GOOG-0461,Maria Kim,Alphabet (Google),GOOG,Engineering,Director,62.2,944000,4.3
+GOOG-0462,Daniel Rossi,Alphabet (Google),GOOG,Research & AI,Principal,82.7,343400,6.3
+GOOG-0463,Grace Anderson,Alphabet (Google),GOOG,Engineering,Staff,73.6,543800,17.8
+GOOG-0464,Emily Martinez,Alphabet (Google),GOOG,Engineering,Senior Director,76.9,393500,6.1
+GOOG-0465,Mary Davis,Alphabet (Google),GOOG,Design,Principal,82.1,401400,5.0
+GOOG-0466,Hiroshi Wang,Alphabet (Google),GOOG,Sales & GTM,Senior Director,100.0,1190200,8.4
+GOOG-0467,Raj Brown,Alphabet (Google),GOOG,Sales & GTM,Director,68.8,1233900,14.7
+GOOG-0468,Sofia Tanaka,Alphabet (Google),GOOG,Engineering,Senior,83.0,536000,12.0
+GOOG-0469,Maria Wang,Alphabet (Google),GOOG,Product,Principal,88.2,578300,3.6
+GOOG-0470,Ahmed Johnson,Alphabet (Google),GOOG,Legal & Policy,Senior Director,93.7,654000,19.1
+GOOG-0471,Raj Khan,Alphabet (Google),GOOG,People/HR,Staff,92.6,536800,7.2
+GOOG-0472,Nina Martinez,Alphabet (Google),GOOG,Product,Staff,81.6,449900,6.7
+GOOG-0473,John Lee,Alphabet (Google),GOOG,Engineering,Senior,95.9,147800,3.0
+GOOG-0474,Samuel Lopez,Alphabet (Google),GOOG,Research & AI,Senior,83.5,157600,9.0
+GOOG-0475,Zoe Johnson,Alphabet (Google),GOOG,Operations,Senior,81.4,625000,7.2
+GOOG-0476,Grace Johnson,Alphabet (Google),GOOG,Research & AI,Senior Director,81.8,608200,6.2
+GOOG-0477,Samuel Okafor,Alphabet (Google),GOOG,People/HR,Principal,82.4,356300,9.2
+GOOG-0478,Raj Smith,Alphabet (Google),GOOG,Operations,Senior Director,59.1,876900,6.5
+GOOG-0479,Michael Kim,Alphabet (Google),GOOG,Sales & GTM,Director,94.8,853400,5.8
+GOOG-0480,Thomas Murphy,Alphabet (Google),GOOG,Research & AI,Senior Director,76.6,832700,13.9
+GOOG-0481,Maria Singh,Alphabet (Google),GOOG,Product,Senior Director,79.6,907500,7.0
+GOOG-0482,Carlos Okafor,Alphabet (Google),GOOG,Design,Staff,62.9,526400,2.8
+GOOG-0483,Sofia Park,Alphabet (Google),GOOG,Research & AI,Director,80.2,391400,4.8
+GOOG-0484,Thomas Silva,Alphabet (Google),GOOG,Product,Staff,91.7,162600,5.7
+GOOG-0485,Ahmed Anderson,Alphabet (Google),GOOG,Sales & GTM,Senior,86.8,247700,3.9
+GOOG-0486,Aisha Cohen,Alphabet (Google),GOOG,Sales & GTM,Staff,76.4,389000,4.5
+GOOG-0487,Yuki Patel,Alphabet (Google),GOOG,Marketing,Senior,68.2,77600,6.5
+GOOG-0488,John Lee,Alphabet (Google),GOOG,Research & AI,Principal,86.6,1072200,8.4
+GOOG-0489,Mary Patel,Alphabet (Google),GOOG,Sales & GTM,Principal,87.7,450100,7.0
+GOOG-0490,Yuki Rossi,Alphabet (Google),GOOG,Sales & GTM,Senior,75.4,335900,9.6
+GOOG-0491,Chen Okafor,Alphabet (Google),GOOG,Marketing,VP,85.4,757600,9.4
+GOOG-0492,Olivia Ali,Alphabet (Google),GOOG,Legal & Policy,Director,87.7,756400,13.1
+GOOG-0493,Hannah Silva,Alphabet (Google),GOOG,Research & AI,Senior,91.2,287200,9.4
+GOOG-0494,Emily Singh,Alphabet (Google),GOOG,Product,VP,71.9,705000,21.3
+GOOG-0495,Chen Garcia,Alphabet (Google),GOOG,Finance,Senior,93.7,476500,1.4
+GOOG-0496,Sofia Singh,Alphabet (Google),GOOG,Engineering,Senior,79.2,130500,13.0
+GOOG-0497,James Nguyen,Alphabet (Google),GOOG,Finance,Senior,86.4,265300,1.1
+GOOG-0498,Grace Kim,Alphabet (Google),GOOG,Finance,Staff,79.9,667600,12.5
+GOOG-0499,Daniel Anderson,Alphabet (Google),GOOG,Legal & Policy,VP,86.2,1785400,8.4
+GOOG-0500,Wei Silva,Alphabet (Google),GOOG,Engineering,Senior,69.8,346800,6.1
+GOOG-0501,Linda Anderson,Alphabet (Google),GOOG,Research & AI,Staff,69.8,299300,5.6
+GOOG-0502,Raj Park,Alphabet (Google),GOOG,Engineering,Director,64.3,871500,8.6
+GOOG-0503,Emily Chen,Alphabet (Google),GOOG,Product,Senior Director,75.3,480400,5.0
+GOOG-0504,Hannah Wilson,Alphabet (Google),GOOG,Operations,Senior,88.9,296600,12.7
+GOOG-0505,Chen Lopez,Alphabet (Google),GOOG,Engineering,Principal,80.2,245200,7.0
+GOOG-0506,Emily Brown,Alphabet (Google),GOOG,Finance,Staff,64.1,386800,9.9
+GOOG-0507,Wei Wilson,Alphabet (Google),GOOG,Finance,Senior,92.6,399500,4.7
+GOOG-0508,Emily Patel,Alphabet (Google),GOOG,Product,Senior,82.5,197400,12.5
+GOOG-0509,Emily Lee,Alphabet (Google),GOOG,People/HR,Director,81.8,482900,7.9
+GOOG-0510,Elena Rossi,Alphabet (Google),GOOG,Engineering,Senior Director,68.1,1035600,8.7
+GOOG-0511,John Ali,Alphabet (Google),GOOG,Sales & GTM,Director,83.8,215100,6.8
+GOOG-0512,Carlos Petrov,Alphabet (Google),GOOG,Engineering,Senior,60.0,133200,4.1
+GOOG-0513,Grace Rossi,Alphabet (Google),GOOG,Research & AI,VP,81.1,1335900,10.3
+GOOG-0514,Hiroshi Tanaka,Alphabet (Google),GOOG,Design,Director,69.2,739800,7.6
+GOOG-0515,Mary Lee,Alphabet (Google),GOOG,Sales & GTM,Senior Director,82.5,740700,5.6
+GOOG-0516,Arjun Martinez,Alphabet (Google),GOOG,Engineering,Senior Director,89.3,402100,12.8
+GOOG-0517,Hannah Park,Alphabet (Google),GOOG,Research & AI,Senior,76.9,154400,3.6
+GOOG-0518,Carlos Murphy,Alphabet (Google),GOOG,Design,Senior,61.6,108400,5.0
+GOOG-0519,Grace Reyes,Alphabet (Google),GOOG,Finance,Senior,83.4,1165200,7.5
+GOOG-0520,Mary Cohen,Alphabet (Google),GOOG,Engineering,Staff,72.6,166300,10.6
+GOOG-0521,Grace Park,Alphabet (Google),GOOG,Engineering,Senior,80.8,393400,8.6
+GOOG-0522,Maria Kim,Alphabet (Google),GOOG,Engineering,Director,76.6,494700,9.0
+GOOG-0523,Mary Kim,Alphabet (Google),GOOG,Product,Director,75.1,519300,36.0
+GOOG-0524,Mary Yamamoto,Alphabet (Google),GOOG,Design,Staff,82.9,429800,4.6
+GOOG-0525,Kevin Yamamoto,Alphabet (Google),GOOG,Engineering,Principal,70.3,515400,7.6
+GOOG-0526,Thomas Lopez,Alphabet (Google),GOOG,Marketing,Director,78.7,788600,23.4
+GOOG-0527,Nina Okafor,Alphabet (Google),GOOG,Marketing,Principal,87.4,541600,8.5
+GOOG-0528,Ahmed Yamamoto,Alphabet (Google),GOOG,Legal & Policy,Staff,76.9,373800,9.2
+GOOG-0529,Daniel Park,Alphabet (Google),GOOG,Sales & GTM,Senior,81.7,235600,5.5
+GOOG-0530,Carlos Tanaka,Alphabet (Google),GOOG,People/HR,Senior Director,86.0,534800,21.8
+GOOG-0531,Priya Smith,Alphabet (Google),GOOG,Product,Director,86.6,278800,25.3
+GOOG-0532,Mary Okafor,Alphabet (Google),GOOG,Sales & GTM,Principal,90.7,291500,5.1
+GOOG-0533,Chen Chen,Alphabet (Google),GOOG,Operations,Principal,83.6,883500,4.9
+GOOG-0534,Raj Hassan,Alphabet (Google),GOOG,Research & AI,Principal,84.8,416100,8.0
+GOOG-0535,Kevin Rossi,Alphabet (Google),GOOG,Engineering,Staff,72.8,182400,9.8
+GOOG-0536,Yuki Johnson,Alphabet (Google),GOOG,Legal & Policy,Principal,100.0,2685000,12.4
+GOOG-0537,Priya Rossi,Alphabet (Google),GOOG,Operations,Staff,81.3,378600,14.5
+GOOG-0538,Yuki Davis,Alphabet (Google),GOOG,Research & AI,Director,100.0,446800,5.9
+GOOG-0539,Grace Chen,Alphabet (Google),GOOG,Sales & GTM,VP,91.4,988500,7.7
+GOOG-0540,Priya Smith,Alphabet (Google),GOOG,Product,Senior,80.1,714100,4.8
+GOOG-0541,Olivia Yamamoto,Alphabet (Google),GOOG,Operations,Director,79.0,962200,11.8
+GOOG-0542,Nina Wang,Alphabet (Google),GOOG,Design,Principal,74.7,289900,10.6
+GOOG-0543,Carlos Okafor,Alphabet (Google),GOOG,Engineering,Senior,70.6,363400,7.5
+GOOG-0544,James Petrov,Alphabet (Google),GOOG,Marketing,Staff,100.0,464900,12.1
+GOOG-0545,Hannah Wang,Alphabet (Google),GOOG,Engineering,Staff,61.8,244500,4.3
+GOOG-0546,Nina Brown,Alphabet (Google),GOOG,Engineering,Staff,70.8,467800,6.1
+GOOG-0547,Mary Silva,Alphabet (Google),GOOG,Product,Principal,67.8,211300,9.6
+GOOG-0548,Hiroshi Yamamoto,Alphabet (Google),GOOG,Engineering,Staff,88.4,350500,5.9
+GOOG-0549,David Hassan,Alphabet (Google),GOOG,Engineering,Principal,73.5,167200,5.3
+GOOG-0550,Fatima Wilson,Alphabet (Google),GOOG,Engineering,Senior,59.8,370400,2.2
+GOOG-0551,John Rossi,Alphabet (Google),GOOG,Engineering,Principal,84.7,188300,8.0
+GOOG-0552,Thomas Khan,Alphabet (Google),GOOG,Engineering,VP,87.1,3530800,19.0
+GOOG-0553,Ahmed Yamamoto,Alphabet (Google),GOOG,Engineering,Director,84.6,344400,10.0
+GOOG-0554,Priya Johnson,Alphabet (Google),GOOG,Engineering,Senior,70.1,430200,15.1
+GOOG-0555,Grace Silva,Alphabet (Google),GOOG,Research & AI,Staff,88.8,1195000,5.1
+GOOG-0556,Raj Silva,Alphabet (Google),GOOG,Sales & GTM,Director,79.5,460600,5.5
+GOOG-0557,Priya Silva,Alphabet (Google),GOOG,Engineering,Staff,79.9,472700,4.2
+GOOG-0558,Priya Patel,Alphabet (Google),GOOG,Engineering,Staff,82.7,464300,9.7
+GOOG-0559,Thomas Chen,Alphabet (Google),GOOG,Engineering,Staff,74.3,230000,15.5
+GOOG-0560,Priya Ali,Alphabet (Google),GOOG,Engineering,Director,71.2,470900,11.4
+GOOG-0561,Hannah Park,Alphabet (Google),GOOG,Sales & GTM,Staff,78.5,394600,6.8
+GOOG-0562,Chen Yamamoto,Alphabet (Google),GOOG,Research & AI,Staff,76.4,295900,1.6
+GOOG-0563,Hannah Yamamoto,Alphabet (Google),GOOG,Engineering,Staff,90.8,722900,4.9
+GOOG-0564,Emily Hassan,Alphabet (Google),GOOG,Legal & Policy,Senior,68.0,186500,2.2
+GOOG-0565,Nina Anderson,Alphabet (Google),GOOG,Design,Staff,80.4,298300,10.8
+GOOG-0566,Arjun Nguyen,Alphabet (Google),GOOG,Sales & GTM,Principal,91.4,876100,4.7
+GOOG-0567,Aisha Cohen,Alphabet (Google),GOOG,Research & AI,Staff,92.1,348300,10.7
+GOOG-0568,Ahmed Lee,Alphabet (Google),GOOG,Research & AI,Director,78.4,1013700,3.4
+GOOG-0569,Emily Brown,Alphabet (Google),GOOG,Finance,Staff,75.9,214400,8.1
+GOOG-0570,Chen Smith,Alphabet (Google),GOOG,Legal & Policy,Director,91.5,652700,10.9
+GOOG-0571,Olivia Wilson,Alphabet (Google),GOOG,Research & AI,Senior,92.5,333100,7.3
+GOOG-0572,Hiroshi Lopez,Alphabet (Google),GOOG,Operations,Senior,85.9,638400,8.1
+GOOG-0573,Chen Tanaka,Alphabet (Google),GOOG,People/HR,Senior,83.3,1138000,5.4
+GOOG-0574,James Singh,Alphabet (Google),GOOG,Engineering,Staff,80.4,320200,12.3
+GOOG-0575,Elena Wilson,Alphabet (Google),GOOG,Engineering,Senior Director,84.3,610600,8.9
+GOOG-0576,Arjun Johnson,Alphabet (Google),GOOG,Engineering,Director,64.8,770800,7.9
+GOOG-0577,Fatima Brown,Alphabet (Google),GOOG,Sales & GTM,VP,100.0,528700,9.4
+GOOG-0578,Daniel Hassan,Alphabet (Google),GOOG,Marketing,Principal,82.6,290800,9.0
+GOOG-0579,Michael Wang,Alphabet (Google),GOOG,Sales & GTM,Staff,76.9,492000,4.9
+GOOG-0580,Mary Davis,Alphabet (Google),GOOG,Engineering,Staff,79.1,587300,3.8
+GOOG-0581,Aisha Lee,Alphabet (Google),GOOG,Research & AI,Senior,86.4,237300,5.1
+GOOG-0582,Ahmed Ali,Alphabet (Google),GOOG,Sales & GTM,Senior,75.4,173100,1.8
+GOOG-0583,Raj Schmidt,Alphabet (Google),GOOG,People/HR,Principal,93.2,373900,3.3
+GOOG-0584,Grace Smith,Alphabet (Google),GOOG,Product,Principal,74.5,550800,17.4
+GOOG-0585,Michael Martinez,Alphabet (Google),GOOG,Research & AI,Senior,70.9,315200,1.9
+GOOG-0586,Ahmed Chen,Alphabet (Google),GOOG,Product,Senior Director,73.9,345000,10.1
+GOOG-0587,Aisha Ali,Alphabet (Google),GOOG,Sales & GTM,VP,67.6,651000,5.7
+GOOG-0588,Fatima Cohen,Alphabet (Google),GOOG,Research & AI,Principal,66.9,262400,4.1
+GOOG-0589,Olivia Cohen,Alphabet (Google),GOOG,Finance,Principal,77.6,431600,5.1
+GOOG-0590,Priya Patel,Alphabet (Google),GOOG,Engineering,Staff,71.2,215300,16.8
+GOOG-0591,Grace Reyes,Alphabet (Google),GOOG,Research & AI,Senior,85.3,361500,6.3
+GOOG-0592,Hiroshi Yamamoto,Alphabet (Google),GOOG,Sales & GTM,Staff,69.9,110400,4.9
+GOOG-0593,Hiroshi Nguyen,Alphabet (Google),GOOG,Research & AI,Senior,87.4,368900,3.8
+GOOG-0594,Daniel Brown,Alphabet (Google),GOOG,Marketing,Staff,90.1,179200,6.2
+GOOG-0595,Hannah Okafor,Alphabet (Google),GOOG,Product,Senior,72.4,219900,2.4
+GOOG-0596,Linda Martinez,Alphabet (Google),GOOG,Marketing,Director,95.5,988200,4.7
+GOOG-0597,Olivia Schmidt,Alphabet (Google),GOOG,People/HR,Senior,65.9,241700,2.4
+GOOG-0598,Thomas Petrov,Alphabet (Google),GOOG,Sales & GTM,Director,96.0,419500,14.2
+GOOG-0599,Aisha Patel,Alphabet (Google),GOOG,Design,Senior,75.6,663500,11.3
+GOOG-0600,Nina Brown,Alphabet (Google),GOOG,Engineering,Staff,55.7,81600,4.7
+GOOG-0601,Wei Ali,Alphabet (Google),GOOG,Finance,Staff,83.8,467000,6.6
+GOOG-0602,Nina Kim,Alphabet (Google),GOOG,Research & AI,Principal,77.4,377900,11.2
+GOOG-0603,Raj Rossi,Alphabet (Google),GOOG,People/HR,Principal,94.0,340100,9.1
+GOOG-0604,Daniel Chen,Alphabet (Google),GOOG,Sales & GTM,Director,77.5,977200,12.7
+GOOG-0605,Ahmed Wilson,Alphabet (Google),GOOG,Engineering,Principal,82.8,454100,13.3
+GOOG-0606,Carlos Ali,Alphabet (Google),GOOG,Research & AI,Senior,81.0,528600,6.7
+GOOG-0607,Fatima Garcia,Alphabet (Google),GOOG,Finance,VP,69.1,342500,10.4
+GOOG-0608,Nina Nguyen,Alphabet (Google),GOOG,Engineering,Director,71.3,983000,6.7
+GOOG-0609,Hiroshi Lopez,Alphabet (Google),GOOG,Engineering,Director,87.7,435000,7.4
+GOOG-0610,David Park,Alphabet (Google),GOOG,Sales & GTM,Principal,60.8,729900,8.2
+GOOG-0611,Aisha Davis,Alphabet (Google),GOOG,Research & AI,Principal,94.5,849700,17.0
+GOOG-0612,Hiroshi Ali,Alphabet (Google),GOOG,Product,Senior,85.5,677900,7.3
+GOOG-0613,Kevin Chen,Alphabet (Google),GOOG,Research & AI,Senior,96.5,136700,3.4
+GOOG-0614,Nina Tanaka,Alphabet (Google),GOOG,Engineering,Staff,69.2,626700,6.7
+GOOG-0615,Fatima Brown,Alphabet (Google),GOOG,Operations,VP,81.1,826200,13.2
+GOOG-0616,Fatima Wilson,Alphabet (Google),GOOG,Finance,Principal,66.9,549900,10.1
+GOOG-0617,Arjun Park,Alphabet (Google),GOOG,Engineering,Senior Director,84.9,1259000,9.8
+GOOG-0618,Yuki Hassan,Alphabet (Google),GOOG,Engineering,Principal,92.0,786800,12.0
+GOOG-0619,Fatima Park,Alphabet (Google),GOOG,Operations,Staff,94.1,393200,5.6
+GOOG-0620,Grace Brown,Alphabet (Google),GOOG,Research & AI,Senior,73.8,213900,13.3
+GOOG-0621,Ahmed Petrov,Alphabet (Google),GOOG,Research & AI,Senior,80.2,249400,1.9
+GOOG-0622,Hannah Singh,Alphabet (Google),GOOG,Engineering,Staff,76.1,1168700,7.9
+GOOG-0623,Grace Petrov,Alphabet (Google),GOOG,Operations,Director,79.9,626500,12.5
+GOOG-0624,Kevin Nguyen,Alphabet (Google),GOOG,Finance,Senior Director,88.9,531400,6.1
+GOOG-0625,Grace Anderson,Alphabet (Google),GOOG,Engineering,Principal,100.0,275300,4.4
+GOOG-0626,John Hassan,Alphabet (Google),GOOG,Design,Senior,85.0,275500,6.2
+GOOG-0627,Mary Kim,Alphabet (Google),GOOG,Engineering,Principal,78.3,399300,9.2
+GOOG-0628,Kevin Ali,Alphabet (Google),GOOG,Engineering,Director,79.6,1253600,4.8
+GOOG-0629,Aisha Johnson,Alphabet (Google),GOOG,Sales & GTM,Staff,89.7,377000,5.2
+GOOG-0630,Yuki Petrov,Alphabet (Google),GOOG,Marketing,Senior,81.2,229200,2.1
+GOOG-0631,Hannah Schmidt,Alphabet (Google),GOOG,Finance,Staff,77.9,475400,7.1
+GOOG-0632,Yuki Schmidt,Alphabet (Google),GOOG,Engineering,Principal,100.0,1188300,6.5
+GOOG-0633,Hannah Garcia,Alphabet (Google),GOOG,Research & AI,Senior Director,88.3,412000,5.5
+GOOG-0634,Carlos Nguyen,Alphabet (Google),GOOG,Design,Principal,85.5,444400,5.1
+GOOG-0635,Wei Nguyen,Alphabet (Google),GOOG,Product,Senior,81.8,92300,5.5
+GOOG-0636,Michael Patel,Alphabet (Google),GOOG,Marketing,Senior,84.5,561100,5.9
+GOOG-0637,James Hassan,Alphabet (Google),GOOG,People/HR,Director,84.5,987800,5.7
+GOOG-0638,Ahmed Johnson,Alphabet (Google),GOOG,Legal & Policy,Staff,69.0,132900,18.9
+GOOG-0639,John Schmidt,Alphabet (Google),GOOG,Engineering,Staff,80.6,698100,5.7
+GOOG-0640,Fatima Tanaka,Alphabet (Google),GOOG,Product,VP,81.6,2982200,11.4
+GOOG-0641,Arjun Davis,Alphabet (Google),GOOG,Sales & GTM,C-Suite,86.5,5143500,20.1
+GOOG-0642,Raj Lopez,Alphabet (Google),GOOG,Operations,Staff,75.2,86100,13.3
+GOOG-0643,Wei Rossi,Alphabet (Google),GOOG,Finance,Director,87.2,720000,8.2
+GOOG-0644,Chen Anderson,Alphabet (Google),GOOG,Product,Staff,86.5,464400,4.8
+GOOG-0645,Michael Tanaka,Alphabet (Google),GOOG,Engineering,Staff,69.4,266200,1.7
+GOOG-0646,Elena Martinez,Alphabet (Google),GOOG,Engineering,VP,77.6,742200,12.8
+GOOG-0647,Carlos Reyes,Alphabet (Google),GOOG,Product,Senior,78.3,330800,3.6
+GOOG-0648,Mary Ali,Alphabet (Google),GOOG,Legal & Policy,Senior,67.9,270000,9.6
+GOOG-0649,James Tanaka,Alphabet (Google),GOOG,People/HR,Senior,92.6,309900,3.3
+GOOG-0650,Maria Reyes,Alphabet (Google),GOOG,Product,VP,92.1,1485100,6.1
+GOOG-0651,David Singh,Alphabet (Google),GOOG,Marketing,Senior,85.9,209300,5.7
+GOOG-0652,Aisha Davis,Alphabet (Google),GOOG,Marketing,Staff,80.8,671800,5.1
+GOOG-0653,Priya Garcia,Alphabet (Google),GOOG,Sales & GTM,Staff,67.7,298700,11.7
+GOOG-0654,Hannah Davis,Alphabet (Google),GOOG,Research & AI,Staff,88.2,438200,8.8
+GOOG-0655,Sofia Silva,Alphabet (Google),GOOG,Product,Senior Director,94.0,615300,8.4
+GOOG-0656,Yuki Tanaka,Alphabet (Google),GOOG,Engineering,Principal,77.7,542700,16.8
+GOOG-0657,Wei Okafor,Alphabet (Google),GOOG,Operations,Senior Director,79.8,456000,12.0
+GOOG-0658,Elena Kim,Alphabet (Google),GOOG,Operations,Senior,88.1,110200,1.5
+GOOG-0659,Wei Cohen,Alphabet (Google),GOOG,Finance,Senior,83.9,643500,1.3
+GOOG-0660,Hiroshi Cohen,Alphabet (Google),GOOG,Finance,Principal,73.7,354900,8.2
+GOOG-0661,Chen Khan,Alphabet (Google),GOOG,Product,Staff,88.6,285800,14.0
+GOOG-0662,Yuki Hassan,Alphabet (Google),GOOG,Engineering,Staff,89.5,443400,5.2
+GOOG-0663,Zoe Wang,Alphabet (Google),GOOG,Engineering,Senior,74.2,169700,3.8
+GOOG-0664,Thomas Patel,Alphabet (Google),GOOG,Operations,Principal,89.9,540200,5.0
+GOOG-0665,Samuel Hassan,Alphabet (Google),GOOG,Engineering,Senior,80.1,237800,1.9
+GOOG-0666,Raj Reyes,Alphabet (Google),GOOG,Engineering,Senior,73.9,144200,7.6
+GOOG-0667,Maria Wilson,Alphabet (Google),GOOG,Engineering,Staff,75.1,262600,4.3
+GOOG-0668,Carlos Ali,Alphabet (Google),GOOG,Research & AI,Staff,75.4,95600,2.2
+GOOG-0669,Carlos Reyes,Alphabet (Google),GOOG,Legal & Policy,Senior,66.7,104400,8.4
+GOOG-0670,David Hassan,Alphabet (Google),GOOG,Research & AI,Senior,80.7,682300,8.0
+GOOG-0671,Ahmed Silva,Alphabet (Google),GOOG,Product,Director,96.7,717300,5.2
+GOOG-0672,Elena Park,Alphabet (Google),GOOG,Research & AI,Director,85.8,1219100,6.0
+GOOG-0673,Zoe Khan,Alphabet (Google),GOOG,Research & AI,Director,82.1,576500,11.5
+GOOG-0674,Wei Garcia,Alphabet (Google),GOOG,Sales & GTM,Director,80.6,1050800,5.9
+GOOG-0675,Sofia Brown,Alphabet (Google),GOOG,Engineering,Senior,75.9,550100,2.7
+GOOG-0676,David Hassan,Alphabet (Google),GOOG,Research & AI,Staff,80.3,903600,12.9
+GOOG-0677,Fatima Silva,Alphabet (Google),GOOG,Engineering,Director,93.1,849900,9.2
+GOOG-0678,David Yamamoto,Alphabet (Google),GOOG,Operations,VP,84.6,1316600,8.1
+GOOG-0679,David Anderson,Alphabet (Google),GOOG,Product,Staff,74.1,230000,5.4
+GOOG-0680,James Tanaka,Alphabet (Google),GOOG,Research & AI,Senior,92.4,224500,8.8
+GOOG-0681,Aisha Kim,Alphabet (Google),GOOG,Research & AI,Staff,83.1,151800,3.5
+GOOG-0682,Ahmed Martinez,Alphabet (Google),GOOG,Research & AI,Senior,91.5,378600,6.5
+GOOG-0683,Ahmed Okafor,Alphabet (Google),GOOG,Legal & Policy,Senior,76.7,105200,10.8
+GOOG-0684,Aisha Martinez,Alphabet (Google),GOOG,Research & AI,Senior,78.9,338700,4.7
+GOOG-0685,Emily Tanaka,Alphabet (Google),GOOG,Engineering,Director,73.8,988500,11.0
+GOOG-0686,Wei Chen,Alphabet (Google),GOOG,Legal & Policy,Principal,80.1,343600,7.5
+GOOG-0687,Grace Nguyen,Alphabet (Google),GOOG,Marketing,Staff,69.5,180200,3.9
+GOOG-0688,Hannah Anderson,Alphabet (Google),GOOG,Engineering,Principal,71.9,537600,5.3
+GOOG-0689,Hiroshi Tanaka,Alphabet (Google),GOOG,Engineering,Staff,82.8,1096900,3.9
+GOOG-0690,Emily Schmidt,Alphabet (Google),GOOG,Engineering,Director,77.0,397800,6.4
+GOOG-0691,Sofia Kim,Alphabet (Google),GOOG,Marketing,Senior Director,77.0,618900,17.0
+GOOG-0692,Aisha Lopez,Alphabet (Google),GOOG,Engineering,Director,86.0,533400,8.2
+GOOG-0693,Chen Silva,Alphabet (Google),GOOG,Engineering,Senior,94.3,232600,0.6
+GOOG-0694,Nina Lee,Alphabet (Google),GOOG,Product,Director,78.7,838100,8.1
+GOOG-0695,Arjun Khan,Alphabet (Google),GOOG,Engineering,Principal,94.1,262700,12.4
+GOOG-0696,Chen Schmidt,Alphabet (Google),GOOG,Engineering,Staff,79.2,651100,12.6
+GOOG-0697,Hiroshi Wang,Alphabet (Google),GOOG,Design,Director,81.2,2214400,9.3
+GOOG-0698,Carlos Brown,Alphabet (Google),GOOG,Engineering,Staff,93.2,208200,6.8
+GOOG-0699,Nina Wang,Alphabet (Google),GOOG,Engineering,Staff,87.0,330000,9.3
+GOOG-0700,Kevin Patel,Alphabet (Google),GOOG,Marketing,Principal,93.2,591500,4.3
+GOOG-0701,Olivia Brown,Alphabet (Google),GOOG,Operations,Director,72.0,540100,8.4
+GOOG-0702,Olivia Martinez,Alphabet (Google),GOOG,Engineering,Principal,81.9,470200,28.9
+GOOG-0703,Ahmed Okafor,Alphabet (Google),GOOG,Engineering,Principal,71.8,567800,3.6
+GOOG-0704,Hiroshi Khan,Alphabet (Google),GOOG,Research & AI,Principal,89.1,1748800,7.2
+GOOG-0705,Arjun Nguyen,Alphabet (Google),GOOG,Research & AI,Principal,80.5,558800,9.5
+GOOG-0706,Hiroshi Nguyen,Alphabet (Google),GOOG,Product,Principal,70.3,648100,8.2
+GOOG-0707,Zoe Chen,Alphabet (Google),GOOG,Operations,Staff,68.5,175800,6.7
+GOOG-0708,Arjun Johnson,Alphabet (Google),GOOG,Research & AI,Senior Director,94.2,1095100,5.1
+GOOG-0709,Fatima Hassan,Alphabet (Google),GOOG,Research & AI,VP,83.8,2195000,9.1
+GOOG-0710,Samuel Tanaka,Alphabet (Google),GOOG,Research & AI,SVP,70.6,1133600,8.7
+GOOG-0711,Linda Murphy,Alphabet (Google),GOOG,Research & AI,Principal,85.2,348900,7.8
+GOOG-0712,Thomas Chen,Alphabet (Google),GOOG,Operations,Senior,93.9,177700,8.9
+GOOG-0713,Raj Chen,Alphabet (Google),GOOG,Product,Principal,86.8,598500,8.3
+GOOG-0714,David Martinez,Alphabet (Google),GOOG,Operations,VP,86.5,1570700,15.8
+GOOG-0715,David Nguyen,Alphabet (Google),GOOG,Sales & GTM,Senior,89.6,177100,9.7
+GOOG-0716,Ahmed Murphy,Alphabet (Google),GOOG,Sales & GTM,Staff,62.9,360000,4.4
+GOOG-0717,James Wilson,Alphabet (Google),GOOG,Sales & GTM,Senior,79.1,143500,16.5
+GOOG-0718,Aisha Petrov,Alphabet (Google),GOOG,Design,Staff,67.5,340500,4.2
+GOOG-0719,Chen Tanaka,Alphabet (Google),GOOG,Engineering,Principal,89.4,474100,8.3
+GOOG-0720,Hannah Chen,Alphabet (Google),GOOG,Sales & GTM,Staff,71.6,290400,9.6
+GOOG-0721,Wei Hassan,Alphabet (Google),GOOG,Research & AI,Senior,75.8,372100,8.8
+GOOG-0722,Priya Wilson,Alphabet (Google),GOOG,Engineering,Staff,90.6,553600,2.4
+GOOG-0723,Hiroshi Wilson,Alphabet (Google),GOOG,Design,Senior,74.0,154900,3.5
+GOOG-0724,Carlos Brown,Alphabet (Google),GOOG,Engineering,Staff,84.4,190700,8.8
+GOOG-0725,Priya Lee,Alphabet (Google),GOOG,Operations,Principal,85.6,1100300,15.1
+GOOG-0726,Yuki Anderson,Alphabet (Google),GOOG,Design,Senior,94.8,413000,14.5
+GOOG-0727,Olivia Patel,Alphabet (Google),GOOG,Engineering,Principal,70.9,93500,3.2
+GOOG-0728,Zoe Chen,Alphabet (Google),GOOG,Finance,Staff,73.6,191100,4.3
+GOOG-0729,Chen Lee,Alphabet (Google),GOOG,Product,Senior,90.3,687300,4.6
+GOOG-0730,Kevin Park,Alphabet (Google),GOOG,Engineering,C-Suite,78.4,2049700,23.1
+GOOG-0731,Elena Silva,Alphabet (Google),GOOG,Finance,Director,76.7,377700,6.6
+GOOG-0732,Olivia Petrov,Alphabet (Google),GOOG,Engineering,Senior,74.6,464900,7.0
+GOOG-0733,Maria Smith,Alphabet (Google),GOOG,Engineering,Director,91.0,914000,9.6
+GOOG-0734,Mary Rossi,Alphabet (Google),GOOG,Engineering,Senior,70.6,265200,15.8
+GOOG-0735,Yuki Chen,Alphabet (Google),GOOG,Finance,Principal,84.6,226400,5.7
+GOOG-0736,Fatima Kim,Alphabet (Google),GOOG,Sales & GTM,VP,63.3,540800,9.4
+GOOG-0737,Yuki Park,Alphabet (Google),GOOG,Research & AI,Staff,79.4,739800,4.1
+GOOG-0738,Elena Anderson,Alphabet (Google),GOOG,Design,Senior,86.6,154300,7.0
+GOOG-0739,Zoe Tanaka,Alphabet (Google),GOOG,Operations,Senior,81.1,422300,1.7
+GOOG-0740,Yuki Ali,Alphabet (Google),GOOG,Operations,Senior,56.0,417500,3.7
+GOOG-0741,Hiroshi Brown,Alphabet (Google),GOOG,Engineering,Director,87.1,740600,9.8
+GOOG-0742,Olivia Smith,Alphabet (Google),GOOG,Research & AI,Principal,78.8,355200,12.0
+GOOG-0743,Linda Anderson,Alphabet (Google),GOOG,Operations,Senior,78.7,161700,9.3
+GOOG-0744,Daniel Schmidt,Alphabet (Google),GOOG,Operations,Senior,67.4,127700,9.4
+GOOG-0745,Linda Park,Alphabet (Google),GOOG,Marketing,Director,67.3,432600,5.5
+GOOG-0746,John Martinez,Alphabet (Google),GOOG,Engineering,VP,88.8,3134900,7.2
+GOOG-0747,Raj Lee,Alphabet (Google),GOOG,Engineering,Senior,78.2,271900,1.5
+GOOG-0748,Michael Smith,Alphabet (Google),GOOG,Finance,Staff,70.9,157800,3.8
+GOOG-0749,Nina Hassan,Alphabet (Google),GOOG,Design,Staff,79.2,503900,10.3
+GOOG-0750,Fatima Park,Alphabet (Google),GOOG,Product,Staff,68.7,267300,7.7
+GOOG-0751,Nina Reyes,Alphabet (Google),GOOG,Engineering,Director,86.7,397400,13.8
+GOOG-0752,Yuki Cohen,Alphabet (Google),GOOG,Research & AI,Senior,71.7,497700,3.6
+GOOG-0753,Elena Singh,Alphabet (Google),GOOG,Design,Senior,84.2,158200,7.5
+GOOG-0754,Sofia Martinez,Alphabet (Google),GOOG,Engineering,Principal,80.9,440400,9.9
+GOOG-0755,David Rossi,Alphabet (Google),GOOG,Product,Principal,84.4,378400,7.0
+GOOG-0756,Emily Smith,Alphabet (Google),GOOG,Engineering,Staff,86.3,478100,4.7
+GOOG-0757,Aisha Singh,Alphabet (Google),GOOG,Engineering,Senior Director,76.5,245400,6.3
+GOOG-0758,Arjun Silva,Alphabet (Google),GOOG,Product,Staff,87.9,177200,21.2
+GOOG-0759,Olivia Smith,Alphabet (Google),GOOG,Engineering,Principal,81.1,557500,20.0
+GOOG-0760,David Nguyen,Alphabet (Google),GOOG,Sales & GTM,Staff,78.7,638900,4.8
+GOOG-0761,Carlos Smith,Alphabet (Google),GOOG,Research & AI,Director,90.8,467100,7.9
+GOOG-0762,Mary Schmidt,Alphabet (Google),GOOG,Engineering,Staff,90.0,929300,9.8
+GOOG-0763,Nina Petrov,Alphabet (Google),GOOG,Product,Senior,65.7,407900,5.8
+GOOG-0764,Fatima Davis,Alphabet (Google),GOOG,Product,Principal,67.6,509900,10.0
+GOOG-0765,Hannah Davis,Alphabet (Google),GOOG,Engineering,SVP,81.1,2599900,12.6
+GOOG-0766,David Cohen,Alphabet (Google),GOOG,Finance,Director,95.2,476500,15.3
+GOOG-0767,Raj Tanaka,Alphabet (Google),GOOG,Legal & Policy,Senior,77.4,234700,11.5
+GOOG-0768,Samuel Petrov,Alphabet (Google),GOOG,Sales & GTM,Senior,78.8,243900,4.8
+GOOG-0769,Kevin Reyes,Alphabet (Google),GOOG,Legal & Policy,VP,81.3,787700,8.7
+GOOG-0770,Carlos Johnson,Alphabet (Google),GOOG,Product,Senior,66.7,398200,3.9
+GOOG-0771,Kevin Nguyen,Alphabet (Google),GOOG,Engineering,Principal,77.3,358800,14.1
+GOOG-0772,Nina Yamamoto,Alphabet (Google),GOOG,Marketing,Principal,87.9,266400,7.6
+GOOG-0773,Hannah Johnson,Alphabet (Google),GOOG,Finance,Principal,74.9,312700,5.1
+GOOG-0774,Emily Silva,Alphabet (Google),GOOG,Engineering,Director,79.6,787300,10.7
+GOOG-0775,Yuki Johnson,Alphabet (Google),GOOG,Marketing,Senior,75.9,209200,13.4
+GOOG-0776,Aisha Lopez,Alphabet (Google),GOOG,Finance,Senior Director,82.0,1028300,12.7
+GOOG-0777,Aisha Nguyen,Alphabet (Google),GOOG,Engineering,Staff,95.4,419500,20.2
+GOOG-0778,John Wilson,Alphabet (Google),GOOG,Engineering,Senior,81.6,212000,11.0
+GOOG-0779,Hannah Patel,Alphabet (Google),GOOG,Engineering,Principal,68.6,220000,15.1
+GOOG-0780,Samuel Tanaka,Alphabet (Google),GOOG,Legal & Policy,Director,76.7,580000,16.2
+GOOG-0781,Nina Petrov,Alphabet (Google),GOOG,Marketing,Senior Director,97.3,1588700,5.5
+GOOG-0782,Michael Khan,Alphabet (Google),GOOG,Engineering,Principal,76.8,356400,12.3
+GOOG-0783,Zoe Rossi,Alphabet (Google),GOOG,Engineering,Staff,74.1,261400,2.5
+GOOG-0784,Ahmed Petrov,Alphabet (Google),GOOG,Marketing,Senior,100.0,164500,11.2
+GOOG-0785,John Yamamoto,Alphabet (Google),GOOG,Research & AI,Senior,70.5,204700,6.6
+GOOG-0786,Sofia Martinez,Alphabet (Google),GOOG,Research & AI,Senior,100.0,380900,8.8
+GOOG-0787,Priya Rossi,Alphabet (Google),GOOG,Engineering,Senior,80.5,261600,12.8
+GOOG-0788,Elena Martinez,Alphabet (Google),GOOG,Engineering,Senior,59.4,195600,4.1
+GOOG-0789,Grace Nguyen,Alphabet (Google),GOOG,Legal & Policy,Senior,72.2,173100,5.6
+GOOG-0790,Priya Okafor,Alphabet (Google),GOOG,Engineering,Senior Director,92.5,1982100,10.1
+GOOG-0791,Priya Cohen,Alphabet (Google),GOOG,Research & AI,Senior Director,80.4,1307600,9.0
+GOOG-0792,Linda Yamamoto,Alphabet (Google),GOOG,Engineering,Principal,70.0,188700,4.7
+GOOG-0793,Grace Ali,Alphabet (Google),GOOG,Finance,Senior,96.9,266600,5.5
+GOOG-0794,Hiroshi Kim,Alphabet (Google),GOOG,Research & AI,Senior,67.2,212500,2.2
+GOOG-0795,Thomas Murphy,Alphabet (Google),GOOG,Engineering,Senior Director,93.2,471200,10.9
+GOOG-0796,Priya Wilson,Alphabet (Google),GOOG,Engineering,Senior,97.4,451500,16.4
+GOOG-0797,Arjun Lopez,Alphabet (Google),GOOG,Sales & GTM,Principal,88.2,705000,7.1
+GOOG-0798,Fatima Tanaka,Alphabet (Google),GOOG,Research & AI,Senior,85.6,356400,8.5
+GOOG-0799,David Wang,Alphabet (Google),GOOG,Engineering,Senior,80.5,242400,6.3
+GOOG-0800,Carlos Martinez,Alphabet (Google),GOOG,Legal & Policy,Senior,74.2,109400,7.7
+GOOG-0801,Priya Khan,Alphabet (Google),GOOG,Engineering,Senior,69.0,423800,2.1
+GOOG-0802,Sofia Murphy,Alphabet (Google),GOOG,Engineering,Senior,73.2,527000,8.8
+GOOG-0803,David Smith,Alphabet (Google),GOOG,Research & AI,Director,70.3,432300,12.8
+GOOG-0804,Nina Lee,Alphabet (Google),GOOG,Engineering,Principal,80.0,645900,5.3
+GOOG-0805,Olivia Ali,Alphabet (Google),GOOG,Operations,Principal,74.9,150000,6.7
+GOOG-0806,Maria Nguyen,Alphabet (Google),GOOG,Engineering,Senior,88.6,482900,2.0
+GOOG-0807,Thomas Rossi,Alphabet (Google),GOOG,Engineering,Senior Director,82.3,587900,6.7
+GOOG-0808,Hiroshi Martinez,Alphabet (Google),GOOG,Sales & GTM,Principal,87.1,466200,10.6
+GOOG-0809,Yuki Kim,Alphabet (Google),GOOG,Product,Senior Director,82.0,465500,10.8
+GOOG-0810,Chen Cohen,Alphabet (Google),GOOG,Marketing,Senior,78.4,334400,3.3
+GOOG-0811,Olivia Kim,Alphabet (Google),GOOG,Sales & GTM,Senior,91.5,293100,10.5
+GOOG-0812,Emily Martinez,Alphabet (Google),GOOG,Design,Staff,83.9,336600,4.9
+GOOG-0813,Chen Smith,Alphabet (Google),GOOG,Finance,Staff,77.6,366800,11.7
+GOOG-0814,James Smith,Alphabet (Google),GOOG,Product,VP,63.8,915600,16.5
+GOOG-0815,Fatima Hassan,Alphabet (Google),GOOG,Engineering,Senior,67.5,336000,9.3
+GOOG-0816,Yuki Khan,Alphabet (Google),GOOG,Sales & GTM,Director,84.0,274200,5.8
+GOOG-0817,Carlos Johnson,Alphabet (Google),GOOG,Engineering,Principal,82.7,337600,8.3
+GOOG-0818,Zoe Singh,Alphabet (Google),GOOG,Product,Principal,74.5,688900,12.5
+GOOG-0819,Linda Khan,Alphabet (Google),GOOG,Finance,Staff,77.4,212900,3.0
+GOOG-0820,Maria Silva,Alphabet (Google),GOOG,Finance,VP,74.4,531400,11.1
+GOOG-0821,Hannah Reyes,Alphabet (Google),GOOG,Sales & GTM,Senior,94.7,212800,0.8
+GOOG-0822,Sofia Petrov,Alphabet (Google),GOOG,Design,Senior,58.8,507800,1.9
+GOOG-0823,Raj Martinez,Alphabet (Google),GOOG,Finance,Director,78.7,1041200,11.6
+GOOG-0824,John Smith,Alphabet (Google),GOOG,Engineering,Staff,84.1,228700,7.9
+GOOG-0825,John Rossi,Alphabet (Google),GOOG,Engineering,Senior,84.3,264500,2.9
+GOOG-0826,Arjun Lee,Alphabet (Google),GOOG,Engineering,Senior,89.8,97300,10.3
+GOOG-0827,Olivia Park,Alphabet (Google),GOOG,Sales & GTM,Director,88.7,585800,5.0
+GOOG-0828,Hannah Martinez,Alphabet (Google),GOOG,Engineering,SVP,85.8,759100,9.6
+GOOG-0829,Sofia Brown,Alphabet (Google),GOOG,Engineering,Staff,85.9,354900,12.9
+GOOG-0830,James Park,Alphabet (Google),GOOG,Sales & GTM,Staff,80.3,476000,7.7
+GOOG-0831,Samuel Martinez,Alphabet (Google),GOOG,Design,Staff,87.7,477300,12.6
+GOOG-0832,Daniel Yamamoto,Alphabet (Google),GOOG,People/HR,Principal,81.7,648700,9.6
+GOOG-0833,Nina Brown,Alphabet (Google),GOOG,Sales & GTM,Senior,88.0,1400800,5.5
+GOOG-0834,Ahmed Tanaka,Alphabet (Google),GOOG,Engineering,Principal,90.3,141600,6.4
+GOOG-0835,John Singh,Alphabet (Google),GOOG,Engineering,Staff,77.1,358300,6.9
+GOOG-0836,Kevin Yamamoto,Alphabet (Google),GOOG,Operations,Staff,58.0,113500,3.4
+GOOG-0837,Linda Park,Alphabet (Google),GOOG,Research & AI,Staff,67.1,172500,6.5
+GOOG-0838,David Garcia,Alphabet (Google),GOOG,Engineering,Senior,78.6,421300,9.2
+GOOG-0839,Aisha Tanaka,Alphabet (Google),GOOG,Engineering,Senior,79.2,459900,3.4
+GOOG-0840,Yuki Ali,Alphabet (Google),GOOG,Marketing,Principal,73.9,1861600,11.4
+GOOG-0841,Arjun Johnson,Alphabet (Google),GOOG,Engineering,Senior,69.2,180500,8.7
+GOOG-0842,Priya Khan,Alphabet (Google),GOOG,Design,Senior,84.0,276900,15.4
+GOOG-0843,David Cohen,Alphabet (Google),GOOG,Marketing,Principal,69.9,298600,5.8
+GOOG-0844,Thomas Anderson,Alphabet (Google),GOOG,Engineering,Staff,85.8,1189900,5.2
+GOOG-0845,David Lee,Alphabet (Google),GOOG,Engineering,Staff,82.8,954000,6.3
+GOOG-0846,Hiroshi Chen,Alphabet (Google),GOOG,Research & AI,Principal,79.3,727600,3.8
+GOOG-0847,Grace Ali,Alphabet (Google),GOOG,Engineering,Principal,78.4,785400,2.5
+GOOG-0848,Fatima Nguyen,Alphabet (Google),GOOG,Product,Principal,86.7,600600,7.0
+GOOG-0849,Sofia Anderson,Alphabet (Google),GOOG,Research & AI,Principal,90.5,398000,37.5
+GOOG-0850,Priya Murphy,Alphabet (Google),GOOG,Finance,Senior,81.1,189700,3.7
+GOOG-0851,Daniel Chen,Alphabet (Google),GOOG,Marketing,Director,81.9,668600,9.2
+GOOG-0852,Olivia Lee,Alphabet (Google),GOOG,Sales & GTM,Principal,79.7,312500,7.1
+GOOG-0853,Hiroshi Garcia,Alphabet (Google),GOOG,Operations,Staff,79.5,175000,7.8
+GOOG-0854,Hannah Hassan,Alphabet (Google),GOOG,Operations,Senior Director,97.6,554700,16.7
+GOOG-0855,Grace Murphy,Alphabet (Google),GOOG,Research & AI,Staff,84.0,566200,3.9
+GOOG-0856,Raj Brown,Alphabet (Google),GOOG,Product,Director,81.1,557000,4.2
+GOOG-0857,Kevin Cohen,Alphabet (Google),GOOG,Operations,Director,94.0,871800,9.1
+GOOG-0858,Arjun Martinez,Alphabet (Google),GOOG,Research & AI,Principal,62.2,451600,9.2
+GOOG-0859,David Cohen,Alphabet (Google),GOOG,Operations,Staff,72.0,1623400,7.5
+GOOG-0860,Arjun Petrov,Alphabet (Google),GOOG,People/HR,Senior,71.2,282800,2.2
+GOOG-0861,David Schmidt,Alphabet (Google),GOOG,Design,Staff,84.7,260000,17.9
+GOOG-0862,Sofia Hassan,Alphabet (Google),GOOG,Legal & Policy,Senior Director,65.2,273400,15.8
+GOOG-0863,Fatima Garcia,Alphabet (Google),GOOG,Engineering,Senior Director,64.2,597200,15.3
+GOOG-0864,Wei Smith,Alphabet (Google),GOOG,Research & AI,Staff,79.7,309600,7.9
+GOOG-0865,Yuki Ali,Alphabet (Google),GOOG,Operations,Staff,76.0,294700,5.5
+GOOG-0866,Mary Smith,Alphabet (Google),GOOG,Engineering,Senior,69.8,103400,10.3
+GOOG-0867,Emily Rossi,Alphabet (Google),GOOG,Engineering,Staff,53.5,321700,8.5
+GOOG-0868,Aisha Nguyen,Alphabet (Google),GOOG,Research & AI,Staff,91.7,842300,4.6
+GOOG-0869,Grace Wilson,Alphabet (Google),GOOG,Finance,Senior,67.4,297000,7.1
+GOOG-0870,Yuki Okafor,Alphabet (Google),GOOG,Finance,Senior,61.7,123400,8.5
+GOOG-0871,Linda Wang,Alphabet (Google),GOOG,Finance,Principal,68.5,704400,9.6
+GOOG-0872,Yuki Singh,Alphabet (Google),GOOG,Design,Principal,81.9,705100,10.8
+GOOG-0873,James Khan,Alphabet (Google),GOOG,Marketing,Staff,95.6,382300,4.1
+GOOG-0874,Chen Brown,Alphabet (Google),GOOG,People/HR,Principal,61.2,969400,6.4
+GOOG-0875,Hiroshi Rossi,Alphabet (Google),GOOG,People/HR,Senior,89.5,300600,6.8
+GOOG-0876,James Yamamoto,Alphabet (Google),GOOG,Design,Director,85.3,455900,8.0
+GOOG-0877,Elena Park,Alphabet (Google),GOOG,Operations,Senior,77.1,281700,16.0
+GOOG-0878,Raj Cohen,Alphabet (Google),GOOG,Operations,Senior,79.8,141300,17.2
+GOOG-0879,Sofia Lee,Alphabet (Google),GOOG,Marketing,VP,73.3,1170200,18.5
+GOOG-0880,Hannah Petrov,Alphabet (Google),GOOG,Engineering,Staff,80.0,1096800,8.3
+GOOG-0881,Chen Park,Alphabet (Google),GOOG,Research & AI,VP,80.1,485100,15.5
+GOOG-0882,Aisha Park,Alphabet (Google),GOOG,Marketing,Staff,74.5,270300,2.1
+GOOG-0883,Zoe Smith,Alphabet (Google),GOOG,Engineering,C-Suite,92.0,2186800,12.0
+GOOG-0884,Maria Singh,Alphabet (Google),GOOG,Engineering,Senior,79.1,420500,8.8
+GOOG-0885,Arjun Chen,Alphabet (Google),GOOG,Research & AI,Principal,72.9,855900,16.9
+GOOG-0886,Mary Martinez,Alphabet (Google),GOOG,Engineering,Senior,85.1,298500,3.2
+GOOG-0887,Grace Kim,Alphabet (Google),GOOG,Legal & Policy,Senior,78.6,293800,12.5
+GOOG-0888,Aisha Martinez,Alphabet (Google),GOOG,Finance,Staff,87.5,383500,2.8
+GOOG-0889,Fatima Nguyen,Alphabet (Google),GOOG,Engineering,Senior,63.5,293500,5.2
+GOOG-0890,Samuel Yamamoto,Alphabet (Google),GOOG,Product,Senior Director,96.1,841000,13.4
+GOOG-0891,Maria Anderson,Alphabet (Google),GOOG,Marketing,Principal,76.4,653500,7.2
+GOOG-0892,Daniel Garcia,Alphabet (Google),GOOG,Engineering,Director,75.2,1162700,11.1
+GOOG-0893,David Garcia,Alphabet (Google),GOOG,Engineering,Principal,99.0,451700,6.7
+GOOG-0894,Raj Davis,Alphabet (Google),GOOG,Finance,Staff,74.6,299500,5.1
+GOOG-0895,Hannah Murphy,Alphabet (Google),GOOG,Design,Staff,71.4,259400,3.9
+GOOG-0896,Olivia Yamamoto,Alphabet (Google),GOOG,Research & AI,Principal,75.4,690400,2.7
+GOOG-0897,Yuki Yamamoto,Alphabet (Google),GOOG,Sales & GTM,Director,82.0,874700,15.4
+GOOG-0898,Raj Anderson,Alphabet (Google),GOOG,Product,Senior Director,68.8,857800,11.5
+GOOG-0899,Grace Nguyen,Alphabet (Google),GOOG,Research & AI,Principal,90.5,283500,10.1
+GOOG-0900,Hannah Ali,Alphabet (Google),GOOG,Sales & GTM,Director,90.8,608100,13.6
+GOOG-0901,Sofia Cohen,Alphabet (Google),GOOG,Engineering,Senior,86.5,290300,5.0
+GOOG-0902,Nina Anderson,Alphabet (Google),GOOG,Sales & GTM,VP,81.5,1248500,7.0
+GOOG-0903,Maria Schmidt,Alphabet (Google),GOOG,Operations,VP,76.2,747000,15.3
+GOOG-0904,Emily Wilson,Alphabet (Google),GOOG,Research & AI,Staff,79.6,577200,8.4
+GOOG-0905,David Khan,Alphabet (Google),GOOG,People/HR,VP,88.3,564900,9.9
+GOOG-0906,Nina Wang,Alphabet (Google),GOOG,Research & AI,Senior,78.3,345600,1.2
+GOOG-0907,Daniel Garcia,Alphabet (Google),GOOG,Engineering,Principal,80.4,289600,3.6
+GOOG-0908,Carlos Singh,Alphabet (Google),GOOG,Sales & GTM,Senior,76.4,715600,2.6
+GOOG-0909,Raj Lee,Alphabet (Google),GOOG,Finance,Director,91.0,1323900,5.2
+GOOG-0910,Yuki Rossi,Alphabet (Google),GOOG,Design,Principal,58.5,715300,8.4
+GOOG-0911,Linda Khan,Alphabet (Google),GOOG,Legal & Policy,Senior,75.4,617000,6.0
+GOOG-0912,Thomas Okafor,Alphabet (Google),GOOG,Product,Staff,81.9,601500,8.4
+GOOG-0913,Chen Davis,Alphabet (Google),GOOG,Engineering,Director,87.7,927100,12.6
+GOOG-0914,Emily Park,Alphabet (Google),GOOG,Research & AI,VP,85.1,791300,8.4
+GOOG-0915,Fatima Reyes,Alphabet (Google),GOOG,Operations,Senior,77.3,114500,4.7
+GOOG-0916,Yuki Reyes,Alphabet (Google),GOOG,Engineering,Principal,86.6,630800,6.5
+GOOG-0917,David Cohen,Alphabet (Google),GOOG,Engineering,Senior Director,87.2,696400,6.9
+GOOG-0918,Linda Davis,Alphabet (Google),GOOG,Product,Staff,78.4,323300,2.5
+GOOG-0919,Fatima Tanaka,Alphabet (Google),GOOG,Engineering,Senior,84.8,172000,8.5
+GOOG-0920,Elena Kim,Alphabet (Google),GOOG,People/HR,Staff,85.4,818800,1.6
+GOOG-0921,Samuel Yamamoto,Alphabet (Google),GOOG,Operations,Staff,88.9,432900,4.7
+GOOG-0922,Sofia Reyes,Alphabet (Google),GOOG,Engineering,Senior Director,78.5,140100,9.9
+GOOG-0923,Mary Brown,Alphabet (Google),GOOG,Engineering,Staff,63.0,451600,11.0
+GOOG-0924,James Nguyen,Alphabet (Google),GOOG,Engineering,Director,70.1,358300,6.7
+GOOG-0925,Aisha Park,Alphabet (Google),GOOG,Product,Principal,70.0,1027400,4.7
+GOOG-0926,Thomas Murphy,Alphabet (Google),GOOG,Legal & Policy,Senior,89.2,112100,9.9
+GOOG-0927,Michael Silva,Alphabet (Google),GOOG,Marketing,Principal,74.0,324300,8.8
+GOOG-0928,Maria Johnson,Alphabet (Google),GOOG,Research & AI,C-Suite,68.5,2057000,15.9
+GOOG-0929,Yuki Wilson,Alphabet (Google),GOOG,Engineering,Principal,71.6,327000,6.1
+GOOG-0930,Sofia Tanaka,Alphabet (Google),GOOG,Research & AI,Principal,78.6,192300,8.0
+GOOG-0931,Yuki Reyes,Alphabet (Google),GOOG,Design,Senior,91.1,295400,15.7
+GOOG-0932,Carlos Brown,Alphabet (Google),GOOG,Engineering,Principal,81.5,783200,16.7
+GOOG-0933,Linda Lee,Alphabet (Google),GOOG,Operations,VP,100.0,2589100,8.9
+GOOG-0934,Sofia Lopez,Alphabet (Google),GOOG,Engineering,Senior,50.8,109600,8.0
+GOOG-0935,Linda Lopez,Alphabet (Google),GOOG,Sales & GTM,Senior Director,87.9,1228500,5.8
+GOOG-0936,Samuel Brown,Alphabet (Google),GOOG,Engineering,Senior,83.7,410500,5.5
+GOOG-0937,Thomas Schmidt,Alphabet (Google),GOOG,Finance,Principal,100.0,756800,10.8
+GOOG-0938,Carlos Hassan,Alphabet (Google),GOOG,Finance,Staff,70.0,183900,7.4
+GOOG-0939,Linda Cohen,Alphabet (Google),GOOG,Engineering,Staff,95.4,258100,3.1
+GOOG-0940,Sofia Schmidt,Alphabet (Google),GOOG,Engineering,Principal,84.7,682600,8.5
+GOOG-0941,Aisha Silva,Alphabet (Google),GOOG,People/HR,Principal,79.0,372800,5.2
+GOOG-0942,Mary Petrov,Alphabet (Google),GOOG,Finance,Senior Director,85.6,631500,5.4
+GOOG-0943,Raj Lopez,Alphabet (Google),GOOG,Sales & GTM,Senior,81.8,272000,1.9
+GOOG-0944,Fatima Rossi,Alphabet (Google),GOOG,People/HR,Senior,71.3,223600,3.5
+GOOG-0945,Mary Petrov,Alphabet (Google),GOOG,Engineering,Staff,73.2,311000,4.5
+GOOG-0946,Yuki Johnson,Alphabet (Google),GOOG,Marketing,Senior,85.3,236700,8.6
+GOOG-0947,Raj Wang,Alphabet (Google),GOOG,Research & AI,Director,84.4,948200,10.2
+GOOG-0948,Chen Hassan,Alphabet (Google),GOOG,Finance,Principal,74.7,252300,9.9
+GOOG-0949,James Davis,Alphabet (Google),GOOG,Research & AI,Staff,87.8,467000,7.5
+GOOG-0950,Ahmed Smith,Alphabet (Google),GOOG,Engineering,Staff,80.1,285500,7.2
+GOOG-0951,Raj Garcia,Alphabet (Google),GOOG,Product,Senior,65.0,219000,8.6
+GOOG-0952,Wei Kim,Alphabet (Google),GOOG,Marketing,Senior,84.0,546800,12.7
+GOOG-0953,Chen Anderson,Alphabet (Google),GOOG,Marketing,Senior,74.7,369500,4.7
+GOOG-0954,John Reyes,Alphabet (Google),GOOG,Operations,Staff,87.5,277400,5.4
+GOOG-0955,Thomas Reyes,Alphabet (Google),GOOG,Sales & GTM,Principal,72.9,149500,7.4
+GOOG-0956,Raj Tanaka,Alphabet (Google),GOOG,Engineering,Staff,66.5,468700,7.5
+GOOG-0957,Daniel Singh,Alphabet (Google),GOOG,Engineering,Senior,73.6,100800,5.1
+GOOG-0958,James Davis,Alphabet (Google),GOOG,Engineering,Director,77.0,1191300,6.4
+GOOG-0959,Thomas Garcia,Alphabet (Google),GOOG,Research & AI,Senior,84.4,274300,16.2
+GOOG-0960,Kevin Lopez,Alphabet (Google),GOOG,Product,Director,89.1,1289900,10.0
+GOOG-0961,Ahmed Rossi,Alphabet (Google),GOOG,Research & AI,VP,83.1,887900,17.9
+GOOG-0962,Arjun Singh,Alphabet (Google),GOOG,Operations,Principal,72.1,1035000,3.6
+GOOG-0963,Arjun Petrov,Alphabet (Google),GOOG,Engineering,Senior Director,83.4,880600,5.4
+GOOG-0964,Sofia Wang,Alphabet (Google),GOOG,Operations,Senior,87.9,397400,14.4
+GOOG-0965,Zoe Anderson,Alphabet (Google),GOOG,Product,Director,78.6,977800,5.3
+GOOG-0966,Elena Reyes,Alphabet (Google),GOOG,Research & AI,Principal,82.2,392600,5.8
+GOOG-0967,Ahmed Smith,Alphabet (Google),GOOG,Product,SVP,79.3,834300,15.7
+GOOG-0968,David Davis,Alphabet (Google),GOOG,Engineering,Senior,93.4,391300,6.9
+GOOG-0969,Aisha Garcia,Alphabet (Google),GOOG,Product,Senior,90.3,234800,3.8
+GOOG-0970,Daniel Patel,Alphabet (Google),GOOG,Product,Senior Director,52.8,1128100,5.1
+GOOG-0971,James Anderson,Alphabet (Google),GOOG,Engineering,Staff,91.4,531500,1.9
+GOOG-0972,Kevin Hassan,Alphabet (Google),GOOG,Engineering,Director,72.2,178000,10.2
+GOOG-0973,Daniel Martinez,Alphabet (Google),GOOG,Operations,Principal,75.9,320300,5.0
+GOOG-0974,Aisha Smith,Alphabet (Google),GOOG,People/HR,Staff,97.0,453100,2.7
+GOOG-0975,Wei Hassan,Alphabet (Google),GOOG,Product,Staff,85.5,444700,2.7
+GOOG-0976,Samuel Garcia,Alphabet (Google),GOOG,Engineering,Staff,78.8,463300,6.1
+GOOG-0977,Grace Wilson,Alphabet (Google),GOOG,Product,Director,76.2,270000,14.2
+GOOG-0978,Emily Ali,Alphabet (Google),GOOG,Engineering,Principal,87.1,638300,6.2
+GOOG-0979,Michael Tanaka,Alphabet (Google),GOOG,Design,Director,80.4,288500,4.4
+GOOG-0980,Priya Yamamoto,Alphabet (Google),GOOG,Design,Senior,90.5,419200,4.2
+GOOG-0981,Yuki Khan,Alphabet (Google),GOOG,Finance,Principal,99.7,740200,6.9
+GOOG-0982,Carlos Okafor,Alphabet (Google),GOOG,Engineering,Principal,86.9,594000,11.3
+GOOG-0983,Emily Khan,Alphabet (Google),GOOG,Engineering,VP,71.3,998500,8.0
+GOOG-0984,David Wilson,Alphabet (Google),GOOG,Operations,Staff,83.6,657200,6.2
+GOOG-0985,Olivia Garcia,Alphabet (Google),GOOG,Operations,VP,79.4,395300,9.9
+GOOG-0986,Grace Martinez,Alphabet (Google),GOOG,Finance,Staff,68.0,501900,5.4
+GOOG-0987,Maria Lee,Alphabet (Google),GOOG,Product,Director,84.6,637300,3.6
+GOOG-0988,Hiroshi Yamamoto,Alphabet (Google),GOOG,Research & AI,VP,98.2,2169700,10.0
+GOOG-0989,Priya Rossi,Alphabet (Google),GOOG,Engineering,Senior,54.3,160800,5.2
+GOOG-0990,Hiroshi Singh,Alphabet (Google),GOOG,Legal & Policy,Staff,73.5,231300,11.3
+GOOG-0991,Emily Silva,Alphabet (Google),GOOG,Product,Staff,89.8,374200,3.6
+GOOG-0992,Fatima Schmidt,Alphabet (Google),GOOG,Engineering,Senior,60.9,197600,3.5
+GOOG-0993,Mary Martinez,Alphabet (Google),GOOG,Engineering,Senior,75.5,455900,8.3
+GOOG-0994,David Lopez,Alphabet (Google),GOOG,Finance,Director,83.3,1006900,7.0
+GOOG-0995,Zoe Lee,Alphabet (Google),GOOG,Product,Senior,73.3,516300,3.6
+GOOG-0996,Raj Petrov,Alphabet (Google),GOOG,Finance,Principal,87.9,968600,16.8
+GOOG-0997,Raj Singh,Alphabet (Google),GOOG,Engineering,Senior,72.8,299800,14.8
+GOOG-0998,Linda Silva,Alphabet (Google),GOOG,Engineering,Senior,76.0,566000,5.7
+GOOG-0999,Wei Khan,Alphabet (Google),GOOG,Design,Staff,74.2,275800,4.2
+GOOG-1000,Grace Reyes,Alphabet (Google),GOOG,Engineering,Staff,81.7,428300,7.9

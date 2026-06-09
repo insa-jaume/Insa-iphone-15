@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+META-0001,Sofia Martinez,Meta Platforms,META,Operations,Staff,90.5,316800,1.3
+META-0002,Priya Garcia,Meta Platforms,META,Design,Senior,55.5,382600,12.5
+META-0003,Yuki Brown,Meta Platforms,META,Product,Staff,96.7,584100,1.7
+META-0004,Yuki Schmidt,Meta Platforms,META,Marketing,VP,86.9,1271500,5.5
+META-0005,Kevin Hassan,Meta Platforms,META,Research & AI,Staff,76.6,255700,11.1
+META-0006,Thomas Johnson,Meta Platforms,META,Design,Director,86.7,247200,6.0
+META-0007,David Johnson,Meta Platforms,META,Research & AI,Senior Director,82.3,754800,11.3
+META-0008,Michael Brown,Meta Platforms,META,Engineering,Principal,97.3,1145900,8.4
+META-0009,Carlos Chen,Meta Platforms,META,Engineering,Senior,80.7,443900,12.2
+META-0010,Arjun Martinez,Meta Platforms,META,Research & AI,Director,83.2,1543300,4.7
+META-0011,Aisha Murphy,Meta Platforms,META,Marketing,Principal,93.1,744000,1.8
+META-0012,Mary Anderson,Meta Platforms,META,Product,Senior,83.8,388300,3.8
+META-0013,Grace Smith,Meta Platforms,META,Operations,Senior,100.0,111600,0.2
+META-0014,Chen Wilson,Meta Platforms,META,Operations,Senior,88.5,235100,3.9
+META-0015,Michael Davis,Meta Platforms,META,Engineering,Staff,79.5,407900,1.4
+META-0016,Elena Petrov,Meta Platforms,META,Engineering,Senior,82.7,236700,5.9
+META-0017,Nina Wang,Meta Platforms,META,Engineering,Senior,79.3,178400,7.2
+META-0018,Olivia Okafor,Meta Platforms,META,Engineering,Director,80.4,352100,5.1
+META-0019,Chen Lee,Meta Platforms,META,Research & AI,Director,83.1,398100,10.9
+META-0020,Wei Kim,Meta Platforms,META,Product,Senior Director,80.3,478100,7.4
+META-0021,Thomas Khan,Meta Platforms,META,Engineering,Senior,77.6,412100,8.2
+META-0022,Maria Wilson,Meta Platforms,META,Sales & GTM,Principal,77.4,1994500,6.3
+META-0023,Priya Yamamoto,Meta Platforms,META,Operations,Senior,92.7,318600,2.8
+META-0024,David Tanaka,Meta Platforms,META,Engineering,Director,84.5,934000,12.2
+META-0025,Raj Singh,Meta Platforms,META,Finance,Director,70.7,654900,10.9
+META-0026,Priya Murphy,Meta Platforms,META,Research & AI,Principal,92.9,309400,4.5
+META-0027,Wei Singh,Meta Platforms,META,Finance,Staff,73.0,342100,20.9
+META-0028,Wei Rossi,Meta Platforms,META,Marketing,Staff,95.1,636200,2.5
+META-0029,Kevin Cohen,Meta Platforms,META,Engineering,Senior,80.0,183100,7.4
+META-0030,Carlos Okafor,Meta Platforms,META,Engineering,Senior,47.5,354700,3.3
+META-0031,Daniel Wang,Meta Platforms,META,Product,Senior,87.5,325700,2.0
+META-0032,Grace Silva,Meta Platforms,META,Marketing,Senior,60.9,669700,5.9
+META-0033,Emily Schmidt,Meta Platforms,META,Engineering,Staff,83.6,146300,2.1
+META-0034,Nina Khan,Meta Platforms,META,Sales & GTM,Director,77.7,1109500,4.3
+META-0035,Ahmed Ali,Meta Platforms,META,Legal & Policy,Staff,80.3,254100,7.5
+META-0036,Ahmed Yamamoto,Meta Platforms,META,Engineering,SVP,100.0,7622900,8.5
+META-0037,Sofia Rossi,Meta Platforms,META,Product,VP,70.7,2663300,7.1
+META-0038,Ahmed Wang,Meta Platforms,META,People/HR,Principal,77.0,545600,11.2
+META-0039,Priya Kim,Meta Platforms,META,Sales & GTM,Principal,76.8,432900,3.0
+META-0040,Samuel Silva,Meta Platforms,META,Design,Senior,83.7,158600,1.0
+META-0041,John Wang,Meta Platforms,META,Research & AI,Principal,100.0,596700,4.7
+META-0042,Hiroshi Murphy,Meta Platforms,META,Research & AI,Staff,80.1,915300,4.7
+META-0043,Samuel Yamamoto,Meta Platforms,META,Product,Senior Director,77.1,313000,6.8
+META-0044,Hiroshi Johnson,Meta Platforms,META,Engineering,Senior,74.7,288600,1.1
+META-0045,Raj Lee,Meta Platforms,META,Research & AI,Staff,83.9,424500,5.0
+META-0046,Chen Kim,Meta Platforms,META,Finance,Senior Director,92.4,1133300,7.9
+META-0047,Sofia Johnson,Meta Platforms,META,Research & AI,Staff,60.5,200400,7.5
+META-0048,Carlos Khan,Meta Platforms,META,Product,VP,81.0,1735500,13.5
+META-0049,Wei Garcia,Meta Platforms,META,Engineering,Senior,75.1,735200,0.6
+META-0050,Chen Smith,Meta Platforms,META,Research & AI,Senior,73.9,441100,6.4
+META-0051,James Chen,Meta Platforms,META,Product,Senior,71.6,127400,5.4
+META-0052,Yuki Martinez,Meta Platforms,META,Sales & GTM,Director,79.3,713300,6.9
+META-0053,Fatima Schmidt,Meta Platforms,META,Research & AI,VP,77.0,1252700,6.6
+META-0054,Yuki Singh,Meta Platforms,META,Engineering,Senior,73.0,228200,2.5
+META-0055,Aisha Anderson,Meta Platforms,META,Product,Senior Director,74.0,626900,8.4
+META-0056,Hannah Smith,Meta Platforms,META,Marketing,Staff,56.8,171400,6.2
+META-0057,John Nguyen,Meta Platforms,META,Operations,Staff,99.9,786200,10.1
+META-0058,Linda Singh,Meta Platforms,META,Engineering,Staff,96.3,316400,7.1
+META-0059,Raj Rossi,Meta Platforms,META,Engineering,Staff,71.9,153300,6.4
+META-0060,Zoe Nguyen,Meta Platforms,META,Sales & GTM,SVP,78.7,1566800,8.8
+META-0061,Linda Ali,Meta Platforms,META,Finance,Senior,85.1,183300,3.2
+META-0062,Chen Schmidt,Meta Platforms,META,Engineering,Senior,69.6,202000,6.3
+META-0063,Linda Rossi,Meta Platforms,META,Engineering,Senior,62.5,294100,1.9
+META-0064,Maria Park,Meta Platforms,META,Research & AI,Staff,60.5,439500,1.9
+META-0065,Raj Martinez,Meta Platforms,META,Engineering,Senior,60.7,165600,0.8
+META-0066,Chen Silva,Meta Platforms,META,Design,Principal,65.8,768100,5.3
+META-0067,Linda Garcia,Meta Platforms,META,Legal & Policy,Principal,73.7,510400,3.9
+META-0068,Elena Yamamoto,Meta Platforms,META,Engineering,Senior Director,83.2,2012300,8.8
+META-0069,Thomas Anderson,Meta Platforms,META,Engineering,Senior,83.0,410000,4.5
+META-0070,Priya Tanaka,Meta Platforms,META,Product,Senior,75.4,529200,7.7
+META-0071,Priya Wilson,Meta Platforms,META,Product,Senior,80.0,245500,16.9
+META-0072,David Chen,Meta Platforms,META,Research & AI,Senior Director,64.1,1407500,4.0
+META-0073,Wei Wilson,Meta Platforms,META,Product,Senior,76.9,194200,2.9
+META-0074,Wei Wang,Meta Platforms,META,Research & AI,Senior Director,91.7,1975800,5.1
+META-0075,Sofia Kim,Meta Platforms,META,Research & AI,Staff,94.9,523800,4.4
+META-0076,Priya Wilson,Meta Platforms,META,Finance,Senior,81.7,276400,3.0
+META-0077,Maria Petrov,Meta Platforms,META,Sales & GTM,Staff,82.2,474300,8.6
+META-0078,Olivia Garcia,Meta Platforms,META,Engineering,Senior Director,83.5,1248000,6.3
+META-0079,Aisha Yamamoto,Meta Platforms,META,Research & AI,Senior,92.8,234200,1.6
+META-0080,Grace Patel,Meta Platforms,META,Engineering,Director,85.6,429700,6.3
+META-0081,Mary Silva,Meta Platforms,META,Operations,Senior,68.5,160500,2.4
+META-0082,Wei Wilson,Meta Platforms,META,Sales & GTM,Senior,78.5,298000,1.4
+META-0083,Priya Smith,Meta Platforms,META,Engineering,Senior,68.9,375500,5.3
+META-0084,Raj Silva,Meta Platforms,META,Engineering,Senior Director,84.9,358500,9.1
+META-0085,Arjun Hassan,Meta Platforms,META,Finance,Principal,88.5,260000,5.6
+META-0086,Nina Reyes,Meta Platforms,META,Engineering,Staff,74.1,221200,5.9
+META-0087,Grace Murphy,Meta Platforms,META,Research & AI,SVP,85.7,1158600,7.2
+META-0088,Yuki Murphy,Meta Platforms,META,Design,Senior,69.8,203800,4.4
+META-0089,Nina Johnson,Meta Platforms,META,Research & AI,Principal,60.5,242800,2.1
+META-0090,Raj Reyes,Meta Platforms,META,Engineering,VP,75.9,2230400,5.7
+META-0091,Emily Murphy,Meta Platforms,META,Engineering,Staff,83.7,351500,4.6
+META-0092,Grace Singh,Meta Platforms,META,Engineering,Senior,75.9,287700,8.3
+META-0093,Priya Smith,Meta Platforms,META,Engineering,Staff,72.2,280800,2.5
+META-0094,Samuel Patel,Meta Platforms,META,Sales & GTM,Senior,70.8,225300,1.8
+META-0095,Zoe Murphy,Meta Platforms,META,Sales & GTM,Principal,83.4,349200,6.7
+META-0096,Priya Petrov,Meta Platforms,META,Engineering,Senior,93.8,300900,5.0
+META-0097,Samuel Petrov,Meta Platforms,META,Research & AI,Staff,86.9,541400,10.2
+META-0098,Kevin Nguyen,Meta Platforms,META,Finance,Staff,71.5,360000,3.4
+META-0099,Michael Silva,Meta Platforms,META,People/HR,Principal,93.9,372300,6.0
+META-0100,Linda Yamamoto,Meta Platforms,META,Product,Staff,94.4,506000,5.6
+META-0101,Elena Schmidt,Meta Platforms,META,Product,Senior,86.9,116500,0.9
+META-0102,Nina Reyes,Meta Platforms,META,Operations,Senior,92.6,328800,4.1
+META-0103,Grace Rossi,Meta Platforms,META,Engineering,Senior,93.3,264700,1.8
+META-0104,Sofia Patel,Meta Platforms,META,Engineering,Senior,74.0,623900,8.3
+META-0105,Michael Kim,Meta Platforms,META,Engineering,Senior,75.4,342900,4.9
+META-0106,Daniel Lee,Meta Platforms,META,Engineering,Staff,60.1,180800,6.2
+META-0107,Priya Park,Meta Platforms,META,Engineering,Senior Director,94.0,1236500,6.4
+META-0108,Nina Ali,Meta Platforms,META,People/HR,Staff,82.2,661100,5.2
+META-0109,Chen Patel,Meta Platforms,META,Product,SVP,93.5,1286700,8.3
+META-0110,Arjun Garcia,Meta Platforms,META,Research & AI,Staff,88.0,602900,6.4
+META-0111,Emily Lopez,Meta Platforms,META,Engineering,Staff,69.1,562600,1.8
+META-0112,Carlos Yamamoto,Meta Platforms,META,Sales & GTM,Principal,75.8,339100,4.1
+META-0113,Mary Silva,Meta Platforms,META,Research & AI,Principal,91.6,515400,2.1
+META-0114,Chen Wilson,Meta Platforms,META,Research & AI,Staff,88.5,246000,8.3
+META-0115,Thomas Rossi,Meta Platforms,META,Research & AI,Principal,79.4,396700,7.5
+META-0116,Kevin Park,Meta Platforms,META,Finance,Principal,65.9,287400,5.6
+META-0117,Thomas Park,Meta Platforms,META,Engineering,Principal,90.4,535200,11.6
+META-0118,Hiroshi Wang,Meta Platforms,META,Research & AI,VP,66.8,1010900,9.9
+META-0119,Yuki Ali,Meta Platforms,META,Engineering,Principal,100.0,404500,5.2
+META-0120,Olivia Lee,Meta Platforms,META,Product,Senior Director,77.5,822900,6.0
+META-0121,Sofia Chen,Meta Platforms,META,Research & AI,Principal,70.7,209200,3.2
+META-0122,Sofia Kim,Meta Platforms,META,Research & AI,Senior,100.0,1469300,16.9
+META-0123,Thomas Lee,Meta Platforms,META,Research & AI,Director,97.1,1053400,7.4
+META-0124,Thomas Kim,Meta Platforms,META,Sales & GTM,Senior,82.6,109400,5.7
+META-0125,Priya Rossi,Meta Platforms,META,Sales & GTM,Principal,71.6,2193100,18.7
+META-0126,Grace Okafor,Meta Platforms,META,Operations,Senior,90.0,203800,6.6
+META-0127,Wei Martinez,Meta Platforms,META,People/HR,Senior,64.7,121500,2.6
+META-0128,Grace Petrov,Meta Platforms,META,Research & AI,Senior,97.3,387400,4.2
+META-0129,Mary Chen,Meta Platforms,META,Research & AI,Senior,91.4,210500,1.3
+META-0130,Ahmed Petrov,Meta Platforms,META,People/HR,Senior,65.9,197200,7.0
+META-0131,John Rossi,Meta Platforms,META,Engineering,VP,64.6,653100,7.8
+META-0132,Michael Martinez,Meta Platforms,META,Engineering,SVP,90.5,3205800,7.7
+META-0133,Emily Murphy,Meta Platforms,META,People/HR,Senior Director,69.1,609900,5.4
+META-0134,Nina Lopez,Meta Platforms,META,Operations,Staff,75.6,285900,2.2
+META-0135,Ahmed Kim,Meta Platforms,META,People/HR,Director,63.2,1613300,4.6
+META-0136,Olivia Silva,Meta Platforms,META,Research & AI,Director,56.8,604400,6.9
+META-0137,James Ali,Meta Platforms,META,Research & AI,Director,100.0,455900,6.7
+META-0138,Raj Yamamoto,Meta Platforms,META,Engineering,Senior Director,84.2,1830800,5.4
+META-0139,Yuki Brown,Meta Platforms,META,Design,Senior,60.2,99900,4.4
+META-0140,Maria Patel,Meta Platforms,META,Product,Principal,78.5,939500,4.0
+META-0141,Thomas Ali,Meta Platforms,META,Research & AI,Director,100.0,792400,10.8
+META-0142,David Johnson,Meta Platforms,META,Sales & GTM,Principal,81.6,153700,7.8
+META-0143,Ahmed Silva,Meta Platforms,META,Engineering,Staff,80.6,809500,12.3
+META-0144,Yuki Wang,Meta Platforms,META,Engineering,Senior,92.1,139900,4.8
+META-0145,Sofia Lopez,Meta Platforms,META,Engineering,Senior Director,76.7,1351000,6.3
+META-0146,Raj Petrov,Meta Platforms,META,Engineering,Senior,83.0,125200,5.0
+META-0147,Hannah Anderson,Meta Platforms,META,Research & AI,Staff,71.0,350600,4.9
+META-0148,John Khan,Meta Platforms,META,Operations,Director,79.1,969100,5.3
+META-0149,Arjun Reyes,Meta Platforms,META,Marketing,Staff,83.7,361100,3.3
+META-0150,Yuki Hassan,Meta Platforms,META,People/HR,Senior,70.8,242100,7.6
+META-0151,Sofia Kim,Meta Platforms,META,Operations,Staff,81.5,270000,10.3
+META-0152,Raj Chen,Meta Platforms,META,Sales & GTM,Staff,77.6,1073600,2.4
+META-0153,Sofia Nguyen,Meta Platforms,META,Operations,Senior,95.7,532800,12.0
+META-0154,Raj Rossi,Meta Platforms,META,Operations,Principal,94.3,304700,5.3
+META-0155,Raj Lopez,Meta Platforms,META,Engineering,Director,86.3,340600,8.9
+META-0156,Raj Tanaka,Meta Platforms,META,Engineering,Staff,88.0,88000,5.4
+META-0157,Arjun Ali,Meta Platforms,META,Product,VP,76.1,866100,16.3
+META-0158,Maria Lopez,Meta Platforms,META,Product,Staff,78.9,253300,4.2
+META-0159,David Tanaka,Meta Platforms,META,Marketing,VP,77.4,440700,13.9
+META-0160,Priya Murphy,Meta Platforms,META,Design,Principal,68.7,676000,9.5
+META-0161,Nina Smith,Meta Platforms,META,Research & AI,Senior Director,69.7,1095600,11.2
+META-0162,Priya Yamamoto,Meta Platforms,META,Sales & GTM,Senior,80.0,259000,4.1
+META-0163,David Wilson,Meta Platforms,META,Operations,Senior,100.0,256800,1.0
+META-0164,Hannah Singh,Meta Platforms,META,Engineering,Senior,90.6,222400,9.3
+META-0165,Maria Park,Meta Platforms,META,Engineering,Principal,75.6,417600,2.3
+META-0166,Michael Wilson,Meta Platforms,META,Operations,Senior Director,71.0,657700,9.4
+META-0167,Olivia Wang,Meta Platforms,META,Design,VP,68.0,1164400,6.4
+META-0168,Hannah Petrov,Meta Platforms,META,Engineering,VP,66.9,848600,8.3
+META-0169,Thomas Petrov,Meta Platforms,META,Operations,Staff,89.5,278900,9.6
+META-0170,Olivia Davis,Meta Platforms,META,Operations,Director,100.0,576300,4.5
+META-0171,Raj Park,Meta Platforms,META,Legal & Policy,Director,89.0,162200,3.7
+META-0172,Hiroshi Park,Meta Platforms,META,Engineering,Senior,87.5,421900,1.3
+META-0173,Mary Murphy,Meta Platforms,META,Research & AI,Senior Director,66.3,212100,7.7
+META-0174,Sofia Okafor,Meta Platforms,META,Engineering,Senior,78.0,760700,4.5
+META-0175,Daniel Wilson,Meta Platforms,META,Legal & Policy,Senior,83.1,456800,3.7
+META-0176,Thomas Cohen,Meta Platforms,META,Engineering,Senior,70.8,151800,7.7
+META-0177,Thomas Lee,Meta Platforms,META,Engineering,Staff,77.2,916600,3.6
+META-0178,Ahmed Petrov,Meta Platforms,META,Marketing,Senior,83.0,329900,9.9
+META-0179,John Ali,Meta Platforms,META,Marketing,Principal,67.7,624900,2.5
+META-0180,Raj Brown,Meta Platforms,META,Sales & GTM,VP,75.6,1925900,7.8
+META-0181,Linda Garcia,Meta Platforms,META,Engineering,Director,87.9,633500,5.5
+META-0182,Wei Brown,Meta Platforms,META,Sales & GTM,Staff,76.1,185500,5.5
+META-0183,Mary Silva,Meta Platforms,META,Finance,Senior,75.3,134100,2.2
+META-0184,Linda Schmidt,Meta Platforms,META,Engineering,Senior,75.2,268200,9.3
+META-0185,Sofia Martinez,Meta Platforms,META,Engineering,Staff,76.9,422900,4.9
+META-0186,John Lee,Meta Platforms,META,Design,Senior,79.0,416700,11.2
+META-0187,Zoe Brown,Meta Platforms,META,Product,Director,93.9,409000,6.2
+META-0188,Priya Wang,Meta Platforms,META,Sales & GTM,Senior,78.1,393100,0.5
+META-0189,Ahmed Patel,Meta Platforms,META,Research & AI,Senior Director,90.2,350600,5.3
+META-0190,Thomas Garcia,Meta Platforms,META,Research & AI,Staff,50.4,288400,5.2
+META-0191,Linda Wang,Meta Platforms,META,Engineering,Principal,93.4,1162800,10.4
+META-0192,Wei Silva,Meta Platforms,META,People/HR,Staff,93.9,138200,9.9
+META-0193,James Davis,Meta Platforms,META,Sales & GTM,SVP,70.5,2334900,9.8
+META-0194,Sofia Wang,Meta Platforms,META,Research & AI,Staff,71.7,315600,3.8
+META-0195,David Tanaka,Meta Platforms,META,Operations,Principal,76.4,132100,2.1
+META-0196,Sofia Cohen,Meta Platforms,META,Marketing,Senior,65.3,168700,1.3
+META-0197,Olivia Silva,Meta Platforms,META,Product,Principal,80.1,1031200,4.0
+META-0198,Priya Smith,Meta Platforms,META,People/HR,Senior,80.3,448600,10.5
+META-0199,Elena Park,Meta Platforms,META,Legal & Policy,Director,85.1,310400,6.0
+META-0200,Hannah Wilson,Meta Platforms,META,Marketing,Staff,71.6,580400,3.2
+META-0201,Wei Tanaka,Meta Platforms,META,Operations,Senior,71.1,147100,9.1
+META-0202,Maria Smith,Meta Platforms,META,Finance,Senior,81.4,352800,1.8
+META-0203,Arjun Yamamoto,Meta Platforms,META,Design,Staff,53.4,115900,4.0
+META-0204,Grace Kim,Meta Platforms,META,Legal & Policy,Principal,82.5,1689400,7.5
+META-0205,Hiroshi Rossi,Meta Platforms,META,Sales & GTM,Senior Director,93.0,609400,6.3
+META-0206,Daniel Yamamoto,Meta Platforms,META,Engineering,Principal,59.5,1042300,2.9
+META-0207,Raj Yamamoto,Meta Platforms,META,Engineering,Senior,64.3,145900,1.7
+META-0208,Linda Johnson,Meta Platforms,META,Engineering,Senior,64.3,295000,19.4
+META-0209,Daniel Smith,Meta Platforms,META,Engineering,Principal,90.0,319500,2.6
+META-0210,Yuki Lee,Meta Platforms,META,Operations,Principal,88.2,467800,3.6
+META-0211,Emily Park,Meta Platforms,META,Engineering,Senior,68.8,279000,5.2
+META-0212,Thomas Ali,Meta Platforms,META,Product,VP,79.2,1405000,7.7
+META-0213,Yuki Chen,Meta Platforms,META,Product,Staff,89.9,297500,1.7
+META-0214,Emily Patel,Meta Platforms,META,Engineering,Staff,95.5,88400,2.9
+META-0215,Chen Martinez,Meta Platforms,META,Legal & Policy,Staff,83.1,767500,1.0
+META-0216,Emily Smith,Meta Platforms,META,Sales & GTM,Senior,85.7,569800,4.6
+META-0217,Arjun Reyes,Meta Platforms,META,Engineering,Senior,81.6,327800,2.4
+META-0218,Emily Davis,Meta Platforms,META,Research & AI,Director,75.0,404600,10.0
+META-0219,John Lee,Meta Platforms,META,Research & AI,Senior,86.7,415900,7.9
+META-0220,David Petrov,Meta Platforms,META,Product,Staff,86.3,664000,3.9
+META-0221,Ahmed Singh,Meta Platforms,META,Engineering,Senior Director,89.8,674300,6.1
+META-0222,Sofia Silva,Meta Platforms,META,Sales & GTM,Senior Director,71.7,922800,9.7
+META-0223,Samuel Khan,Meta Platforms,META,Research & AI,Senior,71.3,276000,0.9
+META-0224,Kevin Murphy,Meta Platforms,META,Finance,Staff,100.0,387000,9.6
+META-0225,Linda Davis,Meta Platforms,META,Engineering,Senior,75.8,499100,1.6
+META-0226,Thomas Chen,Meta Platforms,META,Engineering,C-Suite,70.5,1783800,12.6
+META-0227,Daniel Khan,Meta Platforms,META,Engineering,Senior,93.4,314300,10.9
+META-0228,Carlos Tanaka,Meta Platforms,META,Engineering,Principal,82.9,389200,5.1
+META-0229,Priya Wilson,Meta Platforms,META,Research & AI,Staff,73.0,487500,2.2
+META-0230,Kevin Rossi,Meta Platforms,META,Engineering,Senior,66.1,149500,6.2
+META-0231,Emily Murphy,Meta Platforms,META,Engineering,Senior Director,78.0,769800,8.1
+META-0232,Chen Patel,Meta Platforms,META,Legal & Policy,Director,72.6,209900,5.6
+META-0233,Hiroshi Patel,Meta Platforms,META,People/HR,Staff,75.6,510500,1.9
+META-0234,Arjun Okafor,Meta Platforms,META,Engineering,Staff,71.5,139100,1.0
+META-0235,Elena Reyes,Meta Platforms,META,Engineering,Principal,100.0,339700,7.6
+META-0236,Kevin Chen,Meta Platforms,META,Engineering,Principal,83.9,420600,7.6
+META-0237,John Park,Meta Platforms,META,Design,Staff,84.1,301800,6.0
+META-0238,Nina Tanaka,Meta Platforms,META,Engineering,Staff,98.0,208400,3.1
+META-0239,James Wilson,Meta Platforms,META,Operations,Staff,86.4,342500,10.4
+META-0240,Grace Johnson,Meta Platforms,META,Design,Director,94.9,456100,4.3
+META-0241,Aisha Lee,Meta Platforms,META,Operations,Director,76.4,885800,4.9
+META-0242,Carlos Hassan,Meta Platforms,META,Engineering,Staff,72.8,343400,5.1
+META-0243,Yuki Ali,Meta Platforms,META,Engineering,Principal,69.6,236400,2.2
+META-0244,Aisha Reyes,Meta Platforms,META,Design,C-Suite,75.7,3869000,12.0
+META-0245,Hiroshi Silva,Meta Platforms,META,Sales & GTM,Senior,75.8,550200,1.6
+META-0246,Raj Davis,Meta Platforms,META,Marketing,Staff,62.7,741100,3.3
+META-0247,Daniel Singh,Meta Platforms,META,Sales & GTM,Principal,76.0,699500,3.6
+META-0248,Priya Rossi,Meta Platforms,META,Sales & GTM,Staff,91.6,699800,4.2
+META-0249,John Lee,Meta Platforms,META,Research & AI,Senior,71.5,300900,7.4
+META-0250,Hiroshi Wang,Meta Platforms,META,Sales & GTM,VP,97.2,826700,9.6
+META-0251,Sofia Reyes,Meta Platforms,META,Sales & GTM,VP,82.4,566800,9.3
+META-0252,James Singh,Meta Platforms,META,Product,Senior,56.3,147200,5.7
+META-0253,Hannah Yamamoto,Meta Platforms,META,Product,Principal,99.5,545700,2.4
+META-0254,Hiroshi Kim,Meta Platforms,META,Engineering,Senior Director,52.9,542700,4.7
+META-0255,Arjun Tanaka,Meta Platforms,META,Research & AI,Senior Director,83.8,585000,4.7
+META-0256,David Anderson,Meta Platforms,META,Engineering,Principal,93.3,636900,4.8
+META-0257,Ahmed Reyes,Meta Platforms,META,Engineering,Senior,63.7,126100,0.6
+META-0258,Sofia Chen,Meta Platforms,META,Product,Staff,73.4,393600,1.2
+META-0259,James Okafor,Meta Platforms,META,Operations,Staff,83.3,395600,1.2
+META-0260,John Wilson,Meta Platforms,META,Engineering,Staff,69.2,279500,3.1
+META-0261,Mary Lee,Meta Platforms,META,Engineering,Senior,74.5,157100,4.1
+META-0262,Sofia Kim,Meta Platforms,META,Engineering,Principal,89.5,1344800,6.4
+META-0263,John Chen,Meta Platforms,META,Marketing,Staff,77.2,230000,2.1
+META-0264,Arjun Kim,Meta Platforms,META,Design,Staff,59.3,400000,2.1
+META-0265,Fatima Lopez,Meta Platforms,META,Legal & Policy,Principal,88.0,865400,12.6
+META-0266,Kevin Wang,Meta Platforms,META,Engineering,Director,91.8,1341800,4.3
+META-0267,Emily Lee,Meta Platforms,META,Research & AI,Staff,94.7,454500,3.6
+META-0268,Thomas Khan,Meta Platforms,META,Product,Principal,92.1,757700,3.6
+META-0269,Daniel Okafor,Meta Platforms,META,Research & AI,VP,95.4,706500,10.8
+META-0270,Yuki Garcia,Meta Platforms,META,Operations,Senior,72.0,110400,4.9
+META-0271,Arjun Tanaka,Meta Platforms,META,Finance,Principal,93.0,409700,9.9
+META-0272,Wei Singh,Meta Platforms,META,Sales & GTM,Principal,63.6,232400,8.7
+META-0273,Michael Cohen,Meta Platforms,META,Engineering,Senior,66.6,414500,8.3
+META-0274,Maria Tanaka,Meta Platforms,META,Design,VP,68.9,245200,6.1
+META-0275,Michael Davis,Meta Platforms,META,Engineering,Principal,71.1,363500,2.9
+META-0276,Hannah Nguyen,Meta Platforms,META,Research & AI,VP,84.4,745300,8.6
+META-0277,Aisha Ali,Meta Platforms,META,Engineering,Senior Director,83.4,876100,10.7
+META-0278,Daniel Davis,Meta Platforms,META,Engineering,Staff,77.1,497700,2.3
+META-0279,John Patel,Meta Platforms,META,Engineering,VP,81.3,1850100,6.6
+META-0280,Ahmed Khan,Meta Platforms,META,Research & AI,Senior,69.1,598300,10.6
+META-0281,David Silva,Meta Platforms,META,Sales & GTM,VP,74.9,865800,14.7
+META-0282,David Smith,Meta Platforms,META,Engineering,Senior,78.3,504000,13.3
+META-0283,Zoe Murphy,Meta Platforms,META,Research & AI,Director,68.9,357700,6.6
+META-0284,Wei Hassan,Meta Platforms,META,Engineering,Senior,68.4,955800,5.5
+META-0285,Ahmed Martinez,Meta Platforms,META,Marketing,Director,87.6,919400,4.2
+META-0286,James Wang,Meta Platforms,META,Engineering,Director,86.0,764200,3.4
+META-0287,Arjun Singh,Meta Platforms,META,Product,Senior,77.0,126600,6.2
+META-0288,Sofia Johnson,Meta Platforms,META,People/HR,Principal,79.9,254900,17.2
+META-0289,Zoe Petrov,Meta Platforms,META,Engineering,Staff,78.4,212000,3.3
+META-0290,Fatima Patel,Meta Platforms,META,Engineering,Senior,83.2,1343600,4.1
+META-0291,Mary Okafor,Meta Platforms,META,Engineering,Principal,93.6,266000,3.0
+META-0292,Raj Wilson,Meta Platforms,META,Design,Director,86.1,369100,7.6
+META-0293,Wei Johnson,Meta Platforms,META,Design,Staff,75.5,364400,10.3
+META-0294,Yuki Ali,Meta Platforms,META,Engineering,Senior,78.4,595700,4.1
+META-0295,Chen Lopez,Meta Platforms,META,Finance,Senior,82.3,266600,1.1
+META-0296,Arjun Khan,Meta Platforms,META,Product,Staff,94.1,521400,6.9
+META-0297,Linda Lopez,Meta Platforms,META,Operations,Principal,94.5,531300,14.7
+META-0298,Nina Anderson,Meta Platforms,META,Sales & GTM,VP,80.2,2009500,7.7
+META-0299,James Wilson,Meta Platforms,META,Product,Senior Director,69.3,821300,9.5
+META-0300,Linda Hassan,Meta Platforms,META,Operations,Staff,59.8,246800,2.4
+META-0301,Daniel Ali,Meta Platforms,META,Research & AI,Director,92.8,1046200,4.6
+META-0302,Samuel Wilson,Meta Platforms,META,People/HR,Senior,77.0,196600,7.9
+META-0303,Michael Smith,Meta Platforms,META,Engineering,Senior,64.8,210900,6.8
+META-0304,Maria Wang,Meta Platforms,META,Research & AI,Director,81.3,523000,6.1
+META-0305,John Lee,Meta Platforms,META,Product,Staff,79.7,795200,9.4
+META-0306,Aisha Okafor,Meta Platforms,META,Design,Staff,72.7,180700,4.3
+META-0307,Carlos Johnson,Meta Platforms,META,Finance,Principal,87.4,663600,7.9
+META-0308,Nina Lee,Meta Platforms,META,Engineering,Principal,73.7,1361700,3.2
+META-0309,Aisha Nguyen,Meta Platforms,META,Engineering,Principal,100.0,170400,16.0
+META-0310,Sofia Okafor,Meta Platforms,META,Research & AI,Staff,79.6,607700,1.5
+META-0311,Sofia Wang,Meta Platforms,META,Operations,Senior,89.8,378600,3.1
+META-0312,John Garcia,Meta Platforms,META,Product,Principal,86.7,786600,5.9
+META-0313,Nina Lee,Meta Platforms,META,Research & AI,Director,85.9,1319700,8.0
+META-0314,Michael Hassan,Meta Platforms,META,Research & AI,Staff,68.3,222700,5.5
+META-0315,Priya Wilson,Meta Platforms,META,Operations,VP,87.3,867700,5.6
+META-0316,Thomas Singh,Meta Platforms,META,Sales & GTM,Senior,61.6,733600,6.0
+META-0317,Aisha Hassan,Meta Platforms,META,Engineering,Principal,72.5,444500,4.1
+META-0318,Mary Tanaka,Meta Platforms,META,Engineering,Director,85.5,615500,6.5
+META-0319,Emily Petrov,Meta Platforms,META,Legal & Policy,Senior,73.8,253900,8.3
+META-0320,Priya Tanaka,Meta Platforms,META,Sales & GTM,SVP,74.9,2022700,14.7
+META-0321,Zoe Murphy,Meta Platforms,META,Engineering,Senior,79.2,215700,2.4
+META-0322,Kevin Kim,Meta Platforms,META,Sales & GTM,Staff,100.0,610000,6.3
+META-0323,Chen Ali,Meta Platforms,META,Research & AI,Principal,82.7,625300,10.4
+META-0324,Carlos Nguyen,Meta Platforms,META,Engineering,Senior,67.9,367400,6.3
+META-0325,Sofia Smith,Meta Platforms,META,People/HR,Staff,75.6,522600,2.6
+META-0326,Daniel Davis,Meta Platforms,META,Operations,Staff,62.3,339900,15.1
+META-0327,Priya Singh,Meta Platforms,META,Product,Principal,56.0,457300,3.6
+META-0328,Samuel Schmidt,Meta Platforms,META,Engineering,Principal,72.2,498000,4.9
+META-0329,Emily Nguyen,Meta Platforms,META,Operations,Senior,84.7,440500,14.1
+META-0330,Hannah Lopez,Meta Platforms,META,Engineering,Senior,82.0,168300,7.7
+META-0331,Emily Smith,Meta Platforms,META,Product,Senior,65.7,526400,8.2
+META-0332,James Rossi,Meta Platforms,META,Engineering,Principal,94.2,155000,3.1
+META-0333,Raj Nguyen,Meta Platforms,META,People/HR,Senior,92.8,102600,2.0
+META-0334,Kevin Petrov,Meta Platforms,META,Operations,Senior,78.5,572200,6.6
+META-0335,Ahmed Davis,Meta Platforms,META,Design,Director,81.8,781800,5.9
+META-0336,Mary Smith,Meta Platforms,META,Engineering,Senior,62.1,305000,11.1
+META-0337,Fatima Park,Meta Platforms,META,Research & AI,Staff,59.6,226200,3.7
+META-0338,Kevin Patel,Meta Platforms,META,Operations,Principal,65.0,303700,4.3
+META-0339,Ahmed Okafor,Meta Platforms,META,Engineering,Staff,79.3,1125000,5.7
+META-0340,Sofia Wilson,Meta Platforms,META,Research & AI,Principal,97.4,710700,4.4
+META-0341,Aisha Wilson,Meta Platforms,META,Product,Senior Director,69.7,788100,4.9
+META-0342,Samuel Nguyen,Meta Platforms,META,Sales & GTM,Senior,76.8,222300,4.8
+META-0343,James Brown,Meta Platforms,META,Marketing,C-Suite,70.9,2873500,14.7
+META-0344,Thomas Garcia,Meta Platforms,META,Engineering,Staff,69.3,258800,4.6
+META-0345,Olivia Reyes,Meta Platforms,META,Operations,Senior,81.3,69200,1.7
+META-0346,Emily Martinez,Meta Platforms,META,Operations,Director,76.4,503600,7.4
+META-0347,Priya Yamamoto,Meta Platforms,META,Operations,Senior Director,85.8,680100,14.6
+META-0348,Yuki Wang,Meta Platforms,META,Research & AI,Senior,68.6,178600,2.2
+META-0349,Hiroshi Cohen,Meta Platforms,META,Operations,Senior,84.9,392600,6.8
+META-0350,Hiroshi Johnson,Meta Platforms,META,Engineering,Senior,84.4,282200,4.7
+META-0351,Michael Park,Meta Platforms,META,Engineering,Staff,100.0,400400,6.6
+META-0352,Hannah Brown,Meta Platforms,META,Engineering,Principal,75.6,683600,3.9
+META-0353,Daniel Schmidt,Meta Platforms,META,Engineering,Staff,92.9,1007800,1.5
+META-0354,Maria Patel,Meta Platforms,META,Engineering,Senior,72.7,315200,0.2
+META-0355,Emily Martinez,Meta Platforms,META,Sales & GTM,Director,55.9,599700,7.6
+META-0356,Sofia Kim,Meta Platforms,META,Product,Staff,76.1,253500,2.1
+META-0357,John Yamamoto,Meta Platforms,META,People/HR,Director,97.8,1269800,7.5
+META-0358,Fatima Martinez,Meta Platforms,META,Engineering,Senior,50.5,143700,8.8
+META-0359,Carlos Brown,Meta Platforms,META,Engineering,Staff,90.6,361600,9.4
+META-0360,Grace Chen,Meta Platforms,META,Finance,Senior,89.5,300900,0.9
+META-0361,Emily Rossi,Meta Platforms,META,Finance,Principal,91.6,85600,8.0
+META-0362,Wei Wang,Meta Platforms,META,Legal & Policy,Principal,65.1,267400,4.8
+META-0363,Carlos Silva,Meta Platforms,META,Finance,Staff,72.2,368600,5.3
+META-0364,Sofia Schmidt,Meta Platforms,META,Marketing,Director,67.6,656900,5.6
+META-0365,Samuel Hassan,Meta Platforms,META,Finance,Staff,71.5,550400,3.0
+META-0366,Hannah Brown,Meta Platforms,META,Engineering,Senior Director,95.4,890900,3.7
+META-0367,Fatima Ali,Meta Platforms,META,Engineering,Principal,84.0,1194700,6.0
+META-0368,Nina Garcia,Meta Platforms,META,Design,Staff,72.7,600400,5.8
+META-0369,Wei Yamamoto,Meta Platforms,META,Operations,Principal,83.2,1335100,5.4
+META-0370,Grace Smith,Meta Platforms,META,People/HR,Director,75.2,1283800,6.3
+META-0371,Grace Wang,Meta Platforms,META,Sales & GTM,Staff,76.9,625100,7.2
+META-0372,Daniel Silva,Meta Platforms,META,Research & AI,Senior,62.0,490500,8.2
+META-0373,Sofia Patel,Meta Platforms,META,Research & AI,Director,93.2,1535400,7.8
+META-0374,Linda Petrov,Meta Platforms,META,People/HR,Senior,86.3,293400,4.3
+META-0375,Maria Nguyen,Meta Platforms,META,Product,Principal,73.7,431300,3.0
+META-0376,Grace Wang,Meta Platforms,META,Sales & GTM,Principal,74.5,692800,2.3
+META-0377,Zoe Singh,Meta Platforms,META,Marketing,Staff,86.3,654300,2.4
+META-0378,Nina Nguyen,Meta Platforms,META,Operations,Staff,83.5,494900,3.7
+META-0379,Daniel Chen,Meta Platforms,META,Engineering,C-Suite,90.5,3524500,8.7
+META-0380,Michael Yamamoto,Meta Platforms,META,Engineering,Principal,74.2,355100,7.2
+META-0381,Kevin Tanaka,Meta Platforms,META,Sales & GTM,Senior,85.5,390300,0.8
+META-0382,Arjun Lee,Meta Platforms,META,Product,Senior Director,71.8,935800,9.4
+META-0383,Raj Davis,Meta Platforms,META,Sales & GTM,Staff,79.1,442900,1.8
+META-0384,Samuel Murphy,Meta Platforms,META,Design,Director,75.6,1065800,6.8
+META-0385,Carlos Murphy,Meta Platforms,META,Engineering,Senior,63.0,411800,2.6
+META-0386,Hannah Wang,Meta Platforms,META,Sales & GTM,Staff,93.7,556600,5.2
+META-0387,Ahmed Singh,Meta Platforms,META,Research & AI,Principal,92.3,298100,10.9
+META-0388,David Silva,Meta Platforms,META,Sales & GTM,Senior,89.4,361500,1.9
+META-0389,Priya Singh,Meta Platforms,META,Sales & GTM,Director,82.4,245200,10.0
+META-0390,Fatima Martinez,Meta Platforms,META,People/HR,Staff,80.4,358400,5.3
+META-0391,Fatima Rossi,Meta Platforms,META,Finance,Director,87.0,1443900,2.9
+META-0392,David Yamamoto,Meta Platforms,META,Sales & GTM,Senior,80.4,284800,1.4
+META-0393,Linda Johnson,Meta Platforms,META,Marketing,Director,67.0,703500,10.0
+META-0394,Ahmed Murphy,Meta Platforms,META,People/HR,Senior,90.8,183600,0.2
+META-0395,Fatima Khan,Meta Platforms,META,Research & AI,Staff,79.9,354900,8.8
+META-0396,Sofia Brown,Meta Platforms,META,Engineering,Senior,60.7,344200,0.5
+META-0397,Mary Smith,Meta Platforms,META,Product,Staff,91.6,183300,4.6
+META-0398,Sofia Lopez,Meta Platforms,META,Engineering,Staff,92.9,493000,2.2
+META-0399,John Smith,Meta Platforms,META,Finance,Principal,74.6,412100,3.8
+META-0400,Priya Silva,Meta Platforms,META,Research & AI,Senior,82.5,197700,4.5
+META-0401,Elena Schmidt,Meta Platforms,META,Engineering,Staff,76.5,201000,6.6
+META-0402,John Petrov,Meta Platforms,META,Engineering,Director,88.6,637900,3.3
+META-0403,Ahmed Khan,Meta Platforms,META,Product,Staff,79.6,430000,3.3
+META-0404,Zoe Petrov,Meta Platforms,META,Sales & GTM,Principal,100.0,566500,4.1
+META-0405,Carlos Khan,Meta Platforms,META,Research & AI,Director,78.9,1157900,4.6
+META-0406,Emily Lopez,Meta Platforms,META,Product,Staff,78.3,1199100,3.6
+META-0407,Michael Nguyen,Meta Platforms,META,Engineering,Director,61.8,431600,5.9
+META-0408,Fatima Okafor,Meta Platforms,META,Engineering,Senior,83.3,278800,8.1
+META-0409,Mary Yamamoto,Meta Platforms,META,People/HR,Senior,54.2,516500,2.5
+META-0410,Mary Hassan,Meta Platforms,META,Engineering,Principal,88.2,430700,7.1
+META-0411,Daniel Khan,Meta Platforms,META,Engineering,Staff,80.2,819500,3.6
+META-0412,Kevin Park,Meta Platforms,META,Design,SVP,88.9,3699500,9.8
+META-0413,Elena Smith,Meta Platforms,META,Engineering,Principal,81.9,1051400,9.1
+META-0414,Carlos Lee,Meta Platforms,META,Design,Principal,80.5,626900,4.5
+META-0415,Priya Patel,Meta Platforms,META,Marketing,Principal,89.1,250500,9.4
+META-0416,Fatima Silva,Meta Platforms,META,Product,Staff,86.9,181000,4.4
+META-0417,Yuki Yamamoto,Meta Platforms,META,Research & AI,Senior,56.4,285800,3.4
+META-0418,Olivia Petrov,Meta Platforms,META,Sales & GTM,Director,76.4,565900,6.0
+META-0419,Olivia Hassan,Meta Platforms,META,Engineering,Principal,88.5,898100,2.1
+META-0420,Michael Cohen,Meta Platforms,META,Engineering,Senior,79.9,504600,0.5
+META-0421,Priya Wilson,Meta Platforms,META,Marketing,Senior,62.9,290800,6.9
+META-0422,Zoe Johnson,Meta Platforms,META,Engineering,VP,89.6,501400,12.6
+META-0423,Hannah Silva,Meta Platforms,META,Sales & GTM,Principal,89.1,802200,10.0
+META-0424,Wei Tanaka,Meta Platforms,META,Engineering,Director,88.9,696100,14.8
+META-0425,Carlos Schmidt,Meta Platforms,META,Engineering,Principal,92.5,378600,2.4
+META-0426,James Ali,Meta Platforms,META,Engineering,Senior,74.1,200700,7.9
+META-0427,John Wilson,Meta Platforms,META,Engineering,Senior,78.6,542400,6.1
+META-0428,David Murphy,Meta Platforms,META,People/HR,Principal,81.2,536600,4.2
+META-0429,Zoe Garcia,Meta Platforms,META,Legal & Policy,Staff,79.4,406800,2.8
+META-0430,Arjun Garcia,Meta Platforms,META,Engineering,C-Suite,94.6,2128100,9.7
+META-0431,Arjun Wang,Meta Platforms,META,Sales & GTM,Staff,80.7,406000,5.9
+META-0432,Yuki Davis,Meta Platforms,META,Design,Senior,74.3,214000,6.1
+META-0433,Chen Hassan,Meta Platforms,META,Research & AI,Staff,75.6,372700,2.9
+META-0434,Nina Ali,Meta Platforms,META,Operations,Staff,74.5,807200,4.4
+META-0435,Linda Yamamoto,Meta Platforms,META,Operations,Staff,65.1,178400,2.0
+META-0436,Olivia Singh,Meta Platforms,META,Marketing,Senior,89.8,527300,3.5
+META-0437,Sofia Ali,Meta Platforms,META,Legal & Policy,VP,75.3,1454600,10.7
+META-0438,Emily Kim,Meta Platforms,META,Legal & Policy,Staff,65.1,1408400,9.5
+META-0439,Thomas Schmidt,Meta Platforms,META,Product,Senior,69.2,213600,3.0
+META-0440,Hannah Brown,Meta Platforms,META,Research & AI,Senior,85.7,275300,7.3
+META-0441,Arjun Ali,Meta Platforms,META,Product,Senior,74.6,182700,4.1
+META-0442,Michael Park,Meta Platforms,META,Marketing,Senior,73.6,154900,2.8
+META-0443,Raj Wilson,Meta Platforms,META,Research & AI,Principal,69.2,352900,7.6
+META-0444,Michael Martinez,Meta Platforms,META,Operations,Principal,91.5,598100,10.5
+META-0445,Kevin Tanaka,Meta Platforms,META,Engineering,Principal,76.0,688800,5.4
+META-0446,Elena Lopez,Meta Platforms,META,Operations,Director,86.6,735900,3.7
+META-0447,David Cohen,Meta Platforms,META,Engineering,VP,86.6,1117800,8.0
+META-0448,Daniel Hassan,Meta Platforms,META,Operations,Senior,61.8,148600,7.6
+META-0449,Olivia Rossi,Meta Platforms,META,Product,Director,87.1,397800,2.5
+META-0450,Yuki Khan,Meta Platforms,META,Sales & GTM,Staff,91.6,366200,9.4
+META-0451,Linda Kim,Meta Platforms,META,Engineering,Principal,70.0,256800,5.5
+META-0452,Elena Schmidt,Meta Platforms,META,Engineering,Director,80.5,1129500,26.9
+META-0453,Ahmed Patel,Meta Platforms,META,Legal & Policy,Staff,84.0,772700,4.7
+META-0454,Linda Yamamoto,Meta Platforms,META,Engineering,Staff,76.9,301000,11.8
+META-0455,Emily Park,Meta Platforms,META,Engineering,Principal,82.7,261300,3.0
+META-0456,James Wilson,Meta Platforms,META,Engineering,SVP,89.9,1927800,9.9
+META-0457,Maria Lee,Meta Platforms,META,Product,Staff,87.0,341300,1.9
+META-0458,Priya Silva,Meta Platforms,META,Operations,Staff,89.1,409300,1.4
+META-0459,Ahmed Schmidt,Meta Platforms,META,Engineering,Senior,93.5,399100,3.3
+META-0460,Chen Chen,Meta Platforms,META,Design,Senior,72.2,229700,2.0
+META-0461,Aisha Anderson,Meta Platforms,META,Research & AI,Principal,73.0,569300,2.4
+META-0462,Fatima Cohen,Meta Platforms,META,Marketing,Principal,85.8,1139800,6.4
+META-0463,Arjun Reyes,Meta Platforms,META,Engineering,Senior,84.9,650000,3.3
+META-0464,Sofia Patel,Meta Platforms,META,Engineering,Staff,93.9,243800,11.3
+META-0465,Priya Yamamoto,Meta Platforms,META,Engineering,Senior,86.8,141900,1.9
+META-0466,David Singh,Meta Platforms,META,Engineering,Principal,81.3,212200,3.6
+META-0467,Emily Johnson,Meta Platforms,META,Marketing,Senior,68.8,161300,5.6
+META-0468,Wei Smith,Meta Platforms,META,Operations,Senior,81.6,483000,0.6
+META-0469,Priya Khan,Meta Platforms,META,Operations,Senior,88.4,701000,5.9
+META-0470,Kevin Khan,Meta Platforms,META,Legal & Policy,Senior,79.8,423000,3.9
+META-0471,Fatima Chen,Meta Platforms,META,Engineering,Staff,81.6,463500,2.6
+META-0472,Nina Petrov,Meta Platforms,META,Research & AI,Staff,79.0,302000,4.4
+META-0473,Wei Cohen,Meta Platforms,META,Finance,Director,91.7,267400,6.6
+META-0474,Raj Okafor,Meta Platforms,META,Marketing,VP,63.7,665800,8.0
+META-0475,Hiroshi Patel,Meta Platforms,META,Engineering,Staff,70.2,862900,4.5
+META-0476,Hiroshi Lee,Meta Platforms,META,Research & AI,Director,65.0,673100,4.9
+META-0477,Arjun Lopez,Meta Platforms,META,Engineering,SVP,93.4,1442900,8.3
+META-0478,Aisha Wilson,Meta Platforms,META,Sales & GTM,Director,69.4,930700,5.3
+META-0479,Chen Silva,Meta Platforms,META,Research & AI,Senior,76.4,299900,14.4
+META-0480,Thomas Martinez,Meta Platforms,META,Engineering,Principal,74.0,860500,9.5
+META-0481,Arjun Cohen,Meta Platforms,META,Product,Principal,75.7,589300,3.6
+META-0482,Daniel Singh,Meta Platforms,META,Sales & GTM,Senior Director,75.2,1556600,7.6
+META-0483,Mary Rossi,Meta Platforms,META,Research & AI,Staff,81.8,506600,6.9
+META-0484,Sofia Okafor,Meta Platforms,META,Finance,Senior,81.1,251500,2.4
+META-0485,Zoe Garcia,Meta Platforms,META,Marketing,Director,90.7,549600,4.9
+META-0486,Grace Kim,Meta Platforms,META,Research & AI,Senior,92.9,235700,9.4
+META-0487,James Murphy,Meta Platforms,META,Engineering,Senior,75.7,243100,3.5
+META-0488,Wei Wang,Meta Platforms,META,Sales & GTM,Principal,86.7,1563600,8.9
+META-0489,Aisha Petrov,Meta Platforms,META,Engineering,Principal,77.5,365200,3.0
+META-0490,Mary Ali,Meta Platforms,META,Sales & GTM,Director,97.5,1367300,4.9
+META-0491,Michael Silva,Meta Platforms,META,Engineering,Principal,73.8,1649000,2.3
+META-0492,John Khan,Meta Platforms,META,People/HR,Senior,88.0,134100,6.6
+META-0493,Olivia Kim,Meta Platforms,META,Research & AI,Senior,89.9,269200,2.3
+META-0494,Olivia Ali,Meta Platforms,META,Sales & GTM,Staff,64.8,356000,2.8
+META-0495,Zoe Murphy,Meta Platforms,META,Sales & GTM,SVP,80.2,1457000,6.0
+META-0496,James Tanaka,Meta Platforms,META,Operations,Staff,91.5,263100,1.4
+META-0497,Sofia Davis,Meta Platforms,META,Engineering,VP,62.1,547500,5.6
+META-0498,Ahmed Park,Meta Platforms,META,Marketing,Senior,62.1,332300,3.9
+META-0499,Samuel Singh,Meta Platforms,META,People/HR,Senior,61.6,124400,2.4
+META-0500,Daniel Nguyen,Meta Platforms,META,People/HR,Senior,72.0,222500,2.7
+META-0501,Sofia Tanaka,Meta Platforms,META,Engineering,VP,54.0,470000,10.1
+META-0502,Hiroshi Petrov,Meta Platforms,META,Engineering,Senior,67.0,341100,0.2
+META-0503,Olivia Wilson,Meta Platforms,META,Engineering,Principal,75.1,688000,2.4
+META-0504,Elena Wilson,Meta Platforms,META,Engineering,Director,98.1,2469300,3.8
+META-0505,Sofia Yamamoto,Meta Platforms,META,Engineering,Senior,57.2,135000,7.2
+META-0506,Raj Rossi,Meta Platforms,META,Research & AI,Director,82.2,755400,10.7
+META-0507,Fatima Wang,Meta Platforms,META,Marketing,Staff,75.6,266400,7.3
+META-0508,Emily Lee,Meta Platforms,META,Engineering,Senior Director,91.2,861300,7.1
+META-0509,Hannah Kim,Meta Platforms,META,Research & AI,C-Suite,84.1,1462200,9.0
+META-0510,Mary Wang,Meta Platforms,META,Engineering,Senior,89.9,402800,6.1
+META-0511,Aisha Martinez,Meta Platforms,META,Product,Staff,95.1,420200,4.2
+META-0512,Maria Rossi,Meta Platforms,META,Finance,Staff,100.0,236700,4.4
+META-0513,Hiroshi Davis,Meta Platforms,META,Finance,Senior,82.9,126400,3.6
+META-0514,Thomas Schmidt,Meta Platforms,META,Engineering,VP,77.0,472400,5.3
+META-0515,Kevin Okafor,Meta Platforms,META,Product,Senior Director,62.0,575600,7.7
+META-0516,Hiroshi Nguyen,Meta Platforms,META,Research & AI,Senior Director,84.0,666500,11.9
+META-0517,Carlos Wang,Meta Platforms,META,Engineering,Director,89.5,335600,7.4
+META-0518,Linda Johnson,Meta Platforms,META,Engineering,Staff,90.9,680600,5.0
+META-0519,John Ali,Meta Platforms,META,Design,VP,91.3,526400,10.9
+META-0520,Raj Anderson,Meta Platforms,META,Engineering,Senior Director,98.8,1681300,7.7
+META-0521,Ahmed Brown,Meta Platforms,META,Design,Staff,73.2,289000,0.9
+META-0522,Linda Lopez,Meta Platforms,META,Design,Staff,87.1,1147700,5.3
+META-0523,Daniel Murphy,Meta Platforms,META,Engineering,Director,92.9,320900,5.1
+META-0524,Raj Kim,Meta Platforms,META,Sales & GTM,Senior,64.9,198400,0.9
+META-0525,Michael Okafor,Meta Platforms,META,Legal & Policy,Principal,83.3,519800,4.1
+META-0526,Elena Davis,Meta Platforms,META,Marketing,SVP,80.7,1027900,7.4
+META-0527,Olivia Anderson,Meta Platforms,META,Design,SVP,85.8,1151800,6.4
+META-0528,Fatima Smith,Meta Platforms,META,Sales & GTM,Senior,72.2,422000,1.9
+META-0529,Kevin Cohen,Meta Platforms,META,Finance,VP,87.0,875900,6.9
+META-0530,Hannah Cohen,Meta Platforms,META,Operations,Senior,81.9,499100,7.4
+META-0531,Priya Khan,Meta Platforms,META,Finance,Senior Director,83.3,780600,7.0
+META-0532,Thomas Nguyen,Meta Platforms,META,Research & AI,C-Suite,70.8,3280400,10.1
+META-0533,Michael Ali,Meta Platforms,META,Engineering,Principal,85.6,573600,18.9
+META-0534,Mary Cohen,Meta Platforms,META,Product,Principal,76.1,632700,1.6
+META-0535,Arjun Lee,Meta Platforms,META,Marketing,Principal,94.1,251500,6.2
+META-0536,Michael Garcia,Meta Platforms,META,Research & AI,Senior,93.6,87200,1.2
+META-0537,Sofia Park,Meta Platforms,META,Sales & GTM,Principal,68.5,1061500,6.0
+META-0538,Olivia Park,Meta Platforms,META,Engineering,Director,87.0,629600,4.5
+META-0539,Emily Singh,Meta Platforms,META,Operations,Senior,85.6,222100,4.1
+META-0540,Arjun Kim,Meta Platforms,META,Operations,Senior,88.9,228200,1.1
+META-0541,David Khan,Meta Platforms,META,Research & AI,Senior Director,80.8,1112700,7.0
+META-0542,Arjun Murphy,Meta Platforms,META,Design,Staff,82.5,918800,4.1
+META-0543,Ahmed Davis,Meta Platforms,META,Operations,Staff,58.6,349300,3.7
+META-0544,Kevin Kim,Meta Platforms,META,Product,Staff,74.3,261200,5.9
+META-0545,Emily Kim,Meta Platforms,META,Research & AI,Senior,81.7,1599900,2.5
+META-0546,Grace Johnson,Meta Platforms,META,Operations,Senior Director,83.4,628400,8.3
+META-0547,Linda Singh,Meta Platforms,META,Research & AI,Principal,64.0,698500,8.6
+META-0548,Grace Murphy,Meta Platforms,META,Product,Senior,88.2,94100,3.1
+META-0549,Nina Brown,Meta Platforms,META,Finance,Senior,67.9,341900,3.1
+META-0550,Nina Schmidt,Meta Platforms,META,Product,SVP,62.3,404200,10.4
+META-0551,Grace Kim,Meta Platforms,META,Engineering,Principal,71.6,379800,3.7
+META-0552,Elena Khan,Meta Platforms,META,Product,Senior,83.1,112700,1.5
+META-0553,Chen Silva,Meta Platforms,META,Engineering,Senior,55.0,115800,2.4
+META-0554,Maria Lee,Meta Platforms,META,Finance,Senior,81.0,520700,2.5
+META-0555,Emily Park,Meta Platforms,META,Finance,Staff,57.6,273800,7.2
+META-0556,John Cohen,Meta Platforms,META,People/HR,Director,100.0,732300,16.3
+META-0557,Michael Silva,Meta Platforms,META,Sales & GTM,Staff,67.8,516400,3.1
+META-0558,Fatima Lopez,Meta Platforms,META,Engineering,Senior Director,73.6,1037300,8.4
+META-0559,Hiroshi Tanaka,Meta Platforms,META,Engineering,Principal,72.7,500200,4.1
+META-0560,James Smith,Meta Platforms,META,Product,Senior,100.0,255400,4.1
+META-0561,Aisha Schmidt,Meta Platforms,META,Engineering,Principal,75.1,418000,3.2
+META-0562,Thomas Okafor,Meta Platforms,META,Engineering,Director,50.8,522700,8.8
+META-0563,Maria Schmidt,Meta Platforms,META,Engineering,Principal,83.1,342500,9.6
+META-0564,Mary Lopez,Meta Platforms,META,Design,Principal,78.0,289000,5.1
+META-0565,Linda Reyes,Meta Platforms,META,Marketing,Senior,65.2,244200,7.1
+META-0566,Michael Brown,Meta Platforms,META,Sales & GTM,Senior,64.3,477000,5.0
+META-0567,Grace Chen,Meta Platforms,META,Engineering,Senior,81.0,563500,10.7
+META-0568,Kevin Lopez,Meta Platforms,META,Engineering,Director,93.9,1442900,11.4
+META-0569,Sofia Davis,Meta Platforms,META,Research & AI,Director,81.1,516200,8.5
+META-0570,Daniel Lopez,Meta Platforms,META,Engineering,Senior Director,60.8,496200,9.3
+META-0571,Raj Yamamoto,Meta Platforms,META,Engineering,Director,69.2,363400,5.6
+META-0572,Fatima Lopez,Meta Platforms,META,Engineering,Staff,100.0,633200,4.5
+META-0573,Hiroshi Wang,Meta Platforms,META,Engineering,Senior Director,92.7,884100,6.8
+META-0574,Linda Singh,Meta Platforms,META,Finance,Senior,60.2,388700,3.7
+META-0575,Carlos Cohen,Meta Platforms,META,Engineering,Principal,76.7,502500,8.0
+META-0576,Hiroshi Davis,Meta Platforms,META,Engineering,Staff,100.0,339800,5.6
+META-0577,Ahmed Brown,Meta Platforms,META,Research & AI,Staff,81.5,593600,4.9
+META-0578,Wei Lopez,Meta Platforms,META,Engineering,Senior Director,76.5,613200,8.1
+META-0579,Daniel Okafor,Meta Platforms,META,Sales & GTM,Senior,61.5,103700,12.0
+META-0580,Daniel Kim,Meta Platforms,META,Engineering,Staff,99.9,1001400,1.6
+META-0581,Samuel Singh,Meta Platforms,META,Engineering,Staff,65.2,333100,4.5
+META-0582,Nina Tanaka,Meta Platforms,META,Legal & Policy,Staff,83.7,320500,1.4
+META-0583,Raj Anderson,Meta Platforms,META,Research & AI,Staff,80.7,729500,3.8
+META-0584,Emily Chen,Meta Platforms,META,Engineering,Staff,84.3,239900,2.7
+META-0585,James Ali,Meta Platforms,META,Legal & Policy,Senior,80.2,137800,3.7
+META-0586,Kevin Cohen,Meta Platforms,META,Operations,Staff,83.6,366400,7.9
+META-0587,Samuel Tanaka,Meta Platforms,META,Legal & Policy,Staff,82.6,405000,1.0
+META-0588,Samuel Nguyen,Meta Platforms,META,Engineering,Senior Director,74.0,1379100,5.5
+META-0589,Linda Garcia,Meta Platforms,META,Engineering,Principal,100.0,198800,1.7
+META-0590,Michael Smith,Meta Platforms,META,Product,Staff,70.7,601200,6.9
+META-0591,Raj Martinez,Meta Platforms,META,Engineering,Senior Director,77.5,1257600,17.0
+META-0592,Ahmed Cohen,Meta Platforms,META,People/HR,Principal,88.2,146900,4.2
+META-0593,Daniel Martinez,Meta Platforms,META,Product,Staff,71.1,479900,3.0
+META-0594,Kevin Yamamoto,Meta Platforms,META,Product,Principal,73.2,724500,4.1
+META-0595,Mary Chen,Meta Platforms,META,Operations,SVP,87.7,820400,7.8
+META-0596,Zoe Reyes,Meta Platforms,META,Legal & Policy,Staff,78.9,393900,14.2
+META-0597,Aisha Rossi,Meta Platforms,META,Engineering,Senior,79.1,313600,4.9
+META-0598,James Yamamoto,Meta Platforms,META,Research & AI,Senior,73.2,135900,2.9
+META-0599,Carlos Wilson,Meta Platforms,META,People/HR,Staff,73.8,141800,6.7
+META-0600,Sofia Khan,Meta Platforms,META,Product,Senior,98.0,1106000,6.4
+META-0601,Priya Brown,Meta Platforms,META,Engineering,Senior,69.9,218400,5.8
+META-0602,Fatima Kim,Meta Platforms,META,Design,Senior Director,84.1,998100,3.7
+META-0603,Raj Petrov,Meta Platforms,META,Operations,Senior,75.4,150900,11.1
+META-0604,Grace Kim,Meta Platforms,META,Engineering,Principal,97.2,310100,5.5
+META-0605,John Khan,Meta Platforms,META,Research & AI,Senior Director,87.7,691000,13.9
+META-0606,John Reyes,Meta Platforms,META,Research & AI,Director,72.9,866400,9.6
+META-0607,Kevin Cohen,Meta Platforms,META,Engineering,Senior,73.8,239500,5.2
+META-0608,John Nguyen,Meta Platforms,META,Legal & Policy,Senior,74.8,734600,3.4
+META-0609,Samuel Ali,Meta Platforms,META,Engineering,Staff,74.9,324800,9.7
+META-0610,James Smith,Meta Platforms,META,Legal & Policy,Senior,76.8,350000,3.6
+META-0611,Linda Nguyen,Meta Platforms,META,Engineering,Staff,86.9,978100,2.7
+META-0612,James Park,Meta Platforms,META,Engineering,Senior Director,80.9,890000,4.5
+META-0613,Mary Nguyen,Meta Platforms,META,People/HR,Principal,72.4,466100,4.8
+META-0614,Maria Park,Meta Platforms,META,Finance,Principal,98.7,917000,13.7
+META-0615,James Lopez,Meta Platforms,META,Engineering,Staff,74.5,962300,3.8
+META-0616,Priya Tanaka,Meta Platforms,META,Engineering,Principal,60.0,257500,2.6
+META-0617,Hiroshi Schmidt,Meta Platforms,META,Sales & GTM,Senior Director,99.8,430700,4.5
+META-0618,Elena Lee,Meta Platforms,META,Engineering,Senior,90.3,115900,1.7
+META-0619,Hiroshi Wilson,Meta Platforms,META,Engineering,Staff,84.2,204900,4.9
+META-0620,Kevin Silva,Meta Platforms,META,Marketing,Staff,75.5,660900,3.3
+META-0621,Maria Murphy,Meta Platforms,META,Engineering,Principal,91.3,679500,1.9
+META-0622,James Wang,Meta Platforms,META,Engineering,VP,91.9,1252700,6.1
+META-0623,James Johnson,Meta Platforms,META,Sales & GTM,Principal,75.2,701200,5.4
+META-0624,Maria Rossi,Meta Platforms,META,Research & AI,VP,64.2,5683500,11.0
+META-0625,Samuel Chen,Meta Platforms,META,Operations,Senior,85.0,339900,4.0
+META-0626,John Smith,Meta Platforms,META,Product,VP,85.5,4181800,5.6
+META-0627,Mary Martinez,Meta Platforms,META,Engineering,Senior Director,80.5,1619200,4.4
+META-0628,Aisha Anderson,Meta Platforms,META,Engineering,Senior,79.1,784700,2.7
+META-0629,Wei Schmidt,Meta Platforms,META,Research & AI,Principal,66.3,414700,5.1
+META-0630,Sofia Tanaka,Meta Platforms,META,Engineering,Senior,98.2,387100,1.0
+META-0631,John Khan,Meta Platforms,META,Engineering,Senior,86.0,671900,4.4
+META-0632,Yuki Martinez,Meta Platforms,META,Engineering,VP,97.3,1320900,10.0
+META-0633,Wei Smith,Meta Platforms,META,Sales & GTM,Staff,83.7,505700,4.7
+META-0634,Priya Wilson,Meta Platforms,META,Operations,Senior,70.2,118400,7.3
+META-0635,Fatima Johnson,Meta Platforms,META,Product,Senior,100.0,760200,1.0
+META-0636,Elena Garcia,Meta Platforms,META,Engineering,Staff,59.7,241300,0.8
+META-0637,Aisha Murphy,Meta Platforms,META,Engineering,Senior,77.2,148900,5.7
+META-0638,Arjun Kim,Meta Platforms,META,Legal & Policy,Director,100.0,1216100,9.2
+META-0639,Fatima Wilson,Meta Platforms,META,Product,Principal,98.3,994100,8.8
+META-0640,Chen Murphy,Meta Platforms,META,Engineering,Staff,85.8,498800,7.0
+META-0641,Carlos Nguyen,Meta Platforms,META,Research & AI,Staff,68.2,187600,6.6
+META-0642,Hannah Park,Meta Platforms,META,Sales & GTM,SVP,62.1,927100,7.2
+META-0643,Fatima Rossi,Meta Platforms,META,Engineering,Director,69.6,757800,10.3
+META-0644,Hannah Reyes,Meta Platforms,META,Marketing,Staff,80.1,141500,6.6
+META-0645,Hiroshi Reyes,Meta Platforms,META,Engineering,Senior,77.6,374400,6.7
+META-0646,Kevin Petrov,Meta Platforms,META,Product,Senior Director,85.0,561600,8.7
+META-0647,Wei Lee,Meta Platforms,META,Engineering,Senior,77.9,147400,1.4
+META-0648,Emily Tanaka,Meta Platforms,META,Engineering,Staff,100.0,338000,5.8
+META-0649,James Ali,Meta Platforms,META,People/HR,Staff,51.9,182900,3.9
+META-0650,Emily Hassan,Meta Platforms,META,Legal & Policy,Staff,77.2,302200,2.5
+META-0651,Linda Silva,Meta Platforms,META,Engineering,Senior,71.8,235900,5.6
+META-0652,David Anderson,Meta Platforms,META,Legal & Policy,Principal,86.7,354900,6.4
+META-0653,Raj Hassan,Meta Platforms,META,Legal & Policy,Senior,90.1,455700,3.1
+META-0654,Michael Patel,Meta Platforms,META,Operations,Senior Director,84.8,460500,5.6
+META-0655,Grace Anderson,Meta Platforms,META,Research & AI,Senior,74.1,178600,9.5
+META-0656,Hannah Petrov,Meta Platforms,META,Legal & Policy,SVP,100.0,1468900,13.8
+META-0657,John Singh,Meta Platforms,META,Engineering,Senior,78.9,605600,1.6
+META-0658,Thomas Nguyen,Meta Platforms,META,Operations,Director,77.8,1434200,7.4
+META-0659,Wei Wilson,Meta Platforms,META,Sales & GTM,Senior,72.7,569300,6.7
+META-0660,Priya Ali,Meta Platforms,META,Research & AI,SVP,86.8,870600,7.7
+META-0661,Thomas Silva,Meta Platforms,META,Engineering,Senior Director,81.1,1077300,4.8
+META-0662,Grace Brown,Meta Platforms,META,Operations,Senior,90.6,383900,2.1
+META-0663,Wei Wilson,Meta Platforms,META,Product,Principal,69.0,779400,3.1
+META-0664,Maria Patel,Meta Platforms,META,Research & AI,SVP,88.1,1012600,7.4
+META-0665,Ahmed Reyes,Meta Platforms,META,Operations,Senior,77.0,331500,1.6
+META-0666,Carlos Garcia,Meta Platforms,META,Marketing,Principal,61.5,770700,2.9
+META-0667,David Patel,Meta Platforms,META,Engineering,Senior,63.8,51900,0.8
+META-0668,Hannah Davis,Meta Platforms,META,Research & AI,Staff,91.5,854300,7.4
+META-0669,Maria Rossi,Meta Platforms,META,Research & AI,Senior Director,98.8,766700,3.6
+META-0670,Zoe Martinez,Meta Platforms,META,Finance,Principal,79.6,270200,7.3
+META-0671,Mary Lopez,Meta Platforms,META,Product,Senior,78.4,274100,9.2
+META-0672,Arjun Okafor,Meta Platforms,META,Engineering,Senior Director,87.9,2224000,5.7
+META-0673,Samuel Okafor,Meta Platforms,META,Product,Staff,76.7,425600,5.1
+META-0674,Chen Yamamoto,Meta Platforms,META,Product,Senior,77.8,287700,4.9
+META-0675,Zoe Chen,Meta Platforms,META,Product,Director,79.7,668000,6.3
+META-0676,Ahmed Reyes,Meta Platforms,META,Design,Senior,64.4,179900,11.3
+META-0677,John Lopez,Meta Platforms,META,Operations,Staff,76.3,189600,4.7
+META-0678,Thomas Nguyen,Meta Platforms,META,Engineering,Director,94.4,499400,5.7
+META-0679,Sofia Brown,Meta Platforms,META,Design,VP,80.2,868500,8.5
+META-0680,Daniel Wilson,Meta Platforms,META,Sales & GTM,Senior,93.8,159500,10.5
+META-0681,Emily Lee,Meta Platforms,META,Engineering,VP,93.0,925800,8.6
+META-0682,Chen Anderson,Meta Platforms,META,Operations,Senior Director,73.5,972800,6.7
+META-0683,Grace Cohen,Meta Platforms,META,Marketing,Senior,69.2,229500,6.0
+META-0684,Mary Chen,Meta Platforms,META,Product,Staff,97.5,104000,5.1
+META-0685,Aisha Anderson,Meta Platforms,META,Engineering,Principal,91.3,1517300,7.7
+META-0686,Ahmed Park,Meta Platforms,META,Engineering,Staff,83.3,420800,3.3
+META-0687,Kevin Park,Meta Platforms,META,Sales & GTM,Senior,77.9,483700,2.3
+META-0688,Zoe Brown,Meta Platforms,META,Engineering,Senior,100.0,671300,1.3
+META-0689,Maria Patel,Meta Platforms,META,Sales & GTM,Staff,78.0,209400,8.9
+META-0690,Linda Reyes,Meta Platforms,META,Engineering,Director,71.1,883100,3.9
+META-0691,Sofia Lopez,Meta Platforms,META,Sales & GTM,Principal,94.3,558400,5.7
+META-0692,Aisha Silva,Meta Platforms,META,Design,Senior Director,67.7,1366100,8.0
+META-0693,John Tanaka,Meta Platforms,META,Marketing,Director,73.5,726200,5.3
+META-0694,Priya Lee,Meta Platforms,META,Sales & GTM,Principal,82.3,387400,3.7
+META-0695,James Lopez,Meta Platforms,META,Legal & Policy,Director,75.2,530300,3.2
+META-0696,James Lopez,Meta Platforms,META,Sales & GTM,Director,100.0,1150300,3.7
+META-0697,Raj Nguyen,Meta Platforms,META,Engineering,Principal,71.0,536300,17.5
+META-0698,Zoe Smith,Meta Platforms,META,Sales & GTM,Senior,66.0,414500,9.6
+META-0699,Fatima Brown,Meta Platforms,META,Product,Senior,72.8,661100,1.0
+META-0700,David Reyes,Meta Platforms,META,Engineering,VP,85.9,2792700,5.4
+META-0701,Emily Murphy,Meta Platforms,META,Research & AI,Senior,71.8,218100,0.9
+META-0702,David Park,Meta Platforms,META,People/HR,Senior,89.3,444800,2.1
+META-0703,Chen Brown,Meta Platforms,META,Product,VP,78.7,2207800,10.7
+META-0704,Hiroshi Lopez,Meta Platforms,META,Product,Senior,56.6,514900,10.6
+META-0705,Sofia Anderson,Meta Platforms,META,Engineering,Senior,54.7,363800,9.6
+META-0706,Olivia Davis,Meta Platforms,META,People/HR,Staff,100.0,803100,8.0
+META-0707,Zoe Anderson,Meta Platforms,META,Operations,Staff,74.0,244700,2.3
+META-0708,Arjun Rossi,Meta Platforms,META,Operations,Senior,93.0,708000,7.4
+META-0709,Emily Lopez,Meta Platforms,META,Engineering,VP,89.5,806200,12.9
+META-0710,Sofia Okafor,Meta Platforms,META,Finance,Senior,71.8,341800,1.4
+META-0711,John Park,Meta Platforms,META,Marketing,Senior,63.2,156500,12.2
+META-0712,Wei Okafor,Meta Platforms,META,Engineering,Principal,95.6,1217600,4.0
+META-0713,Chen Tanaka,Meta Platforms,META,Engineering,Senior,96.0,174000,14.3
+META-0714,Raj Murphy,Meta Platforms,META,Marketing,Senior Director,90.2,736000,6.6
+META-0715,Samuel Lee,Meta Platforms,META,Engineering,Staff,82.8,472700,4.2
+META-0716,Linda Silva,Meta Platforms,META,Finance,Senior Director,83.0,548300,5.9
+META-0717,Arjun Johnson,Meta Platforms,META,Research & AI,Senior,87.5,144600,6.0
+META-0718,Michael Petrov,Meta Platforms,META,Research & AI,Senior Director,65.7,370800,5.3
+META-0719,Olivia Tanaka,Meta Platforms,META,Finance,Senior,81.0,441300,6.6
+META-0720,Michael Silva,Meta Platforms,META,Engineering,Senior,75.9,520600,12.4
+META-0721,Grace Reyes,Meta Platforms,META,Research & AI,Staff,89.5,612800,2.2
+META-0722,Hannah Smith,Meta Platforms,META,Engineering,Director,85.7,840500,4.8
+META-0723,Linda Reyes,Meta Platforms,META,Research & AI,Staff,83.0,132700,4.6
+META-0724,David Brown,Meta Platforms,META,Engineering,Staff,79.0,308700,4.5
+META-0725,John Lee,Meta Platforms,META,Sales & GTM,Senior Director,86.4,1567700,4.4
+META-0726,Mary Hassan,Meta Platforms,META,Research & AI,Senior,93.6,742800,8.7
+META-0727,Hannah Martinez,Meta Platforms,META,Engineering,Senior,91.2,342900,3.7
+META-0728,Mary Lopez,Meta Platforms,META,Legal & Policy,Senior Director,80.3,420700,5.5
+META-0729,James Anderson,Meta Platforms,META,Design,Principal,76.7,1285700,4.2
+META-0730,Aisha Garcia,Meta Platforms,META,Engineering,Director,90.6,1173100,3.9
+META-0731,Wei Chen,Meta Platforms,META,Engineering,Senior Director,72.5,1242500,4.8
+META-0732,Daniel Schmidt,Meta Platforms,META,Engineering,Senior,73.3,790300,15.4
+META-0733,Grace Nguyen,Meta Platforms,META,Engineering,Staff,66.3,447500,6.8
+META-0734,Aisha Davis,Meta Platforms,META,Research & AI,Director,96.5,1298000,3.4
+META-0735,Maria Brown,Meta Platforms,META,Sales & GTM,Senior Director,83.6,457200,10.9
+META-0736,James Wilson,Meta Platforms,META,Engineering,Staff,62.9,444200,7.8
+META-0737,Wei Kim,Meta Platforms,META,Sales & GTM,Senior,70.9,233300,8.9
+META-0738,Michael Murphy,Meta Platforms,META,Engineering,Staff,80.2,432600,4.1
+META-0739,Carlos Davis,Meta Platforms,META,Finance,Staff,75.0,485500,10.3
+META-0740,Olivia Wilson,Meta Platforms,META,Legal & Policy,Director,64.7,509300,5.5
+META-0741,James Yamamoto,Meta Platforms,META,Research & AI,Senior,69.5,174600,3.7
+META-0742,Sofia Wang,Meta Platforms,META,Operations,VP,94.8,1957400,8.8
+META-0743,Maria Khan,Meta Platforms,META,Sales & GTM,Director,84.7,537800,7.6
+META-0744,Grace Garcia,Meta Platforms,META,Research & AI,Senior,79.0,272200,6.5
+META-0745,Daniel Lopez,Meta Platforms,META,Sales & GTM,Staff,90.9,671900,6.1
+META-0746,Emily Wilson,Meta Platforms,META,Design,Principal,97.9,1580600,5.3
+META-0747,Mary Schmidt,Meta Platforms,META,Engineering,Principal,84.9,363000,5.9
+META-0748,Nina Wang,Meta Platforms,META,Marketing,Staff,81.8,126700,8.8
+META-0749,Nina Garcia,Meta Platforms,META,Engineering,Principal,70.1,301200,4.8
+META-0750,Ahmed Cohen,Meta Platforms,META,Operations,Staff,85.5,325300,5.8
+META-0751,Yuki Patel,Meta Platforms,META,Engineering,Principal,93.2,380900,14.7
+META-0752,Samuel Martinez,Meta Platforms,META,Engineering,Staff,79.0,850800,7.8
+META-0753,Nina Anderson,Meta Platforms,META,Operations,Senior Director,90.1,630400,5.9
+META-0754,Yuki Reyes,Meta Platforms,META,Legal & Policy,Senior Director,93.5,445800,5.8
+META-0755,Chen Hassan,Meta Platforms,META,Research & AI,Staff,94.8,569000,6.7
+META-0756,Michael Petrov,Meta Platforms,META,People/HR,Senior,73.8,73500,1.9
+META-0757,Elena Reyes,Meta Platforms,META,Engineering,Director,95.6,638300,14.3
+META-0758,Wei Anderson,Meta Platforms,META,Research & AI,Senior,60.9,345000,1.5
+META-0759,Elena Kim,Meta Platforms,META,Sales & GTM,Director,84.5,1214700,5.8
+META-0760,Ahmed Anderson,Meta Platforms,META,Engineering,Staff,69.1,313900,4.6
+META-0761,James Lee,Meta Platforms,META,Research & AI,Senior,49.8,214500,3.4
+META-0762,Thomas Wilson,Meta Platforms,META,Engineering,Senior,75.7,272300,1.3
+META-0763,Olivia Patel,Meta Platforms,META,Engineering,Staff,81.4,363800,2.0
+META-0764,Linda Silva,Meta Platforms,META,Finance,Senior,58.8,190400,7.0
+META-0765,Michael Wilson,Meta Platforms,META,Design,Senior,96.7,357400,10.9
+META-0766,Carlos Okafor,Meta Platforms,META,Sales & GTM,Staff,99.8,538900,4.6
+META-0767,Emily Schmidt,Meta Platforms,META,Sales & GTM,Staff,86.9,254800,4.7
+META-0768,Raj Park,Meta Platforms,META,Product,Senior,80.7,202300,4.8
+META-0769,Fatima Park,Meta Platforms,META,Research & AI,Senior,71.1,493900,2.2
+META-0770,Thomas Singh,Meta Platforms,META,Operations,Staff,59.8,256700,1.7
+META-0771,Ahmed Patel,Meta Platforms,META,Research & AI,Senior,64.8,265300,3.4
+META-0772,Olivia Wilson,Meta Platforms,META,Engineering,Staff,68.4,688500,2.9
+META-0773,Kevin Wang,Meta Platforms,META,Operations,Director,88.2,1198000,15.6
+META-0774,Fatima Yamamoto,Meta Platforms,META,Engineering,Senior,72.9,152700,2.8
+META-0775,John Chen,Meta Platforms,META,Engineering,Staff,90.5,232100,3.3
+META-0776,Zoe Hassan,Meta Platforms,META,Research & AI,Staff,65.6,287700,7.0
+META-0777,Maria Okafor,Meta Platforms,META,Engineering,Senior Director,100.0,519900,5.0
+META-0778,Hiroshi Kim,Meta Platforms,META,Sales & GTM,Principal,82.2,1063100,5.2
+META-0779,Raj Lopez,Meta Platforms,META,Engineering,Director,83.4,674500,8.1
+META-0780,Chen Lopez,Meta Platforms,META,Design,Principal,91.0,373200,5.9
+META-0781,Michael Okafor,Meta Platforms,META,Finance,Staff,79.3,361700,7.9
+META-0782,Emily Silva,Meta Platforms,META,Legal & Policy,Staff,71.8,409600,3.9
+META-0783,Wei Chen,Meta Platforms,META,Sales & GTM,Senior,89.2,694600,4.2
+META-0784,Hannah Cohen,Meta Platforms,META,Marketing,Senior,90.7,220000,3.2
+META-0785,Samuel Smith,Meta Platforms,META,Operations,Senior,87.3,146300,0.3
+META-0786,Wei Patel,Meta Platforms,META,Sales & GTM,Senior,76.5,492900,3.3
+META-0787,James Brown,Meta Platforms,META,Product,VP,64.0,919500,6.4
+META-0788,Hannah Yamamoto,Meta Platforms,META,Engineering,Senior,82.7,142400,4.0
+META-0789,Mary Reyes,Meta Platforms,META,Research & AI,Staff,88.8,314800,4.8
+META-0790,Olivia Cohen,Meta Platforms,META,Operations,Director,69.5,341900,10.4
+META-0791,Grace Martinez,Meta Platforms,META,Engineering,Staff,63.7,580300,1.9
+META-0792,Daniel Rossi,Meta Platforms,META,Engineering,Principal,73.4,752600,5.3
+META-0793,Zoe Nguyen,Meta Platforms,META,Research & AI,Senior,90.6,198800,1.3
+META-0794,Samuel Wang,Meta Platforms,META,Engineering,Director,74.7,454500,6.8
+META-0795,Hannah Martinez,Meta Platforms,META,Research & AI,Principal,72.1,122000,16.2
+META-0796,David Chen,Meta Platforms,META,Engineering,Principal,96.4,815400,5.0
+META-0797,Olivia Petrov,Meta Platforms,META,Engineering,VP,89.4,1072500,5.7
+META-0798,David Kim,Meta Platforms,META,Operations,Senior,93.5,147200,4.6
+META-0799,Hannah Garcia,Meta Platforms,META,Finance,Staff,87.0,781000,5.4
+META-0800,Olivia Petrov,Meta Platforms,META,Engineering,Senior,80.0,131100,2.4
+META-0801,Thomas Khan,Meta Platforms,META,Engineering,Staff,76.0,475000,3.6
+META-0802,Hannah Nguyen,Meta Platforms,META,Product,Staff,69.5,480000,1.8
+META-0803,Chen Martinez,Meta Platforms,META,Engineering,Staff,70.0,280600,9.8
+META-0804,Michael Kim,Meta Platforms,META,Engineering,Staff,93.6,793600,4.3
+META-0805,Priya Tanaka,Meta Platforms,META,Research & AI,Director,74.1,462200,8.6
+META-0806,Linda Ali,Meta Platforms,META,Design,Staff,95.7,383500,3.1
+META-0807,Chen Anderson,Meta Platforms,META,Research & AI,Senior,82.8,162900,6.7
+META-0808,Linda Schmidt,Meta Platforms,META,Design,Principal,76.9,576800,9.4
+META-0809,Carlos Tanaka,Meta Platforms,META,Product,Staff,86.5,317900,3.5
+META-0810,Priya Ali,Meta Platforms,META,Finance,Staff,76.1,284400,2.5
+META-0811,Daniel Park,Meta Platforms,META,Finance,Director,68.7,1091600,6.3
+META-0812,Olivia Okafor,Meta Platforms,META,Product,Principal,72.6,448400,8.6
+META-0813,Samuel Khan,Meta Platforms,META,Engineering,Staff,61.9,527100,8.8
+META-0814,Grace Garcia,Meta Platforms,META,Engineering,Staff,70.2,224400,1.2
+META-0815,Arjun Anderson,Meta Platforms,META,Product,Principal,86.2,627300,12.0
+META-0816,Chen Chen,Meta Platforms,META,Engineering,Senior Director,72.6,913800,8.1
+META-0817,James Brown,Meta Platforms,META,Research & AI,Senior Director,75.5,632100,10.3
+META-0818,Zoe Kim,Meta Platforms,META,Finance,Staff,99.5,356100,6.9
+META-0819,Hiroshi Nguyen,Meta Platforms,META,Engineering,Senior,79.6,916600,4.4
+META-0820,Hannah Anderson,Meta Platforms,META,Operations,Senior,76.2,514200,7.7
+META-0821,Thomas Smith,Meta Platforms,META,Legal & Policy,Senior Director,80.5,520800,9.2
+META-0822,Michael Martinez,Meta Platforms,META,Engineering,Staff,87.2,262600,8.3
+META-0823,Yuki Patel,Meta Platforms,META,Research & AI,VP,79.0,1357300,13.7
+META-0824,Olivia Park,Meta Platforms,META,Sales & GTM,Staff,76.0,913900,3.8
+META-0825,Linda Lee,Meta Platforms,META,Finance,Staff,78.7,94500,8.5
+META-0826,Mary Chen,Meta Platforms,META,Research & AI,Staff,80.2,562800,9.7
+META-0827,John Petrov,Meta Platforms,META,Legal & Policy,Staff,80.9,176100,3.4
+META-0828,Sofia Tanaka,Meta Platforms,META,Sales & GTM,Senior,59.8,215900,9.4
+META-0829,Arjun Silva,Meta Platforms,META,Engineering,Senior,65.7,390400,6.4
+META-0830,Hannah Wang,Meta Platforms,META,Research & AI,Director,94.5,475400,11.4
+META-0831,Zoe Nguyen,Meta Platforms,META,Engineering,Principal,90.6,473500,2.5
+META-0832,Thomas Lopez,Meta Platforms,META,Sales & GTM,Staff,68.1,529800,8.6
+META-0833,Emily Cohen,Meta Platforms,META,Engineering,Principal,58.3,552800,6.6
+META-0834,Emily Petrov,Meta Platforms,META,Design,Senior,91.7,649700,4.2
+META-0835,Kevin Lopez,Meta Platforms,META,Engineering,Staff,88.8,687000,4.5
+META-0836,James Smith,Meta Platforms,META,Product,Principal,82.9,452100,13.7
+META-0837,Kevin Reyes,Meta Platforms,META,Engineering,Senior Director,92.3,942000,16.4
+META-0838,James Anderson,Meta Platforms,META,Marketing,Staff,82.6,262200,4.2
+META-0839,Emily Yamamoto,Meta Platforms,META,Engineering,Principal,64.3,210900,5.0
+META-0840,Chen Hassan,Meta Platforms,META,People/HR,Staff,71.1,471700,5.3
+META-0841,Maria Kim,Meta Platforms,META,Research & AI,Senior,92.8,350400,9.3
+META-0842,Grace Cohen,Meta Platforms,META,Operations,Senior,63.4,276400,3.9
+META-0843,Wei Schmidt,Meta Platforms,META,Research & AI,Staff,83.4,231700,5.2
+META-0844,Wei Martinez,Meta Platforms,META,Engineering,Principal,94.9,1002900,5.7
+META-0845,Wei Anderson,Meta Platforms,META,Engineering,Staff,82.2,415200,3.4
+META-0846,Aisha Lopez,Meta Platforms,META,Operations,Staff,99.6,1900100,4.3
+META-0847,Wei Patel,Meta Platforms,META,Product,Principal,88.8,549200,3.8
+META-0848,Wei Murphy,Meta Platforms,META,Engineering,Senior,75.1,262700,1.7
+META-0849,Maria Schmidt,Meta Platforms,META,Sales & GTM,SVP,72.1,640200,7.5
+META-0850,Aisha Park,Meta Platforms,META,Engineering,Senior,75.2,277200,9.8
+META-0851,Grace Cohen,Meta Platforms,META,Engineering,Staff,62.2,712800,1.2
+META-0852,Samuel Silva,Meta Platforms,META,Engineering,VP,80.5,949200,8.5
+META-0853,Kevin Lopez,Meta Platforms,META,Marketing,Principal,75.6,285800,2.6
+META-0854,Hiroshi Nguyen,Meta Platforms,META,Engineering,Senior Director,86.8,1010000,8.1
+META-0855,Carlos Lee,Meta Platforms,META,Research & AI,VP,96.4,1102700,7.5
+META-0856,Emily Reyes,Meta Platforms,META,Engineering,Staff,91.2,186700,3.1
+META-0857,John Petrov,Meta Platforms,META,Product,VP,93.3,983400,7.0
+META-0858,Daniel Wang,Meta Platforms,META,Engineering,Staff,79.9,1016200,3.1
+META-0859,Ahmed Khan,Meta Platforms,META,Finance,Senior,86.2,1124500,5.4
+META-0860,Mary Park,Meta Platforms,META,Engineering,Senior,69.3,195500,2.0
+META-0861,Hannah Chen,Meta Platforms,META,Engineering,Principal,81.4,242300,3.8
+META-0862,Priya Wilson,Meta Platforms,META,Operations,Director,81.0,809300,8.9
+META-0863,Kevin Lee,Meta Platforms,META,Engineering,Senior Director,74.3,1725000,4.5
+META-0864,Hiroshi Cohen,Meta Platforms,META,Sales & GTM,Staff,66.9,325400,7.2
+META-0865,Mary Yamamoto,Meta Platforms,META,Engineering,Principal,74.9,759000,5.8
+META-0866,Kevin Lee,Meta Platforms,META,Engineering,Principal,88.6,871000,4.6
+META-0867,Yuki Johnson,Meta Platforms,META,Legal & Policy,VP,74.5,844400,5.0
+META-0868,Daniel Khan,Meta Platforms,META,Sales & GTM,Senior,81.8,197000,5.9
+META-0869,Hannah Johnson,Meta Platforms,META,Product,C-Suite,89.4,2779900,10.9
+META-0870,Elena Martinez,Meta Platforms,META,Operations,Principal,74.1,348400,5.0
+META-0871,Linda Tanaka,Meta Platforms,META,Product,Senior,58.6,166300,1.4
+META-0872,Mary Davis,Meta Platforms,META,Engineering,Senior Director,78.4,480000,3.7
+META-0873,Aisha Wang,Meta Platforms,META,Sales & GTM,Principal,95.7,863500,4.2
+META-0874,Mary Petrov,Meta Platforms,META,Research & AI,Staff,95.6,144800,3.6
+META-0875,Kevin Murphy,Meta Platforms,META,Research & AI,Senior,65.1,287900,8.0
+META-0876,Hiroshi Schmidt,Meta Platforms,META,Engineering,Senior,79.8,131000,9.9
+META-0877,Yuki Martinez,Meta Platforms,META,Design,Senior,82.3,579900,1.5
+META-0878,James Singh,Meta Platforms,META,Finance,Director,74.5,622400,5.6
+META-0879,Raj Petrov,Meta Platforms,META,Sales & GTM,Director,97.2,694300,4.2
+META-0880,Fatima Yamamoto,Meta Platforms,META,Design,Principal,63.9,129800,5.7
+META-0881,Hannah Murphy,Meta Platforms,META,Engineering,C-Suite,79.4,2043500,14.8
+META-0882,Thomas Patel,Meta Platforms,META,Operations,Staff,87.5,678900,5.7
+META-0883,Carlos Park,Meta Platforms,META,Product,Staff,62.8,487500,5.8
+META-0884,Elena Wang,Meta Platforms,META,Sales & GTM,Senior,73.2,254800,4.8
+META-0885,David Kim,Meta Platforms,META,Engineering,Director,72.8,952000,4.0
+META-0886,Wei Park,Meta Platforms,META,Research & AI,Senior Director,84.5,850100,7.7
+META-0887,Raj Wang,Meta Platforms,META,Research & AI,Director,75.5,501200,9.8
+META-0888,Sofia Brown,Meta Platforms,META,Engineering,Staff,84.7,307300,6.3
+META-0889,Emily Okafor,Meta Platforms,META,Marketing,VP,97.4,2246600,10.7
+META-0890,Maria Johnson,Meta Platforms,META,Product,VP,64.9,1435200,8.1
+META-0891,Samuel Singh,Meta Platforms,META,Engineering,Senior,84.6,461600,2.2
+META-0892,Priya Rossi,Meta Platforms,META,Engineering,Staff,77.4,793500,3.2
+META-0893,Fatima Martinez,Meta Platforms,META,Product,Senior,88.4,303700,4.6
+META-0894,Michael Yamamoto,Meta Platforms,META,Engineering,Principal,64.2,220200,2.6
+META-0895,Michael Petrov,Meta Platforms,META,Sales & GTM,Director,80.6,1441900,8.1
+META-0896,Kevin Park,Meta Platforms,META,Sales & GTM,Senior,83.6,139100,5.3
+META-0897,Grace Murphy,Meta Platforms,META,Engineering,Staff,88.1,940500,7.4
+META-0898,Ahmed Park,Meta Platforms,META,Engineering,Senior,82.5,554200,0.4
+META-0899,James Tanaka,Meta Platforms,META,Product,Staff,74.0,299800,4.6
+META-0900,Carlos Martinez,Meta Platforms,META,Finance,Principal,72.5,430400,4.1
+META-0901,Nina Brown,Meta Platforms,META,Engineering,Staff,71.4,350700,1.7
+META-0902,Olivia Hassan,Meta Platforms,META,Research & AI,Senior,76.8,362000,5.5
+META-0903,Yuki Schmidt,Meta Platforms,META,Research & AI,Senior,72.6,269200,5.9
+META-0904,Arjun Cohen,Meta Platforms,META,Sales & GTM,Senior,86.1,280800,3.2
+META-0905,Carlos Ali,Meta Platforms,META,Product,Staff,87.7,513900,2.7
+META-0906,Daniel Kim,Meta Platforms,META,Sales & GTM,Senior Director,65.3,1558400,9.7
+META-0907,Olivia Nguyen,Meta Platforms,META,Product,Senior,82.6,370400,5.9
+META-0908,Olivia Nguyen,Meta Platforms,META,Product,Staff,71.8,576000,6.8
+META-0909,James Smith,Meta Platforms,META,Engineering,Staff,75.2,315900,1.9
+META-0910,Wei Ali,Meta Platforms,META,People/HR,Senior,87.7,224900,2.2
+META-0911,Michael Singh,Meta Platforms,META,Operations,Principal,95.2,311000,4.3
+META-0912,James Patel,Meta Platforms,META,Research & AI,Senior Director,84.5,752300,4.2
+META-0913,Priya Smith,Meta Platforms,META,Finance,Senior Director,91.0,2234300,6.4
+META-0914,Sofia Reyes,Meta Platforms,META,Design,Director,68.7,432900,7.2
+META-0915,Raj Schmidt,Meta Platforms,META,Engineering,Staff,79.7,534300,6.0
+META-0916,Chen Johnson,Meta Platforms,META,Finance,Principal,90.9,451100,7.2
+META-0917,Kevin Park,Meta Platforms,META,Engineering,Director,72.1,806500,16.2
+META-0918,Thomas Reyes,Meta Platforms,META,Product,Director,59.5,181100,10.0
+META-0919,Raj Anderson,Meta Platforms,META,Operations,Principal,91.4,332400,4.2
+META-0920,Maria Martinez,Meta Platforms,META,Research & AI,Staff,83.9,479100,6.8
+META-0921,Ahmed Murphy,Meta Platforms,META,Sales & GTM,Senior Director,80.8,1219800,7.0
+META-0922,Priya Brown,Meta Platforms,META,Sales & GTM,Staff,72.8,405500,2.6
+META-0923,Michael Petrov,Meta Platforms,META,Operations,Principal,95.6,840300,4.8
+META-0924,Priya Reyes,Meta Platforms,META,Engineering,Senior,76.5,167300,0.4
+META-0925,Carlos Singh,Meta Platforms,META,Engineering,Senior,85.0,319000,0.6
+META-0926,Olivia Khan,Meta Platforms,META,Legal & Policy,Senior,74.0,731800,8.9
+META-0927,Linda Smith,Meta Platforms,META,Research & AI,Senior Director,77.9,1098200,5.9
+META-0928,Priya Smith,Meta Platforms,META,Engineering,Staff,81.8,188300,10.5
+META-0929,Ahmed Murphy,Meta Platforms,META,Operations,Principal,80.9,484100,4.9
+META-0930,Carlos Khan,Meta Platforms,META,Product,Senior,69.7,262800,4.9
+META-0931,Kevin Rossi,Meta Platforms,META,Legal & Policy,Senior Director,93.0,1284100,11.4
+META-0932,Sofia Anderson,Meta Platforms,META,Engineering,Senior,74.6,360400,2.6
+META-0933,Zoe Wilson,Meta Platforms,META,People/HR,Staff,79.1,735600,4.6
+META-0934,Maria Okafor,Meta Platforms,META,Engineering,Senior,75.2,236700,11.8
+META-0935,Carlos Ali,Meta Platforms,META,Legal & Policy,Senior,83.3,82900,4.7
+META-0936,Fatima Martinez,Meta Platforms,META,Engineering,Staff,85.5,154100,6.1
+META-0937,Maria Silva,Meta Platforms,META,Engineering,Principal,77.5,138400,5.8
+META-0938,Priya Schmidt,Meta Platforms,META,Research & AI,Director,92.4,273800,4.4
+META-0939,Nina Chen,Meta Platforms,META,Finance,Senior,78.4,296400,2.4
+META-0940,David Garcia,Meta Platforms,META,Sales & GTM,Senior,69.2,357600,2.4
+META-0941,Priya Park,Meta Platforms,META,Product,Senior,75.3,98100,8.1
+META-0942,Ahmed Hassan,Meta Platforms,META,Engineering,Senior Director,86.0,707400,8.2
+META-0943,Ahmed Wilson,Meta Platforms,META,Engineering,Principal,72.6,435700,6.0
+META-0944,Sofia Lee,Meta Platforms,META,Sales & GTM,Principal,100.0,543800,3.1
+META-0945,Carlos Smith,Meta Platforms,META,Marketing,Director,80.0,520400,17.6
+META-0946,Maria Park,Meta Platforms,META,Operations,Director,84.6,588200,8.1
+META-0947,Samuel Khan,Meta Platforms,META,Research & AI,Senior,88.8,409600,13.2
+META-0948,James Hassan,Meta Platforms,META,Engineering,Senior,75.6,294200,8.1
+META-0949,Carlos Garcia,Meta Platforms,META,Operations,Staff,67.2,300600,2.9
+META-0950,Sofia Garcia,Meta Platforms,META,Finance,Principal,100.0,401900,5.5
+META-0951,Wei Silva,Meta Platforms,META,Legal & Policy,Senior,86.4,124800,0.2
+META-0952,Emily Silva,Meta Platforms,META,Design,Senior,70.5,497000,2.2
+META-0953,Wei Okafor,Meta Platforms,META,Sales & GTM,Senior,68.0,537400,1.5
+META-0954,Kevin Brown,Meta Platforms,META,Product,Director,70.2,327200,5.9
+META-0955,Elena Yamamoto,Meta Platforms,META,Operations,Principal,72.9,361300,9.9
+META-0956,Maria Wang,Meta Platforms,META,Engineering,Staff,84.3,208800,11.4
+META-0957,Mary Tanaka,Meta Platforms,META,Engineering,Director,100.0,478600,12.2
+META-0958,Wei Cohen,Meta Platforms,META,Finance,VP,79.2,655000,21.7
+META-0959,Yuki Silva,Meta Platforms,META,Sales & GTM,Senior,73.2,236100,6.8
+META-0960,Emily Schmidt,Meta Platforms,META,Finance,VP,100.0,4748700,6.8
+META-0961,Emily Kim,Meta Platforms,META,Research & AI,Director,78.5,565800,7.5
+META-0962,Michael Schmidt,Meta Platforms,META,Product,Staff,79.2,617100,6.3
+META-0963,Daniel Smith,Meta Platforms,META,Research & AI,VP,86.5,500100,6.8
+META-0964,Linda Kim,Meta Platforms,META,Engineering,Director,84.9,394800,4.9
+META-0965,Michael Rossi,Meta Platforms,META,Engineering,Staff,74.2,174600,5.0
+META-0966,Maria Khan,Meta Platforms,META,Design,Senior,79.8,500500,10.0
+META-0967,James Schmidt,Meta Platforms,META,Legal & Policy,Senior,75.6,252200,6.3
+META-0968,Fatima Brown,Meta Platforms,META,People/HR,Senior Director,78.4,640900,5.2
+META-0969,Zoe Lee,Meta Platforms,META,Engineering,Director,73.5,548200,13.5
+META-0970,Arjun Lee,Meta Platforms,META,Engineering,Staff,95.8,1001500,0.6
+META-0971,Linda Murphy,Meta Platforms,META,Engineering,C-Suite,75.9,2674500,10.7
+META-0972,Fatima Hassan,Meta Platforms,META,Research & AI,Principal,76.3,169200,2.9
+META-0973,Grace Brown,Meta Platforms,META,Engineering,Senior Director,79.2,713600,5.2
+META-0974,Yuki Khan,Meta Platforms,META,Engineering,VP,88.7,1586500,5.8
+META-0975,Nina Cohen,Meta Platforms,META,Engineering,Senior,71.4,164400,1.4
+META-0976,David Chen,Meta Platforms,META,Engineering,Senior Director,78.6,1092500,16.0
+META-0977,Kevin Kim,Meta Platforms,META,Sales & GTM,Senior,73.7,179300,5.1
+META-0978,Kevin Chen,Meta Platforms,META,Product,Staff,70.4,447700,8.4
+META-0979,Michael Martinez,Meta Platforms,META,Operations,Staff,69.1,152500,4.4
+META-0980,Chen Davis,Meta Platforms,META,Research & AI,Staff,86.8,347400,4.8
+META-0981,Elena Yamamoto,Meta Platforms,META,Engineering,Principal,65.6,232200,2.6
+META-0982,Carlos Silva,Meta Platforms,META,Research & AI,Principal,80.2,380200,5.6
+META-0983,Mary Hassan,Meta Platforms,META,Research & AI,Senior,73.1,192300,5.0
+META-0984,Fatima Khan,Meta Platforms,META,Engineering,Staff,76.6,213800,3.8
+META-0985,Olivia Wilson,Meta Platforms,META,Operations,Senior,71.9,497900,6.2
+META-0986,Ahmed Garcia,Meta Platforms,META,Product,Principal,63.9,463800,5.8
+META-0987,Michael Murphy,Meta Platforms,META,Research & AI,Senior,64.0,150800,2.2
+META-0988,Linda Rossi,Meta Platforms,META,Product,Staff,90.0,349300,3.3
+META-0989,David Garcia,Meta Platforms,META,Legal & Policy,Senior Director,88.4,2081900,9.7
+META-0990,Hiroshi Chen,Meta Platforms,META,Sales & GTM,C-Suite,89.5,3368900,19.1
+META-0991,Thomas Patel,Meta Platforms,META,People/HR,Senior,93.0,372700,3.3
+META-0992,James Singh,Meta Platforms,META,Engineering,Senior Director,77.3,504700,8.9
+META-0993,David Rossi,Meta Platforms,META,Finance,Staff,73.7,238600,3.1
+META-0994,Nina Brown,Meta Platforms,META,Research & AI,Senior Director,74.5,771500,9.8
+META-0995,Ahmed Cohen,Meta Platforms,META,Legal & Policy,Staff,89.0,97800,2.4
+META-0996,Carlos Anderson,Meta Platforms,META,Sales & GTM,Staff,77.3,303100,4.3
+META-0997,Raj Lee,Meta Platforms,META,Design,Senior,80.6,160300,1.9
+META-0998,Michael Wang,Meta Platforms,META,Product,VP,84.8,3102200,19.6
+META-0999,Mary Anderson,Meta Platforms,META,Engineering,Staff,84.3,420400,4.2
+META-1000,Hiroshi Garcia,Meta Platforms,META,Product,Staff,81.8,482200,1.2

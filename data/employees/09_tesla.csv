@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+TSLA-0001,Aisha Ali,Tesla,TSLA,People/HR,Senior,77.9,325800,4.3
+TSLA-0002,Kevin Martinez,Tesla,TSLA,Sales & Service,C-Suite,83.3,1193500,7.7
+TSLA-0003,Zoe Kim,Tesla,TSLA,Operations,Staff,60.9,216600,2.0
+TSLA-0004,Mary Hassan,Tesla,TSLA,Engineering,Staff,75.1,458000,2.0
+TSLA-0005,Priya Brown,Tesla,TSLA,Manufacturing,Senior,78.5,164500,2.3
+TSLA-0006,Wei Silva,Tesla,TSLA,People/HR,Senior Director,71.3,245600,7.4
+TSLA-0007,Yuki Ali,Tesla,TSLA,Energy/Charging,Staff,78.6,584600,1.8
+TSLA-0008,Maria Hassan,Tesla,TSLA,Manufacturing,Senior,79.2,128500,2.3
+TSLA-0009,Michael Okafor,Tesla,TSLA,Finance,Senior Director,59.9,440500,8.1
+TSLA-0010,Kevin Davis,Tesla,TSLA,Engineering,Senior Director,76.0,460500,4.4
+TSLA-0011,Wei Park,Tesla,TSLA,Sales & Service,Senior Director,90.9,1015800,5.2
+TSLA-0012,Olivia Cohen,Tesla,TSLA,Energy/Charging,Director,89.6,587000,5.3
+TSLA-0013,Michael Tanaka,Tesla,TSLA,Design,Staff,83.6,368000,2.0
+TSLA-0014,David Silva,Tesla,TSLA,Engineering,Staff,74.5,188000,6.8
+TSLA-0015,Chen Smith,Tesla,TSLA,Operations,VP,83.3,388100,7.0
+TSLA-0016,Samuel Lee,Tesla,TSLA,Autonomy & AI,Senior,83.8,179200,2.3
+TSLA-0017,Fatima Khan,Tesla,TSLA,Manufacturing,Principal,75.1,278900,2.3
+TSLA-0018,Maria Patel,Tesla,TSLA,Sales & Service,C-Suite,81.9,2180900,12.3
+TSLA-0019,Chen Brown,Tesla,TSLA,Engineering,Senior Director,50.8,302900,7.3
+TSLA-0020,Yuki Wilson,Tesla,TSLA,Engineering,Staff,73.6,253400,6.7
+TSLA-0021,Fatima Anderson,Tesla,TSLA,Engineering,Principal,90.4,657700,4.5
+TSLA-0022,Hiroshi Lee,Tesla,TSLA,Autonomy & AI,Principal,84.2,246100,2.6
+TSLA-0023,Thomas Patel,Tesla,TSLA,Manufacturing,Staff,63.3,146600,3.1
+TSLA-0024,Raj Kim,Tesla,TSLA,Energy/Charging,Senior Director,85.8,654100,4.5
+TSLA-0025,Michael Johnson,Tesla,TSLA,Energy/Charging,Principal,84.3,345600,9.7
+TSLA-0026,Arjun Reyes,Tesla,TSLA,Engineering,Staff,85.8,236400,4.9
+TSLA-0027,Zoe Martinez,Tesla,TSLA,Design,Principal,79.3,518600,10.6
+TSLA-0028,Arjun Cohen,Tesla,TSLA,Engineering,Senior,74.5,244000,3.2
+TSLA-0029,Samuel Lopez,Tesla,TSLA,Manufacturing,VP,69.3,526300,8.5
+TSLA-0030,Chen Lopez,Tesla,TSLA,Autonomy & AI,Principal,94.7,102200,2.6
+TSLA-0031,Samuel Anderson,Tesla,TSLA,Autonomy & AI,Staff,57.0,345500,2.3
+TSLA-0032,Zoe Martinez,Tesla,TSLA,Operations,Director,54.5,192100,4.1
+TSLA-0033,Samuel Wang,Tesla,TSLA,Manufacturing,Staff,82.3,145500,3.4
+TSLA-0034,Linda Murphy,Tesla,TSLA,People/HR,Principal,74.7,518100,2.5
+TSLA-0035,Nina Park,Tesla,TSLA,Manufacturing,Staff,85.2,261500,5.6
+TSLA-0036,Linda Martinez,Tesla,TSLA,Manufacturing,SVP,80.0,1070700,7.0
+TSLA-0037,Fatima Wang,Tesla,TSLA,Manufacturing,Staff,85.1,522200,4.7
+TSLA-0038,Raj Khan,Tesla,TSLA,Engineering,Staff,79.4,692200,9.6
+TSLA-0039,Emily Davis,Tesla,TSLA,Engineering,Senior Director,71.8,1503000,5.9
+TSLA-0040,Grace Petrov,Tesla,TSLA,Manufacturing,Senior,91.5,283400,1.8
+TSLA-0041,John Wilson,Tesla,TSLA,Sales & Service,Senior Director,80.6,488500,4.2
+TSLA-0042,Aisha Wang,Tesla,TSLA,Engineering,Director,59.0,172100,4.3
+TSLA-0043,Linda Smith,Tesla,TSLA,Manufacturing,Staff,90.6,560200,5.9
+TSLA-0044,Priya Anderson,Tesla,TSLA,Manufacturing,Senior,99.7,214200,1.1
+TSLA-0045,Hiroshi Johnson,Tesla,TSLA,Manufacturing,Senior Director,53.6,150900,4.0
+TSLA-0046,Wei Anderson,Tesla,TSLA,Engineering,Staff,73.3,506600,2.5
+TSLA-0047,Daniel Park,Tesla,TSLA,Autonomy & AI,Director,97.1,392100,7.1
+TSLA-0048,Hannah Garcia,Tesla,TSLA,Manufacturing,Director,68.2,741400,11.7
+TSLA-0049,Michael Hassan,Tesla,TSLA,Operations,Staff,79.5,91400,1.0
+TSLA-0050,Carlos Cohen,Tesla,TSLA,Autonomy & AI,Senior,69.2,147600,1.1
+TSLA-0051,Michael Wilson,Tesla,TSLA,Autonomy & AI,Senior,77.7,631200,3.7
+TSLA-0052,David Garcia,Tesla,TSLA,Autonomy & AI,Senior Director,88.8,713300,8.6
+TSLA-0053,Elena Murphy,Tesla,TSLA,Engineering,Director,78.4,640300,5.7
+TSLA-0054,Daniel Lopez,Tesla,TSLA,Finance,Staff,78.9,473500,6.7
+TSLA-0055,Fatima Lopez,Tesla,TSLA,Operations,Director,71.1,476800,6.5
+TSLA-0056,David Garcia,Tesla,TSLA,Sales & Service,VP,78.0,537500,5.0
+TSLA-0057,Arjun Brown,Tesla,TSLA,Legal & Policy,Staff,69.2,384600,1.9
+TSLA-0058,Zoe Chen,Tesla,TSLA,Design,Senior,76.9,253200,2.7
+TSLA-0059,John Rossi,Tesla,TSLA,Engineering,Senior Director,100.0,921900,7.6
+TSLA-0060,Raj Tanaka,Tesla,TSLA,Engineering,Staff,66.5,431000,2.1
+TSLA-0061,Daniel Khan,Tesla,TSLA,Manufacturing,Principal,72.0,153000,5.1
+TSLA-0062,Priya Patel,Tesla,TSLA,Engineering,Principal,71.5,656100,7.6
+TSLA-0063,Maria Cohen,Tesla,TSLA,Energy/Charging,Principal,73.8,338400,4.0
+TSLA-0064,Nina Murphy,Tesla,TSLA,People/HR,Senior Director,64.3,579000,7.5
+TSLA-0065,Hannah Okafor,Tesla,TSLA,Autonomy & AI,Principal,67.9,736200,2.8
+TSLA-0066,Priya Petrov,Tesla,TSLA,Sales & Service,Director,54.4,371300,3.8
+TSLA-0067,Grace Lee,Tesla,TSLA,Engineering,Senior Director,58.6,572300,16.0
+TSLA-0068,Fatima Patel,Tesla,TSLA,Manufacturing,Director,83.8,259200,11.5
+TSLA-0069,Emily Davis,Tesla,TSLA,Manufacturing,VP,93.1,710600,6.3
+TSLA-0070,Aisha Nguyen,Tesla,TSLA,Engineering,Staff,88.3,492500,4.4
+TSLA-0071,Ahmed Wang,Tesla,TSLA,Manufacturing,Senior,97.9,357000,4.2
+TSLA-0072,Nina Schmidt,Tesla,TSLA,Engineering,Principal,92.5,1118100,5.7
+TSLA-0073,Thomas Anderson,Tesla,TSLA,Autonomy & AI,Senior,89.8,162000,7.5
+TSLA-0074,Ahmed Brown,Tesla,TSLA,Engineering,Senior,66.5,122400,1.6
+TSLA-0075,Ahmed Brown,Tesla,TSLA,Energy/Charging,Senior,90.5,102600,1.6
+TSLA-0076,Hiroshi Schmidt,Tesla,TSLA,Operations,Staff,98.9,282200,1.5
+TSLA-0077,Elena Chen,Tesla,TSLA,Autonomy & AI,Senior Director,98.6,707600,5.9
+TSLA-0078,Thomas Wang,Tesla,TSLA,Manufacturing,VP,86.4,1117800,8.5
+TSLA-0079,Olivia Khan,Tesla,TSLA,Engineering,Senior,60.8,181500,11.2
+TSLA-0080,Nina Park,Tesla,TSLA,Operations,Staff,68.6,135300,3.8
+TSLA-0081,Maria Hassan,Tesla,TSLA,Manufacturing,Senior,62.8,213400,0.8
+TSLA-0082,Sofia Schmidt,Tesla,TSLA,Manufacturing,Senior,54.2,83800,3.3
+TSLA-0083,Grace Petrov,Tesla,TSLA,Engineering,Senior,84.3,193700,3.1
+TSLA-0084,Emily Chen,Tesla,TSLA,Operations,Staff,54.8,225800,2.9
+TSLA-0085,Raj Brown,Tesla,TSLA,Sales & Service,Staff,76.6,398800,5.0
+TSLA-0086,Elena Smith,Tesla,TSLA,Autonomy & AI,Principal,50.9,412500,4.1
+TSLA-0087,Aisha Johnson,Tesla,TSLA,Operations,Senior,61.8,24800,4.4
+TSLA-0088,Linda Khan,Tesla,TSLA,Engineering,Staff,41.7,69700,1.6
+TSLA-0089,Yuki Anderson,Tesla,TSLA,Energy/Charging,SVP,81.9,2010400,7.7
+TSLA-0090,Linda Martinez,Tesla,TSLA,Engineering,Senior,73.3,263400,2.3
+TSLA-0091,Olivia Petrov,Tesla,TSLA,Engineering,Director,74.8,198500,3.3
+TSLA-0092,Daniel Tanaka,Tesla,TSLA,People/HR,Staff,81.2,609500,2.1
+TSLA-0093,Priya Wilson,Tesla,TSLA,Finance,Principal,75.4,226900,3.9
+TSLA-0094,David Johnson,Tesla,TSLA,Engineering,Senior Director,100.0,1278500,7.2
+TSLA-0095,Aisha Reyes,Tesla,TSLA,Manufacturing,Staff,62.4,150400,9.1
+TSLA-0096,Thomas Lee,Tesla,TSLA,Manufacturing,Director,82.2,1142700,2.7
+TSLA-0097,Hannah Cohen,Tesla,TSLA,Manufacturing,Senior,64.1,89400,2.4
+TSLA-0098,Aisha Smith,Tesla,TSLA,Energy/Charging,Senior,75.9,455700,5.4
+TSLA-0099,Ahmed Schmidt,Tesla,TSLA,Engineering,Director,86.7,606900,9.9
+TSLA-0100,Chen Murphy,Tesla,TSLA,Engineering,Senior,54.7,131900,3.5
+TSLA-0101,Sofia Khan,Tesla,TSLA,Engineering,Staff,99.3,194200,5.6
+TSLA-0102,Thomas Smith,Tesla,TSLA,Energy/Charging,Senior,84.6,37000,4.5
+TSLA-0103,Emily Kim,Tesla,TSLA,Engineering,Director,89.2,470000,17.2
+TSLA-0104,Carlos Reyes,Tesla,TSLA,Engineering,Principal,77.7,122700,3.9
+TSLA-0105,Kevin Park,Tesla,TSLA,Manufacturing,Director,87.5,1505900,3.4
+TSLA-0106,Yuki Singh,Tesla,TSLA,Manufacturing,Staff,89.5,515300,9.4
+TSLA-0107,Linda Ali,Tesla,TSLA,Sales & Service,Director,78.9,406700,9.6
+TSLA-0108,Carlos Hassan,Tesla,TSLA,Engineering,Senior,82.8,138600,0.3
+TSLA-0109,Elena Kim,Tesla,TSLA,Manufacturing,Principal,80.9,648200,5.5
+TSLA-0110,Arjun Yamamoto,Tesla,TSLA,Energy/Charging,Director,86.9,279200,6.3
+TSLA-0111,Maria Reyes,Tesla,TSLA,Sales & Service,Senior,64.2,153100,3.0
+TSLA-0112,Hannah Kim,Tesla,TSLA,Manufacturing,Senior,93.0,95400,2.8
+TSLA-0113,Fatima Patel,Tesla,TSLA,Manufacturing,Senior,81.4,154100,1.4
+TSLA-0114,James Yamamoto,Tesla,TSLA,Engineering,Staff,73.6,107300,1.8
+TSLA-0115,Zoe Lee,Tesla,TSLA,Sales & Service,SVP,72.3,3670700,6.0
+TSLA-0116,Ahmed Ali,Tesla,TSLA,Operations,Principal,72.0,1043300,4.3
+TSLA-0117,Wei Rossi,Tesla,TSLA,Engineering,Director,76.8,1141800,3.6
+TSLA-0118,Raj Brown,Tesla,TSLA,Manufacturing,Staff,83.7,218000,1.0
+TSLA-0119,Elena Davis,Tesla,TSLA,Operations,Senior,63.3,134900,3.4
+TSLA-0120,Aisha Johnson,Tesla,TSLA,Sales & Service,Senior Director,87.5,1593100,13.4
+TSLA-0121,Fatima Silva,Tesla,TSLA,Engineering,Principal,77.3,405000,6.9
+TSLA-0122,Kevin Park,Tesla,TSLA,Manufacturing,Staff,100.0,264200,1.8
+TSLA-0123,Yuki Wang,Tesla,TSLA,Energy/Charging,Senior,62.3,123700,7.2
+TSLA-0124,Elena Park,Tesla,TSLA,Legal & Policy,Director,71.9,1112800,6.8
+TSLA-0125,Priya Smith,Tesla,TSLA,People/HR,Senior,70.3,305600,3.8
+TSLA-0126,Raj Singh,Tesla,TSLA,Operations,Senior Director,72.9,626700,5.2
+TSLA-0127,Daniel Petrov,Tesla,TSLA,Manufacturing,Senior,75.1,174700,11.9
+TSLA-0128,Hiroshi Smith,Tesla,TSLA,Sales & Service,Staff,85.6,336100,3.6
+TSLA-0129,Hannah Wang,Tesla,TSLA,Design,Director,71.4,724600,3.7
+TSLA-0130,John Wilson,Tesla,TSLA,Sales & Service,Director,79.2,1007400,10.6
+TSLA-0131,Chen Anderson,Tesla,TSLA,Engineering,VP,61.3,229100,6.7
+TSLA-0132,Maria Silva,Tesla,TSLA,Design,Principal,81.5,187700,8.1
+TSLA-0133,Thomas Park,Tesla,TSLA,Engineering,Staff,63.8,73700,3.1
+TSLA-0134,Linda Anderson,Tesla,TSLA,Sales & Service,Principal,50.6,305100,9.5
+TSLA-0135,Ahmed Lee,Tesla,TSLA,Manufacturing,SVP,79.8,1895900,7.0
+TSLA-0136,Thomas Schmidt,Tesla,TSLA,Manufacturing,Principal,80.6,281800,2.4
+TSLA-0137,Kevin Silva,Tesla,TSLA,Engineering,VP,100.0,694400,11.9
+TSLA-0138,Olivia Davis,Tesla,TSLA,Manufacturing,Director,79.2,841700,7.6
+TSLA-0139,Hiroshi Johnson,Tesla,TSLA,Engineering,Staff,55.8,140900,3.1
+TSLA-0140,Aisha Tanaka,Tesla,TSLA,Engineering,Principal,67.1,699000,4.3
+TSLA-0141,Linda Nguyen,Tesla,TSLA,Finance,Director,74.6,618100,7.5
+TSLA-0142,Maria Patel,Tesla,TSLA,Operations,Principal,90.1,97200,4.2
+TSLA-0143,Hiroshi Hassan,Tesla,TSLA,Sales & Service,SVP,87.3,902100,5.7
+TSLA-0144,Ahmed Lee,Tesla,TSLA,Engineering,Senior,76.4,159600,2.1
+TSLA-0145,Hannah Nguyen,Tesla,TSLA,Manufacturing,Senior,70.8,69000,5.6
+TSLA-0146,Linda Okafor,Tesla,TSLA,Operations,Senior,87.4,140300,4.7
+TSLA-0147,Mary Schmidt,Tesla,TSLA,Manufacturing,Director,99.2,553700,6.3
+TSLA-0148,Kevin Anderson,Tesla,TSLA,Operations,Senior,76.3,167400,10.7
+TSLA-0149,Priya Brown,Tesla,TSLA,Energy/Charging,Senior Director,84.9,894100,12.4
+TSLA-0150,Arjun Lee,Tesla,TSLA,Design,Staff,65.9,49900,3.9
+TSLA-0151,Sofia Garcia,Tesla,TSLA,Autonomy & AI,Senior,71.1,228100,8.4
+TSLA-0152,Raj Chen,Tesla,TSLA,Engineering,Senior,91.7,99000,1.4
+TSLA-0153,Chen Davis,Tesla,TSLA,Autonomy & AI,Senior,87.8,311000,7.8
+TSLA-0154,Mary Davis,Tesla,TSLA,Energy/Charging,Director,94.9,1100800,8.8
+TSLA-0155,Chen Yamamoto,Tesla,TSLA,Manufacturing,Senior Director,80.9,392600,5.9
+TSLA-0156,Priya Wang,Tesla,TSLA,Manufacturing,Staff,51.6,213600,3.5
+TSLA-0157,Kevin Ali,Tesla,TSLA,Operations,Principal,57.2,73800,4.8
+TSLA-0158,Samuel Park,Tesla,TSLA,Manufacturing,VP,77.0,588100,5.6
+TSLA-0159,Hannah Okafor,Tesla,TSLA,Design,Staff,81.9,208600,18.7
+TSLA-0160,Grace Tanaka,Tesla,TSLA,Engineering,Senior Director,74.2,950900,3.7
+TSLA-0161,Aisha Chen,Tesla,TSLA,Autonomy & AI,Director,72.4,730000,6.4
+TSLA-0162,Zoe Ali,Tesla,TSLA,Autonomy & AI,Principal,87.4,912100,5.3
+TSLA-0163,Sofia Brown,Tesla,TSLA,Autonomy & AI,Senior,80.6,207600,8.8
+TSLA-0164,Sofia Tanaka,Tesla,TSLA,Manufacturing,Principal,81.9,338100,2.6
+TSLA-0165,Priya Ali,Tesla,TSLA,Engineering,Senior,63.2,56600,1.2
+TSLA-0166,Michael Ali,Tesla,TSLA,Sales & Service,Senior,79.8,113500,3.1
+TSLA-0167,Ahmed Lee,Tesla,TSLA,Autonomy & AI,Staff,69.5,184700,9.8
+TSLA-0168,Nina Johnson,Tesla,TSLA,Engineering,Staff,56.9,147500,7.1
+TSLA-0169,Fatima Davis,Tesla,TSLA,People/HR,Principal,94.5,808500,2.4
+TSLA-0170,Daniel Johnson,Tesla,TSLA,Engineering,Director,88.1,1321200,3.4
+TSLA-0171,Elena Anderson,Tesla,TSLA,Operations,Staff,55.9,181400,4.2
+TSLA-0172,Aisha Ali,Tesla,TSLA,Manufacturing,Principal,93.5,617700,13.9
+TSLA-0173,Priya Patel,Tesla,TSLA,Manufacturing,Staff,95.9,149100,2.0
+TSLA-0174,James Chen,Tesla,TSLA,Manufacturing,Senior,68.3,177900,2.3
+TSLA-0175,Daniel Park,Tesla,TSLA,Engineering,Senior Director,91.1,541800,4.4
+TSLA-0176,Arjun Ali,Tesla,TSLA,Manufacturing,Director,88.2,243400,3.7
+TSLA-0177,David Garcia,Tesla,TSLA,Engineering,Principal,79.1,290900,7.3
+TSLA-0178,Zoe Nguyen,Tesla,TSLA,Finance,Senior,90.8,288400,11.9
+TSLA-0179,Mary Ali,Tesla,TSLA,Manufacturing,Director,76.3,304200,5.1
+TSLA-0180,Elena Smith,Tesla,TSLA,Autonomy & AI,Staff,83.2,206500,3.1
+TSLA-0181,Hiroshi Patel,Tesla,TSLA,Energy/Charging,Staff,64.4,135600,4.0
+TSLA-0182,Nina Lopez,Tesla,TSLA,Energy/Charging,Senior,60.4,124800,1.1
+TSLA-0183,Ahmed Wilson,Tesla,TSLA,Engineering,Staff,65.5,124500,1.8
+TSLA-0184,Linda Davis,Tesla,TSLA,Engineering,Staff,83.5,179800,1.4
+TSLA-0185,Zoe Tanaka,Tesla,TSLA,Manufacturing,Principal,65.7,748100,5.2
+TSLA-0186,Nina Okafor,Tesla,TSLA,Engineering,Senior,74.8,309800,9.0
+TSLA-0187,Priya Tanaka,Tesla,TSLA,Autonomy & AI,Staff,66.1,204500,3.6
+TSLA-0188,Sofia Reyes,Tesla,TSLA,Engineering,Senior Director,98.6,1377100,5.9
+TSLA-0189,John Park,Tesla,TSLA,Engineering,Staff,96.3,409300,3.3
+TSLA-0190,Wei Anderson,Tesla,TSLA,Engineering,Staff,86.9,191700,1.2
+TSLA-0191,Raj Anderson,Tesla,TSLA,Engineering,Principal,77.6,290700,12.5
+TSLA-0192,Hannah Lopez,Tesla,TSLA,Engineering,Staff,69.6,122500,4.9
+TSLA-0193,John Martinez,Tesla,TSLA,Engineering,Senior,89.7,238100,3.6
+TSLA-0194,Emily Tanaka,Tesla,TSLA,Operations,Senior Director,72.9,387600,14.7
+TSLA-0195,Chen Nguyen,Tesla,TSLA,Sales & Service,Senior Director,76.6,155400,11.4
+TSLA-0196,Hiroshi Smith,Tesla,TSLA,Operations,VP,84.3,397500,6.1
+TSLA-0197,Sofia Schmidt,Tesla,TSLA,Manufacturing,Staff,78.6,514800,5.1
+TSLA-0198,Ahmed Patel,Tesla,TSLA,Autonomy & AI,Principal,69.4,380000,4.1
+TSLA-0199,Arjun Martinez,Tesla,TSLA,Engineering,Senior Director,82.1,848300,4.4
+TSLA-0200,John Silva,Tesla,TSLA,Manufacturing,Staff,84.9,711400,3.3
+TSLA-0201,James Martinez,Tesla,TSLA,Autonomy & AI,Senior,63.9,211500,5.6
+TSLA-0202,Carlos Petrov,Tesla,TSLA,Engineering,Staff,54.3,163100,6.8
+TSLA-0203,John Yamamoto,Tesla,TSLA,Finance,Senior,84.6,414200,4.1
+TSLA-0204,Chen Patel,Tesla,TSLA,Manufacturing,Senior Director,77.4,480300,5.5
+TSLA-0205,Mary Murphy,Tesla,TSLA,Engineering,Principal,79.6,325900,7.3
+TSLA-0206,Aisha Martinez,Tesla,TSLA,Engineering,Staff,71.0,337200,1.4
+TSLA-0207,Carlos Lee,Tesla,TSLA,Operations,VP,69.0,673300,6.4
+TSLA-0208,Samuel Garcia,Tesla,TSLA,Engineering,Senior,72.8,37500,4.6
+TSLA-0209,Priya Garcia,Tesla,TSLA,Energy/Charging,Director,80.3,347200,7.1
+TSLA-0210,Emily Garcia,Tesla,TSLA,Manufacturing,Principal,72.9,425100,4.0
+TSLA-0211,Elena Brown,Tesla,TSLA,Engineering,Senior,100.0,189400,1.9
+TSLA-0212,Mary Smith,Tesla,TSLA,Engineering,Staff,77.2,393900,5.6
+TSLA-0213,Elena Smith,Tesla,TSLA,Engineering,Principal,80.7,346100,8.5
+TSLA-0214,Kevin Kim,Tesla,TSLA,Energy/Charging,Principal,75.0,464300,8.6
+TSLA-0215,Raj Wilson,Tesla,TSLA,Sales & Service,Principal,74.8,189900,3.4
+TSLA-0216,Hannah Nguyen,Tesla,TSLA,Design,Staff,86.8,293100,6.8
+TSLA-0217,Arjun Park,Tesla,TSLA,Design,Senior,89.9,102800,8.1
+TSLA-0218,Grace Smith,Tesla,TSLA,Manufacturing,Director,75.1,360000,17.3
+TSLA-0219,Maria Yamamoto,Tesla,TSLA,Energy/Charging,Director,69.9,258200,3.8
+TSLA-0220,Hiroshi Nguyen,Tesla,TSLA,Sales & Service,SVP,87.2,4085300,9.6
+TSLA-0221,Emily Hassan,Tesla,TSLA,Engineering,Principal,66.5,892100,3.1
+TSLA-0222,Thomas Singh,Tesla,TSLA,Operations,Senior,95.5,126300,7.2
+TSLA-0223,Raj Khan,Tesla,TSLA,Manufacturing,Staff,93.2,327300,11.4
+TSLA-0224,Yuki Wilson,Tesla,TSLA,Manufacturing,Senior,80.5,126400,3.1
+TSLA-0225,Aisha Kim,Tesla,TSLA,Engineering,Principal,72.6,271500,2.9
+TSLA-0226,Emily Martinez,Tesla,TSLA,Energy/Charging,Senior,82.6,126200,8.5
+TSLA-0227,Zoe Kim,Tesla,TSLA,People/HR,Staff,81.4,709400,1.6
+TSLA-0228,Chen Ali,Tesla,TSLA,Operations,Principal,74.0,613600,5.7
+TSLA-0229,Kevin Lee,Tesla,TSLA,Engineering,Senior,70.4,176300,6.8
+TSLA-0230,Yuki Khan,Tesla,TSLA,Engineering,Senior,73.1,429000,4.1
+TSLA-0231,Arjun Nguyen,Tesla,TSLA,Autonomy & AI,VP,72.9,391400,6.0
+TSLA-0232,Carlos Patel,Tesla,TSLA,Manufacturing,VP,75.2,1056900,7.3
+TSLA-0233,Fatima Nguyen,Tesla,TSLA,Legal & Policy,Staff,68.8,74300,5.6
+TSLA-0234,Olivia Martinez,Tesla,TSLA,Sales & Service,Staff,83.4,335100,3.0
+TSLA-0235,Daniel Nguyen,Tesla,TSLA,Manufacturing,Senior,65.2,99100,1.3
+TSLA-0236,Wei Hassan,Tesla,TSLA,Sales & Service,Principal,91.7,125900,4.8
+TSLA-0237,Ahmed Wilson,Tesla,TSLA,Manufacturing,Director,95.9,640400,4.9
+TSLA-0238,Olivia Hassan,Tesla,TSLA,Engineering,Director,68.9,136600,6.1
+TSLA-0239,Olivia Khan,Tesla,TSLA,Engineering,Principal,56.2,305000,2.2
+TSLA-0240,James Lopez,Tesla,TSLA,Manufacturing,SVP,79.6,1720500,10.1
+TSLA-0241,Zoe Martinez,Tesla,TSLA,Manufacturing,Principal,74.1,253300,1.8
+TSLA-0242,Maria Okafor,Tesla,TSLA,Autonomy & AI,Senior Director,78.9,445800,5.6
+TSLA-0243,Michael Cohen,Tesla,TSLA,Engineering,Director,93.8,739100,4.9
+TSLA-0244,Olivia Smith,Tesla,TSLA,Manufacturing,Staff,85.1,296800,3.3
+TSLA-0245,Linda Park,Tesla,TSLA,Manufacturing,Senior,68.7,137800,6.3
+TSLA-0246,Fatima Chen,Tesla,TSLA,Engineering,Staff,77.3,386900,1.8
+TSLA-0247,Hiroshi Kim,Tesla,TSLA,Engineering,Senior,69.7,98100,0.4
+TSLA-0248,Linda Brown,Tesla,TSLA,Engineering,Senior,81.1,294400,2.9
+TSLA-0249,Fatima Silva,Tesla,TSLA,Autonomy & AI,Senior Director,88.6,204400,4.8
+TSLA-0250,Hannah Petrov,Tesla,TSLA,Sales & Service,Staff,79.0,167200,7.6
+TSLA-0251,Zoe Patel,Tesla,TSLA,Operations,Director,73.4,116000,5.9
+TSLA-0252,Aisha Kim,Tesla,TSLA,Autonomy & AI,Staff,77.3,286600,6.8
+TSLA-0253,Chen Rossi,Tesla,TSLA,Manufacturing,Senior,70.5,273400,8.0
+TSLA-0254,Grace Cohen,Tesla,TSLA,Manufacturing,Senior,79.8,364800,0.8
+TSLA-0255,Wei Kim,Tesla,TSLA,Operations,Staff,84.4,226200,1.8
+TSLA-0256,Maria Johnson,Tesla,TSLA,Operations,Principal,60.4,311000,3.2
+TSLA-0257,Mary Park,Tesla,TSLA,Sales & Service,Principal,82.0,543000,4.4
+TSLA-0258,Thomas Schmidt,Tesla,TSLA,Manufacturing,VP,81.8,1947300,4.9
+TSLA-0259,Elena Okafor,Tesla,TSLA,Energy/Charging,Director,62.8,209600,11.4
+TSLA-0260,Maria Yamamoto,Tesla,TSLA,Engineering,Staff,80.9,79400,4.9
+TSLA-0261,Grace Chen,Tesla,TSLA,Manufacturing,Senior,72.4,173400,1.4
+TSLA-0262,Arjun Silva,Tesla,TSLA,Legal & Policy,Senior Director,85.1,767200,6.7
+TSLA-0263,Ahmed Yamamoto,Tesla,TSLA,Manufacturing,VP,91.8,534200,12.9
+TSLA-0264,Daniel Park,Tesla,TSLA,Manufacturing,Staff,81.1,474500,1.0
+TSLA-0265,Aisha Schmidt,Tesla,TSLA,Finance,Director,100.0,774200,9.0
+TSLA-0266,Olivia Schmidt,Tesla,TSLA,Sales & Service,Senior Director,95.2,1776100,5.9
+TSLA-0267,Chen Patel,Tesla,TSLA,Manufacturing,Senior,82.6,138800,6.4
+TSLA-0268,Wei Okafor,Tesla,TSLA,Energy/Charging,Senior,86.4,388400,8.3
+TSLA-0269,Samuel Patel,Tesla,TSLA,Autonomy & AI,VP,73.3,836900,4.5
+TSLA-0270,Chen Reyes,Tesla,TSLA,Design,Principal,87.1,424900,13.3
+TSLA-0271,Thomas Anderson,Tesla,TSLA,Engineering,Senior,65.2,83600,0.6
+TSLA-0272,John Martinez,Tesla,TSLA,Autonomy & AI,Principal,90.5,457300,8.6
+TSLA-0273,Olivia Tanaka,Tesla,TSLA,Sales & Service,Senior,70.0,188200,4.2
+TSLA-0274,Nina Okafor,Tesla,TSLA,People/HR,Senior,85.2,210700,4.6
+TSLA-0275,Thomas Anderson,Tesla,TSLA,Engineering,Senior,76.4,168400,6.7
+TSLA-0276,Olivia Brown,Tesla,TSLA,Manufacturing,Senior Director,87.0,1623900,6.5
+TSLA-0277,Grace Tanaka,Tesla,TSLA,Manufacturing,Senior,68.3,312600,7.9
+TSLA-0278,Hannah Singh,Tesla,TSLA,Manufacturing,Director,78.4,301000,5.7
+TSLA-0279,Priya Reyes,Tesla,TSLA,Manufacturing,Principal,79.1,1016100,13.8
+TSLA-0280,Elena Smith,Tesla,TSLA,Manufacturing,Senior,43.2,228300,1.6
+TSLA-0281,Nina Park,Tesla,TSLA,Engineering,Staff,59.9,432900,6.9
+TSLA-0282,Nina Wilson,Tesla,TSLA,Operations,Senior,60.7,208700,0.7
+TSLA-0283,Samuel Ali,Tesla,TSLA,Autonomy & AI,Director,79.1,454600,7.0
+TSLA-0284,Zoe Chen,Tesla,TSLA,Engineering,Principal,66.3,923500,11.3
+TSLA-0285,Wei Singh,Tesla,TSLA,Design,Principal,100.0,552000,4.8
+TSLA-0286,Nina Patel,Tesla,TSLA,Design,Principal,81.8,992100,5.9
+TSLA-0287,Samuel Park,Tesla,TSLA,Manufacturing,Senior Director,78.5,755100,6.2
+TSLA-0288,Arjun Wang,Tesla,TSLA,Design,Senior Director,68.3,458200,5.0
+TSLA-0289,Thomas Nguyen,Tesla,TSLA,Manufacturing,Senior,65.6,143000,2.0
+TSLA-0290,Thomas Hassan,Tesla,TSLA,Autonomy & AI,Director,85.2,638000,5.9
+TSLA-0291,Grace Smith,Tesla,TSLA,Sales & Service,Staff,82.0,309600,1.8
+TSLA-0292,David Singh,Tesla,TSLA,Manufacturing,Senior Director,83.1,797700,5.1
+TSLA-0293,Wei Brown,Tesla,TSLA,Sales & Service,Principal,46.9,303200,8.8
+TSLA-0294,Daniel Nguyen,Tesla,TSLA,Manufacturing,Senior,63.6,140500,2.9
+TSLA-0295,Raj Okafor,Tesla,TSLA,Manufacturing,Staff,90.1,306200,2.8
+TSLA-0296,Carlos Brown,Tesla,TSLA,Manufacturing,Senior,82.1,164400,3.5
+TSLA-0297,Olivia Ali,Tesla,TSLA,Autonomy & AI,SVP,84.6,2188800,12.7
+TSLA-0298,Mary Kim,Tesla,TSLA,Engineering,SVP,79.1,837400,11.2
+TSLA-0299,David Davis,Tesla,TSLA,Manufacturing,Senior,62.3,262500,8.5
+TSLA-0300,Kevin Johnson,Tesla,TSLA,Engineering,Staff,77.1,100300,0.9
+TSLA-0301,Hannah Chen,Tesla,TSLA,Engineering,Senior Director,75.8,180500,10.9
+TSLA-0302,Raj Patel,Tesla,TSLA,Autonomy & AI,Staff,78.3,171200,0.8
+TSLA-0303,Hiroshi Nguyen,Tesla,TSLA,Engineering,Senior,82.4,281600,4.1
+TSLA-0304,Carlos Nguyen,Tesla,TSLA,Energy/Charging,Senior,77.4,523700,2.9
+TSLA-0305,Raj Johnson,Tesla,TSLA,Manufacturing,Staff,67.9,257300,2.8
+TSLA-0306,Samuel Johnson,Tesla,TSLA,Sales & Service,Senior,100.0,221600,2.1
+TSLA-0307,Thomas Kim,Tesla,TSLA,Sales & Service,Principal,57.9,636700,5.3
+TSLA-0308,Zoe Martinez,Tesla,TSLA,Design,Staff,62.0,224600,10.0
+TSLA-0309,Priya Lee,Tesla,TSLA,Energy/Charging,Senior,78.1,257000,6.5
+TSLA-0310,David Anderson,Tesla,TSLA,Sales & Service,Senior Director,76.8,924800,4.1
+TSLA-0311,Priya Patel,Tesla,TSLA,Manufacturing,Director,83.5,352700,3.4
+TSLA-0312,Arjun Petrov,Tesla,TSLA,Manufacturing,Senior,69.4,188500,0.7
+TSLA-0313,Raj Tanaka,Tesla,TSLA,Engineering,Senior,73.1,290500,3.8
+TSLA-0314,Carlos Martinez,Tesla,TSLA,Sales & Service,Senior,61.6,160700,1.9
+TSLA-0315,Wei Martinez,Tesla,TSLA,Manufacturing,Staff,67.7,230300,1.6
+TSLA-0316,Chen Ali,Tesla,TSLA,Manufacturing,Senior,92.3,310600,2.7
+TSLA-0317,Nina Okafor,Tesla,TSLA,Engineering,Director,81.4,232000,4.5
+TSLA-0318,Sofia Kim,Tesla,TSLA,Engineering,Senior Director,58.4,1089700,10.9
+TSLA-0319,Mary Hassan,Tesla,TSLA,Sales & Service,Senior Director,69.2,1182700,7.5
+TSLA-0320,Fatima Singh,Tesla,TSLA,Operations,Principal,75.3,525500,6.9
+TSLA-0321,Wei Cohen,Tesla,TSLA,Design,Principal,52.6,83700,5.8
+TSLA-0322,Zoe Wilson,Tesla,TSLA,Operations,Senior,70.3,140500,4.9
+TSLA-0323,Chen Wilson,Tesla,TSLA,Sales & Service,VP,79.5,4603100,9.2
+TSLA-0324,Yuki Park,Tesla,TSLA,Operations,Director,70.1,591800,8.1
+TSLA-0325,Olivia Kim,Tesla,TSLA,Manufacturing,VP,76.4,1445500,5.5
+TSLA-0326,Daniel Singh,Tesla,TSLA,Sales & Service,Staff,76.3,298400,2.6
+TSLA-0327,Wei Okafor,Tesla,TSLA,Energy/Charging,VP,67.7,920600,6.5
+TSLA-0328,Wei Yamamoto,Tesla,TSLA,Manufacturing,Senior,75.3,131700,7.9
+TSLA-0329,Maria Hassan,Tesla,TSLA,Manufacturing,Director,72.9,431900,7.0
+TSLA-0330,Yuki Patel,Tesla,TSLA,Manufacturing,Director,98.0,465300,4.3
+TSLA-0331,Wei Brown,Tesla,TSLA,Sales & Service,SVP,70.9,454500,10.4
+TSLA-0332,Hannah Lee,Tesla,TSLA,Autonomy & AI,Senior,99.7,679600,13.7
+TSLA-0333,Kevin Cohen,Tesla,TSLA,Energy/Charging,Director,83.5,771200,9.6
+TSLA-0334,Arjun Murphy,Tesla,TSLA,Engineering,SVP,78.0,320900,6.8
+TSLA-0335,David Nguyen,Tesla,TSLA,Energy/Charging,Senior,76.1,137900,1.1
+TSLA-0336,Daniel Petrov,Tesla,TSLA,Autonomy & AI,Senior Director,74.3,260000,4.7
+TSLA-0337,Elena Park,Tesla,TSLA,Engineering,Principal,79.7,259600,6.4
+TSLA-0338,Maria Nguyen,Tesla,TSLA,Manufacturing,Director,66.4,237000,4.5
+TSLA-0339,Elena Brown,Tesla,TSLA,Sales & Service,Staff,67.5,133400,0.9
+TSLA-0340,David Davis,Tesla,TSLA,Sales & Service,VP,74.4,2954800,12.8
+TSLA-0341,Maria Wang,Tesla,TSLA,Manufacturing,SVP,82.5,1358100,11.6
+TSLA-0342,Nina Tanaka,Tesla,TSLA,Engineering,Staff,62.1,563900,1.5
+TSLA-0343,Nina Reyes,Tesla,TSLA,Operations,Principal,83.3,211500,3.2
+TSLA-0344,David Lee,Tesla,TSLA,Engineering,Senior,84.5,258600,4.5
+TSLA-0345,Sofia Khan,Tesla,TSLA,Legal & Policy,Staff,76.3,157600,3.5
+TSLA-0346,Hiroshi Petrov,Tesla,TSLA,Engineering,Director,71.7,850800,12.3
+TSLA-0347,David Reyes,Tesla,TSLA,Sales & Service,Staff,64.9,405400,3.9
+TSLA-0348,James Smith,Tesla,TSLA,Autonomy & AI,Staff,87.2,151200,5.6
+TSLA-0349,Raj Brown,Tesla,TSLA,Sales & Service,Principal,73.2,212100,7.1
+TSLA-0350,Thomas Lopez,Tesla,TSLA,Engineering,Senior,63.1,449800,4.1
+TSLA-0351,Hannah Reyes,Tesla,TSLA,Sales & Service,Senior,59.5,271800,1.8
+TSLA-0352,Samuel Ali,Tesla,TSLA,Engineering,Senior Director,100.0,434900,10.0
+TSLA-0353,Michael Park,Tesla,TSLA,Engineering,Senior,78.2,161000,5.5
+TSLA-0354,Thomas Wilson,Tesla,TSLA,Operations,Principal,79.5,158500,8.7
+TSLA-0355,Carlos Chen,Tesla,TSLA,Manufacturing,VP,57.0,276400,6.8
+TSLA-0356,Maria Brown,Tesla,TSLA,Engineering,Principal,60.7,79800,2.2
+TSLA-0357,Aisha Petrov,Tesla,TSLA,Manufacturing,Director,70.4,306300,8.6
+TSLA-0358,Thomas Wilson,Tesla,TSLA,Engineering,Director,81.9,487300,6.1
+TSLA-0359,Arjun Tanaka,Tesla,TSLA,Energy/Charging,Director,88.3,417300,2.8
+TSLA-0360,Nina Petrov,Tesla,TSLA,Energy/Charging,Senior,67.0,388700,1.0
+TSLA-0361,Aisha Cohen,Tesla,TSLA,Sales & Service,Principal,76.0,319500,4.0
+TSLA-0362,John Davis,Tesla,TSLA,Sales & Service,Staff,76.0,672800,4.1
+TSLA-0363,Fatima Davis,Tesla,TSLA,Engineering,Staff,99.8,272600,1.2
+TSLA-0364,Maria Johnson,Tesla,TSLA,Sales & Service,Staff,68.7,520700,5.4
+TSLA-0365,Arjun Silva,Tesla,TSLA,Engineering,Senior,68.5,63800,7.9
+TSLA-0366,Olivia Okafor,Tesla,TSLA,Engineering,Staff,64.0,190100,4.0
+TSLA-0367,Emily Nguyen,Tesla,TSLA,Energy/Charging,Senior,77.4,211200,8.7
+TSLA-0368,Mary Nguyen,Tesla,TSLA,Operations,Staff,78.3,335000,2.9
+TSLA-0369,Zoe Okafor,Tesla,TSLA,Engineering,Principal,74.6,265900,6.0
+TSLA-0370,John Lee,Tesla,TSLA,Autonomy & AI,Senior,53.4,303900,1.3
+TSLA-0371,Daniel Nguyen,Tesla,TSLA,Energy/Charging,Staff,86.3,264500,1.9
+TSLA-0372,Michael Tanaka,Tesla,TSLA,Manufacturing,Principal,78.2,175000,3.1
+TSLA-0373,Kevin Murphy,Tesla,TSLA,Manufacturing,Senior,76.0,145500,20.8
+TSLA-0374,Hannah Ali,Tesla,TSLA,Manufacturing,Senior Director,87.3,1042900,8.0
+TSLA-0375,Thomas Khan,Tesla,TSLA,Autonomy & AI,Senior,78.0,180800,2.7
+TSLA-0376,Elena Anderson,Tesla,TSLA,Design,Director,61.8,474800,4.3
+TSLA-0377,James Cohen,Tesla,TSLA,Sales & Service,Senior,88.9,170900,1.4
+TSLA-0378,Aisha Petrov,Tesla,TSLA,Sales & Service,Staff,87.5,411400,7.7
+TSLA-0379,James Park,Tesla,TSLA,Finance,Principal,87.3,678900,5.0
+TSLA-0380,Nina Reyes,Tesla,TSLA,Engineering,Staff,85.2,629500,2.8
+TSLA-0381,Daniel Anderson,Tesla,TSLA,Manufacturing,Senior Director,61.5,107400,9.4
+TSLA-0382,Raj Khan,Tesla,TSLA,Operations,Principal,92.4,127800,3.8
+TSLA-0383,Emily Lee,Tesla,TSLA,Autonomy & AI,Principal,69.9,206700,1.7
+TSLA-0384,Mary Reyes,Tesla,TSLA,Sales & Service,Director,86.7,135700,5.5
+TSLA-0385,Zoe Hassan,Tesla,TSLA,Legal & Policy,Staff,65.6,393100,5.9
+TSLA-0386,Elena Reyes,Tesla,TSLA,Finance,Senior,62.9,277800,3.4
+TSLA-0387,Zoe Tanaka,Tesla,TSLA,Autonomy & AI,Senior,62.1,90900,4.7
+TSLA-0388,Olivia Garcia,Tesla,TSLA,Sales & Service,VP,78.9,591700,6.3
+TSLA-0389,Samuel Ali,Tesla,TSLA,Engineering,Senior,80.7,83200,1.1
+TSLA-0390,Kevin Wang,Tesla,TSLA,Manufacturing,VP,86.5,1380500,7.1
+TSLA-0391,Elena Khan,Tesla,TSLA,Autonomy & AI,Staff,80.5,170600,11.4
+TSLA-0392,David Johnson,Tesla,TSLA,Finance,Staff,72.6,522100,5.7
+TSLA-0393,Aisha Wilson,Tesla,TSLA,Engineering,Director,86.7,547600,3.1
+TSLA-0394,Thomas Ali,Tesla,TSLA,Manufacturing,Senior,88.0,101900,6.3
+TSLA-0395,Wei Nguyen,Tesla,TSLA,Engineering,VP,74.3,406300,7.2
+TSLA-0396,Elena Brown,Tesla,TSLA,Sales & Service,Director,84.2,154300,4.3
+TSLA-0397,David Rossi,Tesla,TSLA,Sales & Service,Senior,67.0,184500,2.7
+TSLA-0398,Yuki Anderson,Tesla,TSLA,People/HR,Staff,71.6,222500,4.8
+TSLA-0399,Raj Petrov,Tesla,TSLA,Autonomy & AI,Staff,66.1,217100,3.0
+TSLA-0400,Nina Smith,Tesla,TSLA,Operations,Senior,83.8,134100,8.9
+TSLA-0401,John Okafor,Tesla,TSLA,Autonomy & AI,Director,88.6,915400,5.7
+TSLA-0402,Olivia Anderson,Tesla,TSLA,Manufacturing,Senior,77.1,132900,0.8
+TSLA-0403,Ahmed Reyes,Tesla,TSLA,Engineering,Senior,79.1,147900,3.0
+TSLA-0404,Samuel Wang,Tesla,TSLA,Engineering,Senior,75.5,393000,1.5
+TSLA-0405,Emily Lopez,Tesla,TSLA,Manufacturing,Principal,94.4,251300,4.2
+TSLA-0406,Grace Petrov,Tesla,TSLA,Energy/Charging,Senior Director,92.0,491900,4.1
+TSLA-0407,John Reyes,Tesla,TSLA,Energy/Charging,Staff,96.6,391200,1.6
+TSLA-0408,Raj Silva,Tesla,TSLA,Engineering,Senior,73.5,227500,8.5
+TSLA-0409,Michael Cohen,Tesla,TSLA,Sales & Service,Principal,62.3,467300,3.9
+TSLA-0410,Thomas Lopez,Tesla,TSLA,Engineering,Director,73.7,207000,11.0
+TSLA-0411,Wei Rossi,Tesla,TSLA,Manufacturing,Staff,80.1,69000,3.6
+TSLA-0412,Fatima Brown,Tesla,TSLA,Engineering,Staff,58.9,147200,2.0
+TSLA-0413,John Lopez,Tesla,TSLA,Engineering,Director,63.9,455000,16.4
+TSLA-0414,Maria Khan,Tesla,TSLA,Engineering,Senior,86.8,186800,0.2
+TSLA-0415,Priya Silva,Tesla,TSLA,Manufacturing,Staff,76.2,61000,1.3
+TSLA-0416,Ahmed Murphy,Tesla,TSLA,Energy/Charging,Senior Director,86.4,211600,5.6
+TSLA-0417,Chen Singh,Tesla,TSLA,Engineering,Staff,63.5,231400,5.3
+TSLA-0418,Carlos Nguyen,Tesla,TSLA,Sales & Service,VP,83.4,2233400,8.2
+TSLA-0419,David Petrov,Tesla,TSLA,Manufacturing,Senior,75.8,340100,2.8
+TSLA-0420,Priya Johnson,Tesla,TSLA,Engineering,Director,76.2,233400,4.0
+TSLA-0421,Aisha Patel,Tesla,TSLA,Operations,Principal,75.4,198200,3.6
+TSLA-0422,Olivia Lee,Tesla,TSLA,Engineering,Staff,70.5,157300,2.0
+TSLA-0423,Elena Park,Tesla,TSLA,Engineering,Senior,88.2,261400,4.0
+TSLA-0424,Grace Patel,Tesla,TSLA,Manufacturing,Senior Director,91.3,145700,8.7
+TSLA-0425,Priya Cohen,Tesla,TSLA,Energy/Charging,VP,71.7,517900,7.1
+TSLA-0426,Nina Khan,Tesla,TSLA,Engineering,Staff,78.3,310200,1.7
+TSLA-0427,Carlos Okafor,Tesla,TSLA,Engineering,Director,81.1,815600,10.4
+TSLA-0428,Maria Park,Tesla,TSLA,Engineering,Senior,91.5,244900,6.7
+TSLA-0429,John Kim,Tesla,TSLA,Finance,Principal,71.5,225600,5.3
+TSLA-0430,Fatima Yamamoto,Tesla,TSLA,Engineering,Principal,76.5,347100,5.2
+TSLA-0431,Daniel Patel,Tesla,TSLA,Sales & Service,Principal,74.7,574700,5.3
+TSLA-0432,Nina Murphy,Tesla,TSLA,Manufacturing,Senior,78.9,297100,1.7
+TSLA-0433,Hiroshi Yamamoto,Tesla,TSLA,Engineering,Director,67.5,264800,4.4
+TSLA-0434,Thomas Yamamoto,Tesla,TSLA,Manufacturing,Senior,67.2,229800,1.4
+TSLA-0435,David Davis,Tesla,TSLA,Manufacturing,Staff,70.9,315500,6.6
+TSLA-0436,Raj Garcia,Tesla,TSLA,Manufacturing,Staff,64.5,322100,5.6
+TSLA-0437,Carlos Khan,Tesla,TSLA,Legal & Policy,SVP,68.4,571200,8.1
+TSLA-0438,Hiroshi Schmidt,Tesla,TSLA,Finance,Senior,74.4,175500,2.4
+TSLA-0439,Thomas Lee,Tesla,TSLA,Design,Principal,74.7,290100,4.9
+TSLA-0440,Aisha Singh,Tesla,TSLA,Manufacturing,Staff,70.1,160900,2.3
+TSLA-0441,Samuel Ali,Tesla,TSLA,Manufacturing,Principal,91.8,261900,4.1
+TSLA-0442,Chen Petrov,Tesla,TSLA,Autonomy & AI,Senior,87.9,98100,15.3
+TSLA-0443,Raj Ali,Tesla,TSLA,Design,VP,58.8,475900,9.2
+TSLA-0444,Chen Nguyen,Tesla,TSLA,Manufacturing,Senior Director,85.5,473700,5.4
+TSLA-0445,Priya Kim,Tesla,TSLA,Engineering,Senior,82.2,181100,2.9
+TSLA-0446,Kevin Hassan,Tesla,TSLA,Operations,Principal,90.1,768700,4.9
+TSLA-0447,Raj Murphy,Tesla,TSLA,Autonomy & AI,Staff,76.9,165200,3.9
+TSLA-0448,Linda Johnson,Tesla,TSLA,Manufacturing,Principal,78.1,390100,9.7
+TSLA-0449,Yuki Garcia,Tesla,TSLA,Manufacturing,Director,76.1,276200,5.8
+TSLA-0450,Olivia Garcia,Tesla,TSLA,Autonomy & AI,Principal,54.8,882000,2.5
+TSLA-0451,Nina Ali,Tesla,TSLA,Autonomy & AI,Senior,76.9,336400,4.0
+TSLA-0452,Grace Patel,Tesla,TSLA,Design,VP,80.9,1746800,12.1
+TSLA-0453,Wei Patel,Tesla,TSLA,Manufacturing,Senior,71.3,179800,2.4
+TSLA-0454,Carlos Wilson,Tesla,TSLA,Manufacturing,Staff,69.1,160500,4.6
+TSLA-0455,Fatima Cohen,Tesla,TSLA,Engineering,Senior Director,75.2,1040000,6.5
+TSLA-0456,Grace Reyes,Tesla,TSLA,Engineering,Principal,55.1,456100,1.8
+TSLA-0457,Elena Lee,Tesla,TSLA,Engineering,Staff,74.8,263400,14.5
+TSLA-0458,James Chen,Tesla,TSLA,Engineering,Staff,52.4,213300,3.9
+TSLA-0459,Mary Petrov,Tesla,TSLA,Engineering,Director,70.7,163000,4.3
+TSLA-0460,Maria Wilson,Tesla,TSLA,Engineering,Senior,90.5,424000,3.9
+TSLA-0461,Elena Park,Tesla,TSLA,Energy/Charging,Principal,69.4,552200,4.4
+TSLA-0462,Olivia Singh,Tesla,TSLA,Engineering,Senior,69.2,171500,1.9
+TSLA-0463,Wei Yamamoto,Tesla,TSLA,Operations,Senior,65.6,207300,3.2
+TSLA-0464,Fatima Petrov,Tesla,TSLA,People/HR,Director,64.5,752400,5.5
+TSLA-0465,Wei Yamamoto,Tesla,TSLA,Manufacturing,Senior,66.7,206800,1.1
+TSLA-0466,Sofia Lopez,Tesla,TSLA,Autonomy & AI,Senior,72.8,299700,1.5
+TSLA-0467,John Yamamoto,Tesla,TSLA,Engineering,Principal,98.0,472600,2.0
+TSLA-0468,Olivia Patel,Tesla,TSLA,Operations,Senior,82.0,375700,1.1
+TSLA-0469,Priya Nguyen,Tesla,TSLA,Sales & Service,Senior,80.1,291000,1.0
+TSLA-0470,Michael Nguyen,Tesla,TSLA,Manufacturing,Staff,53.0,205200,0.7
+TSLA-0471,Fatima Park,Tesla,TSLA,Engineering,Staff,86.1,650300,9.4
+TSLA-0472,Emily Garcia,Tesla,TSLA,Operations,Senior,67.1,59300,1.4
+TSLA-0473,Michael Brown,Tesla,TSLA,Engineering,VP,100.0,1032400,10.0
+TSLA-0474,John Yamamoto,Tesla,TSLA,Design,Principal,84.7,245700,5.6
+TSLA-0475,Hannah Smith,Tesla,TSLA,Finance,Staff,88.0,159300,3.0
+TSLA-0476,Raj Garcia,Tesla,TSLA,Autonomy & AI,Senior Director,65.2,531200,7.4
+TSLA-0477,Zoe Patel,Tesla,TSLA,Autonomy & AI,Staff,100.0,74300,4.5
+TSLA-0478,Chen Singh,Tesla,TSLA,Engineering,Senior,76.0,627300,1.1
+TSLA-0479,Aisha Tanaka,Tesla,TSLA,Engineering,Principal,66.1,273100,2.6
+TSLA-0480,Emily Singh,Tesla,TSLA,Engineering,Principal,76.4,627700,4.1
+TSLA-0481,Chen Chen,Tesla,TSLA,Manufacturing,Principal,98.1,388800,3.8
+TSLA-0482,Grace Khan,Tesla,TSLA,Autonomy & AI,Director,65.1,324300,3.5
+TSLA-0483,Nina Martinez,Tesla,TSLA,Manufacturing,Staff,81.3,568100,2.3
+TSLA-0484,Hiroshi Chen,Tesla,TSLA,Engineering,Staff,99.3,332900,5.1
+TSLA-0485,Daniel Martinez,Tesla,TSLA,Autonomy & AI,Staff,69.6,157100,19.1
+TSLA-0486,Daniel Martinez,Tesla,TSLA,Autonomy & AI,Director,89.3,429700,4.0
+TSLA-0487,Sofia Ali,Tesla,TSLA,Engineering,Staff,97.6,475800,1.1
+TSLA-0488,Chen Schmidt,Tesla,TSLA,Engineering,Senior,89.7,167400,1.6
+TSLA-0489,Aisha Ali,Tesla,TSLA,Manufacturing,Staff,79.0,349100,4.5
+TSLA-0490,Hannah Nguyen,Tesla,TSLA,Energy/Charging,Principal,52.3,379200,1.7
+TSLA-0491,Elena Nguyen,Tesla,TSLA,Engineering,Director,98.1,620400,5.7
+TSLA-0492,Raj Okafor,Tesla,TSLA,People/HR,Senior,71.3,152200,2.7
+TSLA-0493,Mary Khan,Tesla,TSLA,Operations,Principal,82.6,387000,2.1
+TSLA-0494,Michael Okafor,Tesla,TSLA,People/HR,Senior,77.6,271000,2.6
+TSLA-0495,Zoe Wang,Tesla,TSLA,Engineering,Staff,53.9,212400,4.6
+TSLA-0496,Nina Ali,Tesla,TSLA,Manufacturing,Director,92.0,1129500,7.6
+TSLA-0497,Emily Davis,Tesla,TSLA,Autonomy & AI,VP,77.0,198900,8.4
+TSLA-0498,Aisha Davis,Tesla,TSLA,Finance,Senior,93.1,606700,1.1
+TSLA-0499,John Hassan,Tesla,TSLA,Sales & Service,Director,76.6,336100,5.2
+TSLA-0500,Maria Davis,Tesla,TSLA,Engineering,Senior,46.5,169000,3.3
+TSLA-0501,Emily Yamamoto,Tesla,TSLA,Engineering,Principal,75.3,189600,3.6
+TSLA-0502,Chen Brown,Tesla,TSLA,Sales & Service,Staff,88.2,496600,3.2
+TSLA-0503,Michael Brown,Tesla,TSLA,Manufacturing,VP,75.3,1347000,16.4
+TSLA-0504,Daniel Lee,Tesla,TSLA,People/HR,Senior,83.2,215200,2.5
+TSLA-0505,John Lopez,Tesla,TSLA,Engineering,Staff,87.3,260200,2.7
+TSLA-0506,Samuel Singh,Tesla,TSLA,Manufacturing,Director,54.6,149700,6.8
+TSLA-0507,Maria Silva,Tesla,TSLA,Autonomy & AI,Principal,82.7,231300,2.4
+TSLA-0508,Chen Singh,Tesla,TSLA,Finance,Senior,78.6,226100,1.6
+TSLA-0509,Zoe Silva,Tesla,TSLA,Operations,Senior,79.0,185100,5.3
+TSLA-0510,David Park,Tesla,TSLA,Energy/Charging,VP,95.9,556000,8.3
+TSLA-0511,Grace Okafor,Tesla,TSLA,Operations,Senior,85.4,132700,3.3
+TSLA-0512,Michael Martinez,Tesla,TSLA,Manufacturing,Senior,97.4,424600,6.5
+TSLA-0513,Emily Wang,Tesla,TSLA,Engineering,Director,88.0,1089200,4.2
+TSLA-0514,Carlos Wang,Tesla,TSLA,Design,Senior,59.5,178300,0.5
+TSLA-0515,Chen Tanaka,Tesla,TSLA,Operations,Director,100.0,376200,11.9
+TSLA-0516,Arjun Okafor,Tesla,TSLA,Manufacturing,VP,69.0,441000,6.9
+TSLA-0517,Chen Tanaka,Tesla,TSLA,Manufacturing,Senior,75.2,333000,3.9
+TSLA-0518,Samuel Wilson,Tesla,TSLA,Design,Principal,92.6,380300,5.8
+TSLA-0519,Kevin Yamamoto,Tesla,TSLA,Sales & Service,SVP,65.2,1117700,14.0
+TSLA-0520,Emily Murphy,Tesla,TSLA,Engineering,Staff,78.7,192100,10.5
+TSLA-0521,Hannah Ali,Tesla,TSLA,Autonomy & AI,Principal,62.7,157400,2.5
+TSLA-0522,Linda Smith,Tesla,TSLA,Finance,Principal,78.2,349500,1.6
+TSLA-0523,Hannah Yamamoto,Tesla,TSLA,Operations,Senior,72.5,127600,2.1
+TSLA-0524,Kevin Davis,Tesla,TSLA,Engineering,Senior Director,61.3,400100,4.2
+TSLA-0525,Kevin Ali,Tesla,TSLA,Operations,Senior,73.3,79600,3.3
+TSLA-0526,Wei Cohen,Tesla,TSLA,Sales & Service,Principal,84.5,340800,3.8
+TSLA-0527,Carlos Davis,Tesla,TSLA,Autonomy & AI,Staff,91.9,372600,8.9
+TSLA-0528,James Davis,Tesla,TSLA,Energy/Charging,Senior,64.5,65000,6.8
+TSLA-0529,Grace Tanaka,Tesla,TSLA,Manufacturing,Principal,81.6,155000,4.4
+TSLA-0530,Arjun Schmidt,Tesla,TSLA,Manufacturing,Director,73.3,465900,11.1
+TSLA-0531,Wei Wang,Tesla,TSLA,Engineering,Principal,87.9,321800,8.2
+TSLA-0532,Michael Martinez,Tesla,TSLA,Design,Staff,94.5,543600,4.8
+TSLA-0533,Ahmed Tanaka,Tesla,TSLA,Design,Senior,84.5,228800,1.8
+TSLA-0534,John Cohen,Tesla,TSLA,Energy/Charging,Staff,82.4,485900,9.8
+TSLA-0535,Elena Cohen,Tesla,TSLA,Engineering,Director,82.7,1078800,12.4
+TSLA-0536,Yuki Singh,Tesla,TSLA,Engineering,Staff,89.2,322400,4.6
+TSLA-0537,Wei Lee,Tesla,TSLA,Sales & Service,Principal,68.5,278100,8.7
+TSLA-0538,Hannah Cohen,Tesla,TSLA,Manufacturing,Senior Director,94.8,531100,5.5
+TSLA-0539,Kevin Johnson,Tesla,TSLA,Autonomy & AI,Staff,76.5,533000,3.8
+TSLA-0540,Daniel Anderson,Tesla,TSLA,Manufacturing,Director,65.1,631300,3.0
+TSLA-0541,Daniel Khan,Tesla,TSLA,Autonomy & AI,Principal,91.5,621900,5.0
+TSLA-0542,Yuki Schmidt,Tesla,TSLA,Autonomy & AI,Senior,55.2,126300,5.7
+TSLA-0543,Linda Okafor,Tesla,TSLA,Engineering,Staff,62.7,302300,1.3
+TSLA-0544,Mary Kim,Tesla,TSLA,Engineering,Staff,72.8,319300,1.1
+TSLA-0545,Linda Tanaka,Tesla,TSLA,Energy/Charging,Staff,45.5,254800,4.1
+TSLA-0546,James Reyes,Tesla,TSLA,Manufacturing,Staff,70.4,615400,9.7
+TSLA-0547,Linda Okafor,Tesla,TSLA,Sales & Service,Principal,70.7,304400,5.5
+TSLA-0548,Zoe Rossi,Tesla,TSLA,Autonomy & AI,Senior Director,72.2,933000,9.7
+TSLA-0549,Raj Singh,Tesla,TSLA,Engineering,Senior,79.1,135300,1.7
+TSLA-0550,Carlos Schmidt,Tesla,TSLA,Engineering,Senior Director,96.3,353100,9.7
+TSLA-0551,Olivia Smith,Tesla,TSLA,Sales & Service,Senior,68.8,539900,2.4
+TSLA-0552,James Hassan,Tesla,TSLA,Sales & Service,Staff,90.7,303300,3.5
+TSLA-0553,Wei Yamamoto,Tesla,TSLA,Energy/Charging,Director,62.9,340600,3.4
+TSLA-0554,Priya Schmidt,Tesla,TSLA,Engineering,VP,65.3,1054500,7.3
+TSLA-0555,Thomas Anderson,Tesla,TSLA,Sales & Service,Director,79.5,363000,6.4
+TSLA-0556,Aisha Cohen,Tesla,TSLA,Engineering,Director,75.3,200300,8.8
+TSLA-0557,Fatima Murphy,Tesla,TSLA,Manufacturing,VP,84.0,1402200,9.5
+TSLA-0558,Emily Anderson,Tesla,TSLA,Design,Staff,65.4,175700,2.3
+TSLA-0559,Wei Singh,Tesla,TSLA,Engineering,Director,69.2,577000,5.4
+TSLA-0560,Ahmed Brown,Tesla,TSLA,Engineering,Director,52.0,236700,8.6
+TSLA-0561,Mary Hassan,Tesla,TSLA,Engineering,Senior,83.3,225500,10.0
+TSLA-0562,Emily Johnson,Tesla,TSLA,Engineering,Staff,67.4,359400,3.7
+TSLA-0563,Maria Smith,Tesla,TSLA,Sales & Service,Staff,87.1,404300,6.9
+TSLA-0564,David Schmidt,Tesla,TSLA,Manufacturing,Senior,83.0,110300,1.2
+TSLA-0565,Daniel Hassan,Tesla,TSLA,Operations,Staff,84.8,294300,6.6
+TSLA-0566,Chen Martinez,Tesla,TSLA,Manufacturing,Principal,83.9,398500,6.3
+TSLA-0567,Samuel Lee,Tesla,TSLA,Design,Principal,88.7,516000,10.7
+TSLA-0568,Hiroshi Kim,Tesla,TSLA,Operations,Senior,76.7,137100,3.0
+TSLA-0569,Hiroshi Silva,Tesla,TSLA,Operations,Senior,86.2,115800,0.9
+TSLA-0570,Emily Lopez,Tesla,TSLA,Autonomy & AI,Senior,76.0,132800,10.2
+TSLA-0571,Carlos Davis,Tesla,TSLA,Design,Principal,72.3,117800,2.2
+TSLA-0572,Hannah Cohen,Tesla,TSLA,Finance,Senior,54.5,169200,1.6
+TSLA-0573,Aisha Martinez,Tesla,TSLA,Engineering,Director,84.7,556700,4.9
+TSLA-0574,Ahmed Kim,Tesla,TSLA,Manufacturing,Principal,75.4,222800,3.3
+TSLA-0575,Wei Tanaka,Tesla,TSLA,Manufacturing,Staff,91.8,1336400,0.7
+TSLA-0576,John Rossi,Tesla,TSLA,Manufacturing,Director,56.3,436500,3.7
+TSLA-0577,David Murphy,Tesla,TSLA,Manufacturing,Staff,49.6,66500,1.5
+TSLA-0578,Aisha Schmidt,Tesla,TSLA,Design,VP,85.5,1590200,5.6
+TSLA-0579,Thomas Nguyen,Tesla,TSLA,Engineering,Senior,68.5,223700,6.0
+TSLA-0580,Grace Hassan,Tesla,TSLA,Manufacturing,Principal,97.8,407900,3.5
+TSLA-0581,Linda Cohen,Tesla,TSLA,Design,Senior Director,97.3,1144300,7.6
+TSLA-0582,John Wang,Tesla,TSLA,Manufacturing,Staff,62.7,75100,2.2
+TSLA-0583,Aisha Ali,Tesla,TSLA,Manufacturing,Principal,63.8,122700,3.1
+TSLA-0584,Priya Schmidt,Tesla,TSLA,Operations,Senior,89.8,169800,1.0
+TSLA-0585,Hiroshi Anderson,Tesla,TSLA,People/HR,Director,87.0,352100,5.4
+TSLA-0586,Nina Lee,Tesla,TSLA,People/HR,Senior Director,81.0,1186000,14.3
+TSLA-0587,Daniel Wilson,Tesla,TSLA,Autonomy & AI,Principal,66.2,163900,6.6
+TSLA-0588,Wei Wilson,Tesla,TSLA,Finance,Senior,70.9,236900,4.7
+TSLA-0589,Michael Hassan,Tesla,TSLA,Engineering,Senior,76.0,212200,0.8
+TSLA-0590,Carlos Rossi,Tesla,TSLA,Engineering,Staff,72.7,359300,7.6
+TSLA-0591,Samuel Ali,Tesla,TSLA,Manufacturing,Senior Director,69.7,514600,5.8
+TSLA-0592,Nina Kim,Tesla,TSLA,Manufacturing,Staff,57.4,137100,2.1
+TSLA-0593,James Cohen,Tesla,TSLA,Sales & Service,Principal,73.1,51600,2.4
+TSLA-0594,Elena Singh,Tesla,TSLA,Engineering,Senior,89.9,76800,4.9
+TSLA-0595,Chen Smith,Tesla,TSLA,Manufacturing,Senior,71.2,193900,1.6
+TSLA-0596,Chen Martinez,Tesla,TSLA,Operations,Staff,56.9,346200,5.4
+TSLA-0597,Yuki Schmidt,Tesla,TSLA,Autonomy & AI,Director,93.7,352100,2.9
+TSLA-0598,Linda Singh,Tesla,TSLA,Manufacturing,Principal,89.2,242400,4.6
+TSLA-0599,Mary Hassan,Tesla,TSLA,Engineering,Principal,76.1,474400,3.8
+TSLA-0600,Olivia Wilson,Tesla,TSLA,Manufacturing,Principal,67.8,170400,2.6
+TSLA-0601,Hiroshi Khan,Tesla,TSLA,Sales & Service,Senior,80.9,259800,8.3
+TSLA-0602,Fatima Wilson,Tesla,TSLA,Engineering,VP,75.6,785700,7.5
+TSLA-0603,David Petrov,Tesla,TSLA,Engineering,Principal,31.6,147500,2.2
+TSLA-0604,Elena Martinez,Tesla,TSLA,Sales & Service,Director,69.5,880200,12.9
+TSLA-0605,Arjun Silva,Tesla,TSLA,Sales & Service,Senior,78.5,85800,6.4
+TSLA-0606,Chen Johnson,Tesla,TSLA,Manufacturing,Senior,54.4,212200,1.8
+TSLA-0607,Emily Kim,Tesla,TSLA,Engineering,Senior,81.8,150000,4.4
+TSLA-0608,John Davis,Tesla,TSLA,Engineering,Staff,86.8,410200,5.1
+TSLA-0609,Arjun Yamamoto,Tesla,TSLA,Manufacturing,Principal,72.5,287500,5.9
+TSLA-0610,Wei Ali,Tesla,TSLA,Manufacturing,Senior,67.7,95100,6.7
+TSLA-0611,Yuki Singh,Tesla,TSLA,Autonomy & AI,Principal,70.3,147600,2.3
+TSLA-0612,Samuel Schmidt,Tesla,TSLA,Engineering,Senior,65.6,158400,3.4
+TSLA-0613,Priya Yamamoto,Tesla,TSLA,Autonomy & AI,Principal,76.7,285500,3.0
+TSLA-0614,Priya Martinez,Tesla,TSLA,Manufacturing,Senior,60.6,538400,8.5
+TSLA-0615,Kevin Lee,Tesla,TSLA,Manufacturing,Senior Director,85.0,532400,4.9
+TSLA-0616,Grace Petrov,Tesla,TSLA,Finance,VP,70.2,492900,4.8
+TSLA-0617,James Tanaka,Tesla,TSLA,Engineering,Staff,68.9,297900,7.7
+TSLA-0618,Raj Khan,Tesla,TSLA,Engineering,Senior,70.8,125800,3.4
+TSLA-0619,Sofia Wang,Tesla,TSLA,Manufacturing,Staff,82.3,183800,3.5
+TSLA-0620,Carlos Lopez,Tesla,TSLA,Sales & Service,Principal,56.5,561600,4.0
+TSLA-0621,Carlos Okafor,Tesla,TSLA,Sales & Service,Senior,82.8,82600,8.4
+TSLA-0622,Mary Wilson,Tesla,TSLA,Operations,Principal,69.6,214800,2.0
+TSLA-0623,Yuki Tanaka,Tesla,TSLA,Autonomy & AI,Senior,76.2,151400,7.1
+TSLA-0624,David Patel,Tesla,TSLA,Manufacturing,Principal,73.4,559700,3.0
+TSLA-0625,Elena Wilson,Tesla,TSLA,Manufacturing,Senior Director,69.9,811600,6.3
+TSLA-0626,Mary Smith,Tesla,TSLA,Engineering,Director,65.3,623300,8.1
+TSLA-0627,David Ali,Tesla,TSLA,Sales & Service,Senior,82.1,94600,1.2
+TSLA-0628,Samuel Patel,Tesla,TSLA,Engineering,Senior,60.9,257600,1.5
+TSLA-0629,Arjun Wang,Tesla,TSLA,Autonomy & AI,SVP,81.3,923300,8.3
+TSLA-0630,Emily Brown,Tesla,TSLA,Engineering,Staff,82.5,408600,3.0
+TSLA-0631,Thomas Silva,Tesla,TSLA,People/HR,Principal,71.0,197100,3.2
+TSLA-0632,James Kim,Tesla,TSLA,Autonomy & AI,Senior,80.2,247100,2.6
+TSLA-0633,Raj Tanaka,Tesla,TSLA,Legal & Policy,Senior,75.9,455200,2.9
+TSLA-0634,Sofia Kim,Tesla,TSLA,Manufacturing,Director,65.8,1014500,4.1
+TSLA-0635,Hannah Garcia,Tesla,TSLA,Finance,Senior,57.4,107700,2.0
+TSLA-0636,Hiroshi Johnson,Tesla,TSLA,Engineering,VP,86.9,384400,6.0
+TSLA-0637,Yuki Yamamoto,Tesla,TSLA,Engineering,Senior Director,59.3,781400,4.3
+TSLA-0638,Thomas Tanaka,Tesla,TSLA,Finance,Principal,74.9,355900,2.2
+TSLA-0639,Priya Lee,Tesla,TSLA,Design,Senior Director,66.1,453000,8.3
+TSLA-0640,Mary Nguyen,Tesla,TSLA,Design,Staff,55.1,262700,3.8
+TSLA-0641,Nina Lopez,Tesla,TSLA,Manufacturing,Staff,73.4,206800,2.8
+TSLA-0642,Arjun Petrov,Tesla,TSLA,Design,Staff,78.5,303500,12.0
+TSLA-0643,Linda Davis,Tesla,TSLA,Engineering,Staff,83.1,729400,4.8
+TSLA-0644,Raj Hassan,Tesla,TSLA,Operations,Staff,53.9,551300,3.3
+TSLA-0645,Ahmed Tanaka,Tesla,TSLA,Autonomy & AI,VP,54.3,282000,6.9
+TSLA-0646,Priya Tanaka,Tesla,TSLA,Engineering,Staff,61.2,245100,2.1
+TSLA-0647,Daniel Nguyen,Tesla,TSLA,Operations,Staff,69.7,43900,8.1
+TSLA-0648,Linda Chen,Tesla,TSLA,Operations,Principal,82.0,101800,4.6
+TSLA-0649,Olivia Hassan,Tesla,TSLA,Engineering,Senior,72.5,619400,3.6
+TSLA-0650,Hannah Park,Tesla,TSLA,Operations,Director,73.6,369400,7.2
+TSLA-0651,Hiroshi Wang,Tesla,TSLA,Manufacturing,Staff,62.7,346000,6.8
+TSLA-0652,Elena Petrov,Tesla,TSLA,Energy/Charging,Principal,77.9,286100,3.1
+TSLA-0653,Hannah Tanaka,Tesla,TSLA,Operations,Senior,59.3,524800,1.5
+TSLA-0654,Samuel Silva,Tesla,TSLA,Autonomy & AI,Director,90.6,332900,5.9
+TSLA-0655,Ahmed Yamamoto,Tesla,TSLA,Engineering,Senior,62.1,168000,4.8
+TSLA-0656,Grace Cohen,Tesla,TSLA,Engineering,Staff,66.6,199800,2.9
+TSLA-0657,Sofia Silva,Tesla,TSLA,Sales & Service,Staff,87.3,399100,4.0
+TSLA-0658,Nina Patel,Tesla,TSLA,Engineering,Staff,47.6,196100,9.5
+TSLA-0659,Priya Garcia,Tesla,TSLA,Energy/Charging,Director,49.7,296900,6.8
+TSLA-0660,Hannah Lopez,Tesla,TSLA,Engineering,Staff,60.9,161900,6.2
+TSLA-0661,Hiroshi Anderson,Tesla,TSLA,Engineering,Staff,65.0,224200,8.4
+TSLA-0662,Carlos Wang,Tesla,TSLA,Energy/Charging,Principal,86.1,243000,8.1
+TSLA-0663,Hiroshi Lopez,Tesla,TSLA,Design,Staff,71.9,251100,6.7
+TSLA-0664,David Lopez,Tesla,TSLA,Engineering,Staff,76.7,393600,2.7
+TSLA-0665,Daniel Patel,Tesla,TSLA,Manufacturing,Senior,74.0,171300,1.2
+TSLA-0666,Zoe Yamamoto,Tesla,TSLA,Engineering,Staff,91.1,157700,4.5
+TSLA-0667,Hiroshi Lopez,Tesla,TSLA,Engineering,Principal,84.4,437200,4.5
+TSLA-0668,Maria Schmidt,Tesla,TSLA,Operations,Director,94.8,404300,5.6
+TSLA-0669,Maria Reyes,Tesla,TSLA,Design,SVP,76.1,2348200,8.6
+TSLA-0670,Aisha Lee,Tesla,TSLA,Autonomy & AI,Senior Director,72.4,416700,12.0
+TSLA-0671,Mary Smith,Tesla,TSLA,Engineering,Staff,69.6,914200,2.4
+TSLA-0672,Grace Murphy,Tesla,TSLA,Engineering,Principal,97.3,1168100,2.3
+TSLA-0673,Maria Petrov,Tesla,TSLA,Engineering,Staff,91.3,95400,1.2
+TSLA-0674,Grace Kim,Tesla,TSLA,Manufacturing,Senior Director,80.3,252900,9.4
+TSLA-0675,Daniel Kim,Tesla,TSLA,Engineering,Principal,80.7,604200,2.6
+TSLA-0676,Arjun Okafor,Tesla,TSLA,Manufacturing,Senior,92.3,364300,2.7
+TSLA-0677,Nina Lee,Tesla,TSLA,Autonomy & AI,C-Suite,69.6,1537600,8.7
+TSLA-0678,Zoe Davis,Tesla,TSLA,Manufacturing,VP,60.5,787300,10.3
+TSLA-0679,Sofia Nguyen,Tesla,TSLA,Operations,Staff,76.0,820300,5.0
+TSLA-0680,Thomas Rossi,Tesla,TSLA,Operations,Principal,76.1,647500,2.8
+TSLA-0681,Aisha Nguyen,Tesla,TSLA,Engineering,Staff,75.4,154800,3.0
+TSLA-0682,Raj Yamamoto,Tesla,TSLA,Finance,Staff,80.0,221200,5.7
+TSLA-0683,Carlos Wilson,Tesla,TSLA,Manufacturing,Senior,79.2,235100,0.8
+TSLA-0684,Grace Smith,Tesla,TSLA,Engineering,Principal,96.2,1273400,2.4
+TSLA-0685,Thomas Yamamoto,Tesla,TSLA,Energy/Charging,Senior,82.3,288100,1.4
+TSLA-0686,David Park,Tesla,TSLA,Engineering,VP,88.3,1175000,7.9
+TSLA-0687,Maria Wilson,Tesla,TSLA,Engineering,Principal,90.4,486900,5.7
+TSLA-0688,David Chen,Tesla,TSLA,Operations,Staff,81.4,176600,2.0
+TSLA-0689,Daniel Wilson,Tesla,TSLA,Engineering,Senior,99.8,198500,2.8
+TSLA-0690,Priya Martinez,Tesla,TSLA,Autonomy & AI,Staff,82.9,246600,6.8
+TSLA-0691,Ahmed Schmidt,Tesla,TSLA,Autonomy & AI,VP,94.2,427600,6.7
+TSLA-0692,Wei Silva,Tesla,TSLA,Sales & Service,Principal,62.7,49900,9.3
+TSLA-0693,Michael Reyes,Tesla,TSLA,Engineering,Director,97.1,398000,5.3
+TSLA-0694,Raj Yamamoto,Tesla,TSLA,Operations,Senior,66.1,145700,1.9
+TSLA-0695,Maria Patel,Tesla,TSLA,Engineering,Senior Director,80.5,1127900,9.4
+TSLA-0696,Kevin Nguyen,Tesla,TSLA,Autonomy & AI,Principal,63.0,497000,3.8
+TSLA-0697,Thomas Smith,Tesla,TSLA,Sales & Service,Senior,89.1,127100,1.8
+TSLA-0698,Samuel Petrov,Tesla,TSLA,Manufacturing,Senior Director,90.7,415300,4.6
+TSLA-0699,Ahmed Silva,Tesla,TSLA,Operations,Senior,77.9,301800,1.4
+TSLA-0700,Fatima Wilson,Tesla,TSLA,Autonomy & AI,Senior Director,77.8,606800,16.0
+TSLA-0701,Yuki Lee,Tesla,TSLA,Engineering,VP,74.7,1169100,5.8
+TSLA-0702,Sofia Ali,Tesla,TSLA,Manufacturing,Director,99.7,636600,5.3
+TSLA-0703,Olivia Ali,Tesla,TSLA,Manufacturing,Principal,88.1,356300,6.1
+TSLA-0704,Samuel Martinez,Tesla,TSLA,Engineering,Senior,79.8,287800,4.5
+TSLA-0705,Yuki Johnson,Tesla,TSLA,Finance,Staff,70.0,234400,4.3
+TSLA-0706,Arjun Rossi,Tesla,TSLA,Autonomy & AI,Director,70.1,163800,3.9
+TSLA-0707,James Cohen,Tesla,TSLA,Manufacturing,Principal,65.2,232600,2.3
+TSLA-0708,Grace Ali,Tesla,TSLA,Sales & Service,Staff,93.6,282100,2.7
+TSLA-0709,Hannah Park,Tesla,TSLA,Engineering,Principal,70.7,145800,12.4
+TSLA-0710,Kevin Johnson,Tesla,TSLA,Engineering,Staff,72.2,30900,2.1
+TSLA-0711,Grace Silva,Tesla,TSLA,Engineering,Senior,69.8,60500,8.5
+TSLA-0712,Olivia Garcia,Tesla,TSLA,Energy/Charging,Senior,84.3,97900,0.6
+TSLA-0713,Nina Park,Tesla,TSLA,Engineering,C-Suite,84.1,1830900,11.8
+TSLA-0714,Emily Brown,Tesla,TSLA,Autonomy & AI,Senior,77.6,308000,1.8
+TSLA-0715,Priya Petrov,Tesla,TSLA,Sales & Service,Senior Director,69.2,323100,5.8
+TSLA-0716,Sofia Johnson,Tesla,TSLA,Energy/Charging,VP,83.5,537000,7.2
+TSLA-0717,Raj Schmidt,Tesla,TSLA,Engineering,Staff,76.5,193900,3.7
+TSLA-0718,Nina Patel,Tesla,TSLA,Manufacturing,Principal,90.0,323500,3.1
+TSLA-0719,Priya Rossi,Tesla,TSLA,Engineering,VP,93.1,3758900,12.3
+TSLA-0720,Thomas Davis,Tesla,TSLA,Manufacturing,Senior,62.0,123000,5.5
+TSLA-0721,Michael Reyes,Tesla,TSLA,Engineering,Director,100.0,279600,6.4
+TSLA-0722,Hiroshi Johnson,Tesla,TSLA,Engineering,Director,59.6,1317900,5.0
+TSLA-0723,Carlos Murphy,Tesla,TSLA,Manufacturing,Staff,73.4,134500,3.9
+TSLA-0724,Kevin Hassan,Tesla,TSLA,Manufacturing,Director,90.6,377900,10.2
+TSLA-0725,Samuel Nguyen,Tesla,TSLA,Manufacturing,SVP,89.2,2241600,8.8
+TSLA-0726,Thomas Reyes,Tesla,TSLA,Engineering,Senior,68.9,272500,4.1
+TSLA-0727,Chen Khan,Tesla,TSLA,Operations,VP,86.0,2458200,7.8
+TSLA-0728,Aisha Nguyen,Tesla,TSLA,Energy/Charging,Senior,77.9,147600,4.8
+TSLA-0729,Zoe Okafor,Tesla,TSLA,Engineering,Senior,85.3,501000,1.2
+TSLA-0730,Samuel Garcia,Tesla,TSLA,Sales & Service,Senior,55.3,156300,5.0
+TSLA-0731,Yuki Reyes,Tesla,TSLA,Operations,Senior,73.2,1247300,5.3
+TSLA-0732,Arjun Wilson,Tesla,TSLA,Design,Senior,69.1,249700,2.2
+TSLA-0733,John Martinez,Tesla,TSLA,Operations,VP,83.9,369000,6.4
+TSLA-0734,Maria Johnson,Tesla,TSLA,Engineering,Senior,63.1,85800,6.3
+TSLA-0735,Raj Smith,Tesla,TSLA,Autonomy & AI,Principal,85.6,1693700,2.5
+TSLA-0736,Wei Cohen,Tesla,TSLA,Manufacturing,C-Suite,84.1,1610900,6.6
+TSLA-0737,John Nguyen,Tesla,TSLA,Engineering,Principal,81.5,170800,9.8
+TSLA-0738,Michael Nguyen,Tesla,TSLA,Manufacturing,Director,69.1,224200,4.8
+TSLA-0739,Wei Wilson,Tesla,TSLA,Autonomy & AI,Principal,86.4,591300,3.9
+TSLA-0740,James Davis,Tesla,TSLA,Manufacturing,Staff,71.2,220600,2.5
+TSLA-0741,Mary Brown,Tesla,TSLA,Finance,Staff,83.4,70700,5.3
+TSLA-0742,Chen Khan,Tesla,TSLA,Engineering,Senior Director,81.1,243800,7.3
+TSLA-0743,Daniel Brown,Tesla,TSLA,Engineering,Senior,76.1,591300,3.1
+TSLA-0744,Raj Patel,Tesla,TSLA,Sales & Service,Senior,77.9,517800,1.0
+TSLA-0745,Thomas Garcia,Tesla,TSLA,Manufacturing,Principal,86.4,285000,3.0
+TSLA-0746,Elena Reyes,Tesla,TSLA,Manufacturing,Staff,80.5,197200,2.6
+TSLA-0747,John Patel,Tesla,TSLA,Manufacturing,C-Suite,75.7,901800,14.4
+TSLA-0748,Thomas Lee,Tesla,TSLA,Operations,Senior,84.5,416200,1.6
+TSLA-0749,Daniel Nguyen,Tesla,TSLA,Manufacturing,Principal,70.7,249600,7.2
+TSLA-0750,Zoe Reyes,Tesla,TSLA,People/HR,Senior,92.2,396900,11.7
+TSLA-0751,Priya Yamamoto,Tesla,TSLA,Engineering,Principal,68.6,393900,2.7
+TSLA-0752,Thomas Smith,Tesla,TSLA,Design,Principal,95.7,113700,3.2
+TSLA-0753,Daniel Johnson,Tesla,TSLA,Energy/Charging,Senior Director,89.0,456100,6.9
+TSLA-0754,Thomas Lee,Tesla,TSLA,Engineering,Senior Director,79.5,389500,7.6
+TSLA-0755,Priya Ali,Tesla,TSLA,Operations,Staff,63.9,268300,3.1
+TSLA-0756,Samuel Hassan,Tesla,TSLA,Sales & Service,Director,74.8,317900,13.5
+TSLA-0757,James Lee,Tesla,TSLA,Autonomy & AI,Principal,69.7,323200,4.9
+TSLA-0758,Grace Schmidt,Tesla,TSLA,Engineering,Principal,69.3,560400,3.5
+TSLA-0759,David Smith,Tesla,TSLA,Engineering,Principal,70.8,235700,2.2
+TSLA-0760,Thomas Lopez,Tesla,TSLA,Manufacturing,Staff,77.0,322300,3.3
+TSLA-0761,Nina Martinez,Tesla,TSLA,Engineering,Director,61.3,341000,5.0
+TSLA-0762,Emily Martinez,Tesla,TSLA,Engineering,Senior Director,72.0,344200,4.6
+TSLA-0763,Grace Garcia,Tesla,TSLA,Engineering,Senior Director,95.9,291400,12.6
+TSLA-0764,James Ali,Tesla,TSLA,Energy/Charging,Principal,53.7,132300,5.1
+TSLA-0765,Thomas Schmidt,Tesla,TSLA,Autonomy & AI,SVP,100.0,1143400,9.4
+TSLA-0766,Arjun Reyes,Tesla,TSLA,Engineering,Director,92.0,474300,4.4
+TSLA-0767,Maria Kim,Tesla,TSLA,Manufacturing,Staff,66.3,163800,1.0
+TSLA-0768,Sofia Singh,Tesla,TSLA,Operations,Senior,77.2,253400,4.0
+TSLA-0769,Samuel Tanaka,Tesla,TSLA,Sales & Service,Staff,76.8,119400,2.6
+TSLA-0770,Fatima Chen,Tesla,TSLA,Engineering,Principal,81.9,272300,5.7
+TSLA-0771,David Lopez,Tesla,TSLA,Engineering,Senior,72.5,842800,2.4
+TSLA-0772,Hiroshi Nguyen,Tesla,TSLA,Operations,Principal,73.9,215100,4.6
+TSLA-0773,Sofia Smith,Tesla,TSLA,Manufacturing,Senior,62.2,110000,4.0
+TSLA-0774,Emily Cohen,Tesla,TSLA,Sales & Service,Senior,62.2,91800,3.3
+TSLA-0775,Maria Cohen,Tesla,TSLA,Engineering,Staff,57.0,68600,1.0
+TSLA-0776,James Wilson,Tesla,TSLA,Engineering,Principal,70.8,96800,8.5
+TSLA-0777,Hannah Davis,Tesla,TSLA,Engineering,Senior,76.9,119900,4.5
+TSLA-0778,Grace Okafor,Tesla,TSLA,Engineering,Staff,86.6,189500,3.0
+TSLA-0779,Emily Brown,Tesla,TSLA,Autonomy & AI,Principal,86.4,1719300,7.6
+TSLA-0780,Sofia Nguyen,Tesla,TSLA,Manufacturing,Senior,64.6,228200,1.0
+TSLA-0781,Sofia Okafor,Tesla,TSLA,Engineering,Staff,84.6,323400,1.5
+TSLA-0782,Thomas Nguyen,Tesla,TSLA,Sales & Service,Staff,79.0,365200,7.8
+TSLA-0783,Elena Smith,Tesla,TSLA,Engineering,Staff,71.1,384600,4.6
+TSLA-0784,Grace Rossi,Tesla,TSLA,Engineering,Senior,74.9,293000,7.5
+TSLA-0785,Hiroshi Cohen,Tesla,TSLA,Operations,Staff,71.2,132600,3.3
+TSLA-0786,Zoe Khan,Tesla,TSLA,Engineering,Senior,68.8,342600,8.2
+TSLA-0787,Arjun Johnson,Tesla,TSLA,Energy/Charging,Staff,63.8,190300,1.6
+TSLA-0788,Chen Rossi,Tesla,TSLA,Autonomy & AI,SVP,85.3,515700,7.9
+TSLA-0789,Emily Lopez,Tesla,TSLA,Operations,Senior,74.1,359900,1.8
+TSLA-0790,Wei Kim,Tesla,TSLA,Autonomy & AI,Senior Director,70.5,915100,9.2
+TSLA-0791,Linda Lee,Tesla,TSLA,Manufacturing,Senior Director,84.2,189500,4.5
+TSLA-0792,Michael Patel,Tesla,TSLA,Sales & Service,Senior,74.7,132600,8.8
+TSLA-0793,Sofia Kim,Tesla,TSLA,Autonomy & AI,Senior,70.5,271300,2.4
+TSLA-0794,Grace Anderson,Tesla,TSLA,Operations,Staff,66.0,271700,0.7
+TSLA-0795,Grace Silva,Tesla,TSLA,Manufacturing,Senior Director,64.1,511800,7.9
+TSLA-0796,John Khan,Tesla,TSLA,Manufacturing,VP,58.3,201700,4.8
+TSLA-0797,Ahmed Chen,Tesla,TSLA,Engineering,Senior,73.7,230000,4.3
+TSLA-0798,John Petrov,Tesla,TSLA,Sales & Service,Director,69.3,969700,3.9
+TSLA-0799,Kevin Okafor,Tesla,TSLA,Autonomy & AI,Principal,90.7,915200,3.3
+TSLA-0800,Thomas Garcia,Tesla,TSLA,Engineering,Principal,69.7,327800,20.4
+TSLA-0801,Thomas Cohen,Tesla,TSLA,Legal & Policy,Senior,53.1,275900,2.4
+TSLA-0802,Maria Hassan,Tesla,TSLA,Manufacturing,Senior,64.8,164700,2.0
+TSLA-0803,Michael Lopez,Tesla,TSLA,Engineering,Senior,61.0,129800,2.3
+TSLA-0804,Sofia Anderson,Tesla,TSLA,Autonomy & AI,Principal,59.5,346900,13.7
+TSLA-0805,Emily Smith,Tesla,TSLA,Engineering,Staff,94.5,307700,5.9
+TSLA-0806,James Martinez,Tesla,TSLA,Engineering,SVP,77.4,634600,9.4
+TSLA-0807,Emily Cohen,Tesla,TSLA,Engineering,Senior,62.3,92900,3.9
+TSLA-0808,Aisha Davis,Tesla,TSLA,Engineering,Director,70.5,703100,6.9
+TSLA-0809,Maria Tanaka,Tesla,TSLA,Autonomy & AI,Senior Director,100.0,1057900,8.7
+TSLA-0810,Yuki Martinez,Tesla,TSLA,Engineering,Director,81.2,323400,4.5
+TSLA-0811,James Rossi,Tesla,TSLA,Engineering,Director,68.3,515200,3.1
+TSLA-0812,Wei Lopez,Tesla,TSLA,Engineering,Senior,61.3,90200,4.6
+TSLA-0813,Wei Silva,Tesla,TSLA,Autonomy & AI,Principal,83.4,625500,2.1
+TSLA-0814,Zoe Park,Tesla,TSLA,Sales & Service,Staff,66.0,598000,3.8
+TSLA-0815,David Rossi,Tesla,TSLA,Engineering,Director,67.5,386200,3.4
+TSLA-0816,Mary Hassan,Tesla,TSLA,Engineering,Staff,69.0,282100,5.2
+TSLA-0817,Thomas Nguyen,Tesla,TSLA,Manufacturing,Senior,65.8,85600,4.5
+TSLA-0818,Hannah Yamamoto,Tesla,TSLA,Manufacturing,Senior Director,76.4,902300,6.7
+TSLA-0819,Elena Lee,Tesla,TSLA,Engineering,Staff,70.0,195600,3.7
+TSLA-0820,Thomas Tanaka,Tesla,TSLA,Manufacturing,Principal,69.4,202600,2.1
+TSLA-0821,Samuel Cohen,Tesla,TSLA,Manufacturing,VP,87.2,762700,7.4
+TSLA-0822,Hiroshi Reyes,Tesla,TSLA,Manufacturing,Director,85.9,277000,3.2
+TSLA-0823,Zoe Schmidt,Tesla,TSLA,Engineering,Senior,74.4,260300,5.8
+TSLA-0824,Olivia Nguyen,Tesla,TSLA,Manufacturing,Senior,83.1,94300,1.3
+TSLA-0825,Arjun Patel,Tesla,TSLA,Energy/Charging,Senior,67.1,403500,4.7
+TSLA-0826,Priya Singh,Tesla,TSLA,Finance,Staff,67.9,62500,3.3
+TSLA-0827,David Yamamoto,Tesla,TSLA,Manufacturing,Director,59.9,283800,4.1
+TSLA-0828,Daniel Reyes,Tesla,TSLA,Autonomy & AI,Senior,83.4,136300,3.2
+TSLA-0829,Chen Patel,Tesla,TSLA,Sales & Service,Principal,69.9,459000,2.6
+TSLA-0830,Grace Rossi,Tesla,TSLA,Operations,SVP,81.0,1201000,8.4
+TSLA-0831,Hannah Davis,Tesla,TSLA,Engineering,Staff,72.2,423100,5.4
+TSLA-0832,Emily Nguyen,Tesla,TSLA,Design,Staff,90.1,141300,5.8
+TSLA-0833,Maria Okafor,Tesla,TSLA,Operations,Staff,91.9,161100,0.8
+TSLA-0834,Arjun Smith,Tesla,TSLA,Engineering,Senior,33.8,74400,0.4
+TSLA-0835,John Johnson,Tesla,TSLA,Operations,Senior,76.3,393700,3.1
+TSLA-0836,Kevin Ali,Tesla,TSLA,Engineering,Senior,67.1,165900,1.7
+TSLA-0837,Raj Lee,Tesla,TSLA,Manufacturing,Director,50.4,353700,7.6
+TSLA-0838,Michael Wilson,Tesla,TSLA,Energy/Charging,Senior,77.5,146600,2.5
+TSLA-0839,Michael Park,Tesla,TSLA,Autonomy & AI,Senior,68.4,123700,4.5
+TSLA-0840,Sofia Tanaka,Tesla,TSLA,Manufacturing,Senior Director,98.1,715600,4.3
+TSLA-0841,Sofia Smith,Tesla,TSLA,Sales & Service,Director,67.5,357300,5.2
+TSLA-0842,Samuel Martinez,Tesla,TSLA,Operations,VP,78.3,1383800,9.0
+TSLA-0843,Elena Davis,Tesla,TSLA,Engineering,SVP,68.8,1479300,6.5
+TSLA-0844,Sofia Patel,Tesla,TSLA,Engineering,Director,70.6,1234500,3.0
+TSLA-0845,Emily Silva,Tesla,TSLA,People/HR,Staff,77.1,587900,2.5
+TSLA-0846,Maria Nguyen,Tesla,TSLA,Engineering,Senior,70.8,159000,4.7
+TSLA-0847,Hiroshi Park,Tesla,TSLA,Autonomy & AI,VP,89.1,524100,7.6
+TSLA-0848,Emily Johnson,Tesla,TSLA,Engineering,Senior Director,88.7,1349400,10.9
+TSLA-0849,Grace Cohen,Tesla,TSLA,Manufacturing,Director,80.6,326400,2.6
+TSLA-0850,Aisha Hassan,Tesla,TSLA,Engineering,Senior,60.8,102200,8.4
+TSLA-0851,Aisha Rossi,Tesla,TSLA,Engineering,Staff,100.0,389000,3.8
+TSLA-0852,Wei Chen,Tesla,TSLA,Engineering,Director,79.7,562700,8.6
+TSLA-0853,Raj Yamamoto,Tesla,TSLA,Sales & Service,Senior,64.1,214600,2.5
+TSLA-0854,David Silva,Tesla,TSLA,Engineering,Senior Director,79.3,997200,13.1
+TSLA-0855,Kevin Rossi,Tesla,TSLA,Operations,Principal,93.2,71000,3.5
+TSLA-0856,Maria Tanaka,Tesla,TSLA,Manufacturing,Senior,67.9,252500,6.6
+TSLA-0857,Arjun Garcia,Tesla,TSLA,Manufacturing,Principal,82.2,147800,10.6
+TSLA-0858,Chen Lopez,Tesla,TSLA,Manufacturing,Director,83.1,955000,8.0
+TSLA-0859,James Okafor,Tesla,TSLA,Autonomy & AI,Staff,63.0,361400,3.2
+TSLA-0860,Fatima Lopez,Tesla,TSLA,Engineering,Staff,87.4,198000,1.9
+TSLA-0861,James Nguyen,Tesla,TSLA,Sales & Service,Principal,85.7,529500,6.1
+TSLA-0862,Maria Anderson,Tesla,TSLA,Engineering,Senior Director,86.5,1214500,6.3
+TSLA-0863,Kevin Garcia,Tesla,TSLA,Autonomy & AI,Principal,80.3,436900,10.7
+TSLA-0864,James Wilson,Tesla,TSLA,Manufacturing,Staff,83.8,243600,1.0
+TSLA-0865,Daniel Nguyen,Tesla,TSLA,Manufacturing,Principal,89.9,529500,11.7
+TSLA-0866,David Chen,Tesla,TSLA,Design,Staff,86.8,169000,1.6
+TSLA-0867,Sofia Lopez,Tesla,TSLA,Design,Director,88.9,165500,9.2
+TSLA-0868,Raj Garcia,Tesla,TSLA,Autonomy & AI,Staff,73.1,197500,1.4
+TSLA-0869,Kevin Kim,Tesla,TSLA,Engineering,Director,87.0,1080600,8.0
+TSLA-0870,Elena Smith,Tesla,TSLA,Operations,Director,68.6,438700,3.1
+TSLA-0871,Carlos Smith,Tesla,TSLA,Engineering,Senior,53.5,119800,4.4
+TSLA-0872,Zoe Khan,Tesla,TSLA,Manufacturing,Principal,89.0,363000,11.0
+TSLA-0873,Elena Murphy,Tesla,TSLA,Engineering,Staff,80.9,143100,3.8
+TSLA-0874,Wei Chen,Tesla,TSLA,Design,Principal,73.3,307400,8.1
+TSLA-0875,Carlos Patel,Tesla,TSLA,Operations,Senior,75.2,67000,1.6
+TSLA-0876,Priya Murphy,Tesla,TSLA,Engineering,Senior,76.1,303600,2.3
+TSLA-0877,Grace Silva,Tesla,TSLA,Manufacturing,Director,80.9,327800,7.9
+TSLA-0878,Grace Wang,Tesla,TSLA,Autonomy & AI,Principal,61.7,326000,5.4
+TSLA-0879,Zoe Murphy,Tesla,TSLA,Operations,Senior,74.3,461600,8.8
+TSLA-0880,Fatima Patel,Tesla,TSLA,Sales & Service,Principal,79.4,358900,5.1
+TSLA-0881,Ahmed Tanaka,Tesla,TSLA,Operations,Principal,76.0,84200,5.0
+TSLA-0882,Grace Smith,Tesla,TSLA,Operations,Senior,76.6,161700,4.7
+TSLA-0883,Chen Yamamoto,Tesla,TSLA,Autonomy & AI,Senior,82.3,229900,2.2
+TSLA-0884,Maria Reyes,Tesla,TSLA,Finance,Senior,84.6,1164900,5.9
+TSLA-0885,Raj Anderson,Tesla,TSLA,Finance,Principal,74.8,177600,3.5
+TSLA-0886,James Ali,Tesla,TSLA,Engineering,Director,82.7,377800,4.7
+TSLA-0887,Daniel Johnson,Tesla,TSLA,Sales & Service,Senior Director,85.6,880700,7.1
+TSLA-0888,Zoe Davis,Tesla,TSLA,Engineering,Staff,65.6,983600,2.0
+TSLA-0889,Grace Schmidt,Tesla,TSLA,Engineering,Principal,85.4,414600,1.9
+TSLA-0890,Aisha Nguyen,Tesla,TSLA,Energy/Charging,Senior,99.5,392400,0.5
+TSLA-0891,David Khan,Tesla,TSLA,Engineering,Staff,83.5,307400,3.1
+TSLA-0892,Hannah Smith,Tesla,TSLA,Sales & Service,Staff,83.3,249300,1.4
+TSLA-0893,Grace Cohen,Tesla,TSLA,Operations,Staff,61.3,295800,1.0
+TSLA-0894,Carlos Lopez,Tesla,TSLA,People/HR,Senior,78.4,125000,5.3
+TSLA-0895,Arjun Murphy,Tesla,TSLA,Manufacturing,Principal,86.1,714300,2.7
+TSLA-0896,Elena Park,Tesla,TSLA,Operations,Director,63.0,372600,5.2
+TSLA-0897,Hannah Lee,Tesla,TSLA,Engineering,Senior,100.0,568100,1.5
+TSLA-0898,Hiroshi Patel,Tesla,TSLA,Manufacturing,Senior,46.9,117300,4.7
+TSLA-0899,Sofia Smith,Tesla,TSLA,Design,Principal,68.4,177900,2.0
+TSLA-0900,David Petrov,Tesla,TSLA,Autonomy & AI,Staff,79.9,244800,1.2
+TSLA-0901,David Wang,Tesla,TSLA,Autonomy & AI,Senior Director,83.0,641000,3.9
+TSLA-0902,Arjun Lee,Tesla,TSLA,Autonomy & AI,Senior,63.0,127100,2.2
+TSLA-0903,Linda Patel,Tesla,TSLA,Energy/Charging,Senior,59.5,38000,5.2
+TSLA-0904,Emily Chen,Tesla,TSLA,Manufacturing,C-Suite,64.3,1141400,16.0
+TSLA-0905,Sofia Anderson,Tesla,TSLA,Autonomy & AI,Senior,65.7,580600,5.3
+TSLA-0906,James Cohen,Tesla,TSLA,Engineering,Director,78.8,302600,10.0
+TSLA-0907,Arjun Murphy,Tesla,TSLA,Operations,Staff,72.2,340000,8.2
+TSLA-0908,Maria Hassan,Tesla,TSLA,Engineering,Staff,82.2,226300,1.8
+TSLA-0909,Mary Lee,Tesla,TSLA,Engineering,Staff,65.4,124300,5.1
+TSLA-0910,Hannah Schmidt,Tesla,TSLA,Autonomy & AI,Senior,73.5,158400,1.1
+TSLA-0911,Priya Lopez,Tesla,TSLA,Engineering,Senior Director,77.0,509900,5.5
+TSLA-0912,Olivia Rossi,Tesla,TSLA,Engineering,Director,72.1,525500,6.3
+TSLA-0913,Mary Chen,Tesla,TSLA,Manufacturing,Principal,58.1,314400,8.3
+TSLA-0914,Fatima Rossi,Tesla,TSLA,Autonomy & AI,Senior,63.7,194500,11.1
+TSLA-0915,David Kim,Tesla,TSLA,Engineering,Staff,89.3,268700,4.3
+TSLA-0916,Daniel Petrov,Tesla,TSLA,Manufacturing,Director,78.2,223800,8.5
+TSLA-0917,Elena Park,Tesla,TSLA,Engineering,Director,76.9,286100,9.4
+TSLA-0918,Michael Anderson,Tesla,TSLA,Engineering,Staff,92.2,265900,4.4
+TSLA-0919,John Silva,Tesla,TSLA,Engineering,Staff,100.0,329800,2.8
+TSLA-0920,Hannah Smith,Tesla,TSLA,Autonomy & AI,Senior Director,62.6,731700,4.7
+TSLA-0921,Hiroshi Nguyen,Tesla,TSLA,Autonomy & AI,Director,97.8,761500,4.7
+TSLA-0922,Olivia Singh,Tesla,TSLA,Engineering,VP,51.6,652600,6.5
+TSLA-0923,Zoe Khan,Tesla,TSLA,Autonomy & AI,Principal,92.2,992100,7.7
+TSLA-0924,Thomas Petrov,Tesla,TSLA,Autonomy & AI,Senior,81.9,30300,11.7
+TSLA-0925,Fatima Park,Tesla,TSLA,Engineering,Director,59.2,226400,5.0
+TSLA-0926,Raj Martinez,Tesla,TSLA,Manufacturing,Senior,72.2,78100,5.2
+TSLA-0927,Yuki Murphy,Tesla,TSLA,Autonomy & AI,Director,89.9,605800,12.3
+TSLA-0928,David Singh,Tesla,TSLA,Energy/Charging,Senior,41.4,191400,7.9
+TSLA-0929,Elena Brown,Tesla,TSLA,Operations,Principal,72.2,759500,6.2
+TSLA-0930,Carlos Singh,Tesla,TSLA,Autonomy & AI,Staff,73.1,358700,4.6
+TSLA-0931,Hiroshi Rossi,Tesla,TSLA,Engineering,C-Suite,90.3,966600,8.2
+TSLA-0932,Daniel Wilson,Tesla,TSLA,Sales & Service,Principal,58.9,278800,2.2
+TSLA-0933,Aisha Chen,Tesla,TSLA,Engineering,Staff,97.9,167700,1.1
+TSLA-0934,Emily Reyes,Tesla,TSLA,Engineering,Senior,64.9,247300,4.5
+TSLA-0935,Thomas Smith,Tesla,TSLA,Engineering,Director,78.1,471800,7.4
+TSLA-0936,Nina Wilson,Tesla,TSLA,Manufacturing,Director,94.5,1218300,5.4
+TSLA-0937,John Cohen,Tesla,TSLA,Energy/Charging,Staff,80.0,202200,0.9
+TSLA-0938,Nina Johnson,Tesla,TSLA,Finance,Senior,70.5,55200,0.2
+TSLA-0939,David Khan,Tesla,TSLA,Manufacturing,Principal,73.0,559100,3.4
+TSLA-0940,Carlos Tanaka,Tesla,TSLA,Autonomy & AI,Staff,92.7,601900,2.9
+TSLA-0941,Fatima Lopez,Tesla,TSLA,Engineering,Staff,86.9,578600,4.1
+TSLA-0942,Priya Reyes,Tesla,TSLA,Engineering,Senior,81.4,124200,0.3
+TSLA-0943,James Kim,Tesla,TSLA,Operations,Senior,78.2,170900,2.7
+TSLA-0944,Emily Cohen,Tesla,TSLA,Engineering,Senior Director,74.9,996600,4.6
+TSLA-0945,Priya Okafor,Tesla,TSLA,Engineering,Staff,70.6,149900,1.3
+TSLA-0946,Carlos Murphy,Tesla,TSLA,People/HR,Senior,84.5,120100,5.5
+TSLA-0947,James Patel,Tesla,TSLA,Manufacturing,Senior,80.7,213800,2.0
+TSLA-0948,Elena Martinez,Tesla,TSLA,Autonomy & AI,Senior,91.6,167500,2.9
+TSLA-0949,Aisha Yamamoto,Tesla,TSLA,Manufacturing,Principal,92.0,214500,9.0
+TSLA-0950,Hannah Lopez,Tesla,TSLA,Engineering,Staff,64.5,214300,2.3
+TSLA-0951,Hiroshi Patel,Tesla,TSLA,Energy/Charging,Senior,79.9,156800,2.9
+TSLA-0952,Hiroshi Hassan,Tesla,TSLA,Autonomy & AI,Senior Director,63.2,994800,8.7
+TSLA-0953,Carlos Murphy,Tesla,TSLA,Engineering,VP,97.5,720900,7.7
+TSLA-0954,Emily Wilson,Tesla,TSLA,Autonomy & AI,Senior,75.8,208400,6.4
+TSLA-0955,Fatima Lee,Tesla,TSLA,Autonomy & AI,Staff,98.9,371000,1.8
+TSLA-0956,Linda Wilson,Tesla,TSLA,Manufacturing,Staff,74.6,229100,3.2
+TSLA-0957,Kevin Reyes,Tesla,TSLA,Engineering,Staff,71.0,113100,2.7
+TSLA-0958,Linda Chen,Tesla,TSLA,Energy/Charging,SVP,68.0,531100,9.0
+TSLA-0959,Fatima Reyes,Tesla,TSLA,Energy/Charging,Staff,66.6,143800,2.9
+TSLA-0960,Yuki Cohen,Tesla,TSLA,Autonomy & AI,Senior,77.7,149400,5.0
+TSLA-0961,Hiroshi Martinez,Tesla,TSLA,Engineering,Senior,79.0,521400,7.6
+TSLA-0962,John Patel,Tesla,TSLA,Engineering,Principal,61.9,167600,6.1
+TSLA-0963,Arjun Hassan,Tesla,TSLA,Engineering,Staff,83.1,220700,2.2
+TSLA-0964,Chen Davis,Tesla,TSLA,Operations,Staff,85.4,272300,4.0
+TSLA-0965,Arjun Patel,Tesla,TSLA,Operations,Staff,59.3,261500,2.3
+TSLA-0966,Chen Cohen,Tesla,TSLA,Engineering,Senior,78.9,510400,0.4
+TSLA-0967,Carlos Tanaka,Tesla,TSLA,Engineering,Staff,78.2,228600,2.8
+TSLA-0968,Chen Murphy,Tesla,TSLA,Manufacturing,Staff,59.5,562200,3.0
+TSLA-0969,Chen Garcia,Tesla,TSLA,Autonomy & AI,Senior Director,68.7,281900,6.6
+TSLA-0970,Samuel Patel,Tesla,TSLA,Sales & Service,Senior,80.9,33900,2.7
+TSLA-0971,Hiroshi Park,Tesla,TSLA,Sales & Service,Staff,87.4,252900,1.3
+TSLA-0972,Samuel Lopez,Tesla,TSLA,Design,Staff,65.4,225000,7.5
+TSLA-0973,Raj Murphy,Tesla,TSLA,Design,Senior,53.0,261200,4.8
+TSLA-0974,John Rossi,Tesla,TSLA,Autonomy & AI,Senior,82.0,229500,5.2
+TSLA-0975,Raj Kim,Tesla,TSLA,Autonomy & AI,Principal,84.3,588800,8.8
+TSLA-0976,Fatima Patel,Tesla,TSLA,Autonomy & AI,Staff,72.5,314600,1.7
+TSLA-0977,Maria Johnson,Tesla,TSLA,Manufacturing,Principal,79.2,183000,2.6
+TSLA-0978,Carlos Patel,Tesla,TSLA,Autonomy & AI,SVP,98.8,508600,6.4
+TSLA-0979,Carlos Johnson,Tesla,TSLA,Manufacturing,Staff,76.9,72700,1.6
+TSLA-0980,Raj Silva,Tesla,TSLA,Design,Senior,84.1,244300,4.4
+TSLA-0981,Raj Rossi,Tesla,TSLA,Design,Senior Director,72.8,950100,7.6
+TSLA-0982,Aisha Silva,Tesla,TSLA,Operations,Principal,96.7,1376100,4.9
+TSLA-0983,Mary Silva,Tesla,TSLA,Engineering,Director,67.4,293200,5.4
+TSLA-0984,Aisha Petrov,Tesla,TSLA,Engineering,Staff,87.6,135400,3.7
+TSLA-0985,Nina Lopez,Tesla,TSLA,Sales & Service,Director,96.0,841700,5.5
+TSLA-0986,Hannah Murphy,Tesla,TSLA,Manufacturing,Principal,94.0,237200,4.4
+TSLA-0987,Olivia Brown,Tesla,TSLA,Energy/Charging,Staff,82.5,289300,2.0
+TSLA-0988,Olivia Park,Tesla,TSLA,Engineering,Principal,64.5,164300,9.3
+TSLA-0989,Thomas Martinez,Tesla,TSLA,Manufacturing,Director,71.9,813800,4.9
+TSLA-0990,Yuki Brown,Tesla,TSLA,Autonomy & AI,Director,54.0,185600,8.3
+TSLA-0991,Yuki Patel,Tesla,TSLA,Energy/Charging,Principal,95.8,476000,4.1
+TSLA-0992,Hannah Tanaka,Tesla,TSLA,Engineering,Senior,80.8,96400,1.8
+TSLA-0993,Mary Murphy,Tesla,TSLA,Engineering,Senior,80.7,400800,3.7
+TSLA-0994,Zoe Garcia,Tesla,TSLA,Engineering,Director,82.4,622300,9.5
+TSLA-0995,Kevin Johnson,Tesla,TSLA,Design,Director,66.3,897800,3.9
+TSLA-0996,Aisha Rossi,Tesla,TSLA,Autonomy & AI,Director,81.9,626900,4.3
+TSLA-0997,John Schmidt,Tesla,TSLA,Engineering,Principal,68.9,312700,3.6
+TSLA-0998,Hiroshi Murphy,Tesla,TSLA,Manufacturing,Senior,88.3,71700,7.7
+TSLA-0999,Sofia Petrov,Tesla,TSLA,Manufacturing,VP,84.9,2174900,5.4
+TSLA-1000,James Singh,Tesla,TSLA,Sales & Service,Principal,80.8,141300,7.4

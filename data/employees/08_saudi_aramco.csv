@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+2222-0001,Layla Al-Maliki,Saudi Aramco,2222.SR,Sales & Trading,Principal,63.5,128300,16.7
+2222-0002,Lina Al-Otaibi,Saudi Aramco,2222.SR,Operations,Principal,86.6,247900,10.9
+2222-0003,Sara Al-Rashid,Saudi Aramco,2222.SR,Supply Chain,Senior,68.4,78800,9.9
+2222-0004,Salem Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,74.8,186700,16.9
+2222-0005,Hamad Al-Maliki,Saudi Aramco,2222.SR,Operations,Director,92.6,209900,4.6
+2222-0006,Sara Al-Maliki,Saudi Aramco,2222.SR,Finance,Staff,84.5,88200,11.6
+2222-0007,Majed Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Director,81.6,216800,14.9
+2222-0008,Saud Al-Maliki,Saudi Aramco,2222.SR,Operations,VP,86.0,665200,31.4
+2222-0009,Amal Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,81.4,440900,10.5
+2222-0010,Huda Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,67.0,240700,24.6
+2222-0011,Dana Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,79.8,183500,11.5
+2222-0012,Amal Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,81.9,106500,6.4
+2222-0013,Layla Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,91.6,79900,9.0
+2222-0014,Maryam Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,86.3,115800,13.7
+2222-0015,Dana Al-Hassan,Saudi Aramco,2222.SR,Research & Tech,SVP,91.0,913000,14.7
+2222-0016,Rana Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Staff,69.7,115900,11.7
+2222-0017,Dana Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,94.1,211700,21.3
+2222-0018,Lina Al-Zahrani,Saudi Aramco,2222.SR,Sales & Trading,Staff,66.6,230400,18.3
+2222-0019,Ziad Al-Shehri,Saudi Aramco,2222.SR,Operations,Senior Director,81.6,380100,17.0
+2222-0020,Yousef Al-Amri,Saudi Aramco,2222.SR,Operations,Director,89.8,320800,7.9
+2222-0021,Saud Al-Nasser,Saudi Aramco,2222.SR,Operations,Principal,74.0,314900,12.4
+2222-0022,Lina Al-Otaibi,Saudi Aramco,2222.SR,People/HR,Senior,80.1,117000,7.5
+2222-0023,Rana Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,79.3,172200,5.3
+2222-0024,Noura Al-Amri,Saudi Aramco,2222.SR,Research & Tech,Principal,72.9,221700,5.2
+2222-0025,Ziad Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,83.2,152400,7.8
+2222-0026,Bandar Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Staff,98.8,271500,11.6
+2222-0027,Rana Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,74.0,67400,6.6
+2222-0028,Khalid Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,88.8,284300,15.9
+2222-0029,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,72.4,64200,6.8
+2222-0030,Tariq Al-Otaibi,Saudi Aramco,2222.SR,Supply Chain,Principal,80.2,282100,13.0
+2222-0031,Lina Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,83.4,369000,10.8
+2222-0032,Lina Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,83.0,427400,14.5
+2222-0033,Sara Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,76.5,138700,18.7
+2222-0034,Abdullah Al-Harbi,Saudi Aramco,2222.SR,HSE/Safety,Senior,86.5,172500,16.6
+2222-0035,Rana Al-Hassan,Saudi Aramco,2222.SR,Operations,Senior,87.5,109900,16.2
+2222-0036,Dana Al-Dossari,Saudi Aramco,2222.SR,Finance,Staff,80.3,253900,16.3
+2222-0037,Hessa Al-Anazi,Saudi Aramco,2222.SR,Supply Chain,Director,75.8,223100,12.7
+2222-0038,Rana Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.8,111800,16.5
+2222-0039,Huda Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Director,98.5,404400,7.8
+2222-0040,Yousef Al-Juhani,Saudi Aramco,2222.SR,Legal & Policy,Senior,82.1,119900,5.7
+2222-0041,Faisal Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,88.1,185100,15.2
+2222-0042,Jana Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,70.4,276800,16.0
+2222-0043,Bandar Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,85.3,126500,9.9
+2222-0044,Fatima Al-Qahtani,Saudi Aramco,2222.SR,Sales & Trading,Senior Director,69.3,279900,20.0
+2222-0045,Hamad Al-Hassan,Saudi Aramco,2222.SR,Finance,Staff,75.5,94400,17.5
+2222-0046,Majed Al-Shehri,Saudi Aramco,2222.SR,Supply Chain,Staff,85.2,246800,14.4
+2222-0047,Faisal Al-Otaibi,Saudi Aramco,2222.SR,Finance,Senior,78.6,275400,4.0
+2222-0048,Faisal Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,96.5,247700,6.4
+2222-0049,Rana Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,77.8,104400,12.1
+2222-0050,Fatima Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Director,73.4,652800,15.2
+2222-0051,Fatima Al-Rashid,Saudi Aramco,2222.SR,Operations,Principal,82.0,230700,27.6
+2222-0052,Hessa Al-Hassan,Saudi Aramco,2222.SR,Operations,C-Suite,78.7,634800,9.0
+2222-0053,Hessa Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Director,77.9,465700,4.6
+2222-0054,Reem Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,75.2,528200,8.9
+2222-0055,Salem Al-Subaie,Saudi Aramco,2222.SR,Finance,Senior,60.6,233300,5.2
+2222-0056,Dana Al-Zahrani,Saudi Aramco,2222.SR,Operations,Principal,86.3,163800,26.7
+2222-0057,Dana Al-Zahrani,Saudi Aramco,2222.SR,Operations,Senior,94.2,249100,13.5
+2222-0058,Rana Al-Qahtani,Saudi Aramco,2222.SR,Research & Tech,Senior,72.1,140900,3.5
+2222-0059,Majed Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,84.8,440200,14.1
+2222-0060,Layla Al-Otaibi,Saudi Aramco,2222.SR,Supply Chain,Staff,80.9,153000,6.4
+2222-0061,Majed Al-Amri,Saudi Aramco,2222.SR,Research & Tech,Senior,82.8,123200,15.7
+2222-0062,Hessa Al-Ghamdi,Saudi Aramco,2222.SR,Finance,Staff,76.1,167700,14.1
+2222-0063,Omar Al-Hassan,Saudi Aramco,2222.SR,HSE/Safety,Senior,76.2,301800,4.1
+2222-0064,Salem Al-Shehri,Saudi Aramco,2222.SR,People/HR,Staff,75.3,270600,12.1
+2222-0065,Faisal Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,66.6,158100,6.9
+2222-0066,Omar Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Staff,80.6,71200,16.9
+2222-0067,Rana Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,78.2,117200,15.7
+2222-0068,Tariq Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,74.7,316100,15.2
+2222-0069,Rana Al-Zahrani,Saudi Aramco,2222.SR,Research & Tech,Principal,65.2,213800,7.4
+2222-0070,Hessa Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,94.4,649000,20.8
+2222-0071,Faisal Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,82.7,79600,8.8
+2222-0072,Majed Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,72.2,209500,15.9
+2222-0073,Yousef Bin Laden,Saudi Aramco,2222.SR,Supply Chain,Staff,71.1,103800,3.8
+2222-0074,Dana Al-Amri,Saudi Aramco,2222.SR,Operations,Senior,82.4,98000,12.1
+2222-0075,Mohammed Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.2,114900,18.8
+2222-0076,Omar Al-Rashid,Saudi Aramco,2222.SR,Supply Chain,Staff,77.8,241900,12.0
+2222-0077,Majed Al-Shehri,Saudi Aramco,2222.SR,Operations,Principal,77.1,142900,7.8
+2222-0078,Jana Al-Faraj,Saudi Aramco,2222.SR,Sales & Trading,Principal,62.4,179300,14.8
+2222-0079,Hessa Al-Rashid,Saudi Aramco,2222.SR,Sales & Trading,Senior,79.1,157000,26.9
+2222-0080,Bandar Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,78.5,460600,14.4
+2222-0081,Bandar Bin Laden,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,73.5,106100,11.4
+2222-0082,Rana Al-Saud,Saudi Aramco,2222.SR,Finance,Staff,77.1,88900,13.3
+2222-0083,Tariq Al-Qahtani,Saudi Aramco,2222.SR,HSE/Safety,Principal,80.3,117600,13.5
+2222-0084,Huda Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Staff,75.4,59200,10.7
+2222-0085,Hessa Al-Maliki,Saudi Aramco,2222.SR,HSE/Safety,Principal,77.6,351900,13.8
+2222-0086,Layla Al-Subaie,Saudi Aramco,2222.SR,Finance,Principal,75.6,282600,8.9
+2222-0087,Bandar Al-Ghamdi,Saudi Aramco,2222.SR,Finance,SVP,78.7,403300,18.4
+2222-0088,Tariq Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,83.9,282600,12.9
+2222-0089,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,68.5,90100,17.1
+2222-0090,Omar Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,74.1,306000,19.5
+2222-0091,Rana Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,100.0,208000,10.1
+2222-0092,Faisal Al-Anazi,Saudi Aramco,2222.SR,Operations,Staff,87.9,293800,11.6
+2222-0093,Fatima Al-Qahtani,Saudi Aramco,2222.SR,HSE/Safety,Senior,76.0,128100,8.2
+2222-0094,Dana Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,88.6,247400,17.1
+2222-0095,Nasser Al-Juhani,Saudi Aramco,2222.SR,Legal & Policy,C-Suite,82.8,1525000,21.5
+2222-0096,Tariq Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,88.7,146600,5.0
+2222-0097,Tariq Al-Nasser,Saudi Aramco,2222.SR,Operations,Staff,96.4,97900,7.5
+2222-0098,Fatima Al-Amri,Saudi Aramco,2222.SR,Supply Chain,Staff,88.2,275800,13.0
+2222-0099,Amal Bin Laden,Saudi Aramco,2222.SR,Finance,Senior,72.8,51600,14.9
+2222-0100,Nasser Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior,90.6,424200,4.6
+2222-0101,Layla Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,97.6,218400,9.4
+2222-0102,Salem Al-Ghamdi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,68.5,158000,20.3
+2222-0103,Hamad Al-Saud,Saudi Aramco,2222.SR,Research & Tech,Director,84.2,315700,15.1
+2222-0104,Maryam Al-Mutairi,Saudi Aramco,2222.SR,Finance,Senior,82.9,145100,4.0
+2222-0105,Ziad Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Staff,83.7,253800,21.2
+2222-0106,Yousef Al-Mutairi,Saudi Aramco,2222.SR,Operations,Senior,81.5,230500,5.4
+2222-0107,Hamad Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,68.3,237700,12.4
+2222-0108,Majed Al-Otaibi,Saudi Aramco,2222.SR,Research & Tech,Staff,77.1,246300,10.1
+2222-0109,Maryam Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Director,75.4,97100,13.0
+2222-0110,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Director,88.2,243600,14.4
+2222-0111,Salem Al-Mutairi,Saudi Aramco,2222.SR,HSE/Safety,Senior,77.7,50700,11.8
+2222-0112,Noura Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,84.2,816600,9.9
+2222-0113,Salem Al-Anazi,Saudi Aramco,2222.SR,Operations,Staff,86.1,322500,12.3
+2222-0114,Jana Al-Amri,Saudi Aramco,2222.SR,Sales & Trading,Senior Director,79.1,239800,24.6
+2222-0115,Maryam Al-Maliki,Saudi Aramco,2222.SR,Supply Chain,Principal,73.5,376600,12.0
+2222-0116,Sara Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,81.9,546100,19.9
+2222-0117,Tariq Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,71.2,194600,13.8
+2222-0118,Sara Al-Anazi,Saudi Aramco,2222.SR,Operations,Director,88.8,431800,17.4
+2222-0119,Bandar Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.6,184800,15.7
+2222-0120,Jana Al-Qahtani,Saudi Aramco,2222.SR,Operations,Senior,83.6,92600,23.0
+2222-0121,Huda Al-Maliki,Saudi Aramco,2222.SR,Operations,Staff,71.6,260200,13.7
+2222-0122,Khalid Al-Shehri,Saudi Aramco,2222.SR,Operations,Staff,78.3,147000,9.0
+2222-0123,Majed Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,81.1,185200,15.8
+2222-0124,Omar Al-Maliki,Saudi Aramco,2222.SR,Operations,VP,79.4,662200,10.8
+2222-0125,Jana Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,79.4,473500,12.7
+2222-0126,Faisal Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior Director,85.3,358300,10.6
+2222-0127,Bandar Al-Maliki,Saudi Aramco,2222.SR,HSE/Safety,Principal,86.1,130200,12.8
+2222-0128,Layla Al-Dossari,Saudi Aramco,2222.SR,Operations,Senior,66.6,54800,5.3
+2222-0129,Dana Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Staff,76.5,225400,3.3
+2222-0130,Saud Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Director,80.9,456400,17.7
+2222-0131,Abdullah Al-Nasser,Saudi Aramco,2222.SR,Operations,Senior,78.9,148300,10.9
+2222-0132,Hessa Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Director,94.8,467700,10.3
+2222-0133,Nasser Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Staff,89.6,214600,6.0
+2222-0134,Khalid Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,87.6,294400,3.6
+2222-0135,Hamad Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,75.1,129900,7.5
+2222-0136,Lina Al-Maliki,Saudi Aramco,2222.SR,Operations,Senior,84.2,168500,22.4
+2222-0137,Ziad Al-Hassan,Saudi Aramco,2222.SR,HSE/Safety,Senior,66.9,211800,13.0
+2222-0138,Omar Al-Dossari,Saudi Aramco,2222.SR,Operations,Senior,87.3,123900,1.9
+2222-0139,Jana Al-Nasser,Saudi Aramco,2222.SR,Operations,Principal,69.3,163400,19.4
+2222-0140,Reem Bin Laden,Saudi Aramco,2222.SR,Operations,Senior,81.5,65800,18.5
+2222-0141,Ziad Al-Rashid,Saudi Aramco,2222.SR,Sales & Trading,Principal,67.8,234000,18.6
+2222-0142,Noura Al-Faraj,Saudi Aramco,2222.SR,HSE/Safety,Staff,70.7,102200,4.9
+2222-0143,Jana Al-Rashid,Saudi Aramco,2222.SR,Research & Tech,Staff,69.6,302600,23.4
+2222-0144,Rana Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,88.5,296900,14.7
+2222-0145,Khalid Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,91.4,141600,18.1
+2222-0146,Jana Al-Nasser,Saudi Aramco,2222.SR,Operations,Staff,92.0,234200,6.6
+2222-0147,Layla Al-Hassan,Saudi Aramco,2222.SR,Research & Tech,Staff,62.5,188900,9.2
+2222-0148,Maryam Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Principal,83.4,166600,8.9
+2222-0149,Hamad Al-Anazi,Saudi Aramco,2222.SR,Finance,Senior,72.8,121500,21.0
+2222-0150,Aisha Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,70.2,104500,14.1
+2222-0151,Bandar Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,69.2,51900,10.3
+2222-0152,Majed Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,95.1,975100,6.1
+2222-0153,Yousef Al-Subaie,Saudi Aramco,2222.SR,Supply Chain,Staff,82.3,145800,9.7
+2222-0154,Tariq Al-Saud,Saudi Aramco,2222.SR,Research & Tech,Senior,85.5,128300,7.9
+2222-0155,Noura Al-Faraj,Saudi Aramco,2222.SR,Operations,Staff,86.8,219000,4.8
+2222-0156,Salem Al-Mutairi,Saudi Aramco,2222.SR,Research & Tech,Senior,82.1,133300,13.0
+2222-0157,Fatima Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,68.2,97300,12.5
+2222-0158,Aisha Al-Amri,Saudi Aramco,2222.SR,Operations,Staff,83.6,153400,8.5
+2222-0159,Noura Al-Harbi,Saudi Aramco,2222.SR,Operations,Senior,73.1,206100,8.5
+2222-0160,Majed Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,56.6,158000,13.7
+2222-0161,Lina Al-Juhani,Saudi Aramco,2222.SR,Operations,Director,79.7,286600,15.9
+2222-0162,Khalid Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,VP,88.6,752800,15.8
+2222-0163,Salem Al-Mutairi,Saudi Aramco,2222.SR,Supply Chain,Senior Director,86.5,438800,18.9
+2222-0164,Abdullah Al-Dossari,Saudi Aramco,2222.SR,Finance,VP,70.8,392300,12.8
+2222-0165,Dana Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,97.2,798800,9.5
+2222-0166,Salem Al-Rashid,Saudi Aramco,2222.SR,Research & Tech,Senior,63.9,62900,20.4
+2222-0167,Lina Al-Hassan,Saudi Aramco,2222.SR,Sales & Trading,Senior,85.8,171200,17.5
+2222-0168,Bandar Al-Zahrani,Saudi Aramco,2222.SR,Operations,Senior,83.9,143100,28.5
+2222-0169,Mohammed Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.4,120300,7.8
+2222-0170,Noura Al-Shehri,Saudi Aramco,2222.SR,Operations,Principal,76.2,139000,12.5
+2222-0171,Faisal Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,VP,94.1,533900,12.8
+2222-0172,Hessa Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,VP,94.3,142000,15.2
+2222-0173,Aisha Bin Laden,Saudi Aramco,2222.SR,Finance,Senior,76.3,144000,6.8
+2222-0174,Faisal Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,98.3,150800,4.0
+2222-0175,Nasser Al-Subaie,Saudi Aramco,2222.SR,HSE/Safety,Staff,87.4,150200,8.3
+2222-0176,Mohammed Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,74.4,573400,22.1
+2222-0177,Amal Al-Mutairi,Saudi Aramco,2222.SR,Legal & Policy,Senior,89.4,109500,8.2
+2222-0178,Yousef Al-Qahtani,Saudi Aramco,2222.SR,Operations,Director,79.9,240400,22.8
+2222-0179,Fatima Al-Maliki,Saudi Aramco,2222.SR,People/HR,Staff,88.2,41500,27.0
+2222-0180,Yousef Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,70.4,323300,8.0
+2222-0181,Mohammed Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,79.9,145900,6.7
+2222-0182,Yousef Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,76.4,132400,25.0
+2222-0183,Saud Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Director,84.8,402000,16.1
+2222-0184,Dana Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,84.8,455100,14.5
+2222-0185,Reem Al-Hassan,Saudi Aramco,2222.SR,Operations,Senior,94.6,126400,17.5
+2222-0186,Noura Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,69.0,134900,12.3
+2222-0187,Tariq Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,88.7,212200,12.3
+2222-0188,Rana Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,78.0,148800,19.1
+2222-0189,Dana Al-Juhani,Saudi Aramco,2222.SR,HSE/Safety,Staff,77.9,311500,5.3
+2222-0190,Yousef Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,78.3,274700,11.1
+2222-0191,Sara Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,88.1,148500,12.2
+2222-0192,Salem Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,76.9,542300,14.2
+2222-0193,Hessa Al-Qahtani,Saudi Aramco,2222.SR,Operations,Staff,90.9,920100,7.4
+2222-0194,Amal Al-Hassan,Saudi Aramco,2222.SR,Finance,Principal,78.7,136100,6.8
+2222-0195,Hamad Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,67.8,168900,19.2
+2222-0196,Amal Al-Nasser,Saudi Aramco,2222.SR,HSE/Safety,Director,70.3,356400,11.5
+2222-0197,Rana Al-Dossari,Saudi Aramco,2222.SR,Finance,Senior,72.8,109200,5.8
+2222-0198,Yousef Al-Faraj,Saudi Aramco,2222.SR,People/HR,Staff,78.6,92100,11.4
+2222-0199,Abdullah Al-Rashid,Saudi Aramco,2222.SR,Operations,Director,83.2,165200,14.3
+2222-0200,Hessa Al-Dossari,Saudi Aramco,2222.SR,Operations,Staff,69.3,117400,9.0
+2222-0201,Hamad Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,78.1,82200,13.4
+2222-0202,Amal Al-Qahtani,Saudi Aramco,2222.SR,Operations,Senior Director,78.0,316200,12.4
+2222-0203,Rana Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Director,74.5,619500,14.7
+2222-0204,Khalid Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,VP,83.1,917200,9.6
+2222-0205,Huda Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,82.1,195500,8.0
+2222-0206,Amal Al-Qahtani,Saudi Aramco,2222.SR,Research & Tech,Staff,78.0,290700,7.2
+2222-0207,Abdullah Al-Saud,Saudi Aramco,2222.SR,HSE/Safety,Senior,85.8,149200,12.2
+2222-0208,Yousef Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior Director,76.3,333500,15.7
+2222-0209,Reem Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,64.1,166400,11.6
+2222-0210,Fatima Al-Nasser,Saudi Aramco,2222.SR,Legal & Policy,Principal,85.3,298200,35.5
+2222-0211,Saud Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,91.7,259200,7.9
+2222-0212,Bandar Al-Juhani,Saudi Aramco,2222.SR,HSE/Safety,Director,87.2,218100,12.9
+2222-0213,Salem Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,82.6,113600,12.3
+2222-0214,Khalid Bin Laden,Saudi Aramco,2222.SR,Research & Tech,Senior,78.7,208500,14.3
+2222-0215,Reem Al-Amri,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,72.0,750000,11.1
+2222-0216,Tariq Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,85.7,289500,19.4
+2222-0217,Khalid Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,78.2,136800,15.5
+2222-0218,Lina Bin Laden,Saudi Aramco,2222.SR,Research & Tech,Staff,81.8,354800,9.9
+2222-0219,Saud Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.6,85000,14.7
+2222-0220,Hamad Al-Anazi,Saudi Aramco,2222.SR,Operations,Staff,78.9,126300,6.7
+2222-0221,Sara Al-Otaibi,Saudi Aramco,2222.SR,Operations,Staff,83.8,59400,4.2
+2222-0222,Nasser Al-Maliki,Saudi Aramco,2222.SR,Supply Chain,Senior Director,94.4,383000,15.1
+2222-0223,Ziad Al-Harbi,Saudi Aramco,2222.SR,Research & Tech,Staff,91.0,310600,8.6
+2222-0224,Fatima Al-Ghamdi,Saudi Aramco,2222.SR,Finance,Senior Director,69.6,260500,14.6
+2222-0225,Ziad Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,VP,90.5,196000,10.7
+2222-0226,Nasser Al-Amri,Saudi Aramco,2222.SR,Operations,Senior Director,80.8,984500,13.7
+2222-0227,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,85.5,183400,15.1
+2222-0228,Nasser Al-Rashid,Saudi Aramco,2222.SR,People/HR,Senior,84.9,267400,20.4
+2222-0229,Abdullah Al-Maliki,Saudi Aramco,2222.SR,Sales & Trading,Principal,88.2,375500,9.7
+2222-0230,Sara Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Director,82.6,355200,9.6
+2222-0231,Rana Al-Anazi,Saudi Aramco,2222.SR,Finance,Principal,94.0,340600,5.2
+2222-0232,Dana Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,80.8,222600,13.2
+2222-0233,Reem Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Director,81.1,151800,10.0
+2222-0234,Majed Al-Nasser,Saudi Aramco,2222.SR,Operations,Staff,78.7,94300,6.0
+2222-0235,Abdullah Al-Rashid,Saudi Aramco,2222.SR,Supply Chain,Senior,85.9,203700,5.5
+2222-0236,Dana Bin Laden,Saudi Aramco,2222.SR,Finance,Staff,88.4,356800,6.7
+2222-0237,Bandar Al-Juhani,Saudi Aramco,2222.SR,People/HR,Staff,73.7,213700,3.2
+2222-0238,Fatima Al-Shehri,Saudi Aramco,2222.SR,Supply Chain,Senior,86.6,186400,6.6
+2222-0239,Abdullah Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,77.9,103300,17.3
+2222-0240,Salem Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,69.8,174700,10.1
+2222-0241,Faisal Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,79.3,148800,11.0
+2222-0242,Sara Al-Mutairi,Saudi Aramco,2222.SR,Operations,Senior,87.5,286600,6.6
+2222-0243,Maryam Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,87.1,1103600,20.4
+2222-0244,Abdullah Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,78.1,164400,10.0
+2222-0245,Fatima Al-Dossari,Saudi Aramco,2222.SR,Research & Tech,Senior,76.3,84800,13.8
+2222-0246,Salem Al-Rashid,Saudi Aramco,2222.SR,HSE/Safety,VP,76.0,300900,19.7
+2222-0247,Khalid Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Principal,80.8,335300,20.2
+2222-0248,Sara Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.5,132800,6.2
+2222-0249,Nasser Al-Hassan,Saudi Aramco,2222.SR,Legal & Policy,Senior Director,73.2,228300,14.1
+2222-0250,Tariq Al-Anazi,Saudi Aramco,2222.SR,HSE/Safety,Senior,58.4,44600,10.2
+2222-0251,Nasser Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Senior,72.3,141100,22.0
+2222-0252,Nasser Al-Harbi,Saudi Aramco,2222.SR,Finance,Senior,82.6,100200,13.1
+2222-0253,Tariq Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Director,79.4,253900,22.7
+2222-0254,Omar Al-Zahrani,Saudi Aramco,2222.SR,HSE/Safety,Staff,83.0,389400,10.5
+2222-0255,Layla Al-Otaibi,Saudi Aramco,2222.SR,Operations,Staff,69.3,115700,10.5
+2222-0256,Omar Al-Rashid,Saudi Aramco,2222.SR,Supply Chain,Senior,79.1,35400,6.6
+2222-0257,Hamad Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,85.9,610600,27.3
+2222-0258,Fatima Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,84.2,454600,18.5
+2222-0259,Reem Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,70.3,176300,11.4
+2222-0260,Majed Al-Otaibi,Saudi Aramco,2222.SR,Operations,Senior,85.7,176600,10.9
+2222-0261,Abdullah Al-Rashid,Saudi Aramco,2222.SR,Legal & Policy,Senior,78.2,236000,7.9
+2222-0262,Ziad Al-Mutairi,Saudi Aramco,2222.SR,HSE/Safety,Principal,80.6,297200,16.3
+2222-0263,Mohammed Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.5,81500,10.7
+2222-0264,Huda Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,96.6,237200,16.3
+2222-0265,Huda Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Director,89.2,217500,15.2
+2222-0266,Hessa Al-Zahrani,Saudi Aramco,2222.SR,Operations,Staff,79.0,116700,7.4
+2222-0267,Aisha Al-Hassan,Saudi Aramco,2222.SR,Finance,Senior,73.5,56600,15.2
+2222-0268,Majed Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,71.6,300900,6.3
+2222-0269,Yousef Al-Dossari,Saudi Aramco,2222.SR,Operations,Staff,81.2,147500,10.7
+2222-0270,Ziad Al-Qahtani,Saudi Aramco,2222.SR,Operations,Staff,75.0,195100,11.8
+2222-0271,Fatima Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.1,94500,15.5
+2222-0272,Maryam Bin Laden,Saudi Aramco,2222.SR,Operations,Staff,72.4,153500,5.9
+2222-0273,Rana Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,84.9,130400,17.7
+2222-0274,Saud Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,71.3,422800,6.6
+2222-0275,Faisal Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,73.7,234300,27.7
+2222-0276,Majed Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Director,86.7,260700,14.1
+2222-0277,Nasser Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior,68.2,351400,8.2
+2222-0278,Dana Al-Harbi,Saudi Aramco,2222.SR,Supply Chain,Senior,79.6,281700,10.3
+2222-0279,Bandar Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,74.3,184700,13.9
+2222-0280,Huda Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,77.3,261600,8.0
+2222-0281,Dana Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,82.9,808500,27.7
+2222-0282,Saud Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,86.0,137500,21.0
+2222-0283,Hessa Al-Otaibi,Saudi Aramco,2222.SR,Operations,Senior,70.4,58300,7.3
+2222-0284,Faisal Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,79.8,176300,15.6
+2222-0285,Jana Al-Zahrani,Saudi Aramco,2222.SR,Operations,Director,70.0,810100,17.4
+2222-0286,Khalid Bin Laden,Saudi Aramco,2222.SR,Research & Tech,Senior,75.4,91400,17.2
+2222-0287,Salem Al-Nasser,Saudi Aramco,2222.SR,Operations,Director,73.1,287700,12.3
+2222-0288,Khalid Al-Anazi,Saudi Aramco,2222.SR,Operations,Senior,84.9,98100,12.8
+2222-0289,Nasser Al-Qahtani,Saudi Aramco,2222.SR,People/HR,Principal,84.1,163000,20.3
+2222-0290,Maryam Al-Amri,Saudi Aramco,2222.SR,Research & Tech,Principal,79.1,165500,11.5
+2222-0291,Fatima Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,65.9,122600,4.6
+2222-0292,Jana Al-Dossari,Saudi Aramco,2222.SR,Operations,Senior,80.5,92100,14.7
+2222-0293,Hessa Al-Harbi,Saudi Aramco,2222.SR,Supply Chain,Principal,72.3,230600,8.7
+2222-0294,Fatima Al-Qahtani,Saudi Aramco,2222.SR,Operations,Senior,81.4,176600,9.2
+2222-0295,Saud Al-Maliki,Saudi Aramco,2222.SR,People/HR,Staff,64.2,116800,5.9
+2222-0296,Reem Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Principal,80.7,137200,12.9
+2222-0297,Saud Al-Amri,Saudi Aramco,2222.SR,HSE/Safety,Senior,76.9,63700,8.5
+2222-0298,Khalid Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,75.8,427000,12.0
+2222-0299,Bandar Al-Faraj,Saudi Aramco,2222.SR,Supply Chain,VP,79.1,483900,11.1
+2222-0300,Mohammed Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,92.4,75200,13.9
+2222-0301,Dana Al-Saud,Saudi Aramco,2222.SR,Operations,Staff,81.9,213400,12.7
+2222-0302,Abdullah Al-Faraj,Saudi Aramco,2222.SR,Operations,Principal,87.4,268900,14.2
+2222-0303,Hamad Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,76.7,155600,6.1
+2222-0304,Noura Al-Amri,Saudi Aramco,2222.SR,Sales & Trading,Staff,82.4,231300,30.7
+2222-0305,Majed Al-Sulaiman,Saudi Aramco,2222.SR,Finance,Principal,74.6,65800,7.4
+2222-0306,Dana Al-Faraj,Saudi Aramco,2222.SR,Legal & Policy,Staff,71.2,311800,24.5
+2222-0307,Fatima Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,96.8,496600,10.7
+2222-0308,Fatima Al-Shehri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,74.1,299600,11.0
+2222-0309,Majed Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,86.0,87200,15.8
+2222-0310,Amal Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,83.7,398600,8.4
+2222-0311,Hamad Al-Otaibi,Saudi Aramco,2222.SR,Operations,Staff,85.4,285800,19.6
+2222-0312,Abdullah Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Director,78.1,269900,8.5
+2222-0313,Salem Al-Amri,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,79.6,721900,10.8
+2222-0314,Hessa Al-Mutairi,Saudi Aramco,2222.SR,Legal & Policy,Senior,71.5,166200,3.7
+2222-0315,Jana Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,76.9,377500,8.6
+2222-0316,Hessa Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,75.5,144200,7.7
+2222-0317,Abdullah Al-Anazi,Saudi Aramco,2222.SR,HSE/Safety,Senior,82.3,84300,14.6
+2222-0318,Rana Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,VP,83.1,1547300,19.2
+2222-0319,Lina Al-Harbi,Saudi Aramco,2222.SR,Sales & Trading,Staff,73.9,124900,6.6
+2222-0320,Hessa Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,78.7,156200,14.2
+2222-0321,Khalid Al-Otaibi,Saudi Aramco,2222.SR,Research & Tech,Director,83.3,88600,20.3
+2222-0322,Majed Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Director,82.6,859800,15.4
+2222-0323,Noura Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,75.0,203700,10.6
+2222-0324,Abdullah Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,70.8,186000,8.5
+2222-0325,Bandar Al-Anazi,Saudi Aramco,2222.SR,Finance,Principal,65.3,167600,10.7
+2222-0326,Faisal Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,83.1,236400,11.8
+2222-0327,Rana Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,72.8,60200,10.4
+2222-0328,Hamad Al-Anazi,Saudi Aramco,2222.SR,People/HR,Senior Director,78.8,318700,21.2
+2222-0329,Salem Al-Harbi,Saudi Aramco,2222.SR,Operations,Principal,88.9,543700,4.0
+2222-0330,Lina Al-Ghamdi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,85.9,697700,10.8
+2222-0331,Ziad Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,77.7,239900,15.6
+2222-0332,Reem Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,VP,85.9,333200,10.4
+2222-0333,Dana Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,72.2,109200,6.6
+2222-0334,Omar Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior,96.9,189500,11.4
+2222-0335,Mohammed Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,82.4,477000,14.2
+2222-0336,Majed Al-Subaie,Saudi Aramco,2222.SR,Operations,Staff,78.6,88000,13.3
+2222-0337,Tariq Al-Amri,Saudi Aramco,2222.SR,Operations,Senior,81.3,151400,8.7
+2222-0338,Faisal Al-Shehri,Saudi Aramco,2222.SR,Sales & Trading,Senior,84.0,302400,7.5
+2222-0339,Tariq Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,84.5,191500,11.9
+2222-0340,Hamad Al-Saud,Saudi Aramco,2222.SR,Operations,Principal,75.6,344100,8.0
+2222-0341,Tariq Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Director,89.6,180300,23.6
+2222-0342,Tariq Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,80.4,515700,18.2
+2222-0343,Faisal Al-Faraj,Saudi Aramco,2222.SR,Operations,Principal,68.7,267400,9.4
+2222-0344,Nasser Al-Zahrani,Saudi Aramco,2222.SR,Operations,SVP,90.6,675100,17.4
+2222-0345,Jana Al-Saud,Saudi Aramco,2222.SR,Operations,VP,79.8,281300,9.7
+2222-0346,Dana Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,75.1,326300,10.3
+2222-0347,Nasser Al-Otaibi,Saudi Aramco,2222.SR,Operations,Staff,86.1,243100,6.8
+2222-0348,Bandar Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Director,85.2,256100,35.0
+2222-0349,Omar Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,73.3,250300,11.5
+2222-0350,Maryam Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.9,112900,6.0
+2222-0351,Sara Al-Mutairi,Saudi Aramco,2222.SR,Legal & Policy,Senior,76.6,105500,11.4
+2222-0352,Reem Al-Saud,Saudi Aramco,2222.SR,Operations,Director,100.0,162200,11.3
+2222-0353,Abdullah Al-Qahtani,Saudi Aramco,2222.SR,People/HR,Senior,62.0,56400,6.2
+2222-0354,Omar Al-Zahrani,Saudi Aramco,2222.SR,Operations,Senior Director,69.9,211500,11.2
+2222-0355,Jana Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,57.2,190600,3.6
+2222-0356,Yousef Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.9,391000,9.6
+2222-0357,Hessa Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,89.0,123000,6.9
+2222-0358,Rana Al-Subaie,Saudi Aramco,2222.SR,People/HR,Staff,76.0,528200,10.2
+2222-0359,Huda Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,VP,77.9,499300,16.6
+2222-0360,Noura Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,74.2,162800,3.6
+2222-0361,Salem Al-Amri,Saudi Aramco,2222.SR,Operations,Senior Director,81.0,220400,17.0
+2222-0362,Yousef Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,83.1,145500,36.1
+2222-0363,Jana Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Director,76.5,153000,15.3
+2222-0364,Hamad Al-Nasser,Saudi Aramco,2222.SR,Sales & Trading,Senior Director,79.0,217500,12.4
+2222-0365,Khalid Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,92.5,228300,24.0
+2222-0366,Tariq Al-Ghamdi,Saudi Aramco,2222.SR,Refining & Chemicals,VP,82.5,320600,9.1
+2222-0367,Aisha Al-Otaibi,Saudi Aramco,2222.SR,Operations,Principal,72.5,177900,17.3
+2222-0368,Sara Al-Maliki,Saudi Aramco,2222.SR,Operations,Senior,75.5,77400,18.7
+2222-0369,Jana Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,70.7,125000,12.7
+2222-0370,Hamad Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,66.1,156600,10.8
+2222-0371,Ziad Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,67.2,289400,15.9
+2222-0372,Bandar Al-Zahrani,Saudi Aramco,2222.SR,Finance,Staff,87.7,410400,16.6
+2222-0373,Fatima Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,72.9,70000,12.7
+2222-0374,Majed Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,67.9,162600,13.0
+2222-0375,Noura Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,95.7,316300,13.5
+2222-0376,Lina Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,C-Suite,74.0,1754000,16.5
+2222-0377,Yousef Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,83.1,129600,7.5
+2222-0378,Sara Al-Rashid,Saudi Aramco,2222.SR,HSE/Safety,Staff,71.7,225000,15.0
+2222-0379,Huda Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,95.9,87900,12.3
+2222-0380,Salem Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,85.9,102900,3.6
+2222-0381,Abdullah Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,100.0,347900,15.8
+2222-0382,Rana Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Director,69.1,364700,7.8
+2222-0383,Tariq Al-Otaibi,Saudi Aramco,2222.SR,Operations,Director,91.6,307200,16.0
+2222-0384,Mohammed Bin Laden,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,67.2,188500,17.2
+2222-0385,Hamad Al-Dossari,Saudi Aramco,2222.SR,Supply Chain,VP,69.5,648100,21.2
+2222-0386,Huda Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,82.4,129300,12.0
+2222-0387,Huda Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,89.6,154300,19.1
+2222-0388,Dana Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,86.7,286400,13.9
+2222-0389,Rana Al-Dossari,Saudi Aramco,2222.SR,Operations,Senior Director,79.3,479100,7.3
+2222-0390,Khalid Bin Laden,Saudi Aramco,2222.SR,Refining & Chemicals,VP,93.3,588900,14.7
+2222-0391,Khalid Al-Anazi,Saudi Aramco,2222.SR,HSE/Safety,Senior,86.5,66700,21.6
+2222-0392,Yousef Al-Zahrani,Saudi Aramco,2222.SR,Operations,Principal,88.2,287200,7.3
+2222-0393,Bandar Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.0,95800,19.4
+2222-0394,Noura Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,80.2,52200,11.8
+2222-0395,Khalid Al-Rashid,Saudi Aramco,2222.SR,Operations,Staff,71.8,219000,9.9
+2222-0396,Maryam Al-Zahrani,Saudi Aramco,2222.SR,Operations,Senior,74.6,172300,8.5
+2222-0397,Dana Al-Zahrani,Saudi Aramco,2222.SR,Sales & Trading,Staff,68.3,233900,8.3
+2222-0398,Abdullah Al-Maliki,Saudi Aramco,2222.SR,Operations,Senior,80.0,86900,10.3
+2222-0399,Faisal Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,85.6,235900,11.5
+2222-0400,Maryam Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,78.1,232600,13.9
+2222-0401,Lina Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Senior,62.6,69200,19.6
+2222-0402,Layla Bin Laden,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,76.5,271900,12.2
+2222-0403,Sara Al-Subaie,Saudi Aramco,2222.SR,HSE/Safety,Principal,81.2,201700,5.1
+2222-0404,Khalid Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Director,91.2,69800,9.8
+2222-0405,Maryam Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,75.9,298700,18.3
+2222-0406,Layla Al-Maliki,Saudi Aramco,2222.SR,HSE/Safety,Staff,70.5,89800,11.0
+2222-0407,Yousef Al-Subaie,Saudi Aramco,2222.SR,Operations,SVP,84.1,1148200,7.9
+2222-0408,Khalid Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,99.0,285600,5.3
+2222-0409,Hessa Al-Ghamdi,Saudi Aramco,2222.SR,Operations,VP,84.8,253500,16.0
+2222-0410,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Finance,Staff,63.9,202300,13.0
+2222-0411,Omar Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,89.6,387800,12.4
+2222-0412,Rana Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,78.6,181500,13.1
+2222-0413,Hessa Al-Anazi,Saudi Aramco,2222.SR,Research & Tech,Senior,80.3,80800,25.1
+2222-0414,Layla Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Staff,68.3,282200,18.5
+2222-0415,Maryam Al-Amri,Saudi Aramco,2222.SR,Operations,Principal,96.1,80200,19.5
+2222-0416,Saud Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Senior,72.3,102000,5.4
+2222-0417,Tariq Bin Laden,Saudi Aramco,2222.SR,Supply Chain,Staff,80.2,163200,8.3
+2222-0418,Omar Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,72.3,147300,5.9
+2222-0419,Hessa Al-Maliki,Saudi Aramco,2222.SR,Finance,Staff,84.1,152900,13.0
+2222-0420,Faisal Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Senior,77.2,207200,9.1
+2222-0421,Salem Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,88.2,229600,14.3
+2222-0422,Dana Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,87.1,177900,13.5
+2222-0423,Tariq Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Staff,73.8,239400,5.8
+2222-0424,Amal Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,71.7,123300,19.8
+2222-0425,Lina Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Director,80.1,265300,10.1
+2222-0426,Yousef Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,74.7,183400,18.1
+2222-0427,Omar Al-Dossari,Saudi Aramco,2222.SR,Finance,VP,91.8,680200,17.8
+2222-0428,Majed Al-Juhani,Saudi Aramco,2222.SR,HSE/Safety,Senior,68.2,135500,17.6
+2222-0429,Huda Al-Subaie,Saudi Aramco,2222.SR,Finance,Senior,73.8,127500,4.9
+2222-0430,Layla Al-Amri,Saudi Aramco,2222.SR,Finance,Principal,86.0,245700,16.7
+2222-0431,Omar Al-Shehri,Saudi Aramco,2222.SR,Research & Tech,Staff,89.0,263800,4.5
+2222-0432,Hessa Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,76.7,275900,8.4
+2222-0433,Faisal Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,91.9,239900,6.9
+2222-0434,Amal Al-Maliki,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,77.5,325000,11.2
+2222-0435,Saud Al-Subaie,Saudi Aramco,2222.SR,HSE/Safety,Staff,81.7,275400,5.8
+2222-0436,Khalid Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,79.1,478100,13.1
+2222-0437,Aisha Al-Nasser,Saudi Aramco,2222.SR,Research & Tech,Senior,73.2,389800,10.4
+2222-0438,Maryam Al-Anazi,Saudi Aramco,2222.SR,Operations,Senior,81.6,107000,8.8
+2222-0439,Maryam Al-Shehri,Saudi Aramco,2222.SR,Finance,Principal,63.4,159900,9.1
+2222-0440,Nasser Al-Mutairi,Saudi Aramco,2222.SR,Finance,Staff,86.2,448600,11.0
+2222-0441,Reem Al-Qahtani,Saudi Aramco,2222.SR,Supply Chain,Principal,80.1,128500,12.1
+2222-0442,Hessa Al-Hassan,Saudi Aramco,2222.SR,Supply Chain,Senior,85.5,72700,15.8
+2222-0443,Abdullah Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,VP,79.8,484800,17.0
+2222-0444,Salem Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,VP,78.8,369400,21.5
+2222-0445,Majed Al-Rashid,Saudi Aramco,2222.SR,Operations,Senior,69.2,69000,20.6
+2222-0446,Sara Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,67.7,106200,14.8
+2222-0447,Lina Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,67.4,120800,3.1
+2222-0448,Saud Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,81.0,281300,22.9
+2222-0449,Faisal Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.5,136100,9.1
+2222-0450,Maryam Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Director,70.3,294300,10.9
+2222-0451,Omar Al-Hassan,Saudi Aramco,2222.SR,Supply Chain,Director,83.7,214200,20.4
+2222-0452,Sara Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,75.4,138800,8.2
+2222-0453,Mohammed Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Director,88.2,264700,12.8
+2222-0454,Abdullah Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,80.7,141100,6.5
+2222-0455,Dana Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.1,81100,11.9
+2222-0456,Yousef Al-Dossari,Saudi Aramco,2222.SR,Research & Tech,Principal,77.9,232000,9.8
+2222-0457,Sara Al-Nasser,Saudi Aramco,2222.SR,Operations,Senior,81.6,70600,4.7
+2222-0458,Yousef Al-Hassan,Saudi Aramco,2222.SR,Finance,Staff,75.3,153100,17.1
+2222-0459,Salem Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,82.8,688500,12.5
+2222-0460,Bandar Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,76.0,94900,17.7
+2222-0461,Rana Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,57.8,98500,9.6
+2222-0462,Tariq Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.9,111700,8.8
+2222-0463,Faisal Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,77.9,117900,4.6
+2222-0464,Lina Al-Maliki,Saudi Aramco,2222.SR,Finance,Senior,84.5,130100,11.7
+2222-0465,Bandar Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.2,168400,13.5
+2222-0466,Amal Al-Sulaiman,Saudi Aramco,2222.SR,Finance,Principal,86.7,417800,7.7
+2222-0467,Maryam Al-Maliki,Saudi Aramco,2222.SR,Sales & Trading,Senior,68.3,564300,3.2
+2222-0468,Omar Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,82.7,179100,4.2
+2222-0469,Amal Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,94.0,182700,3.7
+2222-0470,Lina Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,87.5,350300,9.4
+2222-0471,Rana Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Senior,75.6,156500,25.4
+2222-0472,Salem Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,67.4,219600,14.2
+2222-0473,Dana Al-Subaie,Saudi Aramco,2222.SR,Operations,Principal,79.0,280800,6.0
+2222-0474,Aisha Al-Saud,Saudi Aramco,2222.SR,Research & Tech,Staff,87.2,210100,7.5
+2222-0475,Faisal Al-Faraj,Saudi Aramco,2222.SR,Operations,VP,84.9,215200,12.5
+2222-0476,Maryam Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.2,278200,12.9
+2222-0477,Reem Al-Nasser,Saudi Aramco,2222.SR,HSE/Safety,Director,81.2,279300,13.9
+2222-0478,Aisha Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.7,81800,6.6
+2222-0479,Hamad Al-Mutairi,Saudi Aramco,2222.SR,HSE/Safety,Senior,70.2,219700,14.6
+2222-0480,Lina Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.6,118200,13.3
+2222-0481,Hessa Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,73.2,87600,12.4
+2222-0482,Tariq Al-Amri,Saudi Aramco,2222.SR,Operations,Principal,77.5,314100,14.4
+2222-0483,Aisha Al-Harbi,Saudi Aramco,2222.SR,Operations,Senior Director,74.8,470300,17.1
+2222-0484,Salem Al-Saud,Saudi Aramco,2222.SR,Supply Chain,Principal,81.2,767600,13.4
+2222-0485,Aisha Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,67.9,301900,6.6
+2222-0486,Abdullah Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,88.5,451600,11.0
+2222-0487,Nasser Al-Rashid,Saudi Aramco,2222.SR,HSE/Safety,C-Suite,95.5,1641400,22.2
+2222-0488,Yousef Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,VP,89.9,292000,15.2
+2222-0489,Salem Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,93.0,277400,14.3
+2222-0490,Amal Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,68.2,505000,4.1
+2222-0491,Aisha Al-Saud,Saudi Aramco,2222.SR,Finance,Senior,80.7,122400,21.1
+2222-0492,Hessa Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,83.1,171000,11.1
+2222-0493,Maryam Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,73.5,247800,5.3
+2222-0494,Rana Bin Laden,Saudi Aramco,2222.SR,Legal & Policy,Director,74.3,223100,4.9
+2222-0495,Bandar Al-Nasser,Saudi Aramco,2222.SR,Finance,Senior,75.3,82800,14.1
+2222-0496,Maryam Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.6,243900,21.0
+2222-0497,Khalid Bin Laden,Saudi Aramco,2222.SR,Operations,Staff,80.7,384500,17.7
+2222-0498,Bandar Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,76.6,268500,6.2
+2222-0499,Bandar Al-Shehri,Saudi Aramco,2222.SR,HSE/Safety,Senior,86.8,108900,17.1
+2222-0500,Rana Al-Ghamdi,Saudi Aramco,2222.SR,Sales & Trading,Staff,71.4,71800,12.6
+2222-0501,Majed Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Senior,67.5,301000,8.3
+2222-0502,Saud Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Director,86.3,518300,16.8
+2222-0503,Noura Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,86.1,125600,11.1
+2222-0504,Rana Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,74.1,112000,8.4
+2222-0505,Aisha Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,89.1,249400,12.1
+2222-0506,Abdullah Al-Subaie,Saudi Aramco,2222.SR,Research & Tech,Senior,84.2,158100,19.5
+2222-0507,Rana Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,82.3,158100,6.3
+2222-0508,Reem Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,77.5,340800,16.5
+2222-0509,Jana Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Senior,59.2,125000,13.9
+2222-0510,Fatima Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior,71.1,274900,5.4
+2222-0511,Rana Bin Laden,Saudi Aramco,2222.SR,Operations,Senior,83.2,85900,10.1
+2222-0512,Khalid Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Senior,76.9,159100,14.0
+2222-0513,Faisal Al-Saud,Saudi Aramco,2222.SR,People/HR,Principal,92.9,153100,16.6
+2222-0514,Huda Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,76.1,659800,17.0
+2222-0515,Hamad Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,78.6,151700,14.2
+2222-0516,Layla Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,VP,84.3,317800,11.4
+2222-0517,Nasser Al-Saud,Saudi Aramco,2222.SR,Operations,Senior Director,76.5,249400,14.6
+2222-0518,Khalid Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Staff,86.9,374300,14.2
+2222-0519,Mohammed Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,82.9,62400,8.0
+2222-0520,Layla Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,79.5,54400,10.4
+2222-0521,Nasser Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,89.3,155600,6.6
+2222-0522,Nasser Al-Juhani,Saudi Aramco,2222.SR,Operations,Principal,83.8,205000,12.5
+2222-0523,Faisal Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Director,72.1,193800,16.3
+2222-0524,Sara Al-Amri,Saudi Aramco,2222.SR,Finance,Staff,88.5,223500,12.2
+2222-0525,Amal Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Senior,84.3,113900,9.6
+2222-0526,Saud Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,82.3,317500,10.7
+2222-0527,Lina Al-Mutairi,Saudi Aramco,2222.SR,Sales & Trading,Senior Director,80.1,198100,15.7
+2222-0528,Hessa Al-Sulaiman,Saudi Aramco,2222.SR,Sales & Trading,Director,82.7,106800,10.4
+2222-0529,Tariq Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,73.5,179800,10.2
+2222-0530,Saud Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior,86.2,89800,6.4
+2222-0531,Lina Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,75.1,402500,22.1
+2222-0532,Khalid Al-Dossari,Saudi Aramco,2222.SR,Sales & Trading,Director,90.8,341200,14.3
+2222-0533,Jana Al-Zahrani,Saudi Aramco,2222.SR,Operations,Principal,85.4,124500,18.1
+2222-0534,Yousef Al-Faraj,Saudi Aramco,2222.SR,HSE/Safety,Senior,83.4,186000,5.5
+2222-0535,Majed Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Director,87.9,406500,12.6
+2222-0536,Mohammed Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,83.0,211900,11.8
+2222-0537,Khalid Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Staff,76.4,116200,22.2
+2222-0538,Hamad Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,79.9,467300,15.5
+2222-0539,Majed Al-Rashid,Saudi Aramco,2222.SR,HSE/Safety,Principal,82.1,107800,20.1
+2222-0540,Mohammed Al-Subaie,Saudi Aramco,2222.SR,HSE/Safety,Staff,77.9,244600,4.0
+2222-0541,Abdullah Al-Shehri,Saudi Aramco,2222.SR,HSE/Safety,Senior,82.5,73800,4.4
+2222-0542,Layla Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,93.9,556100,22.3
+2222-0543,Khalid Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,83.0,105000,14.6
+2222-0544,Rana Al-Ghamdi,Saudi Aramco,2222.SR,Operations,VP,75.5,615500,15.5
+2222-0545,Layla Al-Saud,Saudi Aramco,2222.SR,HSE/Safety,Staff,73.2,135800,8.8
+2222-0546,Nasser Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,81.9,71700,9.9
+2222-0547,Lina Al-Hassan,Saudi Aramco,2222.SR,Finance,Principal,77.4,256600,10.8
+2222-0548,Saud Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.8,285100,15.8
+2222-0549,Khalid Al-Harbi,Saudi Aramco,2222.SR,Operations,Principal,81.7,287000,22.4
+2222-0550,Yousef Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,78.5,105600,7.8
+2222-0551,Majed Al-Dossari,Saudi Aramco,2222.SR,Operations,Staff,83.1,54800,8.2
+2222-0552,Fatima Al-Maliki,Saudi Aramco,2222.SR,Operations,Senior Director,77.6,395000,17.4
+2222-0553,Amal Al-Faraj,Saudi Aramco,2222.SR,Operations,Director,74.7,457700,10.1
+2222-0554,Salem Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,75.6,291700,7.8
+2222-0555,Nasser Al-Ghamdi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,84.8,79100,8.8
+2222-0556,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,65.2,101400,11.2
+2222-0557,Maryam Al-Saud,Saudi Aramco,2222.SR,Operations,Principal,77.6,235000,8.8
+2222-0558,Hamad Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.8,110800,6.8
+2222-0559,Hamad Al-Amri,Saudi Aramco,2222.SR,People/HR,Staff,90.1,193700,10.1
+2222-0560,Fatima Al-Harbi,Saudi Aramco,2222.SR,Operations,Director,85.2,371100,25.3
+2222-0561,Dana Al-Qahtani,Saudi Aramco,2222.SR,Operations,Senior Director,82.2,174700,20.4
+2222-0562,Faisal Al-Hassan,Saudi Aramco,2222.SR,Operations,Director,81.6,464400,17.3
+2222-0563,Lina Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,78.2,222800,7.9
+2222-0564,Reem Al-Otaibi,Saudi Aramco,2222.SR,Finance,Senior Director,84.7,827600,15.8
+2222-0565,Hamad Al-Shehri,Saudi Aramco,2222.SR,Research & Tech,Principal,83.8,487100,9.7
+2222-0566,Hamad Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,75.4,410200,10.9
+2222-0567,Sara Al-Qahtani,Saudi Aramco,2222.SR,Supply Chain,Staff,75.3,172400,11.1
+2222-0568,Mohammed Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.9,196200,8.9
+2222-0569,Lina Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,SVP,79.0,636500,18.2
+2222-0570,Tariq Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,80.1,228800,10.8
+2222-0571,Jana Al-Mutairi,Saudi Aramco,2222.SR,Operations,Staff,100.0,448300,12.2
+2222-0572,Noura Al-Juhani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,77.0,374000,5.6
+2222-0573,Salem Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,79.0,275600,11.3
+2222-0574,Faisal Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Director,85.6,263400,9.4
+2222-0575,Bandar Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,84.5,216700,7.1
+2222-0576,Jana Al-Faraj,Saudi Aramco,2222.SR,Research & Tech,Staff,65.6,46900,6.0
+2222-0577,Salem Al-Otaibi,Saudi Aramco,2222.SR,Operations,Director,86.9,211000,12.2
+2222-0578,Amal Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Principal,80.9,741600,17.0
+2222-0579,Majed Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,73.8,77100,4.4
+2222-0580,Ziad Al-Faraj,Saudi Aramco,2222.SR,Operations,Senior,90.1,136200,14.0
+2222-0581,Rana Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,76.7,87300,8.1
+2222-0582,Dana Al-Otaibi,Saudi Aramco,2222.SR,Operations,SVP,96.4,835800,18.7
+2222-0583,Reem Al-Faraj,Saudi Aramco,2222.SR,Sales & Trading,Director,64.1,276500,13.6
+2222-0584,Sara Al-Hassan,Saudi Aramco,2222.SR,Operations,Senior,86.8,79500,15.3
+2222-0585,Hamad Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,87.0,385900,26.5
+2222-0586,Noura Al-Subaie,Saudi Aramco,2222.SR,Research & Tech,VP,84.9,848100,12.4
+2222-0587,Aisha Al-Otaibi,Saudi Aramco,2222.SR,Operations,Senior,82.8,80600,8.2
+2222-0588,Jana Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,80.4,156300,10.0
+2222-0589,Abdullah Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Director,77.0,303200,21.1
+2222-0590,Yousef Al-Shehri,Saudi Aramco,2222.SR,Operations,Senior Director,84.9,1439600,17.7
+2222-0591,Hamad Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,90.3,197500,22.1
+2222-0592,Majed Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Director,80.6,210400,11.1
+2222-0593,Bandar Al-Mutairi,Saudi Aramco,2222.SR,Research & Tech,Principal,91.2,241000,19.0
+2222-0594,Saud Al-Faraj,Saudi Aramco,2222.SR,Operations,Principal,69.7,334200,22.3
+2222-0595,Layla Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,85.1,82800,22.5
+2222-0596,Mohammed Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,95.2,221900,31.6
+2222-0597,Nasser Al-Anazi,Saudi Aramco,2222.SR,People/HR,SVP,70.2,506100,14.0
+2222-0598,Maryam Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,72.2,33000,4.9
+2222-0599,Jana Al-Harbi,Saudi Aramco,2222.SR,Supply Chain,Director,75.8,187100,23.0
+2222-0600,Amal Al-Shehri,Saudi Aramco,2222.SR,Operations,Director,68.7,459800,13.8
+2222-0601,Layla Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,82.1,116100,3.2
+2222-0602,Hamad Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,92.1,107300,10.9
+2222-0603,Tariq Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,76.6,96400,12.3
+2222-0604,Mohammed Al-Faraj,Saudi Aramco,2222.SR,Operations,Senior,88.0,108100,4.7
+2222-0605,Hamad Al-Otaibi,Saudi Aramco,2222.SR,Finance,Senior,81.2,173600,4.2
+2222-0606,Salem Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,VP,81.9,1169500,16.3
+2222-0607,Mohammed Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,87.0,92500,4.4
+2222-0608,Noura Al-Anazi,Saudi Aramco,2222.SR,Operations,Senior,77.8,233900,17.9
+2222-0609,Huda Al-Shehri,Saudi Aramco,2222.SR,HSE/Safety,Principal,78.9,206100,8.8
+2222-0610,Amal Al-Mutairi,Saudi Aramco,2222.SR,Finance,Senior,85.0,159500,10.0
+2222-0611,Saud Bin Laden,Saudi Aramco,2222.SR,Operations,C-Suite,91.7,653900,18.4
+2222-0612,Amal Al-Faraj,Saudi Aramco,2222.SR,Legal & Policy,Senior,80.7,102200,14.2
+2222-0613,Ziad Al-Maliki,Saudi Aramco,2222.SR,Operations,Senior Director,85.5,346300,14.3
+2222-0614,Nasser Al-Hassan,Saudi Aramco,2222.SR,Supply Chain,Senior,81.7,82100,18.2
+2222-0615,Hessa Al-Sulaiman,Saudi Aramco,2222.SR,Finance,Staff,87.8,142000,12.3
+2222-0616,Dana Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,VP,95.0,669900,11.8
+2222-0617,Aisha Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,69.5,168900,3.6
+2222-0618,Nasser Al-Rashid,Saudi Aramco,2222.SR,Legal & Policy,Senior,77.9,200900,9.3
+2222-0619,Aisha Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Senior,88.8,142700,7.0
+2222-0620,Salem Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,80.9,100300,25.4
+2222-0621,Reem Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,71.1,69500,4.5
+2222-0622,Hamad Al-Faraj,Saudi Aramco,2222.SR,Operations,Senior,91.4,74900,16.9
+2222-0623,Aisha Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,68.1,213300,6.8
+2222-0624,Layla Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,88.4,159600,5.1
+2222-0625,Maryam Al-Zahrani,Saudi Aramco,2222.SR,HSE/Safety,Principal,66.1,177200,8.2
+2222-0626,Abdullah Al-Anazi,Saudi Aramco,2222.SR,HSE/Safety,Director,75.2,202500,18.8
+2222-0627,Mohammed Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,96.7,114900,14.2
+2222-0628,Majed Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,87.2,255400,15.3
+2222-0629,Hessa Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Director,79.7,273400,9.1
+2222-0630,Majed Al-Qahtani,Saudi Aramco,2222.SR,Operations,Director,71.8,155300,14.4
+2222-0631,Nasser Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior,77.4,137800,14.7
+2222-0632,Jana Al-Sulaiman,Saudi Aramco,2222.SR,HSE/Safety,Senior,63.7,302600,10.1
+2222-0633,Aisha Bin Laden,Saudi Aramco,2222.SR,Research & Tech,Senior,77.3,102700,14.0
+2222-0634,Salem Al-Juhani,Saudi Aramco,2222.SR,Research & Tech,Staff,79.9,104800,12.5
+2222-0635,Mohammed Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,93.4,256500,6.5
+2222-0636,Amal Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,82.5,177400,15.2
+2222-0637,Jana Al-Amri,Saudi Aramco,2222.SR,Sales & Trading,Director,90.9,531300,27.3
+2222-0638,Khalid Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,69.2,109200,6.6
+2222-0639,Yousef Al-Shehri,Saudi Aramco,2222.SR,Operations,Director,79.9,529500,10.8
+2222-0640,Huda Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Senior Director,100.0,620500,15.1
+2222-0641,Amal Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,85.5,263200,13.4
+2222-0642,Ziad Al-Saud,Saudi Aramco,2222.SR,Operations,Staff,87.8,204600,12.8
+2222-0643,Faisal Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,85.8,88900,5.0
+2222-0644,Layla Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,75.8,271600,11.8
+2222-0645,Dana Al-Ghamdi,Saudi Aramco,2222.SR,HSE/Safety,Senior,67.4,113400,9.1
+2222-0646,Aisha Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,78.3,143900,8.6
+2222-0647,Dana Al-Zahrani,Saudi Aramco,2222.SR,Finance,Principal,80.6,234100,15.5
+2222-0648,Hamad Al-Zahrani,Saudi Aramco,2222.SR,Research & Tech,Principal,74.6,209600,15.4
+2222-0649,Dana Al-Subaie,Saudi Aramco,2222.SR,HSE/Safety,Senior,90.0,144200,4.5
+2222-0650,Khalid Al-Maliki,Saudi Aramco,2222.SR,Research & Tech,Staff,86.2,337500,11.5
+2222-0651,Tariq Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Senior,81.9,193700,30.3
+2222-0652,Omar Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Director,91.5,283000,16.7
+2222-0653,Faisal Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,89.5,435400,10.6
+2222-0654,Saud Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,79.0,107400,18.4
+2222-0655,Omar Al-Zahrani,Saudi Aramco,2222.SR,Supply Chain,Senior Director,83.5,288400,18.4
+2222-0656,Tariq Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,86.3,727400,25.5
+2222-0657,Dana Al-Otaibi,Saudi Aramco,2222.SR,Supply Chain,Principal,77.8,269000,10.1
+2222-0658,Nasser Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,70.8,658200,19.6
+2222-0659,Majed Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,VP,78.7,361900,8.4
+2222-0660,Reem Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Director,76.4,536600,11.6
+2222-0661,Fatima Al-Subaie,Saudi Aramco,2222.SR,Operations,Senior,77.2,290200,5.5
+2222-0662,Omar Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,83.7,254800,7.1
+2222-0663,Sara Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,80.9,396800,15.0
+2222-0664,Rana Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,75.6,96000,7.5
+2222-0665,Bandar Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,75.8,105800,20.7
+2222-0666,Rana Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Director,92.3,385000,12.4
+2222-0667,Amal Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Senior,90.9,110700,10.9
+2222-0668,Saud Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,68.9,244400,10.7
+2222-0669,Omar Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.1,155600,17.5
+2222-0670,Majed Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,VP,81.7,154000,13.4
+2222-0671,Lina Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.6,558400,4.8
+2222-0672,Nasser Al-Juhani,Saudi Aramco,2222.SR,People/HR,Director,66.9,79300,11.8
+2222-0673,Bandar Al-Harbi,Saudi Aramco,2222.SR,Finance,Staff,84.9,131900,7.4
+2222-0674,Layla Al-Subaie,Saudi Aramco,2222.SR,Research & Tech,Principal,71.6,301700,10.5
+2222-0675,Nasser Bin Laden,Saudi Aramco,2222.SR,Refining & Chemicals,Director,94.5,367500,19.5
+2222-0676,Dana Al-Faraj,Saudi Aramco,2222.SR,Operations,Director,74.2,205500,13.4
+2222-0677,Nasser Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Senior,85.4,127000,11.3
+2222-0678,Hamad Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,79.7,238000,24.0
+2222-0679,Abdullah Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,84.4,594100,5.9
+2222-0680,Hessa Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,74.4,201900,9.2
+2222-0681,Bandar Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,VP,74.6,563100,16.7
+2222-0682,Omar Al-Nasser,Saudi Aramco,2222.SR,Research & Tech,VP,81.9,688100,17.4
+2222-0683,Hessa Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,75.7,234400,11.2
+2222-0684,Hessa Al-Anazi,Saudi Aramco,2222.SR,Sales & Trading,SVP,81.5,1213200,21.0
+2222-0685,Rana Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,84.4,179500,1.9
+2222-0686,Omar Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.8,198200,6.9
+2222-0687,Faisal Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Senior,76.9,71800,7.8
+2222-0688,Huda Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,88.9,739700,24.1
+2222-0689,Salem Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,87.9,189100,20.7
+2222-0690,Abdullah Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,73.6,213300,11.6
+2222-0691,Aisha Al-Hassan,Saudi Aramco,2222.SR,People/HR,Principal,67.1,217400,6.9
+2222-0692,Nasser Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,88.9,493800,11.0
+2222-0693,Huda Al-Hassan,Saudi Aramco,2222.SR,Supply Chain,Senior Director,95.5,927500,20.2
+2222-0694,Ziad Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,70.3,160100,11.8
+2222-0695,Ziad Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,86.9,260700,5.9
+2222-0696,Fatima Al-Saud,Saudi Aramco,2222.SR,Finance,Staff,79.9,363200,10.1
+2222-0697,Amal Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,90.4,209700,13.1
+2222-0698,Dana Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,99.3,118900,19.5
+2222-0699,Sara Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,73.9,152000,13.8
+2222-0700,Ziad Al-Shehri,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,85.6,122600,9.6
+2222-0701,Abdullah Al-Faraj,Saudi Aramco,2222.SR,Research & Tech,Director,82.5,162400,14.9
+2222-0702,Sara Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,86.5,107900,5.0
+2222-0703,Saud Al-Harbi,Saudi Aramco,2222.SR,Research & Tech,Senior Director,76.7,392100,13.0
+2222-0704,Jana Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,100.0,229500,11.2
+2222-0705,Reem Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Senior,91.1,89100,22.6
+2222-0706,Faisal Al-Mutairi,Saudi Aramco,2222.SR,Supply Chain,Staff,83.7,336000,17.9
+2222-0707,Rana Al-Otaibi,Saudi Aramco,2222.SR,Finance,Staff,77.7,157100,4.8
+2222-0708,Yousef Al-Qahtani,Saudi Aramco,2222.SR,Supply Chain,Senior,83.1,201300,9.9
+2222-0709,Fatima Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,71.3,252400,21.6
+2222-0710,Rana Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,86.3,234500,6.8
+2222-0711,Mohammed Al-Mutairi,Saudi Aramco,2222.SR,Sales & Trading,Staff,79.2,235700,7.3
+2222-0712,Nasser Al-Nasser,Saudi Aramco,2222.SR,People/HR,Principal,80.0,121700,12.6
+2222-0713,Faisal Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,82.4,212100,18.5
+2222-0714,Lina Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,76.1,345700,8.0
+2222-0715,Faisal Al-Shehri,Saudi Aramco,2222.SR,Operations,Director,64.0,326100,18.5
+2222-0716,Omar Al-Shehri,Saudi Aramco,2222.SR,HSE/Safety,VP,88.0,533700,10.6
+2222-0717,Yousef Al-Zahrani,Saudi Aramco,2222.SR,Finance,VP,76.5,94800,22.3
+2222-0718,Reem Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,76.0,211700,9.6
+2222-0719,Nasser Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,79.1,298100,9.4
+2222-0720,Hamad Al-Hassan,Saudi Aramco,2222.SR,Sales & Trading,Senior,71.7,290600,28.3
+2222-0721,Rana Al-Saud,Saudi Aramco,2222.SR,Legal & Policy,VP,87.0,373000,10.9
+2222-0722,Amal Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,79.3,95300,19.2
+2222-0723,Ziad Al-Faraj,Saudi Aramco,2222.SR,Supply Chain,Senior,82.9,192800,12.9
+2222-0724,Reem Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,90.4,441700,8.6
+2222-0725,Mohammed Al-Mutairi,Saudi Aramco,2222.SR,Research & Tech,Senior,70.8,201100,27.0
+2222-0726,Omar Al-Subaie,Saudi Aramco,2222.SR,Research & Tech,Principal,78.9,200600,23.3
+2222-0727,Dana Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,75.6,251700,12.6
+2222-0728,Khalid Al-Shehri,Saudi Aramco,2222.SR,Supply Chain,Senior,84.7,170500,4.5
+2222-0729,Maryam Al-Faraj,Saudi Aramco,2222.SR,Finance,Staff,73.2,131100,7.2
+2222-0730,Hamad Al-Zahrani,Saudi Aramco,2222.SR,Sales & Trading,Senior,77.0,113800,3.4
+2222-0731,Saud Al-Hassan,Saudi Aramco,2222.SR,Operations,VP,90.8,766400,20.4
+2222-0732,Lina Al-Faraj,Saudi Aramco,2222.SR,HSE/Safety,Senior,67.6,150600,14.6
+2222-0733,Sara Al-Zahrani,Saudi Aramco,2222.SR,HSE/Safety,Director,85.9,440100,18.6
+2222-0734,Huda Al-Rashid,Saudi Aramco,2222.SR,Supply Chain,Senior,82.9,311200,7.0
+2222-0735,Huda Al-Juhani,Saudi Aramco,2222.SR,Research & Tech,Staff,86.2,150200,14.7
+2222-0736,Bandar Al-Harbi,Saudi Aramco,2222.SR,Operations,Principal,72.2,169400,24.4
+2222-0737,Khalid Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.2,151000,16.6
+2222-0738,Saud Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,70.8,153500,8.4
+2222-0739,Faisal Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,79.1,583100,11.8
+2222-0740,Huda Al-Hassan,Saudi Aramco,2222.SR,People/HR,Staff,75.3,224800,6.7
+2222-0741,Aisha Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,73.8,123700,4.4
+2222-0742,Hamad Al-Shehri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,73.1,239300,13.2
+2222-0743,Saud Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Staff,86.8,374100,4.4
+2222-0744,Fatima Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.3,53100,11.0
+2222-0745,Majed Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Principal,81.0,377600,13.6
+2222-0746,Bandar Al-Dossari,Saudi Aramco,2222.SR,Operations,Senior Director,85.9,628800,8.8
+2222-0747,Mohammed Al-Hassan,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,70.0,224700,11.9
+2222-0748,Lina Al-Juhani,Saudi Aramco,2222.SR,Research & Tech,Staff,72.3,296800,12.7
+2222-0749,Majed Al-Shehri,Saudi Aramco,2222.SR,Finance,Principal,62.2,258100,10.3
+2222-0750,Aisha Al-Maliki,Saudi Aramco,2222.SR,Operations,Staff,90.3,201000,17.0
+2222-0751,Maryam Al-Faraj,Saudi Aramco,2222.SR,Operations,Principal,79.8,317600,12.6
+2222-0752,Ziad Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,91.8,137400,13.7
+2222-0753,Omar Al-Maliki,Saudi Aramco,2222.SR,Research & Tech,Senior,100.0,275100,10.5
+2222-0754,Majed Al-Harbi,Saudi Aramco,2222.SR,Operations,Director,77.8,437900,12.4
+2222-0755,Mohammed Al-Amri,Saudi Aramco,2222.SR,Finance,Senior Director,93.7,533200,16.1
+2222-0756,Huda Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,93.6,1007700,9.4
+2222-0757,Dana Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,85.5,99000,19.9
+2222-0758,Fatima Al-Hassan,Saudi Aramco,2222.SR,Finance,Staff,81.9,245200,9.9
+2222-0759,Hamad Al-Sulaiman,Saudi Aramco,2222.SR,Finance,Staff,92.5,320600,6.5
+2222-0760,Fatima Al-Hassan,Saudi Aramco,2222.SR,Legal & Policy,Staff,86.3,456000,14.3
+2222-0761,Noura Al-Sulaiman,Saudi Aramco,2222.SR,People/HR,Staff,82.0,253800,13.1
+2222-0762,Aisha Al-Rashid,Saudi Aramco,2222.SR,Operations,Staff,69.8,329800,4.8
+2222-0763,Reem Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,77.4,227400,12.4
+2222-0764,Nasser Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,88.4,737200,14.3
+2222-0765,Faisal Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,95.4,253000,11.9
+2222-0766,Ziad Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,78.3,181000,20.9
+2222-0767,Omar Bin Laden,Saudi Aramco,2222.SR,Operations,Senior,80.5,152200,6.7
+2222-0768,Lina Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,81.3,526200,17.2
+2222-0769,Dana Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Director,84.9,823000,11.3
+2222-0770,Ziad Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Senior,64.0,214900,5.6
+2222-0771,Noura Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,86.3,308400,10.7
+2222-0772,Majed Bin Laden,Saudi Aramco,2222.SR,People/HR,Senior Director,98.6,361800,22.2
+2222-0773,Majed Bin Laden,Saudi Aramco,2222.SR,Operations,Director,94.5,398000,8.7
+2222-0774,Nasser Al-Juhani,Saudi Aramco,2222.SR,Research & Tech,Senior,71.3,85600,20.3
+2222-0775,Majed Al-Anazi,Saudi Aramco,2222.SR,Supply Chain,Staff,75.7,120200,4.9
+2222-0776,Fatima Al-Qahtani,Saudi Aramco,2222.SR,Supply Chain,Director,80.8,256800,9.6
+2222-0777,Faisal Al-Subaie,Saudi Aramco,2222.SR,Supply Chain,VP,82.3,606400,13.7
+2222-0778,Khalid Al-Anazi,Saudi Aramco,2222.SR,Finance,Senior,82.8,59100,15.4
+2222-0779,Layla Al-Rashid,Saudi Aramco,2222.SR,Operations,Staff,82.6,111500,18.7
+2222-0780,Faisal Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,C-Suite,79.8,523500,13.0
+2222-0781,Noura Al-Amri,Saudi Aramco,2222.SR,Operations,VP,94.5,522000,22.1
+2222-0782,Khalid Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,88.5,260500,10.3
+2222-0783,Dana Al-Shehri,Saudi Aramco,2222.SR,Supply Chain,Director,82.3,908800,15.7
+2222-0784,Nasser Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.3,38100,4.6
+2222-0785,Hessa Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Director,83.7,145300,22.4
+2222-0786,Sara Al-Maliki,Saudi Aramco,2222.SR,Operations,VP,79.5,716500,11.0
+2222-0787,Omar Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,83.3,206700,20.6
+2222-0788,Bandar Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,73.7,411000,14.1
+2222-0789,Maryam Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,87.4,351200,19.4
+2222-0790,Fatima Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,81.6,275500,16.3
+2222-0791,Mohammed Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,67.5,472400,6.6
+2222-0792,Dana Al-Nasser,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,94.7,170100,16.2
+2222-0793,Bandar Al-Mutairi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,78.1,286900,9.3
+2222-0794,Hamad Al-Nasser,Saudi Aramco,2222.SR,Research & Tech,Staff,77.5,108600,15.7
+2222-0795,Ziad Al-Zahrani,Saudi Aramco,2222.SR,Research & Tech,Staff,73.4,324200,18.0
+2222-0796,Huda Al-Shehri,Saudi Aramco,2222.SR,Legal & Policy,Principal,74.8,158400,11.1
+2222-0797,Noura Al-Shehri,Saudi Aramco,2222.SR,Finance,Senior,82.9,67100,8.2
+2222-0798,Yousef Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,72.2,166000,5.7
+2222-0799,Huda Al-Qahtani,Saudi Aramco,2222.SR,Finance,Principal,88.0,159900,8.8
+2222-0800,Fatima Al-Mutairi,Saudi Aramco,2222.SR,Operations,Principal,74.4,249900,14.2
+2222-0801,Jana Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,76.1,126700,24.0
+2222-0802,Salem Al-Anazi,Saudi Aramco,2222.SR,Operations,Staff,76.0,106000,7.1
+2222-0803,Hamad Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,83.7,91400,11.8
+2222-0804,Omar Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Director,96.1,424600,12.1
+2222-0805,Noura Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,VP,80.6,320200,14.9
+2222-0806,Ziad Al-Mutairi,Saudi Aramco,2222.SR,Sales & Trading,Staff,94.8,272000,10.1
+2222-0807,Nasser Al-Anazi,Saudi Aramco,2222.SR,HSE/Safety,Staff,91.1,109700,9.0
+2222-0808,Faisal Al-Shehri,Saudi Aramco,2222.SR,Research & Tech,Director,82.0,119200,21.6
+2222-0809,Mohammed Al-Amri,Saudi Aramco,2222.SR,Research & Tech,Principal,82.2,309100,10.9
+2222-0810,Hessa Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,88.1,589700,13.8
+2222-0811,Salem Al-Maliki,Saudi Aramco,2222.SR,Operations,VP,84.9,823000,13.3
+2222-0812,Noura Al-Subaie,Saudi Aramco,2222.SR,Finance,Director,94.7,580400,15.0
+2222-0813,Tariq Al-Faraj,Saudi Aramco,2222.SR,Finance,Staff,73.9,134500,4.2
+2222-0814,Noura Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.4,310800,11.9
+2222-0815,Sara Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Director,64.3,484100,11.0
+2222-0816,Omar Al-Sulaiman,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,67.0,129600,26.4
+2222-0817,Rana Al-Maliki,Saudi Aramco,2222.SR,Operations,Director,81.9,227600,8.2
+2222-0818,Bandar Al-Shehri,Saudi Aramco,2222.SR,Supply Chain,VP,73.1,173700,19.7
+2222-0819,Jana Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,84.4,540900,15.3
+2222-0820,Khalid Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior Director,89.2,169800,10.4
+2222-0821,Omar Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,83.0,188400,15.9
+2222-0822,Jana Al-Zahrani,Saudi Aramco,2222.SR,Sales & Trading,Director,73.1,446900,7.8
+2222-0823,Majed Al-Shehri,Saudi Aramco,2222.SR,Finance,Director,79.8,258400,11.6
+2222-0824,Salem Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior,87.5,66500,2.4
+2222-0825,Omar Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,81.0,147600,3.5
+2222-0826,Hamad Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,88.1,246400,13.6
+2222-0827,Omar Al-Juhani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,70.0,130500,15.1
+2222-0828,Hamad Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,71.8,161700,15.8
+2222-0829,Reem Al-Dossari,Saudi Aramco,2222.SR,Supply Chain,Senior,76.8,87300,11.8
+2222-0830,Abdullah Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,83.0,387300,4.2
+2222-0831,Hessa Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,88.2,355300,16.2
+2222-0832,Layla Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,76.0,135200,5.2
+2222-0833,Hessa Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,84.1,219100,14.2
+2222-0834,Omar Al-Mutairi,Saudi Aramco,2222.SR,Supply Chain,Principal,81.9,215500,4.1
+2222-0835,Tariq Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Director,81.1,242600,11.7
+2222-0836,Layla Al-Hassan,Saudi Aramco,2222.SR,HSE/Safety,Principal,84.5,163100,19.8
+2222-0837,Noura Al-Qahtani,Saudi Aramco,2222.SR,Research & Tech,VP,76.4,583000,7.1
+2222-0838,Jana Al-Rashid,Saudi Aramco,2222.SR,Operations,Senior,87.0,161100,12.0
+2222-0839,Saud Al-Anazi,Saudi Aramco,2222.SR,Operations,Staff,82.3,212000,6.0
+2222-0840,Majed Al-Shehri,Saudi Aramco,2222.SR,Operations,Staff,65.5,68500,16.2
+2222-0841,Hessa Al-Saud,Saudi Aramco,2222.SR,HSE/Safety,Staff,83.2,287500,14.1
+2222-0842,Maryam Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,81.0,262200,22.7
+2222-0843,Dana Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,76.1,254300,8.3
+2222-0844,Abdullah Al-Ghamdi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,73.7,230300,9.1
+2222-0845,Salem Al-Maliki,Saudi Aramco,2222.SR,Research & Tech,Principal,80.9,158600,9.9
+2222-0846,Aisha Al-Saud,Saudi Aramco,2222.SR,Finance,Senior,73.0,135000,16.8
+2222-0847,Aisha Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,97.4,209300,9.6
+2222-0848,Omar Al-Zahrani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.8,81900,13.6
+2222-0849,Mohammed Bin Laden,Saudi Aramco,2222.SR,Legal & Policy,Staff,74.4,231200,19.3
+2222-0850,Abdullah Al-Otaibi,Saudi Aramco,2222.SR,Operations,Staff,88.8,172000,10.0
+2222-0851,Dana Al-Juhani,Saudi Aramco,2222.SR,Legal & Policy,Senior,67.3,123600,7.6
+2222-0852,Fatima Al-Hassan,Saudi Aramco,2222.SR,Finance,Senior,75.6,93500,10.6
+2222-0853,Ziad Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,93.2,279900,19.8
+2222-0854,Hessa Al-Dossari,Saudi Aramco,2222.SR,Operations,Principal,86.4,148600,7.1
+2222-0855,Majed Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,SVP,90.5,905800,17.1
+2222-0856,Yousef Al-Hassan,Saudi Aramco,2222.SR,Supply Chain,Senior,88.3,234400,13.4
+2222-0857,Hessa Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,96.7,116600,3.3
+2222-0858,Bandar Al-Amri,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,84.0,199500,10.6
+2222-0859,Abdullah Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,78.6,189200,25.1
+2222-0860,Reem Al-Saud,Saudi Aramco,2222.SR,HSE/Safety,Senior,87.1,258400,17.9
+2222-0861,Lina Al-Mutairi,Saudi Aramco,2222.SR,Research & Tech,Senior,82.4,179500,5.0
+2222-0862,Huda Al-Nasser,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,77.0,78300,10.1
+2222-0863,Abdullah Al-Hassan,Saudi Aramco,2222.SR,Operations,Senior,84.3,57700,10.0
+2222-0864,Fatima Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,91.3,570100,24.0
+2222-0865,Mohammed Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,95.0,238100,18.5
+2222-0866,Lina Al-Qahtani,Saudi Aramco,2222.SR,Research & Tech,Principal,85.8,301400,20.3
+2222-0867,Salem Al-Nasser,Saudi Aramco,2222.SR,Operations,SVP,93.4,893600,17.2
+2222-0868,Faisal Al-Shehri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,73.7,276800,7.8
+2222-0869,Tariq Al-Anazi,Saudi Aramco,2222.SR,Finance,Principal,79.0,159600,7.8
+2222-0870,Fatima Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,84.2,367500,18.0
+2222-0871,Jana Al-Ghamdi,Saudi Aramco,2222.SR,Operations,Senior,67.6,108100,13.5
+2222-0872,Fatima Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Director,74.6,334400,5.3
+2222-0873,Maryam Bin Laden,Saudi Aramco,2222.SR,Research & Tech,Principal,79.6,117800,16.3
+2222-0874,Huda Al-Juhani,Saudi Aramco,2222.SR,Operations,Principal,64.2,271900,9.5
+2222-0875,Jana Al-Mutairi,Saudi Aramco,2222.SR,Refining & Chemicals,Director,79.4,166600,20.2
+2222-0876,Noura Al-Sulaiman,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,71.8,367700,5.4
+2222-0877,Tariq Al-Maliki,Saudi Aramco,2222.SR,Legal & Policy,Staff,76.2,218300,2.9
+2222-0878,Aisha Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Senior,76.0,148200,8.1
+2222-0879,Rana Bin Laden,Saudi Aramco,2222.SR,Supply Chain,Senior,67.4,107600,25.1
+2222-0880,Sara Al-Ghamdi,Saudi Aramco,2222.SR,Sales & Trading,Staff,81.3,234300,14.9
+2222-0881,Huda Al-Sulaiman,Saudi Aramco,2222.SR,Operations,Director,81.1,313500,12.6
+2222-0882,Abdullah Al-Shehri,Saudi Aramco,2222.SR,Operations,Senior,75.8,228500,15.3
+2222-0883,Hamad Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Senior,87.0,72800,9.6
+2222-0884,Khalid Al-Shehri,Saudi Aramco,2222.SR,HSE/Safety,Staff,79.7,69700,13.0
+2222-0885,Majed Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Senior,85.9,181200,14.4
+2222-0886,Noura Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,77.2,169800,17.7
+2222-0887,Mohammed Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,75.2,107400,13.6
+2222-0888,Tariq Al-Hassan,Saudi Aramco,2222.SR,Sales & Trading,Staff,68.5,236100,3.6
+2222-0889,Reem Bin Laden,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,80.2,213100,8.6
+2222-0890,Fatima Al-Sulaiman,Saudi Aramco,2222.SR,HSE/Safety,Senior,78.3,119800,20.8
+2222-0891,Amal Al-Faraj,Saudi Aramco,2222.SR,Operations,Senior,78.6,104900,8.3
+2222-0892,Reem Al-Nasser,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,87.2,182200,15.6
+2222-0893,Omar Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,80.1,301000,11.6
+2222-0894,Rana Al-Mutairi,Saudi Aramco,2222.SR,Operations,Staff,84.4,60100,8.0
+2222-0895,Nasser Al-Harbi,Saudi Aramco,2222.SR,Research & Tech,Principal,75.5,159500,19.8
+2222-0896,Bandar Al-Otaibi,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,75.2,419000,14.3
+2222-0897,Faisal Al-Hassan,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,81.2,115900,13.0
+2222-0898,Khalid Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,89.7,263900,12.3
+2222-0899,Ziad Al-Shehri,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,75.8,89100,6.1
+2222-0900,Ziad Al-Rashid,Saudi Aramco,2222.SR,Finance,Senior,86.6,84200,30.5
+2222-0901,Noura Al-Juhani,Saudi Aramco,2222.SR,Supply Chain,Senior,90.3,148400,4.3
+2222-0902,Majed Al-Harbi,Saudi Aramco,2222.SR,Operations,Principal,94.8,264500,11.5
+2222-0903,Dana Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,80.8,228900,3.6
+2222-0904,Noura Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,77.9,68300,9.8
+2222-0905,Hamad Al-Otaibi,Saudi Aramco,2222.SR,Sales & Trading,Principal,70.8,253400,4.6
+2222-0906,Layla Al-Harbi,Saudi Aramco,2222.SR,People/HR,Senior,72.3,174500,16.6
+2222-0907,Faisal Al-Rashid,Saudi Aramco,2222.SR,Sales & Trading,Senior,65.1,173500,7.7
+2222-0908,Lina Bin Laden,Saudi Aramco,2222.SR,People/HR,C-Suite,90.3,791700,20.0
+2222-0909,Jana Bin Laden,Saudi Aramco,2222.SR,HSE/Safety,Director,82.4,145000,11.0
+2222-0910,Amal Al-Saud,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,77.3,182000,4.7
+2222-0911,Sara Al-Rashid,Saudi Aramco,2222.SR,Finance,Staff,63.2,199200,14.6
+2222-0912,Salem Al-Sulaiman,Saudi Aramco,2222.SR,Supply Chain,Senior,74.2,289400,15.6
+2222-0913,Khalid Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,72.3,167400,13.6
+2222-0914,Rana Al-Dossari,Saudi Aramco,2222.SR,Sales & Trading,Director,81.1,153500,10.4
+2222-0915,Fatima Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Director,70.0,281500,27.2
+2222-0916,Fatima Al-Dossari,Saudi Aramco,2222.SR,Supply Chain,Senior,85.5,165500,5.8
+2222-0917,Layla Al-Hassan,Saudi Aramco,2222.SR,Research & Tech,Staff,78.0,91000,10.8
+2222-0918,Faisal Al-Harbi,Saudi Aramco,2222.SR,Research & Tech,Principal,75.4,89300,13.8
+2222-0919,Huda Al-Dossari,Saudi Aramco,2222.SR,Sales & Trading,Director,78.8,167700,11.8
+2222-0920,Bandar Al-Zahrani,Saudi Aramco,2222.SR,Finance,VP,79.5,126900,12.4
+2222-0921,Mohammed Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Staff,85.3,266500,10.9
+2222-0922,Khalid Al-Mutairi,Saudi Aramco,2222.SR,Finance,Staff,80.8,187000,8.0
+2222-0923,Huda Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,67.5,72800,21.0
+2222-0924,Amal Al-Faraj,Saudi Aramco,2222.SR,Supply Chain,Senior,79.6,111000,7.1
+2222-0925,Bandar Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,90.1,106200,17.5
+2222-0926,Majed Al-Qahtani,Saudi Aramco,2222.SR,People/HR,Director,85.4,249300,15.3
+2222-0927,Tariq Al-Ghamdi,Saudi Aramco,2222.SR,Supply Chain,Senior,83.1,170400,4.0
+2222-0928,Lina Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,83.4,123100,11.0
+2222-0929,Sara Al-Otaibi,Saudi Aramco,2222.SR,Upstream/Engineering,SVP,69.7,454000,13.0
+2222-0930,Majed Al-Dossari,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,87.7,57800,28.6
+2222-0931,Hamad Al-Juhani,Saudi Aramco,2222.SR,Operations,Principal,88.4,479700,7.9
+2222-0932,Ziad Al-Qahtani,Saudi Aramco,2222.SR,Refining & Chemicals,Director,100.0,211800,26.0
+2222-0933,Fatima Al-Ghamdi,Saudi Aramco,2222.SR,Research & Tech,Senior,81.4,49300,21.7
+2222-0934,Huda Al-Zahrani,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,64.1,91200,7.7
+2222-0935,Saud Al-Harbi,Saudi Aramco,2222.SR,Finance,Principal,81.3,470600,11.5
+2222-0936,Ziad Bin Laden,Saudi Aramco,2222.SR,Operations,Senior Director,84.0,1081900,15.6
+2222-0937,Bandar Al-Amri,Saudi Aramco,2222.SR,Operations,Senior,75.4,81700,3.5
+2222-0938,Majed Al-Subaie,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,81.8,236400,10.2
+2222-0939,Yousef Al-Saud,Saudi Aramco,2222.SR,Upstream/Engineering,Director,86.8,426500,9.6
+2222-0940,Layla Al-Mutairi,Saudi Aramco,2222.SR,Research & Tech,Staff,87.2,145400,26.0
+2222-0941,Mohammed Al-Qahtani,Saudi Aramco,2222.SR,HSE/Safety,Senior,72.6,138400,12.2
+2222-0942,Tariq Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,VP,77.4,302400,14.3
+2222-0943,Maryam Al-Juhani,Saudi Aramco,2222.SR,Operations,Senior,84.1,326700,8.2
+2222-0944,Hamad Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Director,94.9,186800,10.8
+2222-0945,Amal Al-Otaibi,Saudi Aramco,2222.SR,Supply Chain,Senior,88.3,102400,13.1
+2222-0946,Bandar Al-Harbi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,96.1,151800,21.8
+2222-0947,Mohammed Al-Zahrani,Saudi Aramco,2222.SR,HSE/Safety,Senior,73.6,167100,11.9
+2222-0948,Salem Bin Laden,Saudi Aramco,2222.SR,Operations,Staff,80.4,432100,22.4
+2222-0949,Maryam Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,87.1,692200,7.9
+2222-0950,Salem Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Director,84.0,399400,10.5
+2222-0951,Dana Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Director,86.5,194300,9.0
+2222-0952,Sara Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,70.8,261500,16.6
+2222-0953,Aisha Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,66.2,153700,11.8
+2222-0954,Fatima Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,Principal,90.4,350900,13.0
+2222-0955,Omar Al-Sulaiman,Saudi Aramco,2222.SR,Research & Tech,Senior,67.8,76900,3.8
+2222-0956,Aisha Al-Otaibi,Saudi Aramco,2222.SR,Operations,Senior,74.3,148800,11.2
+2222-0957,Layla Al-Faraj,Saudi Aramco,2222.SR,Operations,Staff,76.4,158200,6.5
+2222-0958,Noura Al-Rashid,Saudi Aramco,2222.SR,Finance,Senior,85.6,170300,8.1
+2222-0959,Dana Al-Juhani,Saudi Aramco,2222.SR,Finance,Senior,85.2,184700,12.4
+2222-0960,Mohammed Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Senior,76.9,75000,8.0
+2222-0961,Saud Al-Subaie,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,95.6,69200,4.8
+2222-0962,Salem Al-Qahtani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,83.4,310900,21.8
+2222-0963,Abdullah Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Director,84.1,168000,11.3
+2222-0964,Omar Bin Laden,Saudi Aramco,2222.SR,Finance,Principal,86.7,154000,7.8
+2222-0965,Tariq Al-Amri,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,78.4,241500,14.4
+2222-0966,Hessa Al-Ghamdi,Saudi Aramco,2222.SR,Refining & Chemicals,SVP,76.2,756700,27.5
+2222-0967,Layla Al-Saud,Saudi Aramco,2222.SR,Operations,Principal,92.0,342800,3.5
+2222-0968,Ziad Al-Zahrani,Saudi Aramco,2222.SR,Supply Chain,Senior,69.0,81300,11.4
+2222-0969,Amal Al-Qahtani,Saudi Aramco,2222.SR,Operations,Senior,77.3,42400,13.6
+2222-0970,Omar Al-Rashid,Saudi Aramco,2222.SR,Operations,Senior,68.9,344400,7.7
+2222-0971,Amal Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,80.2,127300,14.8
+2222-0972,Aisha Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,79.5,152800,15.1
+2222-0973,Abdullah Al-Mutairi,Saudi Aramco,2222.SR,Operations,Principal,91.5,282000,27.2
+2222-0974,Omar Al-Maliki,Saudi Aramco,2222.SR,Upstream/Engineering,Principal,72.1,456700,7.8
+2222-0975,Bandar Al-Maliki,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,89.7,116600,23.0
+2222-0976,Nasser Al-Sulaiman,Saudi Aramco,2222.SR,HSE/Safety,Principal,80.1,345600,11.2
+2222-0977,Aisha Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,88.1,433800,13.6
+2222-0978,Layla Al-Anazi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,93.6,121100,10.4
+2222-0979,Bandar Al-Rashid,Saudi Aramco,2222.SR,Upstream/Engineering,Director,97.8,664800,29.4
+2222-0980,Rana Al-Dossari,Saudi Aramco,2222.SR,Refining & Chemicals,Staff,79.1,274600,3.1
+2222-0981,Sara Al-Dossari,Saudi Aramco,2222.SR,Operations,Principal,81.9,490000,10.0
+2222-0982,Fatima Al-Harbi,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,75.8,108400,9.6
+2222-0983,Salem Al-Dossari,Saudi Aramco,2222.SR,Finance,Staff,83.4,86100,15.6
+2222-0984,Huda Al-Juhani,Saudi Aramco,2222.SR,Operations,Staff,80.2,74900,24.2
+2222-0985,Saud Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Principal,89.9,168800,11.8
+2222-0986,Jana Al-Harbi,Saudi Aramco,2222.SR,Operations,Principal,81.4,164600,7.7
+2222-0987,Maryam Al-Nasser,Saudi Aramco,2222.SR,HSE/Safety,Staff,69.9,212100,21.8
+2222-0988,Fatima Al-Juhani,Saudi Aramco,2222.SR,Sales & Trading,Senior,95.5,80500,12.5
+2222-0989,Rana Al-Faraj,Saudi Aramco,2222.SR,Operations,Principal,79.1,276700,6.0
+2222-0990,Faisal Al-Faraj,Saudi Aramco,2222.SR,Refining & Chemicals,Senior Director,88.7,400700,13.8
+2222-0991,Hessa Al-Shehri,Saudi Aramco,2222.SR,People/HR,Director,85.2,416900,24.9
+2222-0992,Huda Al-Faraj,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,70.1,47100,14.3
+2222-0993,Aisha Al-Anazi,Saudi Aramco,2222.SR,Upstream/Engineering,Senior Director,91.1,213000,15.9
+2222-0994,Reem Al-Dossari,Saudi Aramco,2222.SR,HSE/Safety,Director,91.3,170700,18.1
+2222-0995,Ziad Al-Juhani,Saudi Aramco,2222.SR,Upstream/Engineering,Staff,82.1,125500,13.8
+2222-0996,Abdullah Al-Amri,Saudi Aramco,2222.SR,Operations,Principal,87.0,615200,15.5
+2222-0997,Khalid Al-Shehri,Saudi Aramco,2222.SR,Finance,Senior,86.9,258100,17.9
+2222-0998,Tariq Al-Dossari,Saudi Aramco,2222.SR,Legal & Policy,VP,82.6,834700,15.8
+2222-0999,Nasser Al-Faraj,Saudi Aramco,2222.SR,HSE/Safety,Senior Director,79.6,649600,11.5
+2222-1000,Hessa Al-Rashid,Saudi Aramco,2222.SR,Refining & Chemicals,Senior,75.8,111500,5.8

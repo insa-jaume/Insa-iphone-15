@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+AMZN-0001,Carlos Cohen,Amazon,AMZN,Engineering,Director,94.5,651300,4.0
+AMZN-0002,Thomas Martinez,Amazon,AMZN,Engineering,Principal,61.5,217400,4.3
+AMZN-0003,Zoe Lopez,Amazon,AMZN,Marketing,Principal,75.2,560300,5.2
+AMZN-0004,Fatima Okafor,Amazon,AMZN,Finance,Senior,69.1,456100,1.8
+AMZN-0005,Daniel Park,Amazon,AMZN,Sales & GTM,Senior,93.7,99500,3.0
+AMZN-0006,Kevin Park,Amazon,AMZN,Sales & GTM,Senior,75.8,71200,3.3
+AMZN-0007,Thomas Rossi,Amazon,AMZN,Product,Senior,56.9,82800,4.9
+AMZN-0008,Michael Chen,Amazon,AMZN,Sales & GTM,Senior,62.3,196600,3.8
+AMZN-0009,Thomas Park,Amazon,AMZN,Sales & GTM,Principal,76.9,117800,8.4
+AMZN-0010,Raj Smith,Amazon,AMZN,Operations,Director,90.0,1421200,4.6
+AMZN-0011,Carlos Nguyen,Amazon,AMZN,Research & AI,Director,74.7,386700,15.1
+AMZN-0012,Emily Patel,Amazon,AMZN,Engineering,Senior,71.0,829000,4.1
+AMZN-0013,Zoe Patel,Amazon,AMZN,Product,Principal,82.3,696600,10.4
+AMZN-0014,Kevin Reyes,Amazon,AMZN,Engineering,SVP,65.5,1318200,9.9
+AMZN-0015,Linda Okafor,Amazon,AMZN,Engineering,SVP,81.6,2122600,12.4
+AMZN-0016,Priya Smith,Amazon,AMZN,Operations,Senior,80.8,275900,4.6
+AMZN-0017,Hannah Singh,Amazon,AMZN,Engineering,Staff,77.1,292200,6.9
+AMZN-0018,Emily Rossi,Amazon,AMZN,Research & AI,Director,77.7,551400,3.7
+AMZN-0019,Nina Brown,Amazon,AMZN,Product,Senior Director,86.1,1118900,4.9
+AMZN-0020,James Silva,Amazon,AMZN,Engineering,Director,64.7,373800,8.7
+AMZN-0021,Aisha Singh,Amazon,AMZN,Research & AI,Senior,73.3,219300,1.8
+AMZN-0022,John Johnson,Amazon,AMZN,Product,Senior Director,100.0,442600,6.8
+AMZN-0023,Grace Martinez,Amazon,AMZN,Engineering,Staff,90.9,630300,1.8
+AMZN-0024,Ahmed Khan,Amazon,AMZN,Research & AI,Principal,85.3,526300,3.8
+AMZN-0025,Raj Brown,Amazon,AMZN,Operations,Principal,70.7,400700,11.7
+AMZN-0026,Samuel Schmidt,Amazon,AMZN,Engineering,Director,60.8,788200,7.5
+AMZN-0027,Michael Reyes,Amazon,AMZN,Engineering,Principal,87.4,367700,8.1
+AMZN-0028,Thomas Murphy,Amazon,AMZN,Engineering,Senior,91.4,227000,1.8
+AMZN-0029,Chen Brown,Amazon,AMZN,Operations,Principal,70.8,398800,6.2
+AMZN-0030,Raj Okafor,Amazon,AMZN,Operations,Senior,70.5,527900,3.0
+AMZN-0031,Mary Wang,Amazon,AMZN,Sales & GTM,Principal,92.4,272800,7.5
+AMZN-0032,Zoe Martinez,Amazon,AMZN,Operations,Principal,73.1,139300,7.3
+AMZN-0033,Samuel Patel,Amazon,AMZN,Engineering,Director,80.1,311100,3.2
+AMZN-0034,Mary Rossi,Amazon,AMZN,Marketing,Staff,70.1,170000,2.9
+AMZN-0035,Linda Anderson,Amazon,AMZN,Operations,Senior Director,92.3,1005100,6.3
+AMZN-0036,James Murphy,Amazon,AMZN,Research & AI,Senior,59.9,116900,0.4
+AMZN-0037,John Lopez,Amazon,AMZN,Marketing,Principal,77.9,985700,3.7
+AMZN-0038,Emily Brown,Amazon,AMZN,Engineering,Staff,69.0,473200,2.8
+AMZN-0039,Emily Singh,Amazon,AMZN,Product,Director,93.4,478700,5.3
+AMZN-0040,Mary Murphy,Amazon,AMZN,Product,Staff,82.6,1609600,14.5
+AMZN-0041,Chen Chen,Amazon,AMZN,Research & AI,Senior,71.2,165600,1.0
+AMZN-0042,Chen Reyes,Amazon,AMZN,Engineering,Senior,49.6,210400,3.2
+AMZN-0043,Aisha Nguyen,Amazon,AMZN,Engineering,Director,71.4,304500,6.6
+AMZN-0044,Zoe Lee,Amazon,AMZN,Research & AI,Staff,87.8,394400,10.0
+AMZN-0045,Elena Martinez,Amazon,AMZN,Engineering,Director,80.1,277900,6.1
+AMZN-0046,Elena Khan,Amazon,AMZN,Engineering,Senior Director,62.9,142800,5.7
+AMZN-0047,Emily Petrov,Amazon,AMZN,Product,Senior,76.8,186500,0.6
+AMZN-0048,Sofia Davis,Amazon,AMZN,Research & AI,Senior Director,85.4,418700,6.8
+AMZN-0049,Sofia Lopez,Amazon,AMZN,People/HR,Principal,84.0,284300,5.2
+AMZN-0050,Olivia Park,Amazon,AMZN,Legal & Policy,Senior Director,84.2,520500,5.4
+AMZN-0051,Kevin Hassan,Amazon,AMZN,Operations,Senior,71.1,203500,3.3
+AMZN-0052,Hiroshi Martinez,Amazon,AMZN,Research & AI,Director,94.0,168200,4.2
+AMZN-0053,Grace Okafor,Amazon,AMZN,Product,Senior,72.8,91600,4.0
+AMZN-0054,Michael Smith,Amazon,AMZN,Engineering,Principal,93.6,461600,3.7
+AMZN-0055,Grace Wilson,Amazon,AMZN,Operations,Staff,76.3,290900,3.3
+AMZN-0056,Elena Wilson,Amazon,AMZN,Engineering,Senior,85.9,228600,5.7
+AMZN-0057,Samuel Yamamoto,Amazon,AMZN,People/HR,Principal,79.0,296200,7.1
+AMZN-0058,Linda Kim,Amazon,AMZN,Sales & GTM,Principal,82.5,801200,3.6
+AMZN-0059,Raj Davis,Amazon,AMZN,Sales & GTM,Senior Director,72.9,548000,7.0
+AMZN-0060,Arjun Schmidt,Amazon,AMZN,Engineering,Senior,73.8,60600,3.0
+AMZN-0061,Hannah Petrov,Amazon,AMZN,Engineering,Senior,69.0,175100,0.9
+AMZN-0062,Raj Tanaka,Amazon,AMZN,Research & AI,VP,78.2,697500,17.4
+AMZN-0063,Thomas Yamamoto,Amazon,AMZN,Product,Senior,57.5,373200,6.2
+AMZN-0064,Priya Martinez,Amazon,AMZN,Product,Senior Director,85.2,808300,11.4
+AMZN-0065,Nina Anderson,Amazon,AMZN,Product,Senior,66.3,311000,2.8
+AMZN-0066,David Petrov,Amazon,AMZN,Engineering,Staff,55.9,146900,5.8
+AMZN-0067,Ahmed Rossi,Amazon,AMZN,Marketing,Senior,68.7,150400,6.9
+AMZN-0068,Zoe Khan,Amazon,AMZN,Engineering,Staff,87.4,739700,8.0
+AMZN-0069,Zoe Chen,Amazon,AMZN,Operations,Staff,91.6,442400,4.7
+AMZN-0070,Grace Silva,Amazon,AMZN,Engineering,Principal,63.1,1056300,4.8
+AMZN-0071,John Hassan,Amazon,AMZN,Research & AI,Principal,82.1,1859800,10.5
+AMZN-0072,James Park,Amazon,AMZN,Marketing,Director,98.3,698100,6.5
+AMZN-0073,Nina Park,Amazon,AMZN,Operations,Senior,94.0,179700,7.1
+AMZN-0074,Samuel Lopez,Amazon,AMZN,Engineering,Staff,82.0,306500,5.0
+AMZN-0075,Michael Anderson,Amazon,AMZN,Marketing,Senior,68.8,304600,4.9
+AMZN-0076,David Petrov,Amazon,AMZN,Engineering,Director,91.8,1655800,3.9
+AMZN-0077,David Smith,Amazon,AMZN,Engineering,Senior,85.1,104700,2.9
+AMZN-0078,Priya Okafor,Amazon,AMZN,Engineering,Senior,83.3,189000,2.4
+AMZN-0079,Zoe Johnson,Amazon,AMZN,Research & AI,Director,81.9,327100,7.4
+AMZN-0080,Grace Schmidt,Amazon,AMZN,Product,Senior,70.6,585900,12.5
+AMZN-0081,Arjun Khan,Amazon,AMZN,Engineering,Staff,64.9,319400,3.1
+AMZN-0082,Maria Martinez,Amazon,AMZN,Legal & Policy,Principal,85.1,471600,6.3
+AMZN-0083,Maria Cohen,Amazon,AMZN,Research & AI,Principal,88.8,1189300,3.5
+AMZN-0084,Emily Lopez,Amazon,AMZN,Engineering,Staff,72.7,342700,6.0
+AMZN-0085,John Okafor,Amazon,AMZN,Marketing,Principal,85.6,745700,10.5
+AMZN-0086,Fatima Petrov,Amazon,AMZN,Operations,Senior,66.9,224800,0.8
+AMZN-0087,Olivia Kim,Amazon,AMZN,Research & AI,Director,85.7,604300,11.4
+AMZN-0088,Kevin Yamamoto,Amazon,AMZN,Engineering,Principal,76.9,431600,10.4
+AMZN-0089,Olivia Rossi,Amazon,AMZN,Engineering,Senior,51.4,574000,6.9
+AMZN-0090,Fatima Reyes,Amazon,AMZN,Operations,Principal,67.9,318800,5.6
+AMZN-0091,Sofia Smith,Amazon,AMZN,Engineering,Staff,80.2,476400,1.3
+AMZN-0092,Zoe Martinez,Amazon,AMZN,Engineering,Staff,75.6,210900,2.6
+AMZN-0093,Samuel Martinez,Amazon,AMZN,Engineering,Director,79.8,320500,3.4
+AMZN-0094,Fatima Johnson,Amazon,AMZN,Product,Senior,75.6,285300,2.9
+AMZN-0095,John Yamamoto,Amazon,AMZN,Sales & GTM,VP,92.0,1409900,11.7
+AMZN-0096,Kevin Brown,Amazon,AMZN,Research & AI,VP,93.2,572300,8.2
+AMZN-0097,Thomas Singh,Amazon,AMZN,Engineering,Senior,80.6,114700,4.8
+AMZN-0098,Arjun Chen,Amazon,AMZN,Engineering,Director,58.8,517600,11.9
+AMZN-0099,Fatima Chen,Amazon,AMZN,Finance,Director,69.3,770600,6.0
+AMZN-0100,Arjun Chen,Amazon,AMZN,Research & AI,Staff,72.7,236800,2.4
+AMZN-0101,Sofia Schmidt,Amazon,AMZN,Legal & Policy,Staff,77.0,879900,2.3
+AMZN-0102,Ahmed Silva,Amazon,AMZN,Engineering,Principal,72.0,628600,4.4
+AMZN-0103,Chen Reyes,Amazon,AMZN,Engineering,Staff,85.4,254300,4.2
+AMZN-0104,Daniel Patel,Amazon,AMZN,Engineering,Principal,87.7,421300,18.0
+AMZN-0105,Wei Okafor,Amazon,AMZN,People/HR,Senior,56.1,218300,9.2
+AMZN-0106,Samuel Davis,Amazon,AMZN,Engineering,Director,77.9,113200,6.7
+AMZN-0107,Carlos Okafor,Amazon,AMZN,Legal & Policy,Senior,62.6,152200,4.5
+AMZN-0108,Michael Smith,Amazon,AMZN,Engineering,Director,80.4,485700,7.6
+AMZN-0109,Nina Lopez,Amazon,AMZN,Engineering,Director,79.3,2244400,9.8
+AMZN-0110,Grace Wang,Amazon,AMZN,Operations,Senior,62.9,105000,8.3
+AMZN-0111,Carlos Silva,Amazon,AMZN,Engineering,Senior,56.8,123600,4.6
+AMZN-0112,Carlos Chen,Amazon,AMZN,Legal & Policy,Staff,73.4,704400,1.1
+AMZN-0113,Grace Khan,Amazon,AMZN,Product,Senior,73.2,309000,2.7
+AMZN-0114,Fatima Tanaka,Amazon,AMZN,Engineering,Senior,75.3,260100,8.1
+AMZN-0115,Ahmed Silva,Amazon,AMZN,Design,Staff,78.5,229900,3.5
+AMZN-0116,Thomas Martinez,Amazon,AMZN,Operations,Principal,57.8,262500,11.8
+AMZN-0117,Thomas Hassan,Amazon,AMZN,Research & AI,Director,80.3,648500,5.4
+AMZN-0118,David Anderson,Amazon,AMZN,Engineering,Senior Director,70.8,504600,8.1
+AMZN-0119,Raj Cohen,Amazon,AMZN,Sales & GTM,Principal,78.5,638800,5.9
+AMZN-0120,Hiroshi Okafor,Amazon,AMZN,Engineering,Senior Director,67.3,1515500,5.9
+AMZN-0121,Arjun Wilson,Amazon,AMZN,Legal & Policy,SVP,88.0,1531900,19.2
+AMZN-0122,Zoe Wang,Amazon,AMZN,Engineering,Senior,76.6,98800,1.7
+AMZN-0123,Michael Wang,Amazon,AMZN,Engineering,Staff,95.4,677400,5.0
+AMZN-0124,Carlos Anderson,Amazon,AMZN,Finance,SVP,84.2,562900,8.8
+AMZN-0125,Hannah Okafor,Amazon,AMZN,Marketing,Staff,81.4,398000,3.4
+AMZN-0126,Arjun Kim,Amazon,AMZN,Engineering,Staff,80.4,363800,0.9
+AMZN-0127,Ahmed Park,Amazon,AMZN,Operations,Senior,85.5,363300,1.2
+AMZN-0128,Emily Johnson,Amazon,AMZN,Design,Staff,86.8,397800,5.8
+AMZN-0129,Daniel Davis,Amazon,AMZN,Research & AI,Senior,77.8,440800,9.0
+AMZN-0130,Thomas Okafor,Amazon,AMZN,Operations,Senior,75.1,265700,3.8
+AMZN-0131,Elena Rossi,Amazon,AMZN,Operations,Senior Director,93.1,147800,9.1
+AMZN-0132,David Khan,Amazon,AMZN,Operations,Senior,93.2,320500,3.1
+AMZN-0133,Elena Chen,Amazon,AMZN,Engineering,Senior,81.4,189400,1.6
+AMZN-0134,Wei Tanaka,Amazon,AMZN,Sales & GTM,Senior Director,79.9,878600,4.5
+AMZN-0135,Nina Nguyen,Amazon,AMZN,Research & AI,Staff,68.0,872800,3.3
+AMZN-0136,Michael Smith,Amazon,AMZN,Engineering,Principal,76.1,140900,5.6
+AMZN-0137,Raj Kim,Amazon,AMZN,Engineering,Staff,83.2,242000,4.5
+AMZN-0138,Kevin Kim,Amazon,AMZN,Engineering,Senior,77.0,232500,7.1
+AMZN-0139,Ahmed Tanaka,Amazon,AMZN,Sales & GTM,Director,98.2,603300,6.1
+AMZN-0140,Kevin Silva,Amazon,AMZN,Engineering,Senior,82.9,221500,10.0
+AMZN-0141,Carlos Brown,Amazon,AMZN,Marketing,VP,64.7,644200,10.8
+AMZN-0142,Ahmed Lopez,Amazon,AMZN,Design,Director,80.6,626400,9.9
+AMZN-0143,Raj Johnson,Amazon,AMZN,Design,Principal,82.2,884600,5.7
+AMZN-0144,Sofia Ali,Amazon,AMZN,Operations,Director,66.4,756900,4.2
+AMZN-0145,Fatima Petrov,Amazon,AMZN,Operations,Staff,90.6,782200,7.4
+AMZN-0146,Priya Johnson,Amazon,AMZN,Engineering,Senior,71.2,179300,7.4
+AMZN-0147,Ahmed Cohen,Amazon,AMZN,Engineering,Staff,77.3,275500,3.9
+AMZN-0148,Kevin Anderson,Amazon,AMZN,Engineering,Senior,83.1,332400,4.6
+AMZN-0149,Arjun Kim,Amazon,AMZN,Sales & GTM,Principal,95.9,636100,6.6
+AMZN-0150,Fatima Garcia,Amazon,AMZN,Engineering,Staff,83.7,136400,5.1
+AMZN-0151,Hiroshi Petrov,Amazon,AMZN,Sales & GTM,Senior,98.5,347200,2.6
+AMZN-0152,Arjun Ali,Amazon,AMZN,Engineering,Director,70.7,304700,3.6
+AMZN-0153,Elena Petrov,Amazon,AMZN,Product,Staff,79.9,352900,3.1
+AMZN-0154,Yuki Reyes,Amazon,AMZN,Finance,Staff,80.0,77000,3.9
+AMZN-0155,Maria Tanaka,Amazon,AMZN,Engineering,Principal,79.2,297400,1.9
+AMZN-0156,Hiroshi Garcia,Amazon,AMZN,Marketing,Principal,70.8,428800,5.0
+AMZN-0157,Elena Murphy,Amazon,AMZN,Product,Senior Director,88.5,736700,8.6
+AMZN-0158,Fatima Petrov,Amazon,AMZN,Product,Senior,78.2,146000,5.6
+AMZN-0159,Nina Davis,Amazon,AMZN,Engineering,Principal,79.4,242000,5.1
+AMZN-0160,Yuki Martinez,Amazon,AMZN,Design,Director,85.8,829400,5.7
+AMZN-0161,Hannah Reyes,Amazon,AMZN,Operations,VP,74.3,1710700,7.4
+AMZN-0162,Carlos Smith,Amazon,AMZN,Operations,Principal,82.8,334200,7.7
+AMZN-0163,Aisha Johnson,Amazon,AMZN,Engineering,Senior Director,85.4,1574400,6.1
+AMZN-0164,Mary Okafor,Amazon,AMZN,Product,Staff,59.8,166600,5.2
+AMZN-0165,James Lee,Amazon,AMZN,Design,Staff,74.8,225500,2.5
+AMZN-0166,Kevin Brown,Amazon,AMZN,Engineering,Senior,64.5,84700,4.3
+AMZN-0167,Linda Davis,Amazon,AMZN,People/HR,Principal,61.5,113400,8.7
+AMZN-0168,Nina Garcia,Amazon,AMZN,Sales & GTM,Staff,100.0,280500,4.6
+AMZN-0169,Wei Wang,Amazon,AMZN,Engineering,Principal,67.9,214000,3.0
+AMZN-0170,Grace Chen,Amazon,AMZN,Engineering,Senior,73.5,398700,2.1
+AMZN-0171,Yuki Schmidt,Amazon,AMZN,Research & AI,Senior,66.8,214300,3.1
+AMZN-0172,Wei Schmidt,Amazon,AMZN,Engineering,Senior Director,82.7,457900,10.1
+AMZN-0173,Emily Murphy,Amazon,AMZN,Legal & Policy,Senior,75.1,781200,2.3
+AMZN-0174,Aisha Lee,Amazon,AMZN,Engineering,Staff,81.1,209200,2.9
+AMZN-0175,Arjun Wilson,Amazon,AMZN,Engineering,Senior,69.1,414600,4.3
+AMZN-0176,Olivia Patel,Amazon,AMZN,Operations,Senior,81.0,251000,3.4
+AMZN-0177,Hiroshi Yamamoto,Amazon,AMZN,Research & AI,VP,85.7,1005100,8.7
+AMZN-0178,Wei Singh,Amazon,AMZN,Engineering,Director,88.7,413700,8.6
+AMZN-0179,Michael Martinez,Amazon,AMZN,Engineering,Senior Director,91.0,1252400,6.1
+AMZN-0180,Zoe Tanaka,Amazon,AMZN,Finance,Director,90.7,283400,4.5
+AMZN-0181,Yuki Brown,Amazon,AMZN,Engineering,Senior,91.1,652300,1.8
+AMZN-0182,Daniel Tanaka,Amazon,AMZN,Research & AI,Director,68.7,145300,8.7
+AMZN-0183,Grace Schmidt,Amazon,AMZN,Product,Director,83.2,391300,16.1
+AMZN-0184,Grace Brown,Amazon,AMZN,Design,Director,77.6,1144500,3.8
+AMZN-0185,Mary Garcia,Amazon,AMZN,Product,Staff,60.0,463600,5.0
+AMZN-0186,Priya Kim,Amazon,AMZN,Engineering,VP,67.0,529000,6.4
+AMZN-0187,Wei Hassan,Amazon,AMZN,Engineering,Director,69.5,680400,4.1
+AMZN-0188,Thomas Lopez,Amazon,AMZN,Engineering,Staff,77.5,370400,5.4
+AMZN-0189,Hannah Cohen,Amazon,AMZN,Product,Director,80.7,370500,6.8
+AMZN-0190,Samuel Khan,Amazon,AMZN,Engineering,SVP,100.0,1403900,9.0
+AMZN-0191,Samuel Patel,Amazon,AMZN,Design,Principal,59.2,504300,10.6
+AMZN-0192,Arjun Nguyen,Amazon,AMZN,Research & AI,Director,70.2,263500,6.7
+AMZN-0193,John Johnson,Amazon,AMZN,Engineering,Senior,87.0,92000,2.8
+AMZN-0194,Carlos Silva,Amazon,AMZN,Operations,Principal,82.0,760000,3.7
+AMZN-0195,Maria Park,Amazon,AMZN,Engineering,Senior,54.2,269500,2.8
+AMZN-0196,Hannah Kim,Amazon,AMZN,Sales & GTM,SVP,80.0,697400,18.0
+AMZN-0197,Hiroshi Davis,Amazon,AMZN,Operations,Senior,82.7,288300,11.1
+AMZN-0198,John Davis,Amazon,AMZN,Engineering,Senior,58.4,184700,8.0
+AMZN-0199,Mary Park,Amazon,AMZN,Sales & GTM,Senior,100.0,441300,3.2
+AMZN-0200,Zoe Anderson,Amazon,AMZN,Engineering,Senior,82.7,457500,6.1
+AMZN-0201,Chen Wilson,Amazon,AMZN,Marketing,VP,70.1,735200,13.5
+AMZN-0202,Elena Tanaka,Amazon,AMZN,Sales & GTM,Director,81.7,493600,11.6
+AMZN-0203,Michael Ali,Amazon,AMZN,People/HR,Senior,41.3,110000,3.0
+AMZN-0204,Sofia Tanaka,Amazon,AMZN,Engineering,Senior,87.5,410500,6.7
+AMZN-0205,John Petrov,Amazon,AMZN,Engineering,Staff,77.7,584800,8.5
+AMZN-0206,Raj Chen,Amazon,AMZN,Engineering,Staff,97.3,294700,7.9
+AMZN-0207,Thomas Lee,Amazon,AMZN,Engineering,Senior,74.6,357200,1.5
+AMZN-0208,Sofia Patel,Amazon,AMZN,Engineering,Staff,64.3,356500,6.0
+AMZN-0209,Elena Khan,Amazon,AMZN,Engineering,Principal,71.3,152900,6.9
+AMZN-0210,Sofia Okafor,Amazon,AMZN,Engineering,Staff,80.5,303700,1.6
+AMZN-0211,John Chen,Amazon,AMZN,Engineering,Senior,79.4,141300,4.6
+AMZN-0212,Priya Smith,Amazon,AMZN,People/HR,VP,90.1,655100,12.5
+AMZN-0213,Samuel Park,Amazon,AMZN,Research & AI,Staff,91.4,177700,2.6
+AMZN-0214,Kevin Anderson,Amazon,AMZN,Engineering,Staff,64.8,92900,3.1
+AMZN-0215,Carlos Silva,Amazon,AMZN,Operations,Staff,75.7,776500,2.9
+AMZN-0216,Wei Johnson,Amazon,AMZN,Research & AI,Senior,60.9,133200,4.5
+AMZN-0217,John Tanaka,Amazon,AMZN,Engineering,Senior,100.0,251100,6.8
+AMZN-0218,James Kim,Amazon,AMZN,Engineering,VP,87.5,644700,5.8
+AMZN-0219,Zoe Anderson,Amazon,AMZN,Engineering,Principal,74.7,753000,2.5
+AMZN-0220,Fatima Lee,Amazon,AMZN,Engineering,Staff,80.5,271400,1.5
+AMZN-0221,Carlos Chen,Amazon,AMZN,Sales & GTM,Principal,78.1,437200,5.1
+AMZN-0222,Priya Smith,Amazon,AMZN,Research & AI,Principal,69.6,589800,7.8
+AMZN-0223,Wei Lee,Amazon,AMZN,Engineering,C-Suite,99.8,879400,14.6
+AMZN-0224,Hiroshi Cohen,Amazon,AMZN,Engineering,Senior,61.7,515800,10.4
+AMZN-0225,Samuel Hassan,Amazon,AMZN,Research & AI,Senior Director,86.4,775500,5.9
+AMZN-0226,Nina Johnson,Amazon,AMZN,Design,Staff,65.6,1045100,4.5
+AMZN-0227,Ahmed Davis,Amazon,AMZN,Engineering,Staff,81.4,201400,8.8
+AMZN-0228,Emily Khan,Amazon,AMZN,Product,Principal,68.2,288300,14.9
+AMZN-0229,Elena Smith,Amazon,AMZN,Research & AI,Senior,62.1,412200,4.3
+AMZN-0230,Linda Park,Amazon,AMZN,Design,SVP,67.5,2920900,8.6
+AMZN-0231,Wei Ali,Amazon,AMZN,Design,Director,82.9,599400,5.9
+AMZN-0232,Wei Petrov,Amazon,AMZN,Engineering,VP,70.1,1571300,6.9
+AMZN-0233,Aisha Chen,Amazon,AMZN,Product,Senior,67.4,98800,1.2
+AMZN-0234,John Wang,Amazon,AMZN,Research & AI,Senior,68.5,118300,7.6
+AMZN-0235,Hannah Cohen,Amazon,AMZN,Research & AI,Principal,77.2,347800,6.1
+AMZN-0236,Arjun Johnson,Amazon,AMZN,Marketing,Staff,89.2,190800,1.6
+AMZN-0237,Yuki Park,Amazon,AMZN,Research & AI,Director,90.9,430100,3.8
+AMZN-0238,Nina Hassan,Amazon,AMZN,Finance,Staff,59.7,145300,7.4
+AMZN-0239,Samuel Park,Amazon,AMZN,Engineering,SVP,68.6,915100,7.5
+AMZN-0240,Olivia Singh,Amazon,AMZN,Engineering,Senior,67.1,287200,3.2
+AMZN-0241,Carlos Johnson,Amazon,AMZN,Sales & GTM,Senior Director,78.7,1458800,15.5
+AMZN-0242,Kevin Petrov,Amazon,AMZN,Engineering,Director,72.7,642200,3.4
+AMZN-0243,David Petrov,Amazon,AMZN,Design,Staff,65.4,425000,4.0
+AMZN-0244,Elena Reyes,Amazon,AMZN,Marketing,VP,100.0,545300,12.4
+AMZN-0245,Daniel Silva,Amazon,AMZN,Marketing,Senior,85.3,453200,2.5
+AMZN-0246,Chen Brown,Amazon,AMZN,Design,Principal,68.3,1016900,2.5
+AMZN-0247,Hannah Smith,Amazon,AMZN,Finance,Senior,60.3,133800,3.9
+AMZN-0248,James Garcia,Amazon,AMZN,Research & AI,Senior Director,65.2,381200,11.4
+AMZN-0249,Yuki Brown,Amazon,AMZN,Research & AI,Senior,86.8,232900,9.4
+AMZN-0250,Zoe Smith,Amazon,AMZN,Engineering,Staff,79.5,254400,6.6
+AMZN-0251,Hannah Ali,Amazon,AMZN,Finance,VP,71.7,4244200,16.2
+AMZN-0252,Sofia Schmidt,Amazon,AMZN,Operations,Staff,68.2,385800,5.8
+AMZN-0253,Zoe Wang,Amazon,AMZN,Legal & Policy,Senior,69.2,462100,3.5
+AMZN-0254,Sofia Wang,Amazon,AMZN,Engineering,Senior Director,90.2,1055000,11.5
+AMZN-0255,Nina Park,Amazon,AMZN,Research & AI,Principal,70.0,917100,3.6
+AMZN-0256,Fatima Hassan,Amazon,AMZN,Design,Senior,76.5,971300,7.0
+AMZN-0257,Elena Tanaka,Amazon,AMZN,People/HR,Senior Director,65.9,804800,4.9
+AMZN-0258,Hannah Wilson,Amazon,AMZN,Engineering,Staff,74.9,404100,3.3
+AMZN-0259,Hannah Johnson,Amazon,AMZN,Product,Staff,56.7,475600,1.8
+AMZN-0260,Grace Chen,Amazon,AMZN,Research & AI,Staff,64.3,106400,9.4
+AMZN-0261,Wei Petrov,Amazon,AMZN,Engineering,VP,66.4,173900,8.8
+AMZN-0262,Mary Khan,Amazon,AMZN,Design,Senior Director,85.6,1446500,15.5
+AMZN-0263,Elena Murphy,Amazon,AMZN,Marketing,Senior,96.0,284000,2.3
+AMZN-0264,James Singh,Amazon,AMZN,Engineering,Principal,79.7,561700,9.2
+AMZN-0265,Wei Chen,Amazon,AMZN,Product,VP,76.3,602800,5.6
+AMZN-0266,John Anderson,Amazon,AMZN,Sales & GTM,VP,68.6,278800,10.8
+AMZN-0267,Daniel Ali,Amazon,AMZN,Engineering,Senior,67.0,241800,1.6
+AMZN-0268,John Khan,Amazon,AMZN,Sales & GTM,Senior,81.3,583000,3.5
+AMZN-0269,Emily Anderson,Amazon,AMZN,Engineering,Staff,76.9,233700,6.2
+AMZN-0270,Elena Schmidt,Amazon,AMZN,Product,SVP,72.4,709200,8.2
+AMZN-0271,Emily Wang,Amazon,AMZN,Engineering,Director,90.7,468900,4.5
+AMZN-0272,Maria Johnson,Amazon,AMZN,Marketing,Director,87.7,993700,4.3
+AMZN-0273,Sofia Rossi,Amazon,AMZN,Sales & GTM,Senior,71.5,254900,11.9
+AMZN-0274,Maria Singh,Amazon,AMZN,Engineering,Director,74.1,293700,15.7
+AMZN-0275,Hiroshi Smith,Amazon,AMZN,Research & AI,Director,76.9,413500,15.6
+AMZN-0276,Linda Anderson,Amazon,AMZN,Design,Director,76.8,745300,4.1
+AMZN-0277,Linda Martinez,Amazon,AMZN,Product,Senior,67.6,102500,3.6
+AMZN-0278,Chen Wang,Amazon,AMZN,Operations,Principal,48.6,166700,4.0
+AMZN-0279,Grace Yamamoto,Amazon,AMZN,Engineering,Principal,84.9,274200,5.1
+AMZN-0280,Nina Petrov,Amazon,AMZN,Engineering,Director,80.4,276200,8.6
+AMZN-0281,Samuel Brown,Amazon,AMZN,Engineering,Senior,74.6,347500,1.8
+AMZN-0282,Nina Tanaka,Amazon,AMZN,Engineering,Staff,76.8,393100,0.9
+AMZN-0283,Hannah Park,Amazon,AMZN,Research & AI,Senior,65.0,359800,8.2
+AMZN-0284,James Singh,Amazon,AMZN,Sales & GTM,Staff,84.4,177800,8.8
+AMZN-0285,Arjun Okafor,Amazon,AMZN,Engineering,Director,61.8,107600,4.9
+AMZN-0286,David Rossi,Amazon,AMZN,Engineering,VP,69.5,2097000,14.1
+AMZN-0287,Grace Tanaka,Amazon,AMZN,Marketing,Principal,83.0,1915900,9.4
+AMZN-0288,Linda Lopez,Amazon,AMZN,Research & AI,Staff,70.4,322600,3.9
+AMZN-0289,Hiroshi Garcia,Amazon,AMZN,Engineering,Senior,65.9,97600,3.4
+AMZN-0290,Elena Rossi,Amazon,AMZN,Operations,Senior,73.2,403700,7.0
+AMZN-0291,Emily Khan,Amazon,AMZN,Engineering,Senior Director,54.8,403300,8.4
+AMZN-0292,Zoe Smith,Amazon,AMZN,Sales & GTM,Senior,85.6,500700,8.5
+AMZN-0293,Wei Nguyen,Amazon,AMZN,People/HR,Director,77.1,411900,7.1
+AMZN-0294,Nina Garcia,Amazon,AMZN,Product,Principal,83.6,418300,1.8
+AMZN-0295,Elena Silva,Amazon,AMZN,Sales & GTM,Senior,68.6,209000,3.3
+AMZN-0296,Ahmed Ali,Amazon,AMZN,Research & AI,Staff,85.7,571700,2.1
+AMZN-0297,Nina Davis,Amazon,AMZN,Research & AI,Principal,87.8,1328400,4.9
+AMZN-0298,Fatima Silva,Amazon,AMZN,Finance,Staff,65.1,627100,7.6
+AMZN-0299,Emily Tanaka,Amazon,AMZN,Finance,Senior,86.3,688400,6.9
+AMZN-0300,Ahmed Tanaka,Amazon,AMZN,People/HR,Senior,63.6,262500,1.8
+AMZN-0301,Raj Wang,Amazon,AMZN,Engineering,Senior,74.8,68000,5.0
+AMZN-0302,Yuki Petrov,Amazon,AMZN,Sales & GTM,Principal,76.0,600700,8.1
+AMZN-0303,Hiroshi Khan,Amazon,AMZN,Operations,Senior,79.5,255600,2.7
+AMZN-0304,Emily Garcia,Amazon,AMZN,Engineering,Senior,51.9,310700,1.5
+AMZN-0305,Aisha Okafor,Amazon,AMZN,Operations,Director,83.1,642600,5.7
+AMZN-0306,Hannah Wilson,Amazon,AMZN,Design,Senior,65.7,401700,5.2
+AMZN-0307,Thomas Ali,Amazon,AMZN,Engineering,Senior,71.9,631600,1.6
+AMZN-0308,Michael Brown,Amazon,AMZN,Research & AI,Senior,79.3,286400,8.4
+AMZN-0309,David Schmidt,Amazon,AMZN,Sales & GTM,Staff,75.3,358600,3.7
+AMZN-0310,Grace Singh,Amazon,AMZN,Engineering,Director,98.2,757700,5.6
+AMZN-0311,Aisha Yamamoto,Amazon,AMZN,Engineering,Staff,77.0,297000,1.7
+AMZN-0312,John Lopez,Amazon,AMZN,Sales & GTM,Principal,94.5,737600,5.2
+AMZN-0313,Daniel Khan,Amazon,AMZN,Engineering,Senior,79.9,283100,9.2
+AMZN-0314,Hiroshi Tanaka,Amazon,AMZN,Engineering,Staff,82.1,126000,5.0
+AMZN-0315,Kevin Johnson,Amazon,AMZN,Design,Senior,74.2,260400,1.0
+AMZN-0316,Linda Chen,Amazon,AMZN,Sales & GTM,Staff,100.0,368900,3.9
+AMZN-0317,Hiroshi Tanaka,Amazon,AMZN,Operations,Director,84.1,242000,9.2
+AMZN-0318,Wei Davis,Amazon,AMZN,Research & AI,Senior,83.1,184200,10.0
+AMZN-0319,Elena Murphy,Amazon,AMZN,Research & AI,Staff,83.2,236300,7.9
+AMZN-0320,Hiroshi Murphy,Amazon,AMZN,Engineering,Staff,62.2,373100,6.9
+AMZN-0321,Daniel Davis,Amazon,AMZN,Product,Senior,79.1,196600,11.7
+AMZN-0322,Thomas Lopez,Amazon,AMZN,Sales & GTM,Senior,74.7,220200,4.8
+AMZN-0323,Thomas Park,Amazon,AMZN,Sales & GTM,Staff,84.1,1327700,5.1
+AMZN-0324,Thomas Tanaka,Amazon,AMZN,Product,Senior,80.5,179100,4.1
+AMZN-0325,Carlos Murphy,Amazon,AMZN,Research & AI,Staff,72.2,193600,4.1
+AMZN-0326,Zoe Reyes,Amazon,AMZN,Engineering,Senior,73.0,224500,3.4
+AMZN-0327,Mary Anderson,Amazon,AMZN,Operations,Senior,67.7,333800,6.3
+AMZN-0328,Arjun Silva,Amazon,AMZN,People/HR,Principal,82.2,457000,3.6
+AMZN-0329,Chen Hassan,Amazon,AMZN,Engineering,Senior,79.5,160600,6.8
+AMZN-0330,Raj Johnson,Amazon,AMZN,Engineering,Director,63.1,395800,9.3
+AMZN-0331,Emily Ali,Amazon,AMZN,Design,Principal,67.4,349200,5.5
+AMZN-0332,Ahmed Silva,Amazon,AMZN,Product,Staff,73.4,221000,6.3
+AMZN-0333,Carlos Park,Amazon,AMZN,Operations,Staff,76.6,1040200,6.6
+AMZN-0334,Zoe Lee,Amazon,AMZN,Engineering,Staff,80.9,847400,2.4
+AMZN-0335,James Singh,Amazon,AMZN,Design,Senior,77.2,156800,0.9
+AMZN-0336,David Silva,Amazon,AMZN,Research & AI,Staff,89.6,577400,5.4
+AMZN-0337,Yuki Johnson,Amazon,AMZN,Product,Principal,94.8,364600,6.8
+AMZN-0338,Aisha Cohen,Amazon,AMZN,Sales & GTM,Staff,96.2,289000,0.7
+AMZN-0339,Daniel Garcia,Amazon,AMZN,Engineering,Principal,80.5,229200,3.3
+AMZN-0340,Raj Patel,Amazon,AMZN,Engineering,Staff,78.3,193900,6.6
+AMZN-0341,Priya Schmidt,Amazon,AMZN,Engineering,Director,77.6,148600,9.3
+AMZN-0342,Grace Lopez,Amazon,AMZN,Marketing,Senior,64.5,224100,0.4
+AMZN-0343,Sofia Tanaka,Amazon,AMZN,Engineering,Staff,75.4,305100,5.6
+AMZN-0344,Kevin Khan,Amazon,AMZN,Operations,Staff,89.3,296300,2.3
+AMZN-0345,John Wilson,Amazon,AMZN,Operations,Staff,66.1,280000,5.2
+AMZN-0346,Kevin Schmidt,Amazon,AMZN,Engineering,Senior,67.3,419500,4.3
+AMZN-0347,Hiroshi Brown,Amazon,AMZN,Engineering,Principal,79.8,167100,1.9
+AMZN-0348,Raj Davis,Amazon,AMZN,Sales & GTM,Senior,76.7,331700,3.4
+AMZN-0349,Elena Rossi,Amazon,AMZN,Engineering,Senior,79.3,310400,2.5
+AMZN-0350,Maria Hassan,Amazon,AMZN,Research & AI,Principal,64.7,366800,2.7
+AMZN-0351,Aisha Lopez,Amazon,AMZN,Legal & Policy,Staff,85.9,409600,11.4
+AMZN-0352,Priya Patel,Amazon,AMZN,Product,Director,89.4,312000,12.3
+AMZN-0353,Michael Petrov,Amazon,AMZN,Legal & Policy,Senior,75.3,359400,2.3
+AMZN-0354,Nina Schmidt,Amazon,AMZN,Product,Principal,86.2,503600,3.3
+AMZN-0355,Michael Hassan,Amazon,AMZN,Research & AI,Staff,93.6,387300,7.0
+AMZN-0356,Emily Davis,Amazon,AMZN,Finance,Director,79.1,402800,7.1
+AMZN-0357,James Tanaka,Amazon,AMZN,Engineering,VP,96.4,1069200,12.1
+AMZN-0358,Aisha Silva,Amazon,AMZN,Design,Principal,100.0,949400,4.5
+AMZN-0359,Sofia Garcia,Amazon,AMZN,Engineering,Senior,70.8,235200,1.4
+AMZN-0360,Emily Garcia,Amazon,AMZN,Research & AI,Senior,74.8,240500,2.4
+AMZN-0361,Hannah Schmidt,Amazon,AMZN,Research & AI,VP,89.7,1295200,6.2
+AMZN-0362,Grace Davis,Amazon,AMZN,Engineering,Senior,69.7,103700,6.5
+AMZN-0363,Yuki Schmidt,Amazon,AMZN,Engineering,Director,70.2,1084700,5.3
+AMZN-0364,Aisha Reyes,Amazon,AMZN,Engineering,Staff,76.7,461900,7.3
+AMZN-0365,Priya Rossi,Amazon,AMZN,Product,Staff,97.6,744800,3.6
+AMZN-0366,Hannah Reyes,Amazon,AMZN,Product,Senior,87.2,209400,5.5
+AMZN-0367,Aisha Rossi,Amazon,AMZN,Product,Principal,91.3,136300,5.9
+AMZN-0368,Thomas Anderson,Amazon,AMZN,Engineering,Principal,96.2,532900,3.6
+AMZN-0369,Sofia Nguyen,Amazon,AMZN,Engineering,Staff,61.6,1288600,7.7
+AMZN-0370,Hannah Silva,Amazon,AMZN,Finance,Senior,66.1,193700,9.2
+AMZN-0371,Ahmed Wang,Amazon,AMZN,Design,SVP,70.4,1688700,9.9
+AMZN-0372,Daniel Johnson,Amazon,AMZN,Engineering,Principal,77.3,172500,6.4
+AMZN-0373,Carlos Singh,Amazon,AMZN,Finance,Principal,88.3,451600,4.4
+AMZN-0374,Emily Silva,Amazon,AMZN,Engineering,Senior Director,73.0,410800,8.3
+AMZN-0375,Olivia Petrov,Amazon,AMZN,Research & AI,VP,79.5,2218700,6.5
+AMZN-0376,Michael Park,Amazon,AMZN,Operations,Senior,86.6,219500,2.8
+AMZN-0377,Elena Rossi,Amazon,AMZN,Product,Staff,58.9,205900,11.6
+AMZN-0378,Grace Cohen,Amazon,AMZN,Research & AI,Senior,73.9,310700,4.8
+AMZN-0379,Hannah Reyes,Amazon,AMZN,Product,VP,59.3,430200,12.5
+AMZN-0380,Mary Tanaka,Amazon,AMZN,Design,Senior,75.5,154500,2.8
+AMZN-0381,Yuki Brown,Amazon,AMZN,Engineering,Director,79.5,432400,10.5
+AMZN-0382,David Ali,Amazon,AMZN,Sales & GTM,Director,82.8,622900,7.0
+AMZN-0383,Maria Smith,Amazon,AMZN,Product,Director,79.0,472200,5.9
+AMZN-0384,Elena Patel,Amazon,AMZN,Engineering,Director,98.3,2187500,8.6
+AMZN-0385,Elena Cohen,Amazon,AMZN,Product,Staff,88.2,229100,3.6
+AMZN-0386,Aisha Schmidt,Amazon,AMZN,Marketing,Director,73.7,181300,11.9
+AMZN-0387,Fatima Park,Amazon,AMZN,Operations,Senior,59.7,165100,5.1
+AMZN-0388,Aisha Khan,Amazon,AMZN,Engineering,Principal,96.1,550700,8.9
+AMZN-0389,Mary Patel,Amazon,AMZN,Engineering,Principal,90.6,856500,4.8
+AMZN-0390,Kevin Schmidt,Amazon,AMZN,Marketing,Senior,78.9,389600,0.7
+AMZN-0391,Thomas Johnson,Amazon,AMZN,Engineering,Principal,63.6,635700,12.6
+AMZN-0392,Daniel Anderson,Amazon,AMZN,Product,Senior,53.1,469300,3.3
+AMZN-0393,Fatima Lopez,Amazon,AMZN,Legal & Policy,Director,89.0,533200,5.6
+AMZN-0394,Elena Lee,Amazon,AMZN,Marketing,Director,89.0,215700,16.2
+AMZN-0395,Ahmed Murphy,Amazon,AMZN,Sales & GTM,Senior,67.8,158300,4.4
+AMZN-0396,Chen Singh,Amazon,AMZN,Operations,Senior,80.8,350900,3.1
+AMZN-0397,John Patel,Amazon,AMZN,Engineering,Senior,89.9,828100,4.2
+AMZN-0398,Wei Rossi,Amazon,AMZN,Product,Senior,75.1,233400,3.6
+AMZN-0399,Carlos Nguyen,Amazon,AMZN,Sales & GTM,VP,83.2,784500,7.3
+AMZN-0400,Nina Silva,Amazon,AMZN,Marketing,Principal,86.5,496200,7.8
+AMZN-0401,Elena Kim,Amazon,AMZN,Research & AI,Senior,84.2,146100,5.4
+AMZN-0402,Ahmed Smith,Amazon,AMZN,Product,Senior,79.9,263700,1.1
+AMZN-0403,Grace Tanaka,Amazon,AMZN,Engineering,Principal,92.7,650800,3.0
+AMZN-0404,Wei Anderson,Amazon,AMZN,Sales & GTM,Staff,88.1,117100,4.8
+AMZN-0405,Ahmed Wilson,Amazon,AMZN,Design,Senior,97.6,198200,2.4
+AMZN-0406,Thomas Brown,Amazon,AMZN,Engineering,Principal,89.2,1039500,6.3
+AMZN-0407,Ahmed Johnson,Amazon,AMZN,Engineering,VP,77.4,759100,5.4
+AMZN-0408,Michael Okafor,Amazon,AMZN,Research & AI,Senior,79.1,962100,3.4
+AMZN-0409,Sofia Martinez,Amazon,AMZN,Engineering,Staff,71.8,448900,2.2
+AMZN-0410,Hannah Murphy,Amazon,AMZN,Research & AI,Principal,82.9,552700,3.7
+AMZN-0411,Ahmed Cohen,Amazon,AMZN,Design,Senior Director,81.7,619800,5.6
+AMZN-0412,Linda Cohen,Amazon,AMZN,Design,VP,66.5,687400,7.4
+AMZN-0413,Yuki Hassan,Amazon,AMZN,Engineering,Senior,57.5,88500,5.1
+AMZN-0414,Kevin Anderson,Amazon,AMZN,Research & AI,Director,35.3,280600,12.1
+AMZN-0415,Aisha Cohen,Amazon,AMZN,Sales & GTM,Senior,73.5,398800,5.9
+AMZN-0416,Samuel Anderson,Amazon,AMZN,Engineering,Principal,55.1,143800,5.0
+AMZN-0417,Kevin Nguyen,Amazon,AMZN,Product,VP,87.3,2300200,7.4
+AMZN-0418,Maria Cohen,Amazon,AMZN,Finance,Staff,75.6,221300,2.4
+AMZN-0419,Maria Petrov,Amazon,AMZN,Sales & GTM,SVP,83.4,1121200,12.4
+AMZN-0420,Wei Park,Amazon,AMZN,Sales & GTM,Senior,68.0,373300,2.5
+AMZN-0421,Priya Brown,Amazon,AMZN,Engineering,Senior Director,62.0,338900,5.1
+AMZN-0422,Emily Nguyen,Amazon,AMZN,Product,Senior,60.7,463300,3.4
+AMZN-0423,James Nguyen,Amazon,AMZN,Sales & GTM,VP,85.1,1303200,18.6
+AMZN-0424,Hannah Garcia,Amazon,AMZN,Research & AI,Senior Director,67.8,544600,8.6
+AMZN-0425,Yuki Anderson,Amazon,AMZN,Product,Staff,67.5,181100,4.2
+AMZN-0426,Thomas Garcia,Amazon,AMZN,Engineering,Staff,79.2,918600,4.1
+AMZN-0427,Grace Lee,Amazon,AMZN,Engineering,Senior,85.4,676800,2.2
+AMZN-0428,Maria Lee,Amazon,AMZN,Product,Senior Director,81.3,587200,8.0
+AMZN-0429,Priya Khan,Amazon,AMZN,Operations,Staff,72.5,134900,5.0
+AMZN-0430,Chen Khan,Amazon,AMZN,Research & AI,Senior,58.5,128600,4.8
+AMZN-0431,David Hassan,Amazon,AMZN,Research & AI,Senior,68.4,135200,3.6
+AMZN-0432,Grace Park,Amazon,AMZN,Engineering,Staff,82.6,501700,2.1
+AMZN-0433,Elena Tanaka,Amazon,AMZN,Engineering,Senior,58.1,155500,4.1
+AMZN-0434,Daniel Khan,Amazon,AMZN,Sales & GTM,Principal,81.0,1283400,11.5
+AMZN-0435,Thomas Garcia,Amazon,AMZN,Legal & Policy,Senior Director,79.0,1549100,4.8
+AMZN-0436,Mary Lopez,Amazon,AMZN,Research & AI,Staff,74.8,196600,2.3
+AMZN-0437,Elena Lopez,Amazon,AMZN,Research & AI,Senior,82.3,96400,4.4
+AMZN-0438,Maria Cohen,Amazon,AMZN,Product,Principal,73.5,367700,8.1
+AMZN-0439,Wei Park,Amazon,AMZN,Engineering,Staff,93.4,262700,3.0
+AMZN-0440,John Lopez,Amazon,AMZN,Sales & GTM,Staff,54.6,304600,5.6
+AMZN-0441,Sofia Chen,Amazon,AMZN,People/HR,Principal,91.1,554700,2.5
+AMZN-0442,Yuki Wilson,Amazon,AMZN,Marketing,Principal,86.5,620000,8.5
+AMZN-0443,Wei Khan,Amazon,AMZN,Product,Senior Director,77.8,981100,13.6
+AMZN-0444,Kevin Rossi,Amazon,AMZN,Engineering,Principal,73.8,352900,3.2
+AMZN-0445,Hiroshi Patel,Amazon,AMZN,Legal & Policy,Principal,76.5,496600,9.8
+AMZN-0446,Thomas Garcia,Amazon,AMZN,Finance,Principal,96.5,299900,3.4
+AMZN-0447,Olivia Park,Amazon,AMZN,Design,Staff,93.9,568700,9.7
+AMZN-0448,Hiroshi Kim,Amazon,AMZN,Design,Senior,100.0,150800,7.7
+AMZN-0449,Elena Ali,Amazon,AMZN,Marketing,Senior,81.1,455300,6.0
+AMZN-0450,Yuki Wang,Amazon,AMZN,Product,Senior,65.3,522400,6.3
+AMZN-0451,Yuki Hassan,Amazon,AMZN,Product,Senior,72.1,174100,2.0
+AMZN-0452,Daniel Schmidt,Amazon,AMZN,Engineering,Staff,77.8,219200,4.3
+AMZN-0453,Emily Murphy,Amazon,AMZN,Engineering,Senior Director,81.7,1133500,13.6
+AMZN-0454,Samuel Patel,Amazon,AMZN,Engineering,Senior Director,100.0,602700,11.1
+AMZN-0455,Arjun Khan,Amazon,AMZN,Engineering,Senior,83.8,168600,2.6
+AMZN-0456,Mary Yamamoto,Amazon,AMZN,Engineering,Staff,79.3,193300,10.4
+AMZN-0457,Arjun Murphy,Amazon,AMZN,Legal & Policy,Senior,67.0,283900,5.7
+AMZN-0458,John Park,Amazon,AMZN,Engineering,Senior,78.4,115800,4.7
+AMZN-0459,John Schmidt,Amazon,AMZN,Engineering,Senior,82.4,145300,6.5
+AMZN-0460,Daniel Nguyen,Amazon,AMZN,Research & AI,Senior,81.4,198000,1.4
+AMZN-0461,Fatima Okafor,Amazon,AMZN,People/HR,VP,86.6,1101000,9.5
+AMZN-0462,Hiroshi Davis,Amazon,AMZN,Legal & Policy,Principal,92.0,534900,3.2
+AMZN-0463,Hannah Wilson,Amazon,AMZN,Operations,Senior,73.6,218900,3.1
+AMZN-0464,Elena Lopez,Amazon,AMZN,Research & AI,Staff,68.6,214500,3.5
+AMZN-0465,Raj Wang,Amazon,AMZN,Operations,Principal,70.9,180300,4.1
+AMZN-0466,David Petrov,Amazon,AMZN,Engineering,Senior,72.2,101200,2.7
+AMZN-0467,Elena Garcia,Amazon,AMZN,Engineering,Staff,78.6,116200,10.4
+AMZN-0468,Maria Davis,Amazon,AMZN,Engineering,Senior,87.4,278900,2.4
+AMZN-0469,James Nguyen,Amazon,AMZN,Sales & GTM,Staff,73.9,414500,1.3
+AMZN-0470,Mary Petrov,Amazon,AMZN,Engineering,VP,72.7,1078300,5.0
+AMZN-0471,Raj Reyes,Amazon,AMZN,Engineering,Senior,73.5,232200,6.9
+AMZN-0472,Fatima Brown,Amazon,AMZN,Research & AI,Staff,67.4,376800,5.0
+AMZN-0473,Olivia Petrov,Amazon,AMZN,Engineering,Senior,83.5,97600,6.6
+AMZN-0474,Samuel Smith,Amazon,AMZN,Engineering,Senior,78.2,320000,8.0
+AMZN-0475,Emily Brown,Amazon,AMZN,Research & AI,Principal,84.7,680500,14.1
+AMZN-0476,Mary Anderson,Amazon,AMZN,Design,VP,95.8,626400,6.1
+AMZN-0477,Raj Schmidt,Amazon,AMZN,Research & AI,Principal,75.3,308000,8.2
+AMZN-0478,Hannah Petrov,Amazon,AMZN,Legal & Policy,Staff,62.4,272300,5.1
+AMZN-0479,Raj Chen,Amazon,AMZN,Engineering,Director,86.7,950700,8.3
+AMZN-0480,Michael Anderson,Amazon,AMZN,People/HR,Senior Director,76.5,395800,9.0
+AMZN-0481,Wei Davis,Amazon,AMZN,Operations,Principal,80.0,327800,9.1
+AMZN-0482,Wei Smith,Amazon,AMZN,Product,Staff,83.7,480200,7.5
+AMZN-0483,Michael Silva,Amazon,AMZN,People/HR,Principal,82.4,662400,6.9
+AMZN-0484,Chen Lopez,Amazon,AMZN,Engineering,Director,72.5,794500,8.9
+AMZN-0485,Daniel Singh,Amazon,AMZN,Finance,Senior,76.5,484600,6.8
+AMZN-0486,Arjun Cohen,Amazon,AMZN,Engineering,Staff,49.3,490200,2.2
+AMZN-0487,Hannah Park,Amazon,AMZN,Research & AI,Senior,73.5,258300,2.3
+AMZN-0488,Maria Lopez,Amazon,AMZN,Sales & GTM,Senior,81.1,142200,5.6
+AMZN-0489,Daniel Anderson,Amazon,AMZN,Engineering,Staff,64.9,139300,4.0
+AMZN-0490,Linda Murphy,Amazon,AMZN,Engineering,VP,85.4,408200,7.4
+AMZN-0491,Chen Schmidt,Amazon,AMZN,Engineering,Senior,80.3,270600,2.1
+AMZN-0492,Hiroshi Nguyen,Amazon,AMZN,Finance,VP,87.1,488200,6.1
+AMZN-0493,Thomas Tanaka,Amazon,AMZN,Engineering,Principal,94.6,723300,2.3
+AMZN-0494,Elena Chen,Amazon,AMZN,Finance,Senior Director,89.9,1369700,12.3
+AMZN-0495,Hannah Davis,Amazon,AMZN,People/HR,Staff,71.5,218000,6.4
+AMZN-0496,Zoe Brown,Amazon,AMZN,Engineering,Senior,77.7,100800,1.0
+AMZN-0497,John Tanaka,Amazon,AMZN,Product,Principal,82.0,536500,2.6
+AMZN-0498,Arjun Tanaka,Amazon,AMZN,Product,Principal,76.5,316300,11.6
+AMZN-0499,Linda Lee,Amazon,AMZN,Sales & GTM,Senior,62.1,166000,1.0
+AMZN-0500,Fatima Cohen,Amazon,AMZN,Marketing,Senior,71.2,177600,12.9
+AMZN-0501,Raj Martinez,Amazon,AMZN,Research & AI,Senior Director,82.7,648400,9.1
+AMZN-0502,Ahmed Yamamoto,Amazon,AMZN,Legal & Policy,Staff,62.3,218100,5.8
+AMZN-0503,Linda Brown,Amazon,AMZN,Engineering,Senior,69.7,95400,9.0
+AMZN-0504,Yuki Patel,Amazon,AMZN,Operations,Staff,84.0,405500,3.2
+AMZN-0505,Hannah Brown,Amazon,AMZN,Research & AI,Staff,74.9,242000,4.0
+AMZN-0506,Samuel Wang,Amazon,AMZN,Sales & GTM,Principal,90.8,917600,4.1
+AMZN-0507,Samuel Martinez,Amazon,AMZN,Engineering,Staff,67.7,422900,12.0
+AMZN-0508,Yuki Davis,Amazon,AMZN,Marketing,SVP,69.3,407500,9.5
+AMZN-0509,Raj Johnson,Amazon,AMZN,Engineering,Staff,71.9,246200,2.9
+AMZN-0510,Yuki Davis,Amazon,AMZN,Product,Senior,69.7,96000,8.6
+AMZN-0511,Maria Tanaka,Amazon,AMZN,Engineering,Senior,63.1,113600,1.2
+AMZN-0512,Fatima Reyes,Amazon,AMZN,Sales & GTM,Director,95.4,259200,3.7
+AMZN-0513,Grace Hassan,Amazon,AMZN,Engineering,Staff,72.0,131000,2.7
+AMZN-0514,Priya Ali,Amazon,AMZN,Research & AI,Senior,76.9,202700,3.1
+AMZN-0515,Aisha Khan,Amazon,AMZN,Legal & Policy,Director,65.5,164200,7.0
+AMZN-0516,Zoe Smith,Amazon,AMZN,Sales & GTM,Staff,66.5,297900,2.5
+AMZN-0517,Fatima Davis,Amazon,AMZN,Marketing,Principal,75.3,347000,5.5
+AMZN-0518,Olivia Patel,Amazon,AMZN,Operations,Staff,70.7,166900,8.2
+AMZN-0519,Carlos Ali,Amazon,AMZN,Engineering,Senior,81.1,290300,1.7
+AMZN-0520,Olivia Rossi,Amazon,AMZN,Research & AI,Senior Director,90.3,840100,6.8
+AMZN-0521,Carlos Patel,Amazon,AMZN,Engineering,Senior,89.7,167400,3.7
+AMZN-0522,Chen Park,Amazon,AMZN,Marketing,Principal,48.0,522500,2.9
+AMZN-0523,Raj Wang,Amazon,AMZN,Engineering,Staff,82.4,240500,8.4
+AMZN-0524,Fatima Park,Amazon,AMZN,People/HR,Principal,53.2,403200,8.5
+AMZN-0525,Samuel Yamamoto,Amazon,AMZN,Engineering,Staff,72.5,710000,15.3
+AMZN-0526,Linda Nguyen,Amazon,AMZN,Engineering,Director,99.4,479100,3.7
+AMZN-0527,Ahmed Yamamoto,Amazon,AMZN,Research & AI,Principal,62.9,259100,5.5
+AMZN-0528,Daniel Lee,Amazon,AMZN,Operations,Principal,92.9,486700,2.9
+AMZN-0529,Grace Wang,Amazon,AMZN,Engineering,Staff,65.9,204700,5.6
+AMZN-0530,James Singh,Amazon,AMZN,Research & AI,Staff,70.3,300600,7.4
+AMZN-0531,Arjun Lopez,Amazon,AMZN,Operations,Principal,89.2,1102700,8.6
+AMZN-0532,David Yamamoto,Amazon,AMZN,Product,Director,100.0,667600,10.0
+AMZN-0533,Kevin Cohen,Amazon,AMZN,Engineering,Senior,89.1,271500,1.7
+AMZN-0534,Thomas Yamamoto,Amazon,AMZN,Operations,Director,79.2,416400,12.2
+AMZN-0535,John Davis,Amazon,AMZN,Product,Staff,71.3,160700,3.8
+AMZN-0536,Samuel Wang,Amazon,AMZN,Operations,Principal,81.4,287600,6.5
+AMZN-0537,Emily Anderson,Amazon,AMZN,Sales & GTM,Principal,75.2,388900,7.2
+AMZN-0538,Fatima Silva,Amazon,AMZN,Engineering,Staff,72.3,188500,7.4
+AMZN-0539,Michael Schmidt,Amazon,AMZN,Finance,VP,86.4,735600,5.3
+AMZN-0540,Linda Lee,Amazon,AMZN,Product,Director,76.4,169800,6.3
+AMZN-0541,Grace Silva,Amazon,AMZN,Engineering,Senior,94.1,168200,3.2
+AMZN-0542,Samuel Smith,Amazon,AMZN,Research & AI,Principal,71.6,449100,3.4
+AMZN-0543,James Park,Amazon,AMZN,Sales & GTM,Staff,83.8,265100,8.8
+AMZN-0544,Hannah Brown,Amazon,AMZN,Engineering,Principal,95.8,598400,4.7
+AMZN-0545,Mary Rossi,Amazon,AMZN,Legal & Policy,Principal,70.7,342300,10.6
+AMZN-0546,Maria Davis,Amazon,AMZN,Legal & Policy,Staff,82.7,435900,4.7
+AMZN-0547,Nina Smith,Amazon,AMZN,Engineering,Director,77.0,454600,11.1
+AMZN-0548,Daniel Cohen,Amazon,AMZN,Design,Principal,87.0,736600,7.8
+AMZN-0549,Fatima Silva,Amazon,AMZN,Operations,Staff,86.6,239100,2.2
+AMZN-0550,Maria Davis,Amazon,AMZN,Research & AI,Principal,90.6,286200,11.3
+AMZN-0551,Yuki Schmidt,Amazon,AMZN,Research & AI,Staff,66.1,367300,2.5
+AMZN-0552,Chen Nguyen,Amazon,AMZN,Sales & GTM,Senior Director,68.6,1043800,9.7
+AMZN-0553,Thomas Davis,Amazon,AMZN,Legal & Policy,Principal,60.4,280000,4.0
+AMZN-0554,Ahmed Smith,Amazon,AMZN,Research & AI,Staff,80.4,145500,5.1
+AMZN-0555,Hiroshi Anderson,Amazon,AMZN,Engineering,Senior,78.8,128400,3.4
+AMZN-0556,Sofia Nguyen,Amazon,AMZN,Product,Staff,92.0,664200,2.7
+AMZN-0557,Hannah Schmidt,Amazon,AMZN,Sales & GTM,SVP,76.8,1251800,8.3
+AMZN-0558,Olivia Brown,Amazon,AMZN,Engineering,Senior,74.1,473900,1.1
+AMZN-0559,Samuel Ali,Amazon,AMZN,Engineering,Staff,92.6,511300,5.1
+AMZN-0560,Michael Khan,Amazon,AMZN,Design,Senior Director,68.4,263800,4.3
+AMZN-0561,Michael Silva,Amazon,AMZN,Finance,Principal,73.8,1368200,3.8
+AMZN-0562,Hiroshi Wilson,Amazon,AMZN,Finance,Senior,72.8,270000,2.5
+AMZN-0563,Olivia Johnson,Amazon,AMZN,Engineering,VP,76.6,298400,7.8
+AMZN-0564,Grace Lopez,Amazon,AMZN,Sales & GTM,Principal,79.8,418900,15.4
+AMZN-0565,Sofia Cohen,Amazon,AMZN,Research & AI,Director,83.0,527000,4.2
+AMZN-0566,Yuki Davis,Amazon,AMZN,Research & AI,Senior,89.7,288100,0.7
+AMZN-0567,Daniel Wilson,Amazon,AMZN,Engineering,Staff,70.5,131400,8.3
+AMZN-0568,Sofia Singh,Amazon,AMZN,People/HR,Senior,70.7,493000,6.6
+AMZN-0569,Ahmed Garcia,Amazon,AMZN,Engineering,Staff,81.8,139100,2.9
+AMZN-0570,Raj Singh,Amazon,AMZN,Design,Senior,78.6,201200,5.6
+AMZN-0571,Mary Brown,Amazon,AMZN,People/HR,Senior Director,85.1,2160900,6.6
+AMZN-0572,Zoe Petrov,Amazon,AMZN,Legal & Policy,Staff,72.8,352300,8.7
+AMZN-0573,Fatima Johnson,Amazon,AMZN,Engineering,Staff,78.8,406900,4.2
+AMZN-0574,Mary Chen,Amazon,AMZN,People/HR,VP,72.9,511100,12.0
+AMZN-0575,Hannah Tanaka,Amazon,AMZN,Engineering,Principal,56.6,352300,2.1
+AMZN-0576,Grace Kim,Amazon,AMZN,Engineering,Senior,73.9,237200,5.3
+AMZN-0577,Sofia Silva,Amazon,AMZN,Engineering,Director,82.2,449700,3.6
+AMZN-0578,Priya Hassan,Amazon,AMZN,Marketing,Staff,65.5,358500,7.6
+AMZN-0579,Kevin Rossi,Amazon,AMZN,Sales & GTM,SVP,59.2,1818000,9.3
+AMZN-0580,Linda Park,Amazon,AMZN,Operations,Senior,86.8,353500,9.5
+AMZN-0581,Hannah Anderson,Amazon,AMZN,Engineering,Staff,86.7,593800,6.1
+AMZN-0582,Olivia Okafor,Amazon,AMZN,Product,Senior,74.6,512300,8.1
+AMZN-0583,James Davis,Amazon,AMZN,Operations,Director,74.8,1074700,9.1
+AMZN-0584,John Nguyen,Amazon,AMZN,Engineering,Staff,69.2,195200,5.6
+AMZN-0585,Wei Garcia,Amazon,AMZN,Research & AI,Senior,71.4,582200,4.5
+AMZN-0586,Arjun Reyes,Amazon,AMZN,Engineering,Staff,61.7,190000,3.6
+AMZN-0587,Michael Lopez,Amazon,AMZN,Research & AI,Staff,70.5,288100,6.3
+AMZN-0588,John Chen,Amazon,AMZN,Engineering,Senior,60.0,92800,9.1
+AMZN-0589,Sofia Hassan,Amazon,AMZN,Product,Staff,72.1,255600,8.4
+AMZN-0590,Linda Brown,Amazon,AMZN,Research & AI,Senior,54.7,179000,2.5
+AMZN-0591,Elena Anderson,Amazon,AMZN,Product,Senior,71.4,287700,5.8
+AMZN-0592,Michael Wang,Amazon,AMZN,Research & AI,Staff,92.5,271100,12.1
+AMZN-0593,Raj Singh,Amazon,AMZN,Engineering,Staff,61.1,322000,5.0
+AMZN-0594,Wei Garcia,Amazon,AMZN,Product,Senior,86.4,178300,10.3
+AMZN-0595,Raj Lee,Amazon,AMZN,Engineering,Staff,67.3,451000,13.2
+AMZN-0596,Grace Tanaka,Amazon,AMZN,Design,Senior,75.9,135000,1.1
+AMZN-0597,Yuki Wang,Amazon,AMZN,Engineering,Principal,73.7,486500,2.9
+AMZN-0598,Zoe Wang,Amazon,AMZN,Engineering,Staff,92.1,334500,2.9
+AMZN-0599,Wei Silva,Amazon,AMZN,Engineering,Senior,79.3,170600,7.3
+AMZN-0600,Michael Wang,Amazon,AMZN,People/HR,Staff,85.6,500300,3.7
+AMZN-0601,Hiroshi Lopez,Amazon,AMZN,Marketing,Senior,79.5,314300,4.9
+AMZN-0602,David Reyes,Amazon,AMZN,Legal & Policy,Senior,75.4,266700,3.1
+AMZN-0603,Thomas Okafor,Amazon,AMZN,Finance,Staff,84.1,549900,3.0
+AMZN-0604,David Schmidt,Amazon,AMZN,Sales & GTM,Staff,63.9,118500,1.8
+AMZN-0605,Priya Ali,Amazon,AMZN,Sales & GTM,SVP,82.1,1844400,18.6
+AMZN-0606,Hiroshi Khan,Amazon,AMZN,Engineering,Staff,73.5,351900,2.5
+AMZN-0607,Chen Lopez,Amazon,AMZN,Legal & Policy,Principal,71.7,288500,6.1
+AMZN-0608,Zoe Rossi,Amazon,AMZN,Engineering,Senior,81.7,371900,4.5
+AMZN-0609,Wei Reyes,Amazon,AMZN,Product,Senior,64.3,131900,5.0
+AMZN-0610,Fatima Tanaka,Amazon,AMZN,Product,Staff,87.7,109200,4.4
+AMZN-0611,Aisha Wilson,Amazon,AMZN,Engineering,Senior,65.4,289100,7.9
+AMZN-0612,David Wilson,Amazon,AMZN,Engineering,Staff,61.3,135900,9.3
+AMZN-0613,Kevin Wang,Amazon,AMZN,Sales & GTM,Senior,62.6,391300,6.3
+AMZN-0614,Wei Tanaka,Amazon,AMZN,Legal & Policy,Senior,77.5,59700,4.8
+AMZN-0615,Aisha Lopez,Amazon,AMZN,Product,SVP,89.5,1133300,10.6
+AMZN-0616,Maria Silva,Amazon,AMZN,Engineering,Staff,94.0,374100,3.6
+AMZN-0617,Wei Silva,Amazon,AMZN,Research & AI,Staff,82.7,569000,5.3
+AMZN-0618,Priya Reyes,Amazon,AMZN,Engineering,Staff,85.4,491200,2.3
+AMZN-0619,Grace Brown,Amazon,AMZN,Engineering,Staff,61.3,402300,9.0
+AMZN-0620,Hiroshi Chen,Amazon,AMZN,Engineering,Principal,90.3,220200,3.7
+AMZN-0621,Kevin Garcia,Amazon,AMZN,Finance,Senior,51.3,161200,3.2
+AMZN-0622,Raj Wang,Amazon,AMZN,Operations,Principal,88.1,284300,5.4
+AMZN-0623,Chen Reyes,Amazon,AMZN,Engineering,Senior Director,58.3,435700,16.9
+AMZN-0624,Elena Lopez,Amazon,AMZN,Legal & Policy,Staff,76.7,969800,1.7
+AMZN-0625,Thomas Brown,Amazon,AMZN,Operations,Director,74.6,1197600,9.0
+AMZN-0626,Elena Cohen,Amazon,AMZN,Engineering,Senior Director,75.5,677700,9.5
+AMZN-0627,Ahmed Anderson,Amazon,AMZN,Engineering,Staff,72.0,781800,5.0
+AMZN-0628,Carlos Wilson,Amazon,AMZN,Product,Staff,100.0,1028900,3.4
+AMZN-0629,Linda Park,Amazon,AMZN,Design,Staff,84.7,419800,11.3
+AMZN-0630,Zoe Smith,Amazon,AMZN,Sales & GTM,Principal,69.5,756400,5.8
+AMZN-0631,James Petrov,Amazon,AMZN,Operations,Principal,89.0,378400,4.6
+AMZN-0632,Emily Khan,Amazon,AMZN,Engineering,Director,60.2,507500,3.3
+AMZN-0633,Raj Cohen,Amazon,AMZN,Product,Senior,80.8,152900,7.6
+AMZN-0634,Mary Brown,Amazon,AMZN,Sales & GTM,Staff,90.9,157400,13.7
+AMZN-0635,Linda Patel,Amazon,AMZN,Engineering,Senior,75.3,208700,3.6
+AMZN-0636,Olivia Davis,Amazon,AMZN,Finance,Senior Director,65.7,373900,3.8
+AMZN-0637,Nina Wang,Amazon,AMZN,Engineering,Director,80.8,1165700,5.7
+AMZN-0638,Samuel Chen,Amazon,AMZN,Design,Senior,82.5,136100,13.6
+AMZN-0639,Ahmed Garcia,Amazon,AMZN,Engineering,Principal,84.8,423900,5.4
+AMZN-0640,Grace Johnson,Amazon,AMZN,Product,Director,82.5,305300,3.7
+AMZN-0641,Hiroshi Yamamoto,Amazon,AMZN,Legal & Policy,Principal,76.7,393200,4.5
+AMZN-0642,Hiroshi Hassan,Amazon,AMZN,Marketing,Director,63.0,408900,3.4
+AMZN-0643,Yuki Anderson,Amazon,AMZN,Product,Principal,57.9,496200,3.6
+AMZN-0644,Wei Ali,Amazon,AMZN,Product,SVP,76.0,366100,11.1
+AMZN-0645,Hiroshi Johnson,Amazon,AMZN,Engineering,Director,65.7,252200,5.7
+AMZN-0646,Yuki Kim,Amazon,AMZN,Product,Staff,75.3,620000,13.0
+AMZN-0647,Maria Cohen,Amazon,AMZN,Engineering,VP,70.3,492400,9.2
+AMZN-0648,Chen Kim,Amazon,AMZN,Product,Senior,51.9,297000,2.1
+AMZN-0649,Linda Cohen,Amazon,AMZN,Operations,Senior,73.3,324600,3.4
+AMZN-0650,Grace Yamamoto,Amazon,AMZN,Engineering,C-Suite,85.2,2676400,13.3
+AMZN-0651,Emily Kim,Amazon,AMZN,Engineering,Staff,79.4,91100,9.7
+AMZN-0652,Ahmed Johnson,Amazon,AMZN,Engineering,Staff,62.4,1024600,3.3
+AMZN-0653,Sofia Singh,Amazon,AMZN,Marketing,Staff,85.3,407700,7.3
+AMZN-0654,Arjun Murphy,Amazon,AMZN,Engineering,Senior Director,71.2,703700,12.4
+AMZN-0655,Thomas Okafor,Amazon,AMZN,Engineering,Senior,83.8,189400,6.1
+AMZN-0656,Hannah Martinez,Amazon,AMZN,Engineering,Senior,69.3,245200,7.2
+AMZN-0657,Linda Cohen,Amazon,AMZN,Sales & GTM,Principal,83.5,184500,4.8
+AMZN-0658,John Hassan,Amazon,AMZN,Operations,Senior,77.0,111600,5.3
+AMZN-0659,Michael Rossi,Amazon,AMZN,Sales & GTM,Director,57.1,1217600,8.9
+AMZN-0660,Samuel Yamamoto,Amazon,AMZN,Engineering,Staff,73.2,234600,4.5
+AMZN-0661,David Petrov,Amazon,AMZN,Design,Senior,67.3,244700,1.0
+AMZN-0662,Priya Anderson,Amazon,AMZN,Research & AI,Senior,51.6,129900,4.9
+AMZN-0663,Grace Davis,Amazon,AMZN,Product,Senior,70.0,67100,1.3
+AMZN-0664,Elena Anderson,Amazon,AMZN,Research & AI,SVP,72.0,676000,20.1
+AMZN-0665,Aisha Wang,Amazon,AMZN,Engineering,Senior,80.9,537600,11.1
+AMZN-0666,Aisha Nguyen,Amazon,AMZN,Research & AI,Principal,73.9,460300,3.7
+AMZN-0667,Grace Okafor,Amazon,AMZN,Engineering,Staff,83.9,478400,2.7
+AMZN-0668,James Yamamoto,Amazon,AMZN,Engineering,Staff,94.8,181000,6.9
+AMZN-0669,Maria Smith,Amazon,AMZN,Research & AI,Senior Director,85.0,710800,6.4
+AMZN-0670,David Cohen,Amazon,AMZN,Finance,Senior,86.6,585500,4.5
+AMZN-0671,Carlos Brown,Amazon,AMZN,Design,Staff,71.4,682300,8.8
+AMZN-0672,John Chen,Amazon,AMZN,Research & AI,Senior,62.1,311000,1.2
+AMZN-0673,Wei Lopez,Amazon,AMZN,Engineering,Senior,73.7,314100,11.4
+AMZN-0674,Daniel Nguyen,Amazon,AMZN,Engineering,Staff,69.5,391200,13.7
+AMZN-0675,Olivia Khan,Amazon,AMZN,Marketing,Principal,76.1,153600,8.0
+AMZN-0676,Linda Silva,Amazon,AMZN,Design,Senior,72.3,225400,3.5
+AMZN-0677,Thomas Yamamoto,Amazon,AMZN,Operations,Director,63.6,664300,3.3
+AMZN-0678,Maria Wilson,Amazon,AMZN,Research & AI,Senior Director,88.6,1165600,4.6
+AMZN-0679,Kevin Cohen,Amazon,AMZN,Engineering,Senior Director,79.3,498000,6.0
+AMZN-0680,Kevin Lopez,Amazon,AMZN,Engineering,Staff,97.0,351100,12.2
+AMZN-0681,Fatima Hassan,Amazon,AMZN,Legal & Policy,VP,100.0,475500,6.7
+AMZN-0682,Hannah Yamamoto,Amazon,AMZN,Finance,Staff,75.5,212000,3.8
+AMZN-0683,Emily Yamamoto,Amazon,AMZN,Research & AI,Principal,60.0,399300,10.0
+AMZN-0684,Grace Tanaka,Amazon,AMZN,Product,SVP,84.3,1910200,10.7
+AMZN-0685,Linda Murphy,Amazon,AMZN,Finance,Director,80.3,358900,5.1
+AMZN-0686,Aisha Yamamoto,Amazon,AMZN,Product,Principal,71.2,284600,6.9
+AMZN-0687,Emily Park,Amazon,AMZN,Legal & Policy,Senior Director,58.6,468800,18.4
+AMZN-0688,Linda Kim,Amazon,AMZN,Product,Staff,82.4,314200,6.7
+AMZN-0689,Michael Smith,Amazon,AMZN,Operations,Staff,80.9,853800,3.5
+AMZN-0690,Yuki Okafor,Amazon,AMZN,Engineering,Staff,64.9,295600,14.9
+AMZN-0691,Sofia Davis,Amazon,AMZN,Product,Senior,73.4,268900,3.6
+AMZN-0692,Hiroshi Nguyen,Amazon,AMZN,Engineering,Senior,70.2,352600,4.1
+AMZN-0693,Chen Singh,Amazon,AMZN,Research & AI,Staff,67.0,164400,3.3
+AMZN-0694,Olivia Yamamoto,Amazon,AMZN,Product,Principal,69.3,370500,7.6
+AMZN-0695,Raj Park,Amazon,AMZN,Engineering,Senior,73.6,77100,5.5
+AMZN-0696,Olivia Yamamoto,Amazon,AMZN,Operations,Senior,69.7,59400,4.1
+AMZN-0697,Ahmed Singh,Amazon,AMZN,Engineering,Director,64.3,501600,4.1
+AMZN-0698,Michael Park,Amazon,AMZN,Operations,Senior Director,70.0,692800,17.1
+AMZN-0699,Raj Rossi,Amazon,AMZN,Product,Director,80.9,501500,7.3
+AMZN-0700,Grace Reyes,Amazon,AMZN,Engineering,Senior,67.6,385300,5.3
+AMZN-0701,Yuki Yamamoto,Amazon,AMZN,Research & AI,Staff,78.6,356000,1.2
+AMZN-0702,John Cohen,Amazon,AMZN,Engineering,Principal,85.2,290000,3.4
+AMZN-0703,Linda Lopez,Amazon,AMZN,Engineering,C-Suite,60.0,1166000,9.4
+AMZN-0704,Yuki Kim,Amazon,AMZN,Product,Senior,75.7,221900,5.5
+AMZN-0705,Michael Chen,Amazon,AMZN,Legal & Policy,Senior Director,79.2,993400,4.1
+AMZN-0706,Grace Ali,Amazon,AMZN,Research & AI,Senior,86.9,71200,5.9
+AMZN-0707,Thomas Martinez,Amazon,AMZN,Product,Principal,76.2,316500,6.8
+AMZN-0708,Kevin Chen,Amazon,AMZN,Engineering,Senior Director,68.5,173100,11.4
+AMZN-0709,Maria Chen,Amazon,AMZN,Engineering,Staff,74.4,306300,1.7
+AMZN-0710,Hannah Lopez,Amazon,AMZN,Sales & GTM,Staff,74.8,484300,8.3
+AMZN-0711,John Johnson,Amazon,AMZN,Product,Senior Director,87.7,1131900,15.6
+AMZN-0712,Maria Okafor,Amazon,AMZN,Research & AI,Staff,97.4,356300,1.8
+AMZN-0713,Carlos Rossi,Amazon,AMZN,Engineering,Senior,82.6,183700,7.7
+AMZN-0714,Carlos Okafor,Amazon,AMZN,Product,Senior Director,73.0,399200,9.6
+AMZN-0715,John Park,Amazon,AMZN,Engineering,Senior,58.7,183400,5.7
+AMZN-0716,Chen Hassan,Amazon,AMZN,Engineering,VP,79.4,511400,8.9
+AMZN-0717,Chen Cohen,Amazon,AMZN,Marketing,Principal,84.8,386400,4.2
+AMZN-0718,Hiroshi Murphy,Amazon,AMZN,Legal & Policy,Senior,70.8,200500,4.1
+AMZN-0719,Samuel Lee,Amazon,AMZN,Engineering,Director,75.8,484200,3.9
+AMZN-0720,Kevin Murphy,Amazon,AMZN,Sales & GTM,C-Suite,76.3,1883300,11.4
+AMZN-0721,Thomas Yamamoto,Amazon,AMZN,Engineering,Staff,86.4,508100,13.0
+AMZN-0722,Daniel Martinez,Amazon,AMZN,Engineering,Senior Director,63.7,466300,8.1
+AMZN-0723,Linda Wang,Amazon,AMZN,Engineering,Principal,65.8,144800,6.2
+AMZN-0724,Emily Kim,Amazon,AMZN,Engineering,VP,89.4,2807100,9.2
+AMZN-0725,Kevin Wang,Amazon,AMZN,Operations,Senior Director,77.2,946200,13.1
+AMZN-0726,Samuel Petrov,Amazon,AMZN,Sales & GTM,Senior,78.9,249500,15.4
+AMZN-0727,Fatima Ali,Amazon,AMZN,Sales & GTM,Director,85.3,285200,12.0
+AMZN-0728,Michael Reyes,Amazon,AMZN,Engineering,Principal,68.0,940400,5.9
+AMZN-0729,Daniel Smith,Amazon,AMZN,Operations,Principal,93.4,1115300,4.3
+AMZN-0730,Yuki Tanaka,Amazon,AMZN,Engineering,Senior,78.5,162300,2.3
+AMZN-0731,Daniel Singh,Amazon,AMZN,Sales & GTM,Staff,73.9,305400,1.6
+AMZN-0732,Maria Yamamoto,Amazon,AMZN,Research & AI,Director,89.1,672000,6.3
+AMZN-0733,Hannah Johnson,Amazon,AMZN,Engineering,Senior,73.0,266500,6.2
+AMZN-0734,Emily Petrov,Amazon,AMZN,Engineering,Principal,61.8,290400,11.1
+AMZN-0735,Zoe Kim,Amazon,AMZN,Operations,Staff,100.0,191700,3.7
+AMZN-0736,Zoe Smith,Amazon,AMZN,Product,Senior Director,69.3,244800,6.4
+AMZN-0737,David Chen,Amazon,AMZN,Product,Staff,55.0,164100,4.6
+AMZN-0738,Mary Kim,Amazon,AMZN,Engineering,Director,72.4,370300,10.7
+AMZN-0739,Mary Garcia,Amazon,AMZN,Engineering,Principal,74.0,855900,4.5
+AMZN-0740,Ahmed Tanaka,Amazon,AMZN,Legal & Policy,Director,83.4,1586200,8.4
+AMZN-0741,Olivia Okafor,Amazon,AMZN,Sales & GTM,Principal,79.9,201900,4.7
+AMZN-0742,Hannah Tanaka,Amazon,AMZN,Finance,Principal,78.8,277000,13.2
+AMZN-0743,Chen Patel,Amazon,AMZN,Legal & Policy,Senior,85.6,407500,2.8
+AMZN-0744,Kevin Johnson,Amazon,AMZN,Engineering,Staff,73.3,423100,13.8
+AMZN-0745,Nina Schmidt,Amazon,AMZN,Engineering,Principal,82.2,132200,5.6
+AMZN-0746,Carlos Martinez,Amazon,AMZN,Product,Staff,85.6,170900,8.4
+AMZN-0747,Aisha Silva,Amazon,AMZN,People/HR,Senior,76.1,101300,4.3
+AMZN-0748,Hiroshi Lee,Amazon,AMZN,Engineering,Staff,78.2,584500,7.9
+AMZN-0749,Elena Singh,Amazon,AMZN,Operations,Director,93.9,513000,6.5
+AMZN-0750,Ahmed Patel,Amazon,AMZN,Product,Staff,64.0,801200,13.1
+AMZN-0751,Ahmed Kim,Amazon,AMZN,People/HR,Senior,66.9,351100,3.5
+AMZN-0752,Zoe Nguyen,Amazon,AMZN,Research & AI,Staff,69.2,368200,3.9
+AMZN-0753,John Chen,Amazon,AMZN,Engineering,Senior,78.9,498200,0.8
+AMZN-0754,Yuki Kim,Amazon,AMZN,Operations,Director,76.4,376200,6.1
+AMZN-0755,Chen Patel,Amazon,AMZN,Legal & Policy,Principal,72.0,323200,5.7
+AMZN-0756,Kevin Wilson,Amazon,AMZN,Legal & Policy,Principal,73.2,363900,6.9
+AMZN-0757,Emily Park,Amazon,AMZN,Marketing,Senior Director,67.8,890400,7.6
+AMZN-0758,Sofia Silva,Amazon,AMZN,Product,Principal,89.1,394900,11.1
+AMZN-0759,Aisha Martinez,Amazon,AMZN,Product,Senior Director,95.4,1063500,14.4
+AMZN-0760,John Yamamoto,Amazon,AMZN,Engineering,Principal,72.6,235200,5.0
+AMZN-0761,Grace Petrov,Amazon,AMZN,Engineering,Director,85.6,755300,5.1
+AMZN-0762,John Rossi,Amazon,AMZN,Design,Senior,65.9,409800,4.4
+AMZN-0763,Grace Lee,Amazon,AMZN,Engineering,Principal,65.2,685100,9.5
+AMZN-0764,Emily Garcia,Amazon,AMZN,Engineering,Staff,62.6,380400,2.1
+AMZN-0765,Ahmed Khan,Amazon,AMZN,Design,Senior,72.0,218700,5.5
+AMZN-0766,Maria Nguyen,Amazon,AMZN,Research & AI,Director,86.4,286400,8.6
+AMZN-0767,Zoe Schmidt,Amazon,AMZN,Engineering,Director,65.2,396500,8.9
+AMZN-0768,Samuel Yamamoto,Amazon,AMZN,Product,SVP,67.6,276700,18.6
+AMZN-0769,Aisha Nguyen,Amazon,AMZN,Engineering,Staff,64.0,175100,4.5
+AMZN-0770,Hannah Wang,Amazon,AMZN,Engineering,Staff,82.0,115700,3.0
+AMZN-0771,James Reyes,Amazon,AMZN,Marketing,Staff,77.5,399100,8.9
+AMZN-0772,Nina Park,Amazon,AMZN,Operations,Staff,61.5,321700,1.8
+AMZN-0773,David Petrov,Amazon,AMZN,Legal & Policy,Staff,62.5,86300,4.8
+AMZN-0774,David Murphy,Amazon,AMZN,Finance,SVP,82.8,3412500,8.1
+AMZN-0775,Wei Johnson,Amazon,AMZN,Research & AI,Director,80.7,568800,6.8
+AMZN-0776,Elena Ali,Amazon,AMZN,Engineering,Senior,75.0,166300,7.9
+AMZN-0777,Kevin Kim,Amazon,AMZN,Marketing,Staff,75.0,177700,2.0
+AMZN-0778,Sofia Kim,Amazon,AMZN,Marketing,VP,75.8,396800,6.1
+AMZN-0779,Olivia Garcia,Amazon,AMZN,Product,Senior,71.6,206100,2.8
+AMZN-0780,Fatima Reyes,Amazon,AMZN,Product,Senior,56.0,228200,6.5
+AMZN-0781,Kevin Petrov,Amazon,AMZN,Engineering,VP,86.6,1030700,6.1
+AMZN-0782,Aisha Kim,Amazon,AMZN,Legal & Policy,Director,76.2,624300,6.7
+AMZN-0783,Raj Garcia,Amazon,AMZN,Engineering,Director,77.6,640600,6.4
+AMZN-0784,Zoe Ali,Amazon,AMZN,Sales & GTM,Director,67.2,297000,12.0
+AMZN-0785,Kevin Silva,Amazon,AMZN,Legal & Policy,Senior,56.5,376200,2.1
+AMZN-0786,Sofia Smith,Amazon,AMZN,Engineering,Staff,81.3,329300,9.0
+AMZN-0787,Carlos Brown,Amazon,AMZN,Legal & Policy,Senior,49.8,175500,9.4
+AMZN-0788,Priya Petrov,Amazon,AMZN,Engineering,Staff,89.4,197000,4.9
+AMZN-0789,Daniel Cohen,Amazon,AMZN,Research & AI,Principal,100.0,317300,3.1
+AMZN-0790,Nina Anderson,Amazon,AMZN,Engineering,Staff,68.8,169400,2.4
+AMZN-0791,Hannah Lopez,Amazon,AMZN,Research & AI,Staff,90.0,488800,4.8
+AMZN-0792,Daniel Cohen,Amazon,AMZN,Engineering,Senior,79.7,53900,8.3
+AMZN-0793,Hannah Murphy,Amazon,AMZN,Engineering,Staff,81.6,278200,2.0
+AMZN-0794,Aisha Cohen,Amazon,AMZN,Product,Senior Director,84.0,1718500,5.0
+AMZN-0795,Olivia Garcia,Amazon,AMZN,Sales & GTM,Staff,80.8,331200,7.6
+AMZN-0796,Zoe Lee,Amazon,AMZN,Operations,Senior,88.7,848600,1.0
+AMZN-0797,Thomas Smith,Amazon,AMZN,Finance,Senior,74.5,197200,1.3
+AMZN-0798,Grace Tanaka,Amazon,AMZN,Engineering,Senior,71.6,100400,4.3
+AMZN-0799,Ahmed Lopez,Amazon,AMZN,Design,Senior Director,58.7,395000,4.3
+AMZN-0800,Nina Ali,Amazon,AMZN,Engineering,Principal,60.1,370600,3.9
+AMZN-0801,Linda Wilson,Amazon,AMZN,Operations,Staff,100.0,458100,2.9
+AMZN-0802,Carlos Chen,Amazon,AMZN,Sales & GTM,Principal,66.4,223900,3.6
+AMZN-0803,Grace Reyes,Amazon,AMZN,Engineering,Principal,87.2,259700,9.6
+AMZN-0804,Maria Wang,Amazon,AMZN,Research & AI,Director,84.3,756400,8.3
+AMZN-0805,Samuel Patel,Amazon,AMZN,People/HR,Senior,61.1,178100,6.4
+AMZN-0806,Fatima Lopez,Amazon,AMZN,Research & AI,Staff,84.7,413100,5.1
+AMZN-0807,Hannah Yamamoto,Amazon,AMZN,Sales & GTM,Senior,87.5,305500,0.6
+AMZN-0808,Linda Garcia,Amazon,AMZN,Engineering,Senior,65.0,411400,3.9
+AMZN-0809,David Davis,Amazon,AMZN,Product,Principal,75.5,548400,6.1
+AMZN-0810,Hiroshi Chen,Amazon,AMZN,Research & AI,Senior Director,79.5,1138100,5.8
+AMZN-0811,Raj Chen,Amazon,AMZN,People/HR,Senior Director,74.7,212800,4.5
+AMZN-0812,Arjun Chen,Amazon,AMZN,Engineering,Principal,81.8,239200,9.4
+AMZN-0813,John Khan,Amazon,AMZN,Marketing,Director,92.0,812700,6.7
+AMZN-0814,Olivia Lee,Amazon,AMZN,Marketing,Senior Director,67.4,1466800,7.1
+AMZN-0815,Zoe Anderson,Amazon,AMZN,Engineering,Principal,79.5,1210100,6.0
+AMZN-0816,David Yamamoto,Amazon,AMZN,Engineering,Principal,70.6,355300,4.5
+AMZN-0817,Hiroshi Cohen,Amazon,AMZN,Product,Senior,75.0,228400,12.7
+AMZN-0818,Daniel Chen,Amazon,AMZN,Engineering,Staff,71.4,170900,15.8
+AMZN-0819,David Park,Amazon,AMZN,Sales & GTM,Senior,72.9,80000,5.0
+AMZN-0820,Aisha Park,Amazon,AMZN,Product,VP,88.4,907500,9.6
+AMZN-0821,Elena Wilson,Amazon,AMZN,Product,Principal,64.6,157900,3.4
+AMZN-0822,Aisha Anderson,Amazon,AMZN,Design,Senior,76.2,77800,4.2
+AMZN-0823,David Anderson,Amazon,AMZN,People/HR,Senior,72.5,428500,4.1
+AMZN-0824,Raj Rossi,Amazon,AMZN,Design,Senior,78.9,529600,3.3
+AMZN-0825,Nina Patel,Amazon,AMZN,Sales & GTM,Staff,66.7,1602000,5.9
+AMZN-0826,Thomas Anderson,Amazon,AMZN,Engineering,Senior,59.9,135200,2.1
+AMZN-0827,Ahmed Nguyen,Amazon,AMZN,Product,Senior,70.3,88000,1.4
+AMZN-0828,Sofia Okafor,Amazon,AMZN,Research & AI,Senior Director,90.8,1351600,11.9
+AMZN-0829,Sofia Reyes,Amazon,AMZN,Product,VP,72.2,508900,9.0
+AMZN-0830,Maria Kim,Amazon,AMZN,Finance,Senior,76.7,54200,3.2
+AMZN-0831,Daniel Wang,Amazon,AMZN,Engineering,Senior,60.2,134600,4.2
+AMZN-0832,Hiroshi Reyes,Amazon,AMZN,Sales & GTM,Principal,64.5,503300,7.4
+AMZN-0833,Thomas Brown,Amazon,AMZN,Research & AI,Senior,60.5,121100,11.5
+AMZN-0834,Daniel Kim,Amazon,AMZN,Research & AI,Principal,71.5,168500,6.3
+AMZN-0835,Chen Nguyen,Amazon,AMZN,Product,Director,84.3,262300,4.9
+AMZN-0836,Daniel Okafor,Amazon,AMZN,Sales & GTM,Senior,100.0,337300,1.8
+AMZN-0837,Samuel Cohen,Amazon,AMZN,Operations,Director,76.0,848400,3.7
+AMZN-0838,Raj Rossi,Amazon,AMZN,Legal & Policy,Staff,82.1,150900,10.8
+AMZN-0839,Hiroshi Yamamoto,Amazon,AMZN,Design,Senior,78.2,650100,1.3
+AMZN-0840,Aisha Hassan,Amazon,AMZN,Engineering,Staff,85.2,334400,10.8
+AMZN-0841,Wei Garcia,Amazon,AMZN,Engineering,SVP,74.3,781100,9.0
+AMZN-0842,Elena Lopez,Amazon,AMZN,Legal & Policy,Senior,70.7,285700,9.7
+AMZN-0843,Wei Chen,Amazon,AMZN,People/HR,Principal,62.6,190200,6.9
+AMZN-0844,Thomas Okafor,Amazon,AMZN,Product,Senior,76.6,402500,5.1
+AMZN-0845,Carlos Wilson,Amazon,AMZN,Finance,Staff,88.5,209900,10.2
+AMZN-0846,Maria Park,Amazon,AMZN,Research & AI,Senior,71.8,314400,1.0
+AMZN-0847,Thomas Patel,Amazon,AMZN,Finance,Senior,73.7,518400,3.1
+AMZN-0848,Ahmed Khan,Amazon,AMZN,Product,Director,77.8,432600,8.2
+AMZN-0849,Wei Davis,Amazon,AMZN,Research & AI,Senior,74.4,192500,0.8
+AMZN-0850,Daniel Davis,Amazon,AMZN,Sales & GTM,Staff,75.5,226700,1.3
+AMZN-0851,Daniel Hassan,Amazon,AMZN,Operations,Principal,100.0,168900,2.2
+AMZN-0852,Chen Smith,Amazon,AMZN,Engineering,Staff,89.5,333100,6.6
+AMZN-0853,Priya Petrov,Amazon,AMZN,Engineering,Director,93.8,390500,8.3
+AMZN-0854,Yuki Patel,Amazon,AMZN,Product,Staff,67.8,191200,2.7
+AMZN-0855,Sofia Ali,Amazon,AMZN,Engineering,Staff,78.8,570200,6.6
+AMZN-0856,Kevin Smith,Amazon,AMZN,Product,Principal,77.4,544100,3.6
+AMZN-0857,Daniel Johnson,Amazon,AMZN,Engineering,Senior Director,74.3,490800,4.1
+AMZN-0858,Fatima Tanaka,Amazon,AMZN,Engineering,Senior,45.7,112300,9.2
+AMZN-0859,Aisha Murphy,Amazon,AMZN,Research & AI,Director,73.6,256300,3.2
+AMZN-0860,Ahmed Yamamoto,Amazon,AMZN,Engineering,Principal,92.6,313500,13.5
+AMZN-0861,Nina Patel,Amazon,AMZN,Research & AI,C-Suite,56.5,1068200,10.5
+AMZN-0862,Michael Petrov,Amazon,AMZN,Sales & GTM,Director,75.2,655100,5.1
+AMZN-0863,Linda Rossi,Amazon,AMZN,Engineering,Senior,74.4,109400,3.1
+AMZN-0864,Kevin Schmidt,Amazon,AMZN,Legal & Policy,Senior Director,86.1,1110900,5.6
+AMZN-0865,David Wilson,Amazon,AMZN,Engineering,Senior,81.6,575900,6.9
+AMZN-0866,Elena Khan,Amazon,AMZN,Engineering,Director,65.0,813700,2.9
+AMZN-0867,Thomas Park,Amazon,AMZN,Research & AI,Staff,75.6,177700,3.7
+AMZN-0868,Yuki Johnson,Amazon,AMZN,Operations,Director,51.8,452500,11.0
+AMZN-0869,Fatima Wang,Amazon,AMZN,Product,Senior,71.1,249100,6.5
+AMZN-0870,David Murphy,Amazon,AMZN,Engineering,Senior,78.9,173100,6.9
+AMZN-0871,Mary Schmidt,Amazon,AMZN,Engineering,Staff,77.3,160000,3.0
+AMZN-0872,Mary Garcia,Amazon,AMZN,Design,Principal,58.5,295300,5.3
+AMZN-0873,James Rossi,Amazon,AMZN,Engineering,Senior,88.5,316100,5.6
+AMZN-0874,Thomas Kim,Amazon,AMZN,Legal & Policy,Senior,64.7,177700,7.0
+AMZN-0875,Hiroshi Brown,Amazon,AMZN,Engineering,Staff,57.1,131500,3.9
+AMZN-0876,Linda Wang,Amazon,AMZN,Engineering,Staff,77.3,255900,5.0
+AMZN-0877,Daniel Wilson,Amazon,AMZN,Finance,Principal,84.5,110100,4.3
+AMZN-0878,Fatima Silva,Amazon,AMZN,Research & AI,Senior,76.4,212200,9.0
+AMZN-0879,Michael Park,Amazon,AMZN,Engineering,Staff,69.2,520200,8.7
+AMZN-0880,Emily Petrov,Amazon,AMZN,Product,Principal,67.5,168100,3.5
+AMZN-0881,Olivia Yamamoto,Amazon,AMZN,Research & AI,Director,62.8,317000,13.8
+AMZN-0882,Thomas Kim,Amazon,AMZN,Engineering,Senior,77.7,197300,4.0
+AMZN-0883,James Park,Amazon,AMZN,Operations,Senior,75.4,220600,6.0
+AMZN-0884,Raj Okafor,Amazon,AMZN,Sales & GTM,Senior,86.7,288000,1.6
+AMZN-0885,Olivia Nguyen,Amazon,AMZN,Product,Staff,89.3,275000,10.9
+AMZN-0886,Fatima Wilson,Amazon,AMZN,Engineering,Senior,84.9,263200,22.8
+AMZN-0887,Zoe Rossi,Amazon,AMZN,Legal & Policy,Director,79.9,610400,7.7
+AMZN-0888,Priya Okafor,Amazon,AMZN,Sales & GTM,Senior,67.0,317700,3.0
+AMZN-0889,Raj Okafor,Amazon,AMZN,Research & AI,Staff,56.5,379000,7.5
+AMZN-0890,Hiroshi Ali,Amazon,AMZN,Research & AI,Staff,74.0,291200,6.3
+AMZN-0891,Daniel Martinez,Amazon,AMZN,Research & AI,Senior,79.6,427600,3.5
+AMZN-0892,Emily Wilson,Amazon,AMZN,Research & AI,Staff,76.2,90800,2.7
+AMZN-0893,Wei Patel,Amazon,AMZN,Engineering,Senior,83.9,607200,0.9
+AMZN-0894,David Kim,Amazon,AMZN,Sales & GTM,Principal,96.8,322200,9.3
+AMZN-0895,Wei Cohen,Amazon,AMZN,Operations,Principal,67.1,499200,4.5
+AMZN-0896,Hannah Garcia,Amazon,AMZN,Operations,Principal,77.0,1077400,6.1
+AMZN-0897,John Petrov,Amazon,AMZN,Engineering,Director,73.6,1049500,5.3
+AMZN-0898,Maria Park,Amazon,AMZN,Engineering,Senior,88.7,120300,8.0
+AMZN-0899,John Smith,Amazon,AMZN,Finance,Senior,67.3,90000,5.7
+AMZN-0900,Kevin Lee,Amazon,AMZN,Design,Senior,66.9,69800,15.5
+AMZN-0901,Samuel Reyes,Amazon,AMZN,Engineering,Senior,73.2,337900,4.8
+AMZN-0902,Hiroshi Cohen,Amazon,AMZN,Engineering,Senior,76.3,220100,14.9
+AMZN-0903,Hannah Garcia,Amazon,AMZN,Engineering,Director,80.8,247200,2.8
+AMZN-0904,Daniel Murphy,Amazon,AMZN,Product,Senior,84.4,1081400,9.4
+AMZN-0905,Samuel Anderson,Amazon,AMZN,Product,Senior,69.2,127800,9.4
+AMZN-0906,Priya Murphy,Amazon,AMZN,Engineering,Principal,62.0,277900,12.9
+AMZN-0907,Samuel Hassan,Amazon,AMZN,Engineering,Senior,63.8,445900,1.7
+AMZN-0908,Aisha Ali,Amazon,AMZN,Sales & GTM,Staff,81.9,267200,6.9
+AMZN-0909,Hannah Rossi,Amazon,AMZN,Marketing,Senior,100.0,296200,2.4
+AMZN-0910,Kevin Smith,Amazon,AMZN,Engineering,Principal,80.6,215500,3.9
+AMZN-0911,Yuki Kim,Amazon,AMZN,Research & AI,Senior Director,76.0,831200,6.2
+AMZN-0912,Daniel Brown,Amazon,AMZN,Engineering,Staff,95.7,1374400,2.8
+AMZN-0913,Fatima Smith,Amazon,AMZN,Marketing,Staff,91.7,268500,28.2
+AMZN-0914,John Schmidt,Amazon,AMZN,Engineering,Senior,78.3,184800,3.7
+AMZN-0915,John Lee,Amazon,AMZN,Engineering,Staff,56.0,186500,3.3
+AMZN-0916,John Martinez,Amazon,AMZN,Engineering,Staff,75.4,166000,7.8
+AMZN-0917,Grace Smith,Amazon,AMZN,Engineering,Senior Director,79.1,794400,6.5
+AMZN-0918,James Cohen,Amazon,AMZN,Engineering,Staff,66.8,613000,4.0
+AMZN-0919,Ahmed Ali,Amazon,AMZN,Sales & GTM,Principal,94.5,578100,3.8
+AMZN-0920,Hiroshi Cohen,Amazon,AMZN,Legal & Policy,Senior Director,91.1,1368600,10.3
+AMZN-0921,Fatima Garcia,Amazon,AMZN,Sales & GTM,SVP,70.8,835800,18.8
+AMZN-0922,Arjun Schmidt,Amazon,AMZN,Engineering,VP,95.8,669500,5.3
+AMZN-0923,Zoe Ali,Amazon,AMZN,Research & AI,Senior,60.8,367100,3.7
+AMZN-0924,Linda Schmidt,Amazon,AMZN,Research & AI,Staff,71.4,137100,1.0
+AMZN-0925,Hiroshi Lopez,Amazon,AMZN,Engineering,Staff,93.4,974800,5.1
+AMZN-0926,Yuki Martinez,Amazon,AMZN,Operations,Principal,80.6,828400,15.5
+AMZN-0927,Samuel Kim,Amazon,AMZN,Product,Staff,77.5,243300,2.8
+AMZN-0928,Arjun Smith,Amazon,AMZN,Engineering,VP,77.6,774300,26.1
+AMZN-0929,Yuki Reyes,Amazon,AMZN,Engineering,Senior,69.3,241900,8.3
+AMZN-0930,David Lee,Amazon,AMZN,Sales & GTM,Staff,67.1,300300,16.7
+AMZN-0931,Daniel Wang,Amazon,AMZN,Product,Staff,68.8,164500,14.9
+AMZN-0932,Ahmed Anderson,Amazon,AMZN,Engineering,Staff,63.4,216800,7.8
+AMZN-0933,Maria Johnson,Amazon,AMZN,People/HR,Senior,72.1,134900,2.9
+AMZN-0934,Arjun Lee,Amazon,AMZN,Design,VP,75.8,2564700,9.1
+AMZN-0935,Nina Chen,Amazon,AMZN,Research & AI,Principal,92.2,687500,6.9
+AMZN-0936,Zoe Okafor,Amazon,AMZN,Marketing,Staff,75.6,411900,8.9
+AMZN-0937,Hiroshi Johnson,Amazon,AMZN,Engineering,Senior Director,69.9,697300,7.3
+AMZN-0938,Nina Schmidt,Amazon,AMZN,Sales & GTM,Senior,77.6,307700,2.2
+AMZN-0939,Priya Patel,Amazon,AMZN,Research & AI,Senior,49.1,186000,4.2
+AMZN-0940,Maria Okafor,Amazon,AMZN,Legal & Policy,Director,80.6,757700,4.4
+AMZN-0941,Wei Park,Amazon,AMZN,Engineering,Director,81.5,404500,9.5
+AMZN-0942,Linda Reyes,Amazon,AMZN,Product,Staff,78.6,163100,4.3
+AMZN-0943,Mary Murphy,Amazon,AMZN,Product,Staff,56.7,184400,10.1
+AMZN-0944,David Chen,Amazon,AMZN,Legal & Policy,Principal,62.1,608600,5.6
+AMZN-0945,Sofia Reyes,Amazon,AMZN,Engineering,Senior,96.9,803700,1.3
+AMZN-0946,Linda Khan,Amazon,AMZN,Marketing,SVP,85.9,1116500,8.9
+AMZN-0947,Yuki Khan,Amazon,AMZN,Engineering,Principal,89.9,796300,7.6
+AMZN-0948,Nina Anderson,Amazon,AMZN,Marketing,Senior,100.0,379700,2.1
+AMZN-0949,Mary Ali,Amazon,AMZN,Engineering,Senior Director,75.9,721100,4.1
+AMZN-0950,Fatima Khan,Amazon,AMZN,Engineering,Staff,86.2,252600,6.9
+AMZN-0951,Yuki Nguyen,Amazon,AMZN,Operations,Principal,64.4,367500,4.4
+AMZN-0952,Olivia Silva,Amazon,AMZN,Engineering,Principal,88.3,278000,4.9
+AMZN-0953,Hiroshi Patel,Amazon,AMZN,Sales & GTM,Senior,72.9,145900,5.8
+AMZN-0954,John Hassan,Amazon,AMZN,Engineering,Senior,83.8,708400,3.6
+AMZN-0955,John Rossi,Amazon,AMZN,Operations,Senior Director,74.2,996000,9.3
+AMZN-0956,Michael Kim,Amazon,AMZN,Finance,Senior,92.0,588300,5.8
+AMZN-0957,Hiroshi Garcia,Amazon,AMZN,Engineering,Principal,58.3,749300,2.3
+AMZN-0958,Mary Okafor,Amazon,AMZN,Finance,Staff,80.2,404400,7.3
+AMZN-0959,Olivia Murphy,Amazon,AMZN,Finance,Senior,63.9,376600,5.5
+AMZN-0960,Grace Rossi,Amazon,AMZN,Legal & Policy,Senior,65.2,203900,0.2
+AMZN-0961,Ahmed Rossi,Amazon,AMZN,Engineering,Principal,87.5,418100,4.0
+AMZN-0962,David Johnson,Amazon,AMZN,Engineering,Senior,88.4,157200,1.0
+AMZN-0963,Aisha Brown,Amazon,AMZN,Engineering,Senior,94.4,358700,7.1
+AMZN-0964,Fatima Wang,Amazon,AMZN,Engineering,Staff,82.0,248000,5.0
+AMZN-0965,David Rossi,Amazon,AMZN,Engineering,Senior,74.6,268200,6.0
+AMZN-0966,Emily Johnson,Amazon,AMZN,Finance,Senior,84.2,337400,12.6
+AMZN-0967,Maria Brown,Amazon,AMZN,Product,Principal,78.5,319500,8.9
+AMZN-0968,Yuki Chen,Amazon,AMZN,Engineering,Director,65.0,535900,9.6
+AMZN-0969,Ahmed Hassan,Amazon,AMZN,Finance,Director,88.4,1901300,6.8
+AMZN-0970,Ahmed Reyes,Amazon,AMZN,Engineering,Staff,88.5,219700,10.6
+AMZN-0971,Wei Okafor,Amazon,AMZN,Product,Principal,71.0,379000,8.7
+AMZN-0972,Kevin Nguyen,Amazon,AMZN,Engineering,Principal,64.9,248400,6.5
+AMZN-0973,Priya Hassan,Amazon,AMZN,Research & AI,Senior,85.0,223700,3.7
+AMZN-0974,Thomas Petrov,Amazon,AMZN,Engineering,VP,81.8,1081200,10.2
+AMZN-0975,Wei Murphy,Amazon,AMZN,Engineering,Senior,92.3,188100,11.6
+AMZN-0976,Chen Tanaka,Amazon,AMZN,Operations,C-Suite,91.5,3750800,9.2
+AMZN-0977,Raj Wilson,Amazon,AMZN,Sales & GTM,Principal,85.7,358200,8.2
+AMZN-0978,Aisha Anderson,Amazon,AMZN,Finance,Senior,69.9,330300,3.7
+AMZN-0979,Kevin Hassan,Amazon,AMZN,Sales & GTM,Senior Director,89.1,1825500,5.0
+AMZN-0980,Kevin Cohen,Amazon,AMZN,Legal & Policy,Staff,77.6,412800,10.3
+AMZN-0981,Grace Tanaka,Amazon,AMZN,Engineering,Senior,91.3,148900,3.5
+AMZN-0982,Hiroshi Kim,Amazon,AMZN,Research & AI,Staff,85.0,444500,1.5
+AMZN-0983,Aisha Davis,Amazon,AMZN,Research & AI,VP,85.3,1948500,14.2
+AMZN-0984,Thomas Kim,Amazon,AMZN,Engineering,SVP,89.9,1436400,9.2
+AMZN-0985,Kevin Schmidt,Amazon,AMZN,Sales & GTM,VP,73.5,2472700,7.6
+AMZN-0986,Maria Lee,Amazon,AMZN,Engineering,Staff,72.7,303700,3.7
+AMZN-0987,Yuki Reyes,Amazon,AMZN,Engineering,Staff,96.3,371900,4.8
+AMZN-0988,Chen Johnson,Amazon,AMZN,Legal & Policy,Director,94.9,803000,6.0
+AMZN-0989,Raj Murphy,Amazon,AMZN,Legal & Policy,Senior,80.6,299400,1.0
+AMZN-0990,Hiroshi Lopez,Amazon,AMZN,Product,Director,72.4,1897600,5.5
+AMZN-0991,Fatima Lopez,Amazon,AMZN,Legal & Policy,Principal,94.7,769700,4.8
+AMZN-0992,Ahmed Rossi,Amazon,AMZN,Engineering,Director,96.4,730200,4.7
+AMZN-0993,David Tanaka,Amazon,AMZN,Sales & GTM,Senior,66.8,118900,1.7
+AMZN-0994,Daniel Brown,Amazon,AMZN,Marketing,Principal,61.9,182000,3.6
+AMZN-0995,Chen Patel,Amazon,AMZN,Product,Senior Director,76.6,311100,11.2
+AMZN-0996,Maria Davis,Amazon,AMZN,Engineering,Senior,89.7,231600,3.7
+AMZN-0997,Mary Wang,Amazon,AMZN,Sales & GTM,Senior,74.9,121000,2.3
+AMZN-0998,Aisha Rossi,Amazon,AMZN,People/HR,Staff,67.6,559200,7.5
+AMZN-0999,Aisha Okafor,Amazon,AMZN,Research & AI,SVP,66.9,1100300,7.9
+AMZN-1000,Samuel Lee,Amazon,AMZN,Engineering,Senior Director,86.1,497400,7.4

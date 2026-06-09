@@ -1,0 +1,61 @@
+{
+  "total_employees": 10000,
+  "companies": 10,
+  "pooled_correlations": {
+    "performance_score": {
+      "performance_score": 1.0,
+      "total_compensation_usd": 0.167,
+      "tenure_years": 0.089
+    },
+    "total_compensation_usd": {
+      "performance_score": 0.167,
+      "total_compensation_usd": 1.0,
+      "tenure_years": 0.102
+    },
+    "tenure_years": {
+      "performance_score": 0.089,
+      "total_compensation_usd": 0.102,
+      "tenure_years": 1.0
+    }
+  },
+  "per_company_comp_perf_corr": {
+    "NVIDIA": 0.199,
+    "Apple": 0.219,
+    "Alphabet (Google)": 0.194,
+    "Microsoft": 0.18,
+    "Amazon": 0.189,
+    "TSMC": 0.218,
+    "Broadcom": 0.118,
+    "Saudi Aramco": 0.196,
+    "Tesla": 0.202,
+    "Meta Platforms": 0.164
+  },
+  "highest_median_comp": [
+    "Meta Platforms",
+    446650
+  ],
+  "lowest_median_comp": [
+    "TSMC",
+    166600
+  ],
+  "longest_tenure": [
+    "Saudi Aramco",
+    12.2
+  ],
+  "shortest_tenure": [
+    "Tesla",
+    4.6
+  ],
+  "cap_per_median_comp_$M": {
+    "NVIDIA": 11.6,
+    "Apple": 11.2,
+    "Alphabet (Google)": 10.0,
+    "Microsoft": 8.2,
+    "Amazon": 7.3,
+    "TSMC": 13.3,
+    "Broadcom": 4.9,
+    "Saudi Aramco": 8.3,
+    "Tesla": 5.1,
+    "Meta Platforms": 3.3
+  }
+}

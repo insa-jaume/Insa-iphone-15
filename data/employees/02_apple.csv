@@ -1,0 +1,1001 @@
+employee_id,name,company,ticker,department,level,performance_score,total_compensation_usd,tenure_years
+AAPL-0001,David Johnson,Apple,AAPL,Operations,Staff,61.9,185100,13.2
+AAPL-0002,Michael Cohen,Apple,AAPL,Finance,Senior,74.5,669600,11.0
+AAPL-0003,Samuel Nguyen,Apple,AAPL,Product,Staff,84.7,926100,6.4
+AAPL-0004,Thomas Martinez,Apple,AAPL,Engineering,Director,84.7,197900,12.2
+AAPL-0005,Priya Murphy,Apple,AAPL,Design,Principal,88.9,499200,13.0
+AAPL-0006,James Smith,Apple,AAPL,Finance,Principal,89.9,334100,2.0
+AAPL-0007,Aisha Lopez,Apple,AAPL,Engineering,Senior,76.7,326400,10.9
+AAPL-0008,Daniel Lee,Apple,AAPL,Research & AI,Staff,89.0,297500,4.4
+AAPL-0009,Linda Petrov,Apple,AAPL,Design,Principal,73.6,322800,8.8
+AAPL-0010,Aisha Schmidt,Apple,AAPL,Engineering,Staff,86.9,235900,7.7
+AAPL-0011,Linda Lopez,Apple,AAPL,Operations,Senior,85.2,294300,15.9
+AAPL-0012,Emily Cohen,Apple,AAPL,Operations,Senior,72.1,275500,9.4
+AAPL-0013,Raj Khan,Apple,AAPL,Sales & GTM,Senior,62.6,159200,5.2
+AAPL-0014,Linda Khan,Apple,AAPL,Marketing,Staff,78.1,500100,2.7
+AAPL-0015,Emily Silva,Apple,AAPL,Engineering,Senior,69.9,128400,8.9
+AAPL-0016,Olivia Patel,Apple,AAPL,Engineering,Director,80.4,697400,8.1
+AAPL-0017,Carlos Reyes,Apple,AAPL,Research & AI,Principal,96.0,389700,8.2
+AAPL-0018,Aisha Khan,Apple,AAPL,Marketing,Principal,74.4,204100,4.8
+AAPL-0019,Arjun Patel,Apple,AAPL,Research & AI,VP,99.8,1431200,13.7
+AAPL-0020,Mary Singh,Apple,AAPL,Marketing,Principal,78.7,350800,11.1
+AAPL-0021,Olivia Johnson,Apple,AAPL,Engineering,Principal,81.1,815400,15.9
+AAPL-0022,James Petrov,Apple,AAPL,Engineering,Senior,72.7,388700,8.5
+AAPL-0023,Maria Smith,Apple,AAPL,Engineering,Staff,72.2,415900,12.6
+AAPL-0024,David Hassan,Apple,AAPL,Sales & GTM,Senior Director,98.4,1426700,8.5
+AAPL-0025,Carlos Kim,Apple,AAPL,Engineering,Senior,78.6,587400,10.0
+AAPL-0026,John Rossi,Apple,AAPL,Product,Senior,74.8,370800,7.3
+AAPL-0027,Hiroshi Kim,Apple,AAPL,Operations,Director,97.8,1240900,9.4
+AAPL-0028,Linda Murphy,Apple,AAPL,Engineering,Senior,67.3,572900,16.1
+AAPL-0029,James Park,Apple,AAPL,Engineering,Staff,77.3,362400,8.2
+AAPL-0030,Hannah Lee,Apple,AAPL,Engineering,Principal,80.9,502000,8.3
+AAPL-0031,Aisha Johnson,Apple,AAPL,Finance,C-Suite,65.5,3237600,20.7
+AAPL-0032,Aisha Davis,Apple,AAPL,Research & AI,Senior,79.0,99700,17.0
+AAPL-0033,Daniel Martinez,Apple,AAPL,Engineering,Principal,94.6,685800,5.0
+AAPL-0034,James Brown,Apple,AAPL,Research & AI,Senior Director,91.8,545800,17.5
+AAPL-0035,Yuki Wang,Apple,AAPL,Finance,Senior,75.3,439600,4.1
+AAPL-0036,Arjun Wilson,Apple,AAPL,Engineering,Principal,98.6,458200,14.9
+AAPL-0037,Raj Yamamoto,Apple,AAPL,Research & AI,Staff,87.8,523900,11.8
+AAPL-0038,Maria Lopez,Apple,AAPL,Marketing,Principal,90.6,231100,7.7
+AAPL-0039,Mary Chen,Apple,AAPL,Product,Principal,85.8,423800,6.7
+AAPL-0040,Maria Schmidt,Apple,AAPL,Product,Director,86.8,959100,9.6
+AAPL-0041,Yuki Petrov,Apple,AAPL,Legal & Policy,VP,95.6,967600,5.2
+AAPL-0042,Zoe Hassan,Apple,AAPL,Engineering,Senior,95.2,406700,11.7
+AAPL-0043,Aisha Anderson,Apple,AAPL,Engineering,Director,85.8,475200,6.3
+AAPL-0044,Aisha Garcia,Apple,AAPL,Engineering,Principal,89.1,825300,9.5
+AAPL-0045,Grace Patel,Apple,AAPL,Finance,Senior Director,78.6,791500,20.2
+AAPL-0046,Ahmed Wang,Apple,AAPL,People/HR,Staff,88.0,718300,10.2
+AAPL-0047,Hiroshi Silva,Apple,AAPL,Operations,Staff,61.5,772700,7.6
+AAPL-0048,Wei Smith,Apple,AAPL,Legal & Policy,Staff,81.9,496000,8.1
+AAPL-0049,Daniel Martinez,Apple,AAPL,Engineering,Director,87.0,1620400,8.3
+AAPL-0050,Samuel Cohen,Apple,AAPL,Finance,Senior,80.6,205000,6.4
+AAPL-0051,Nina Murphy,Apple,AAPL,Operations,Staff,76.7,437100,13.7
+AAPL-0052,Fatima Garcia,Apple,AAPL,Engineering,Principal,63.1,281700,9.6
+AAPL-0053,Arjun Anderson,Apple,AAPL,Research & AI,Principal,93.2,347000,9.2
+AAPL-0054,Grace Chen,Apple,AAPL,Research & AI,Staff,69.5,249500,3.1
+AAPL-0055,Hiroshi Anderson,Apple,AAPL,Operations,Senior Director,91.9,1837800,12.8
+AAPL-0056,Michael Silva,Apple,AAPL,Sales & GTM,Director,89.1,792800,5.5
+AAPL-0057,Ahmed Chen,Apple,AAPL,Engineering,VP,65.4,414300,12.1
+AAPL-0058,Raj Johnson,Apple,AAPL,Sales & GTM,SVP,83.1,1646400,16.9
+AAPL-0059,Emily Anderson,Apple,AAPL,Engineering,C-Suite,85.8,1334500,24.8
+AAPL-0060,David Johnson,Apple,AAPL,Finance,Senior,73.2,171100,9.4
+AAPL-0061,Mary Lee,Apple,AAPL,Product,Senior Director,94.8,380700,8.4
+AAPL-0062,Sofia Kim,Apple,AAPL,Product,Senior Director,75.5,297100,12.0
+AAPL-0063,Raj Rossi,Apple,AAPL,Product,Director,86.6,497300,10.8
+AAPL-0064,Nina Reyes,Apple,AAPL,Research & AI,Principal,71.3,556500,16.5
+AAPL-0065,Elena Khan,Apple,AAPL,Operations,Principal,74.7,234400,8.6
+AAPL-0066,Priya Brown,Apple,AAPL,Engineering,Senior,71.9,103200,9.9
+AAPL-0067,Elena Johnson,Apple,AAPL,Research & AI,Staff,79.7,416000,11.0
+AAPL-0068,Grace Petrov,Apple,AAPL,Finance,Senior,87.3,413600,9.2
+AAPL-0069,Sofia Okafor,Apple,AAPL,Design,Senior Director,91.3,662600,10.3
+AAPL-0070,Wei Patel,Apple,AAPL,Research & AI,Senior,77.8,286500,5.6
+AAPL-0071,Michael Silva,Apple,AAPL,Product,Senior Director,77.1,472900,5.1
+AAPL-0072,Olivia Patel,Apple,AAPL,Engineering,Senior,87.9,115600,8.4
+AAPL-0073,Samuel Johnson,Apple,AAPL,Marketing,Staff,85.6,219500,11.6
+AAPL-0074,Elena Singh,Apple,AAPL,Research & AI,Staff,76.9,230900,7.6
+AAPL-0075,Olivia Nguyen,Apple,AAPL,Operations,Principal,79.7,222600,10.4
+AAPL-0076,Aisha Lee,Apple,AAPL,Sales & GTM,SVP,86.0,851900,12.1
+AAPL-0077,Olivia Wang,Apple,AAPL,Design,Director,85.0,803700,11.5
+AAPL-0078,Chen Smith,Apple,AAPL,Sales & GTM,Senior Director,74.0,1089300,16.9
+AAPL-0079,Arjun Kim,Apple,AAPL,Engineering,Director,82.6,175800,10.2
+AAPL-0080,Grace Tanaka,Apple,AAPL,Engineering,Senior,77.9,192300,7.3
+AAPL-0081,Hiroshi Tanaka,Apple,AAPL,Engineering,Staff,68.9,257400,3.4
+AAPL-0082,Maria Silva,Apple,AAPL,Sales & GTM,Principal,88.5,226900,7.1
+AAPL-0083,Zoe Davis,Apple,AAPL,Engineering,Staff,89.7,356400,2.0
+AAPL-0084,Zoe Wang,Apple,AAPL,Research & AI,Director,61.3,674100,8.0
+AAPL-0085,Zoe Garcia,Apple,AAPL,Engineering,SVP,85.5,1693100,12.5
+AAPL-0086,Priya Patel,Apple,AAPL,Engineering,Senior,97.9,211400,1.5
+AAPL-0087,Aisha Reyes,Apple,AAPL,Sales & GTM,Director,89.5,1756600,5.5
+AAPL-0088,Aisha Chen,Apple,AAPL,Engineering,Director,83.5,878200,5.4
+AAPL-0089,Fatima Okafor,Apple,AAPL,Engineering,VP,100.0,1149200,9.2
+AAPL-0090,Maria Park,Apple,AAPL,Engineering,Senior Director,73.4,1145900,21.0
+AAPL-0091,John Smith,Apple,AAPL,Engineering,Staff,59.7,212000,9.7
+AAPL-0092,James Davis,Apple,AAPL,Finance,Principal,67.0,866800,7.6
+AAPL-0093,Emily Silva,Apple,AAPL,Engineering,Principal,90.3,436400,8.8
+AAPL-0094,Daniel Patel,Apple,AAPL,Design,Principal,84.0,217300,13.5
+AAPL-0095,Zoe Park,Apple,AAPL,Research & AI,Staff,89.2,120100,13.5
+AAPL-0096,Daniel Garcia,Apple,AAPL,Design,Staff,89.1,1179900,10.1
+AAPL-0097,Mary Reyes,Apple,AAPL,Operations,Principal,84.9,691800,22.7
+AAPL-0098,Nina Singh,Apple,AAPL,Sales & GTM,Staff,78.9,244100,5.9
+AAPL-0099,Thomas Anderson,Apple,AAPL,Sales & GTM,VP,72.4,1247200,10.5
+AAPL-0100,Olivia Brown,Apple,AAPL,Operations,Senior Director,100.0,760500,10.7
+AAPL-0101,David Yamamoto,Apple,AAPL,Operations,VP,100.0,1129200,11.9
+AAPL-0102,David Nguyen,Apple,AAPL,Operations,Senior,85.5,435600,5.6
+AAPL-0103,Samuel Johnson,Apple,AAPL,Engineering,Director,70.4,374100,6.3
+AAPL-0104,Sofia Yamamoto,Apple,AAPL,Engineering,Staff,63.8,206700,13.7
+AAPL-0105,Priya Yamamoto,Apple,AAPL,Engineering,Staff,79.2,313800,5.8
+AAPL-0106,James Park,Apple,AAPL,Product,Staff,59.6,816900,7.7
+AAPL-0107,Linda Cohen,Apple,AAPL,Engineering,Staff,74.8,345500,2.7
+AAPL-0108,David Hassan,Apple,AAPL,Sales & GTM,Senior,71.5,288000,4.4
+AAPL-0109,Thomas Okafor,Apple,AAPL,Operations,Director,85.0,457700,5.2
+AAPL-0110,James Lopez,Apple,AAPL,Operations,Senior,77.5,383100,12.1
+AAPL-0111,Aisha Silva,Apple,AAPL,Engineering,Senior,94.1,487900,6.2
+AAPL-0112,Wei Chen,Apple,AAPL,Research & AI,Senior,69.4,131300,5.9
+AAPL-0113,Fatima Garcia,Apple,AAPL,Operations,Director,72.1,604900,11.9
+AAPL-0114,Michael Hassan,Apple,AAPL,Research & AI,Director,85.3,1022300,18.9
+AAPL-0115,Nina Schmidt,Apple,AAPL,Legal & Policy,Senior,62.8,107500,9.4
+AAPL-0116,Hiroshi Davis,Apple,AAPL,Engineering,Staff,71.3,230500,10.1
+AAPL-0117,Linda Anderson,Apple,AAPL,Engineering,Staff,89.1,422400,4.8
+AAPL-0118,Priya Ali,Apple,AAPL,Research & AI,Senior,68.6,944200,16.7
+AAPL-0119,Elena Murphy,Apple,AAPL,Engineering,Principal,96.5,635200,5.1
+AAPL-0120,Yuki Yamamoto,Apple,AAPL,Engineering,Staff,84.0,369700,7.1
+AAPL-0121,Zoe Brown,Apple,AAPL,Research & AI,Staff,77.1,391800,2.8
+AAPL-0122,Linda Nguyen,Apple,AAPL,Operations,Senior,88.2,328200,7.5
+AAPL-0123,Ahmed Reyes,Apple,AAPL,Engineering,Staff,83.6,1243800,4.2
+AAPL-0124,Zoe Wang,Apple,AAPL,Design,Senior Director,85.3,642400,13.7
+AAPL-0125,Grace Murphy,Apple,AAPL,Product,Senior,81.7,485100,9.1
+AAPL-0126,Wei Okafor,Apple,AAPL,Research & AI,Senior Director,84.6,540600,13.5
+AAPL-0127,Hannah Schmidt,Apple,AAPL,Finance,Senior,70.8,63000,12.2
+AAPL-0128,Yuki Wilson,Apple,AAPL,Engineering,Senior,79.5,248100,18.5
+AAPL-0129,Yuki Rossi,Apple,AAPL,Finance,Staff,88.7,1310500,12.4
+AAPL-0130,Elena Silva,Apple,AAPL,Sales & GTM,Senior,71.1,269000,5.4
+AAPL-0131,Wei Singh,Apple,AAPL,Engineering,Senior Director,84.8,567000,8.5
+AAPL-0132,Hannah Yamamoto,Apple,AAPL,Engineering,Principal,82.8,317000,8.5
+AAPL-0133,Aisha Wilson,Apple,AAPL,Legal & Policy,Principal,77.6,1019900,4.7
+AAPL-0134,Arjun Anderson,Apple,AAPL,Sales & GTM,VP,88.7,738400,9.5
+AAPL-0135,John Patel,Apple,AAPL,Product,Principal,67.3,358100,7.3
+AAPL-0136,Hiroshi Martinez,Apple,AAPL,Engineering,Senior,75.5,605600,3.7
+AAPL-0137,Arjun Tanaka,Apple,AAPL,Engineering,Senior,76.6,182100,10.6
+AAPL-0138,Linda Murphy,Apple,AAPL,Engineering,Senior,66.8,291700,5.4
+AAPL-0139,Kevin Nguyen,Apple,AAPL,Sales & GTM,Senior,77.3,276400,17.8
+AAPL-0140,Carlos Lee,Apple,AAPL,Marketing,Staff,73.8,619000,3.4
+AAPL-0141,John Wang,Apple,AAPL,Engineering,Senior Director,76.3,1586200,11.9
+AAPL-0142,Arjun Yamamoto,Apple,AAPL,Engineering,Staff,87.2,354600,14.8
+AAPL-0143,Hannah Singh,Apple,AAPL,Engineering,Staff,77.8,322300,11.7
+AAPL-0144,Kevin Davis,Apple,AAPL,Finance,Principal,67.3,434100,3.3
+AAPL-0145,Thomas Chen,Apple,AAPL,Research & AI,Senior,74.5,187200,3.4
+AAPL-0146,John Petrov,Apple,AAPL,Product,Senior,68.0,240400,10.7
+AAPL-0147,Yuki Cohen,Apple,AAPL,Engineering,Senior,83.0,187500,5.2
+AAPL-0148,Mary Smith,Apple,AAPL,Engineering,Staff,85.7,485200,10.3
+AAPL-0149,Maria Nguyen,Apple,AAPL,Engineering,Principal,87.5,383500,2.6
+AAPL-0150,Michael Yamamoto,Apple,AAPL,Engineering,Director,77.1,497400,5.9
+AAPL-0151,Kevin Ali,Apple,AAPL,Engineering,Principal,84.4,796300,13.7
+AAPL-0152,James Davis,Apple,AAPL,Sales & GTM,Senior,80.9,304500,2.8
+AAPL-0153,Aisha Rossi,Apple,AAPL,Research & AI,Staff,67.4,618400,21.0
+AAPL-0154,Zoe Silva,Apple,AAPL,Product,Senior Director,77.9,403400,20.6
+AAPL-0155,Ahmed Smith,Apple,AAPL,Research & AI,Principal,81.4,496500,9.6
+AAPL-0156,Raj Nguyen,Apple,AAPL,Operations,SVP,66.1,1595100,12.1
+AAPL-0157,James Park,Apple,AAPL,Finance,Staff,77.2,1108000,14.8
+AAPL-0158,Daniel Lee,Apple,AAPL,Operations,Senior,70.6,335400,5.3
+AAPL-0159,Ahmed Singh,Apple,AAPL,Engineering,Staff,78.6,180200,5.1
+AAPL-0160,Mary Silva,Apple,AAPL,Engineering,VP,97.5,704100,10.9
+AAPL-0161,Hiroshi Park,Apple,AAPL,Operations,SVP,87.4,1159600,12.7
+AAPL-0162,Fatima Patel,Apple,AAPL,Engineering,Senior,92.8,527600,3.0
+AAPL-0163,Olivia Park,Apple,AAPL,Engineering,Staff,85.8,514600,12.1
+AAPL-0164,Fatima Cohen,Apple,AAPL,Product,Director,72.2,585700,6.7
+AAPL-0165,Emily Petrov,Apple,AAPL,Marketing,Staff,74.2,496300,4.7
+AAPL-0166,Raj Patel,Apple,AAPL,Research & AI,Senior,84.6,82600,14.7
+AAPL-0167,Daniel Garcia,Apple,AAPL,Sales & GTM,Principal,82.1,540500,7.6
+AAPL-0168,Wei Ali,Apple,AAPL,Sales & GTM,Principal,71.4,602400,7.8
+AAPL-0169,Chen Singh,Apple,AAPL,Research & AI,Senior,88.0,480900,14.3
+AAPL-0170,Chen Singh,Apple,AAPL,Operations,VP,69.7,865100,7.3
+AAPL-0171,Emily Murphy,Apple,AAPL,People/HR,Principal,100.0,369600,10.5
+AAPL-0172,Grace Khan,Apple,AAPL,Research & AI,VP,87.3,556500,19.6
+AAPL-0173,Aisha Kim,Apple,AAPL,Product,Senior,86.3,395900,2.8
+AAPL-0174,Nina Silva,Apple,AAPL,Research & AI,Director,80.0,343100,7.9
+AAPL-0175,Michael Chen,Apple,AAPL,Legal & Policy,Director,87.4,515000,11.7
+AAPL-0176,Yuki Murphy,Apple,AAPL,Engineering,VP,81.8,605700,16.8
+AAPL-0177,Raj Ali,Apple,AAPL,Engineering,Senior,81.5,536700,9.4
+AAPL-0178,John Cohen,Apple,AAPL,Engineering,Senior,74.2,174400,17.7
+AAPL-0179,Michael Ali,Apple,AAPL,Engineering,Principal,84.4,836300,3.7
+AAPL-0180,Emily Wilson,Apple,AAPL,Design,Director,75.7,321100,6.4
+AAPL-0181,Hiroshi Chen,Apple,AAPL,People/HR,Senior Director,85.1,1261300,24.4
+AAPL-0182,Samuel Petrov,Apple,AAPL,Research & AI,Staff,71.4,287900,25.8
+AAPL-0183,Chen Martinez,Apple,AAPL,Product,Principal,79.5,281600,7.9
+AAPL-0184,James Schmidt,Apple,AAPL,Legal & Policy,Staff,67.5,96400,21.3
+AAPL-0185,Yuki Reyes,Apple,AAPL,Research & AI,Principal,66.0,714300,5.7
+AAPL-0186,Olivia Kim,Apple,AAPL,Operations,Senior,79.6,462900,12.1
+AAPL-0187,Arjun Lee,Apple,AAPL,Research & AI,Director,85.1,1549900,10.9
+AAPL-0188,Hiroshi Johnson,Apple,AAPL,Engineering,Senior,69.4,191100,7.6
+AAPL-0189,Sofia Tanaka,Apple,AAPL,Engineering,Director,83.0,208500,4.5
+AAPL-0190,Daniel Lopez,Apple,AAPL,Engineering,Senior,78.5,207700,9.8
+AAPL-0191,Raj Murphy,Apple,AAPL,Finance,Senior,84.4,208900,30.1
+AAPL-0192,Hiroshi Kim,Apple,AAPL,Engineering,Senior Director,76.0,537500,10.0
+AAPL-0193,Fatima Park,Apple,AAPL,People/HR,Staff,63.3,230800,5.7
+AAPL-0194,Elena Reyes,Apple,AAPL,Engineering,VP,83.6,1419000,10.8
+AAPL-0195,Nina Wang,Apple,AAPL,Engineering,Principal,71.4,540400,9.6
+AAPL-0196,Priya Park,Apple,AAPL,Engineering,Principal,92.1,426900,18.6
+AAPL-0197,David Johnson,Apple,AAPL,Engineering,Principal,90.4,354600,19.8
+AAPL-0198,Samuel Anderson,Apple,AAPL,Research & AI,SVP,72.0,1078100,11.5
+AAPL-0199,Yuki Kim,Apple,AAPL,Engineering,Staff,86.1,405000,14.6
+AAPL-0200,Mary Tanaka,Apple,AAPL,Operations,Director,100.0,456700,12.8
+AAPL-0201,Raj Petrov,Apple,AAPL,Sales & GTM,Senior,82.6,179100,8.3
+AAPL-0202,Fatima Garcia,Apple,AAPL,Engineering,Principal,93.6,963000,6.6
+AAPL-0203,Carlos Wang,Apple,AAPL,Engineering,Staff,100.0,584700,10.2
+AAPL-0204,David Cohen,Apple,AAPL,Engineering,Principal,76.9,492600,4.5
+AAPL-0205,Chen Brown,Apple,AAPL,Engineering,Principal,97.6,517100,3.3
+AAPL-0206,Fatima Schmidt,Apple,AAPL,Engineering,Staff,82.0,508800,4.9
+AAPL-0207,Maria Silva,Apple,AAPL,Legal & Policy,Senior,63.5,219600,5.7
+AAPL-0208,Linda Reyes,Apple,AAPL,Operations,Principal,91.1,529400,9.9
+AAPL-0209,Fatima Yamamoto,Apple,AAPL,Legal & Policy,Staff,81.3,250700,8.1
+AAPL-0210,Michael Singh,Apple,AAPL,Engineering,Director,59.3,904200,24.4
+AAPL-0211,Samuel Tanaka,Apple,AAPL,Engineering,Director,75.0,653900,8.8
+AAPL-0212,Ahmed Schmidt,Apple,AAPL,Operations,VP,86.5,3006400,12.8
+AAPL-0213,Elena Smith,Apple,AAPL,Sales & GTM,Senior,83.8,283200,10.3
+AAPL-0214,Nina Reyes,Apple,AAPL,Engineering,Senior,80.3,381300,8.6
+AAPL-0215,Zoe Yamamoto,Apple,AAPL,Engineering,Staff,72.9,452300,11.0
+AAPL-0216,Linda Schmidt,Apple,AAPL,Operations,Principal,61.6,245200,16.2
+AAPL-0217,David Yamamoto,Apple,AAPL,Research & AI,Director,96.2,615000,11.5
+AAPL-0218,Zoe Garcia,Apple,AAPL,Engineering,Staff,66.3,247800,4.0
+AAPL-0219,Elena Schmidt,Apple,AAPL,Engineering,Senior,66.0,153300,13.2
+AAPL-0220,Priya Lee,Apple,AAPL,Research & AI,Senior Director,81.2,711800,13.1
+AAPL-0221,Hannah Cohen,Apple,AAPL,Research & AI,Staff,87.9,646900,14.1
+AAPL-0222,Olivia Martinez,Apple,AAPL,Sales & GTM,Senior,87.6,400400,16.3
+AAPL-0223,Samuel Yamamoto,Apple,AAPL,Engineering,Senior Director,75.7,1571400,12.9
+AAPL-0224,Nina Okafor,Apple,AAPL,Engineering,Senior,76.2,126500,7.6
+AAPL-0225,Hannah Martinez,Apple,AAPL,Engineering,Senior Director,87.4,2323600,16.7
+AAPL-0226,Wei Nguyen,Apple,AAPL,Design,Principal,73.4,528000,10.7
+AAPL-0227,Wei Rossi,Apple,AAPL,Design,Senior,71.9,199500,3.4
+AAPL-0228,Linda Reyes,Apple,AAPL,Operations,Senior,78.7,226700,6.2
+AAPL-0229,Thomas Garcia,Apple,AAPL,Design,Staff,83.7,752200,4.4
+AAPL-0230,Yuki Reyes,Apple,AAPL,Engineering,Staff,57.9,222200,4.0
+AAPL-0231,Ahmed Park,Apple,AAPL,Research & AI,VP,96.1,1496800,10.6
+AAPL-0232,Olivia Patel,Apple,AAPL,Engineering,Senior,85.4,265300,6.8
+AAPL-0233,Emily Singh,Apple,AAPL,Engineering,Senior Director,72.7,1054800,9.8
+AAPL-0234,Olivia Johnson,Apple,AAPL,Operations,Staff,76.9,207200,2.5
+AAPL-0235,Elena Garcia,Apple,AAPL,Engineering,Staff,86.6,826200,9.4
+AAPL-0236,Priya Murphy,Apple,AAPL,Sales & GTM,Staff,85.7,771000,5.0
+AAPL-0237,Mary Ali,Apple,AAPL,Finance,Senior,68.5,179600,7.8
+AAPL-0238,John Nguyen,Apple,AAPL,Engineering,Senior,65.5,608500,3.1
+AAPL-0239,Carlos Wilson,Apple,AAPL,Engineering,Senior,90.0,122700,23.2
+AAPL-0240,Emily Yamamoto,Apple,AAPL,Operations,VP,77.0,1135700,13.8
+AAPL-0241,Daniel Nguyen,Apple,AAPL,Engineering,Principal,77.5,366000,14.5
+AAPL-0242,James Tanaka,Apple,AAPL,Engineering,Senior,82.8,255800,14.0
+AAPL-0243,James Anderson,Apple,AAPL,Design,Director,69.8,426600,11.4
+AAPL-0244,Hannah Petrov,Apple,AAPL,Research & AI,Senior,87.9,260800,18.4
+AAPL-0245,Priya Ali,Apple,AAPL,Engineering,Senior,75.3,444500,6.8
+AAPL-0246,Chen Kim,Apple,AAPL,Operations,Director,85.6,237000,8.9
+AAPL-0247,Wei Tanaka,Apple,AAPL,Engineering,Staff,98.0,670500,3.2
+AAPL-0248,Grace Tanaka,Apple,AAPL,Sales & GTM,Principal,100.0,431900,8.4
+AAPL-0249,Hiroshi Wang,Apple,AAPL,Product,Senior,70.1,152900,12.9
+AAPL-0250,Elena Lopez,Apple,AAPL,Research & AI,Director,77.3,320400,11.0
+AAPL-0251,Michael Davis,Apple,AAPL,Finance,Senior,88.7,295100,10.1
+AAPL-0252,Hiroshi Park,Apple,AAPL,Finance,Director,74.4,756300,14.3
+AAPL-0253,James Park,Apple,AAPL,Design,Senior Director,69.6,584700,20.6
+AAPL-0254,Hiroshi Wilson,Apple,AAPL,Product,Staff,70.9,168400,13.2
+AAPL-0255,Fatima Yamamoto,Apple,AAPL,Research & AI,Senior,75.2,254900,2.5
+AAPL-0256,Zoe Rossi,Apple,AAPL,Legal & Policy,Principal,87.5,169800,8.7
+AAPL-0257,Carlos Yamamoto,Apple,AAPL,Engineering,Director,77.9,454200,11.9
+AAPL-0258,Thomas Petrov,Apple,AAPL,Operations,Staff,73.7,387500,2.7
+AAPL-0259,Carlos Petrov,Apple,AAPL,Engineering,Staff,83.9,501500,5.9
+AAPL-0260,Hannah Martinez,Apple,AAPL,Research & AI,Senior Director,90.5,565500,17.5
+AAPL-0261,Emily Cohen,Apple,AAPL,Sales & GTM,Staff,91.4,799800,6.6
+AAPL-0262,Carlos Silva,Apple,AAPL,Marketing,Senior Director,90.2,603000,14.4
+AAPL-0263,Hiroshi Garcia,Apple,AAPL,Research & AI,Staff,100.0,756100,7.1
+AAPL-0264,Chen Schmidt,Apple,AAPL,Sales & GTM,Staff,82.2,168500,12.0
+AAPL-0265,Michael Wang,Apple,AAPL,Sales & GTM,Staff,74.3,101100,15.2
+AAPL-0266,John Kim,Apple,AAPL,Legal & Policy,Senior Director,67.2,917200,10.0
+AAPL-0267,Priya Silva,Apple,AAPL,Marketing,Senior,73.7,514000,8.1
+AAPL-0268,Wei Anderson,Apple,AAPL,Engineering,Principal,65.1,447400,6.8
+AAPL-0269,Yuki Anderson,Apple,AAPL,Research & AI,Staff,97.1,818500,12.8
+AAPL-0270,Raj Patel,Apple,AAPL,People/HR,Director,87.7,666600,20.4
+AAPL-0271,Hannah Wilson,Apple,AAPL,Finance,Senior,68.4,322600,7.6
+AAPL-0272,Arjun Lee,Apple,AAPL,Operations,Senior,63.0,150000,10.7
+AAPL-0273,Yuki Davis,Apple,AAPL,Operations,Senior,81.9,441600,5.4
+AAPL-0274,Samuel Johnson,Apple,AAPL,Research & AI,Staff,68.0,454700,5.0
+AAPL-0275,Kevin Martinez,Apple,AAPL,Design,Senior Director,79.8,413100,14.9
+AAPL-0276,Yuki Patel,Apple,AAPL,Finance,Principal,89.2,456800,8.6
+AAPL-0277,Thomas Wang,Apple,AAPL,Engineering,Senior,86.4,532000,4.5
+AAPL-0278,Daniel Park,Apple,AAPL,Research & AI,Senior,77.2,243200,10.0
+AAPL-0279,John Schmidt,Apple,AAPL,Marketing,Director,94.5,413400,8.2
+AAPL-0280,Yuki Park,Apple,AAPL,Research & AI,Senior,97.0,211400,8.9
+AAPL-0281,Mary Ali,Apple,AAPL,Engineering,Senior,74.0,344700,3.3
+AAPL-0282,James Silva,Apple,AAPL,Engineering,Senior,70.2,187800,5.7
+AAPL-0283,Samuel Murphy,Apple,AAPL,Operations,SVP,92.6,1198700,14.6
+AAPL-0284,Hannah Schmidt,Apple,AAPL,Sales & GTM,Senior,67.8,115100,10.2
+AAPL-0285,Wei Cohen,Apple,AAPL,Product,Senior,79.2,188600,7.3
+AAPL-0286,Carlos Kim,Apple,AAPL,Product,SVP,95.3,380600,13.4
+AAPL-0287,Maria Brown,Apple,AAPL,People/HR,Staff,80.4,341200,8.5
+AAPL-0288,Mary Hassan,Apple,AAPL,Operations,Principal,77.1,330100,20.6
+AAPL-0289,David Garcia,Apple,AAPL,Marketing,Principal,74.4,224600,3.3
+AAPL-0290,Priya Hassan,Apple,AAPL,Research & AI,Director,83.4,1345300,7.6
+AAPL-0291,John Johnson,Apple,AAPL,Sales & GTM,SVP,75.8,570200,12.9
+AAPL-0292,Linda Chen,Apple,AAPL,Research & AI,Principal,97.7,439900,9.6
+AAPL-0293,James Okafor,Apple,AAPL,Marketing,Senior,66.1,107600,8.4
+AAPL-0294,Maria Reyes,Apple,AAPL,Engineering,Senior Director,65.2,632600,6.0
+AAPL-0295,Grace Petrov,Apple,AAPL,Research & AI,Senior,62.9,402500,2.1
+AAPL-0296,Carlos Brown,Apple,AAPL,Legal & Policy,Senior,73.5,667200,3.1
+AAPL-0297,Linda Lee,Apple,AAPL,Research & AI,Staff,76.1,795400,5.9
+AAPL-0298,Wei Khan,Apple,AAPL,Sales & GTM,Principal,92.3,402700,7.5
+AAPL-0299,Ahmed Singh,Apple,AAPL,Operations,Senior,76.3,96900,7.5
+AAPL-0300,Ahmed Davis,Apple,AAPL,Sales & GTM,Staff,96.2,301800,3.6
+AAPL-0301,Hannah Smith,Apple,AAPL,Finance,VP,100.0,530700,13.0
+AAPL-0302,Grace Lee,Apple,AAPL,Sales & GTM,Staff,74.2,162600,17.4
+AAPL-0303,Hannah Lopez,Apple,AAPL,Sales & GTM,Senior,86.3,141500,8.7
+AAPL-0304,Elena Chen,Apple,AAPL,Research & AI,Senior,78.6,235900,2.7
+AAPL-0305,Zoe Anderson,Apple,AAPL,Finance,Principal,73.3,536100,12.7
+AAPL-0306,Arjun Okafor,Apple,AAPL,Product,Senior Director,76.8,1061200,19.2
+AAPL-0307,Olivia Smith,Apple,AAPL,Marketing,Director,84.2,1028600,6.4
+AAPL-0308,Mary Lee,Apple,AAPL,Engineering,Principal,81.5,220300,2.1
+AAPL-0309,Zoe Nguyen,Apple,AAPL,Engineering,Senior,64.6,284900,11.6
+AAPL-0310,Chen Singh,Apple,AAPL,Engineering,Principal,87.9,327600,4.3
+AAPL-0311,Maria Tanaka,Apple,AAPL,Operations,Director,92.0,424700,8.7
+AAPL-0312,Yuki Park,Apple,AAPL,Product,Principal,72.7,726900,14.7
+AAPL-0313,Arjun Johnson,Apple,AAPL,Engineering,Principal,100.0,455700,6.3
+AAPL-0314,Wei Ali,Apple,AAPL,People/HR,Staff,90.3,531200,9.4
+AAPL-0315,Carlos Chen,Apple,AAPL,Finance,Director,96.9,123900,10.9
+AAPL-0316,Priya Nguyen,Apple,AAPL,Engineering,Principal,80.0,1047500,5.1
+AAPL-0317,Hiroshi Lopez,Apple,AAPL,Legal & Policy,Senior Director,79.3,1011600,11.6
+AAPL-0318,James Patel,Apple,AAPL,Engineering,Director,76.8,882900,17.3
+AAPL-0319,Olivia Davis,Apple,AAPL,Engineering,SVP,72.1,810100,14.6
+AAPL-0320,Samuel Park,Apple,AAPL,Engineering,Staff,62.4,160300,6.9
+AAPL-0321,Priya Anderson,Apple,AAPL,Operations,Staff,76.4,652000,5.2
+AAPL-0322,Emily Brown,Apple,AAPL,Engineering,Principal,57.6,341000,7.4
+AAPL-0323,Wei Park,Apple,AAPL,Design,Principal,68.4,410200,7.3
+AAPL-0324,Grace Lee,Apple,AAPL,Sales & GTM,Principal,85.1,241400,6.8
+AAPL-0325,Emily Garcia,Apple,AAPL,Engineering,Senior,82.2,238100,3.6
+AAPL-0326,Sofia Schmidt,Apple,AAPL,Sales & GTM,Staff,79.4,481300,2.4
+AAPL-0327,Samuel Okafor,Apple,AAPL,Marketing,Senior,65.7,149300,7.8
+AAPL-0328,Wei Brown,Apple,AAPL,Engineering,Principal,77.9,590500,11.5
+AAPL-0329,Grace Park,Apple,AAPL,Operations,Principal,89.7,2180300,2.1
+AAPL-0330,Raj Lee,Apple,AAPL,Engineering,Principal,85.1,338800,3.8
+AAPL-0331,Aisha Silva,Apple,AAPL,Research & AI,Senior,68.5,595300,6.0
+AAPL-0332,Grace Cohen,Apple,AAPL,Product,Senior,78.2,325900,5.2
+AAPL-0333,Zoe Cohen,Apple,AAPL,Product,Principal,93.1,604700,20.5
+AAPL-0334,Ahmed Silva,Apple,AAPL,Research & AI,Principal,97.6,859200,15.1
+AAPL-0335,Hiroshi Nguyen,Apple,AAPL,Engineering,Senior Director,69.6,728600,12.7
+AAPL-0336,Daniel Murphy,Apple,AAPL,Engineering,Senior,78.3,210400,2.7
+AAPL-0337,Elena Martinez,Apple,AAPL,Finance,Staff,99.3,817800,1.2
+AAPL-0338,John Nguyen,Apple,AAPL,Engineering,Senior,80.5,197300,3.7
+AAPL-0339,Linda Nguyen,Apple,AAPL,Operations,Staff,87.8,791500,12.3
+AAPL-0340,Hiroshi Davis,Apple,AAPL,Marketing,Senior,88.2,183300,13.1
+AAPL-0341,Aisha Davis,Apple,AAPL,Engineering,Principal,77.5,291800,7.4
+AAPL-0342,Raj Rossi,Apple,AAPL,Engineering,VP,72.2,671000,14.4
+AAPL-0343,James Wang,Apple,AAPL,Engineering,Senior,82.9,344300,2.2
+AAPL-0344,Priya Smith,Apple,AAPL,Research & AI,Senior Director,63.0,313200,11.6
+AAPL-0345,Michael Garcia,Apple,AAPL,Research & AI,Staff,77.6,449600,6.4
+AAPL-0346,Mary Wang,Apple,AAPL,Engineering,Director,92.4,261600,8.9
+AAPL-0347,Maria Lee,Apple,AAPL,Engineering,Senior Director,78.2,1246600,8.7
+AAPL-0348,Linda Singh,Apple,AAPL,Design,Senior,91.8,145900,2.2
+AAPL-0349,Yuki Hassan,Apple,AAPL,Design,Senior,96.3,290800,11.8
+AAPL-0350,Nina Garcia,Apple,AAPL,Engineering,Staff,84.8,566500,8.9
+AAPL-0351,Nina Petrov,Apple,AAPL,Finance,Principal,100.0,471800,7.4
+AAPL-0352,Sofia Rossi,Apple,AAPL,Product,Staff,82.5,395000,16.0
+AAPL-0353,Hiroshi Reyes,Apple,AAPL,Research & AI,Senior,90.4,209600,4.2
+AAPL-0354,Wei Petrov,Apple,AAPL,Engineering,Staff,89.4,263700,13.2
+AAPL-0355,Zoe Kim,Apple,AAPL,Product,Principal,79.4,340200,8.5
+AAPL-0356,Michael Okafor,Apple,AAPL,Product,Staff,71.9,372100,6.3
+AAPL-0357,Elena Silva,Apple,AAPL,Engineering,VP,94.6,552200,16.3
+AAPL-0358,Michael Lee,Apple,AAPL,Legal & Policy,VP,60.4,1273600,14.3
+AAPL-0359,John Martinez,Apple,AAPL,Engineering,Director,93.5,1108900,17.4
+AAPL-0360,Maria Khan,Apple,AAPL,Design,Staff,89.7,230400,10.7
+AAPL-0361,Maria Ali,Apple,AAPL,Sales & GTM,Principal,80.1,396700,3.1
+AAPL-0362,Ahmed Garcia,Apple,AAPL,Marketing,Staff,80.4,902400,7.1
+AAPL-0363,Priya Ali,Apple,AAPL,Engineering,Senior,87.8,281600,6.6
+AAPL-0364,Yuki Kim,Apple,AAPL,People/HR,Director,77.6,555100,7.3
+AAPL-0365,Mary Park,Apple,AAPL,Product,Director,81.7,376200,8.0
+AAPL-0366,Nina Petrov,Apple,AAPL,Product,VP,78.2,1294900,9.5
+AAPL-0367,Sofia Khan,Apple,AAPL,Sales & GTM,Senior Director,76.9,314800,11.8
+AAPL-0368,Daniel Lopez,Apple,AAPL,Marketing,Senior Director,99.0,950800,12.2
+AAPL-0369,James Schmidt,Apple,AAPL,Research & AI,Senior,77.3,280300,15.3
+AAPL-0370,Elena Smith,Apple,AAPL,Engineering,Senior,81.1,157000,9.1
+AAPL-0371,Ahmed Rossi,Apple,AAPL,Sales & GTM,Director,72.1,399700,9.5
+AAPL-0372,Sofia Tanaka,Apple,AAPL,Operations,Principal,70.5,308200,9.3
+AAPL-0373,David Chen,Apple,AAPL,Operations,Senior,83.1,441200,5.0
+AAPL-0374,Mary Reyes,Apple,AAPL,Engineering,Senior,75.4,174400,2.6
+AAPL-0375,Hannah Brown,Apple,AAPL,Engineering,Senior Director,74.4,1264700,14.9
+AAPL-0376,Ahmed Chen,Apple,AAPL,Engineering,Director,59.3,625500,5.2
+AAPL-0377,Priya Tanaka,Apple,AAPL,Engineering,Senior,77.4,164200,5.0
+AAPL-0378,Sofia Reyes,Apple,AAPL,Legal & Policy,Staff,78.7,667100,7.7
+AAPL-0379,Sofia Reyes,Apple,AAPL,Operations,Staff,80.2,320800,3.6
+AAPL-0380,Sofia Tanaka,Apple,AAPL,Operations,Senior,71.0,195300,9.1
+AAPL-0381,Carlos Silva,Apple,AAPL,Product,Senior,80.1,249200,0.9
+AAPL-0382,Hannah Tanaka,Apple,AAPL,Engineering,Director,80.3,279400,12.9
+AAPL-0383,Chen Smith,Apple,AAPL,Engineering,Staff,74.2,257600,7.3
+AAPL-0384,Olivia Khan,Apple,AAPL,Product,Senior Director,86.9,1188100,11.7
+AAPL-0385,Fatima Khan,Apple,AAPL,Engineering,Director,84.5,733600,19.0
+AAPL-0386,Yuki Johnson,Apple,AAPL,Engineering,Staff,80.3,464700,6.6
+AAPL-0387,Ahmed Murphy,Apple,AAPL,Research & AI,SVP,100.0,1413600,15.2
+AAPL-0388,Hiroshi Lee,Apple,AAPL,Operations,Principal,78.7,354100,12.1
+AAPL-0389,Sofia Yamamoto,Apple,AAPL,Engineering,Principal,98.3,786800,5.4
+AAPL-0390,Nina Garcia,Apple,AAPL,People/HR,Senior,81.7,252600,1.0
+AAPL-0391,Maria Martinez,Apple,AAPL,Engineering,Staff,82.9,526400,8.4
+AAPL-0392,Wei Wang,Apple,AAPL,Sales & GTM,Senior,70.2,352500,14.7
+AAPL-0393,Michael Kim,Apple,AAPL,Engineering,Director,100.0,1145900,5.4
+AAPL-0394,Grace Yamamoto,Apple,AAPL,People/HR,Senior,92.6,594000,6.8
+AAPL-0395,Nina Wang,Apple,AAPL,Operations,Senior Director,88.2,1657600,17.0
+AAPL-0396,Fatima Chen,Apple,AAPL,People/HR,Staff,75.4,239200,2.3
+AAPL-0397,Wei Brown,Apple,AAPL,Research & AI,Staff,88.2,369700,6.0
+AAPL-0398,Aisha Anderson,Apple,AAPL,Research & AI,Senior,68.4,120100,8.6
+AAPL-0399,Thomas Park,Apple,AAPL,Product,Staff,68.1,376300,5.7
+AAPL-0400,Hiroshi Martinez,Apple,AAPL,Engineering,Staff,78.5,379800,8.3
+AAPL-0401,Mary Lopez,Apple,AAPL,Design,Staff,85.6,246700,11.3
+AAPL-0402,Fatima Silva,Apple,AAPL,Research & AI,Senior Director,73.0,606200,17.4
+AAPL-0403,Mary Okafor,Apple,AAPL,Product,Senior,62.8,124700,18.1
+AAPL-0404,David Yamamoto,Apple,AAPL,Marketing,Senior,50.9,63300,9.0
+AAPL-0405,Chen Ali,Apple,AAPL,Product,C-Suite,90.0,1454400,19.2
+AAPL-0406,Zoe Brown,Apple,AAPL,Sales & GTM,Senior,100.0,458800,13.0
+AAPL-0407,Wei Petrov,Apple,AAPL,Research & AI,Senior,56.4,137300,7.3
+AAPL-0408,Mary Garcia,Apple,AAPL,People/HR,VP,76.5,2270900,10.6
+AAPL-0409,Aisha Petrov,Apple,AAPL,Engineering,Staff,75.9,285100,6.2
+AAPL-0410,Hannah Cohen,Apple,AAPL,Marketing,Staff,78.3,322900,5.0
+AAPL-0411,Zoe Rossi,Apple,AAPL,Product,Senior,84.7,160800,11.6
+AAPL-0412,Zoe Rossi,Apple,AAPL,Research & AI,Director,87.4,880600,7.3
+AAPL-0413,Kevin Wang,Apple,AAPL,Research & AI,Staff,79.9,538600,8.3
+AAPL-0414,Yuki Schmidt,Apple,AAPL,Engineering,Staff,79.9,206400,7.2
+AAPL-0415,Thomas Khan,Apple,AAPL,Research & AI,Senior,88.2,369700,0.6
+AAPL-0416,Chen Martinez,Apple,AAPL,Finance,Staff,56.3,206000,13.0
+AAPL-0417,Michael Chen,Apple,AAPL,Research & AI,Senior Director,66.9,345200,5.1
+AAPL-0418,Nina Wang,Apple,AAPL,Sales & GTM,Staff,93.0,114400,7.5
+AAPL-0419,Thomas Khan,Apple,AAPL,Sales & GTM,Senior,53.1,159300,8.2
+AAPL-0420,Linda Khan,Apple,AAPL,People/HR,Senior,82.1,223800,8.1
+AAPL-0421,Daniel Tanaka,Apple,AAPL,Research & AI,Senior,82.7,389900,6.4
+AAPL-0422,Olivia Garcia,Apple,AAPL,Engineering,Staff,82.9,483400,9.0
+AAPL-0423,Emily Okafor,Apple,AAPL,Engineering,Principal,85.4,1275400,18.8
+AAPL-0424,Maria Cohen,Apple,AAPL,Finance,Senior,89.9,394700,10.3
+AAPL-0425,Olivia Schmidt,Apple,AAPL,Engineering,Staff,69.1,210700,10.4
+AAPL-0426,Ahmed Johnson,Apple,AAPL,People/HR,Senior,78.9,162200,9.2
+AAPL-0427,James Tanaka,Apple,AAPL,Research & AI,Principal,78.1,196700,7.0
+AAPL-0428,Sofia Petrov,Apple,AAPL,Sales & GTM,Senior,91.5,211500,1.9
+AAPL-0429,Hiroshi Lopez,Apple,AAPL,Sales & GTM,Senior,74.0,265300,8.5
+AAPL-0430,Raj Smith,Apple,AAPL,Operations,Principal,89.9,638500,12.1
+AAPL-0431,Aisha Martinez,Apple,AAPL,Engineering,Staff,71.4,271800,13.3
+AAPL-0432,Hiroshi Garcia,Apple,AAPL,Legal & Policy,Senior,64.5,218500,8.7
+AAPL-0433,Wei Martinez,Apple,AAPL,Engineering,Staff,65.7,465300,13.4
+AAPL-0434,Hiroshi Okafor,Apple,AAPL,Engineering,Senior,85.0,119000,5.1
+AAPL-0435,Thomas Hassan,Apple,AAPL,Engineering,Staff,90.3,175300,7.2
+AAPL-0436,Linda Kim,Apple,AAPL,Legal & Policy,Staff,84.8,407900,9.6
+AAPL-0437,David Singh,Apple,AAPL,Engineering,Staff,82.5,316100,15.1
+AAPL-0438,Sofia Brown,Apple,AAPL,Engineering,Staff,78.5,168300,9.9
+AAPL-0439,Fatima Park,Apple,AAPL,Operations,Senior,89.3,355000,2.5
+AAPL-0440,Yuki Lee,Apple,AAPL,Finance,Senior,92.5,326100,5.1
+AAPL-0441,Mary Nguyen,Apple,AAPL,Engineering,Senior,71.1,162400,3.6
+AAPL-0442,Kevin Reyes,Apple,AAPL,Engineering,Senior,87.4,174500,3.0
+AAPL-0443,Olivia Ali,Apple,AAPL,Engineering,Director,93.8,604800,7.3
+AAPL-0444,Fatima Khan,Apple,AAPL,Product,Senior,85.4,277900,4.4
+AAPL-0445,Wei Ali,Apple,AAPL,Product,Senior,95.9,483300,11.5
+AAPL-0446,John Schmidt,Apple,AAPL,Product,Director,72.1,579000,13.2
+AAPL-0447,Nina Chen,Apple,AAPL,Engineering,Director,97.3,887600,5.0
+AAPL-0448,Sofia Smith,Apple,AAPL,Marketing,Senior,78.1,313500,6.0
+AAPL-0449,Linda Kim,Apple,AAPL,Product,Senior,79.5,290200,7.3
+AAPL-0450,Raj Lopez,Apple,AAPL,Operations,Senior,90.2,836300,5.4
+AAPL-0451,Linda Hassan,Apple,AAPL,Finance,Director,71.1,368500,14.3
+AAPL-0452,Ahmed Wilson,Apple,AAPL,Engineering,Senior Director,86.8,486800,15.4
+AAPL-0453,Yuki Lopez,Apple,AAPL,Operations,Director,88.2,939400,19.0
+AAPL-0454,Fatima Khan,Apple,AAPL,Research & AI,Senior,96.2,685600,10.2
+AAPL-0455,Maria Petrov,Apple,AAPL,Engineering,Principal,77.4,867500,19.7
+AAPL-0456,Nina Okafor,Apple,AAPL,Sales & GTM,Director,67.3,680500,7.6
+AAPL-0457,Raj Park,Apple,AAPL,Engineering,Staff,92.6,328700,10.9
+AAPL-0458,Priya Murphy,Apple,AAPL,Engineering,Senior,65.2,168100,3.0
+AAPL-0459,Linda Brown,Apple,AAPL,Engineering,Senior Director,88.9,400600,7.8
+AAPL-0460,Priya Chen,Apple,AAPL,Sales & GTM,Principal,95.2,686000,5.1
+AAPL-0461,Elena Okafor,Apple,AAPL,Engineering,Senior,87.2,214900,3.6
+AAPL-0462,Sofia Brown,Apple,AAPL,Research & AI,Staff,73.2,55000,6.7
+AAPL-0463,Zoe Hassan,Apple,AAPL,Engineering,Senior,76.8,172000,9.1
+AAPL-0464,Hiroshi Johnson,Apple,AAPL,Sales & GTM,Director,100.0,2039200,7.8
+AAPL-0465,Emily Garcia,Apple,AAPL,Engineering,Director,81.7,419900,5.9
+AAPL-0466,Hannah Lopez,Apple,AAPL,Sales & GTM,Staff,89.6,343200,8.8
+AAPL-0467,Hiroshi Brown,Apple,AAPL,Engineering,Principal,71.5,496200,6.9
+AAPL-0468,Wei Okafor,Apple,AAPL,People/HR,Senior,82.5,197400,5.0
+AAPL-0469,Sofia Lee,Apple,AAPL,Research & AI,Principal,66.7,430200,4.9
+AAPL-0470,Priya Cohen,Apple,AAPL,Engineering,Staff,84.4,562100,20.6
+AAPL-0471,Maria Petrov,Apple,AAPL,Operations,Principal,76.4,1163500,4.9
+AAPL-0472,Chen Kim,Apple,AAPL,Design,Senior,61.1,104700,4.4
+AAPL-0473,James Silva,Apple,AAPL,Engineering,Senior,66.7,182700,7.9
+AAPL-0474,Daniel Park,Apple,AAPL,Engineering,VP,86.9,1281300,8.6
+AAPL-0475,Chen Davis,Apple,AAPL,Engineering,Principal,73.6,200200,16.6
+AAPL-0476,Kevin Singh,Apple,AAPL,Sales & GTM,Staff,88.6,507500,13.6
+AAPL-0477,David Martinez,Apple,AAPL,Product,Senior,86.2,222000,4.2
+AAPL-0478,Fatima Smith,Apple,AAPL,Product,Senior,69.9,157400,11.9
+AAPL-0479,Kevin Patel,Apple,AAPL,Operations,Senior Director,91.4,116400,15.1
+AAPL-0480,James Silva,Apple,AAPL,Product,Principal,93.0,535200,12.8
+AAPL-0481,Emily Singh,Apple,AAPL,Product,Staff,65.6,312000,6.0
+AAPL-0482,Yuki Reyes,Apple,AAPL,Legal & Policy,Director,79.9,728400,12.4
+AAPL-0483,Chen Cohen,Apple,AAPL,Engineering,Principal,92.7,188500,7.1
+AAPL-0484,Mary Lopez,Apple,AAPL,Engineering,Director,71.2,185500,10.7
+AAPL-0485,Mary Wang,Apple,AAPL,Finance,Staff,76.9,482900,8.0
+AAPL-0486,Michael Murphy,Apple,AAPL,Engineering,Senior,68.4,169100,6.8
+AAPL-0487,Carlos Smith,Apple,AAPL,Engineering,Senior,68.6,265900,7.6
+AAPL-0488,Daniel Park,Apple,AAPL,Sales & GTM,Staff,86.9,152000,12.0
+AAPL-0489,Samuel Lopez,Apple,AAPL,Engineering,VP,73.1,931200,21.3
+AAPL-0490,Maria Ali,Apple,AAPL,Sales & GTM,Staff,100.0,320200,10.9
+AAPL-0491,David Wang,Apple,AAPL,Product,Staff,82.9,317100,11.0
+AAPL-0492,Fatima Yamamoto,Apple,AAPL,Sales & GTM,Principal,87.6,306300,9.5
+AAPL-0493,Hiroshi Brown,Apple,AAPL,Research & AI,SVP,87.6,1691600,17.2
+AAPL-0494,Samuel Silva,Apple,AAPL,Product,Senior,94.3,167700,14.0
+AAPL-0495,Hiroshi Davis,Apple,AAPL,Sales & GTM,Senior Director,71.2,665500,8.7
+AAPL-0496,Kevin Davis,Apple,AAPL,Marketing,Senior,96.3,201000,8.0
+AAPL-0497,Sofia Garcia,Apple,AAPL,Engineering,Director,67.1,320900,8.1
+AAPL-0498,Michael Singh,Apple,AAPL,Product,Senior,84.9,280100,15.3
+AAPL-0499,Samuel Garcia,Apple,AAPL,Engineering,Staff,89.7,349500,12.1
+AAPL-0500,Ahmed Wang,Apple,AAPL,Engineering,Staff,93.7,314300,9.0
+AAPL-0501,Hannah Smith,Apple,AAPL,Engineering,Director,89.7,461500,8.0
+AAPL-0502,Sofia Khan,Apple,AAPL,Finance,Senior Director,56.6,428300,10.5
+AAPL-0503,Elena Hassan,Apple,AAPL,Marketing,Senior Director,74.9,1105900,9.1
+AAPL-0504,Daniel Petrov,Apple,AAPL,People/HR,Senior,69.4,208700,1.3
+AAPL-0505,Sofia Martinez,Apple,AAPL,Research & AI,Director,67.1,860800,8.0
+AAPL-0506,Samuel Johnson,Apple,AAPL,Operations,VP,73.2,877100,17.8
+AAPL-0507,Raj Cohen,Apple,AAPL,Design,Staff,72.2,504100,5.3
+AAPL-0508,Thomas Murphy,Apple,AAPL,Finance,Director,67.3,329100,7.2
+AAPL-0509,Mary Wang,Apple,AAPL,Engineering,Staff,82.3,353700,6.9
+AAPL-0510,Zoe Singh,Apple,AAPL,Marketing,Staff,69.4,355000,10.5
+AAPL-0511,Daniel Reyes,Apple,AAPL,Finance,Senior,68.4,475500,16.8
+AAPL-0512,Arjun Schmidt,Apple,AAPL,Engineering,Senior,62.0,187700,8.0
+AAPL-0513,Hiroshi Hassan,Apple,AAPL,Sales & GTM,Staff,72.7,269200,5.2
+AAPL-0514,Priya Silva,Apple,AAPL,Sales & GTM,Senior,78.2,281500,6.0
+AAPL-0515,Mary Martinez,Apple,AAPL,Engineering,Staff,92.9,763800,5.1
+AAPL-0516,Samuel Garcia,Apple,AAPL,Engineering,Director,86.3,406600,12.5
+AAPL-0517,Raj Kim,Apple,AAPL,Engineering,Senior,79.2,140500,12.1
+AAPL-0518,Raj Tanaka,Apple,AAPL,Research & AI,Director,92.7,278400,6.5
+AAPL-0519,Wei Patel,Apple,AAPL,Product,Senior,68.5,388400,6.6
+AAPL-0520,Thomas Garcia,Apple,AAPL,Research & AI,Senior,67.4,164000,6.8
+AAPL-0521,Grace Petrov,Apple,AAPL,Operations,Staff,85.9,397700,7.4
+AAPL-0522,Sofia Garcia,Apple,AAPL,Sales & GTM,Senior,74.3,80100,4.5
+AAPL-0523,Olivia Martinez,Apple,AAPL,People/HR,Staff,82.5,348600,10.3
+AAPL-0524,Yuki Reyes,Apple,AAPL,Engineering,Senior,99.5,469000,3.7
+AAPL-0525,Olivia Wang,Apple,AAPL,Finance,Senior,79.4,118800,4.1
+AAPL-0526,Daniel Park,Apple,AAPL,Engineering,Director,87.5,862900,14.7
+AAPL-0527,Sofia Reyes,Apple,AAPL,Product,Staff,82.9,346400,11.5
+AAPL-0528,Michael Cohen,Apple,AAPL,Sales & GTM,Principal,83.4,870200,6.4
+AAPL-0529,Hannah Murphy,Apple,AAPL,Operations,Senior,61.8,56100,3.7
+AAPL-0530,Carlos Reyes,Apple,AAPL,Sales & GTM,Senior,81.4,85500,4.7
+AAPL-0531,Nina Schmidt,Apple,AAPL,Engineering,SVP,70.3,628100,13.0
+AAPL-0532,Michael Park,Apple,AAPL,Engineering,Staff,86.7,406500,12.0
+AAPL-0533,Hiroshi Okafor,Apple,AAPL,Product,Director,93.5,1992300,13.5
+AAPL-0534,Grace Singh,Apple,AAPL,Research & AI,Senior,83.0,212200,12.8
+AAPL-0535,Kevin Rossi,Apple,AAPL,Design,Director,82.0,622600,23.0
+AAPL-0536,John Lopez,Apple,AAPL,Product,Principal,88.7,615400,15.3
+AAPL-0537,Olivia Cohen,Apple,AAPL,Engineering,Director,76.8,350400,10.4
+AAPL-0538,Sofia Garcia,Apple,AAPL,Engineering,Staff,75.5,493100,6.1
+AAPL-0539,Maria Singh,Apple,AAPL,Legal & Policy,Staff,98.4,145700,11.0
+AAPL-0540,Ahmed Martinez,Apple,AAPL,Product,Staff,69.4,375500,9.2
+AAPL-0541,James Cohen,Apple,AAPL,Marketing,Staff,89.7,631000,2.9
+AAPL-0542,Raj Tanaka,Apple,AAPL,Marketing,Senior,82.7,95200,5.2
+AAPL-0543,Carlos Wilson,Apple,AAPL,Engineering,Principal,51.3,895800,6.4
+AAPL-0544,Priya Martinez,Apple,AAPL,Marketing,Director,88.3,653500,8.0
+AAPL-0545,Carlos Reyes,Apple,AAPL,Sales & GTM,Director,81.6,1284200,9.7
+AAPL-0546,David Lopez,Apple,AAPL,Research & AI,Senior,79.8,121800,10.4
+AAPL-0547,Nina Wilson,Apple,AAPL,Engineering,Senior,74.0,123700,4.9
+AAPL-0548,Mary Silva,Apple,AAPL,Operations,Director,89.7,307600,13.5
+AAPL-0549,Raj Murphy,Apple,AAPL,Engineering,Director,99.0,726000,6.2
+AAPL-0550,Hiroshi Schmidt,Apple,AAPL,Product,Principal,87.7,148700,12.1
+AAPL-0551,Wei Cohen,Apple,AAPL,Research & AI,Senior,82.4,303900,14.5
+AAPL-0552,Wei Lopez,Apple,AAPL,Operations,Staff,89.9,534500,4.8
+AAPL-0553,Kevin Garcia,Apple,AAPL,Engineering,Senior,83.2,165500,3.9
+AAPL-0554,James Park,Apple,AAPL,Operations,Principal,85.2,470100,24.7
+AAPL-0555,Chen Tanaka,Apple,AAPL,Sales & GTM,Staff,77.6,444900,5.9
+AAPL-0556,Aisha Nguyen,Apple,AAPL,Engineering,Director,74.8,666700,9.0
+AAPL-0557,Olivia Smith,Apple,AAPL,Product,Senior,55.8,140600,6.7
+AAPL-0558,Chen Rossi,Apple,AAPL,Marketing,Staff,62.9,289000,1.8
+AAPL-0559,Thomas Garcia,Apple,AAPL,Engineering,VP,99.2,1267600,11.4
+AAPL-0560,Zoe Kim,Apple,AAPL,Engineering,Director,86.6,403200,9.3
+AAPL-0561,John Khan,Apple,AAPL,Marketing,Senior,73.4,299400,4.9
+AAPL-0562,Carlos Reyes,Apple,AAPL,Product,Senior,81.9,693800,13.8
+AAPL-0563,Kevin Hassan,Apple,AAPL,Engineering,Senior,63.2,182700,2.2
+AAPL-0564,Samuel Murphy,Apple,AAPL,Design,Principal,77.7,265700,8.4
+AAPL-0565,Fatima Okafor,Apple,AAPL,Research & AI,Senior Director,69.2,1693500,8.9
+AAPL-0566,Maria Tanaka,Apple,AAPL,People/HR,Senior Director,81.4,532300,11.8
+AAPL-0567,Fatima Nguyen,Apple,AAPL,Engineering,Staff,72.7,115100,7.6
+AAPL-0568,Hannah Cohen,Apple,AAPL,Design,SVP,77.3,1556500,22.1
+AAPL-0569,James Martinez,Apple,AAPL,Finance,Principal,74.5,1253500,9.5
+AAPL-0570,Michael Hassan,Apple,AAPL,Product,Principal,98.9,650000,6.9
+AAPL-0571,Carlos Schmidt,Apple,AAPL,Marketing,Staff,79.9,539900,7.4
+AAPL-0572,Chen Park,Apple,AAPL,Product,C-Suite,95.0,3513700,16.9
+AAPL-0573,Elena Tanaka,Apple,AAPL,Engineering,Senior,74.8,930000,6.2
+AAPL-0574,Zoe Cohen,Apple,AAPL,Engineering,Senior,71.2,256600,12.1
+AAPL-0575,Samuel Reyes,Apple,AAPL,Engineering,Staff,87.4,412400,4.2
+AAPL-0576,James Wilson,Apple,AAPL,Marketing,Principal,81.4,612700,6.4
+AAPL-0577,Hiroshi Wang,Apple,AAPL,Product,Principal,79.1,550800,5.4
+AAPL-0578,Ahmed Nguyen,Apple,AAPL,Finance,Staff,90.5,642700,5.5
+AAPL-0579,Linda Yamamoto,Apple,AAPL,Product,Senior,75.2,265000,3.6
+AAPL-0580,Michael Garcia,Apple,AAPL,Sales & GTM,Principal,100.0,243600,8.8
+AAPL-0581,Zoe Wilson,Apple,AAPL,Sales & GTM,Director,89.4,626700,10.2
+AAPL-0582,Thomas Chen,Apple,AAPL,Engineering,Senior Director,86.0,1227400,11.2
+AAPL-0583,Hannah Reyes,Apple,AAPL,Finance,Principal,97.1,478900,2.4
+AAPL-0584,Hiroshi Cohen,Apple,AAPL,Sales & GTM,Senior,71.1,181800,12.5
+AAPL-0585,Chen Chen,Apple,AAPL,Research & AI,Principal,92.1,392800,6.0
+AAPL-0586,Nina Tanaka,Apple,AAPL,Engineering,SVP,82.9,2059900,21.4
+AAPL-0587,Maria Wang,Apple,AAPL,Marketing,Director,73.7,328900,8.6
+AAPL-0588,Ahmed Hassan,Apple,AAPL,Engineering,Senior,73.4,121500,7.2
+AAPL-0589,Thomas Khan,Apple,AAPL,Product,Principal,66.2,857400,10.5
+AAPL-0590,Maria Anderson,Apple,AAPL,Sales & GTM,Staff,93.4,273500,9.3
+AAPL-0591,Ahmed Cohen,Apple,AAPL,Product,Staff,65.4,411800,4.6
+AAPL-0592,Priya Rossi,Apple,AAPL,Sales & GTM,Principal,97.3,454000,8.7
+AAPL-0593,Ahmed Martinez,Apple,AAPL,Engineering,Senior,78.7,659000,2.0
+AAPL-0594,Nina Rossi,Apple,AAPL,Engineering,Senior,76.3,243400,6.3
+AAPL-0595,Emily Brown,Apple,AAPL,Sales & GTM,Senior,85.5,245600,3.9
+AAPL-0596,Priya Davis,Apple,AAPL,Sales & GTM,Principal,86.9,406200,3.3
+AAPL-0597,Aisha Smith,Apple,AAPL,Engineering,Staff,74.6,425800,11.0
+AAPL-0598,Olivia Chen,Apple,AAPL,Sales & GTM,Senior Director,77.4,666900,18.3
+AAPL-0599,James Hassan,Apple,AAPL,Engineering,Senior,67.6,174900,7.0
+AAPL-0600,Hannah Garcia,Apple,AAPL,Legal & Policy,Senior,93.2,367800,11.1
+AAPL-0601,Ahmed Reyes,Apple,AAPL,Research & AI,C-Suite,86.4,1441100,21.9
+AAPL-0602,Grace Garcia,Apple,AAPL,Engineering,Principal,93.6,893400,7.1
+AAPL-0603,Aisha Yamamoto,Apple,AAPL,Finance,Director,74.9,611100,8.9
+AAPL-0604,David Smith,Apple,AAPL,Design,Staff,79.4,358500,11.4
+AAPL-0605,Aisha Okafor,Apple,AAPL,Product,Senior,72.6,344800,0.9
+AAPL-0606,Kevin Ali,Apple,AAPL,People/HR,Staff,75.6,136500,9.6
+AAPL-0607,Aisha Hassan,Apple,AAPL,Product,Staff,78.3,268700,10.2
+AAPL-0608,John Schmidt,Apple,AAPL,Operations,Staff,66.4,281500,1.2
+AAPL-0609,David Lopez,Apple,AAPL,Research & AI,Staff,80.1,367400,4.3
+AAPL-0610,Kevin Anderson,Apple,AAPL,Design,Senior Director,85.0,1610100,17.8
+AAPL-0611,Grace Okafor,Apple,AAPL,Engineering,Staff,71.9,157300,10.0
+AAPL-0612,David Anderson,Apple,AAPL,Engineering,Staff,65.8,193500,7.8
+AAPL-0613,Aisha Martinez,Apple,AAPL,Product,Senior Director,76.2,1532900,10.0
+AAPL-0614,Hiroshi Davis,Apple,AAPL,Engineering,Director,79.8,1011800,10.8
+AAPL-0615,Ahmed Wilson,Apple,AAPL,Research & AI,Staff,76.9,356900,4.1
+AAPL-0616,Sofia Okafor,Apple,AAPL,Sales & GTM,Staff,72.0,250700,4.3
+AAPL-0617,Hiroshi Okafor,Apple,AAPL,Operations,Senior,77.0,227800,4.6
+AAPL-0618,Hannah Khan,Apple,AAPL,Engineering,Staff,63.5,281500,7.0
+AAPL-0619,David Murphy,Apple,AAPL,Design,Staff,68.1,367000,10.1
+AAPL-0620,Grace Khan,Apple,AAPL,Engineering,VP,89.7,1122800,8.9
+AAPL-0621,Samuel Hassan,Apple,AAPL,Marketing,Senior,100.0,332600,7.5
+AAPL-0622,Yuki Cohen,Apple,AAPL,Legal & Policy,Staff,78.6,157900,7.8
+AAPL-0623,Michael Patel,Apple,AAPL,Engineering,Director,90.6,783000,7.8
+AAPL-0624,Zoe Anderson,Apple,AAPL,Research & AI,Senior,87.5,267900,3.6
+AAPL-0625,Arjun Reyes,Apple,AAPL,Operations,Staff,74.3,104100,5.8
+AAPL-0626,Chen Rossi,Apple,AAPL,Finance,Principal,83.4,378700,6.7
+AAPL-0627,Sofia Martinez,Apple,AAPL,Sales & GTM,VP,90.5,776200,19.2
+AAPL-0628,Sofia Petrov,Apple,AAPL,Operations,Principal,64.8,260600,23.9
+AAPL-0629,Nina Smith,Apple,AAPL,Engineering,Staff,78.8,1594300,9.9
+AAPL-0630,Sofia Patel,Apple,AAPL,Engineering,VP,76.9,906800,10.2
+AAPL-0631,Hannah Murphy,Apple,AAPL,Finance,Senior Director,60.6,812300,7.7
+AAPL-0632,Chen Murphy,Apple,AAPL,Engineering,Principal,83.0,255900,11.4
+AAPL-0633,Yuki Wang,Apple,AAPL,Research & AI,Senior,68.0,172400,12.5
+AAPL-0634,Carlos Cohen,Apple,AAPL,People/HR,Director,78.2,490200,11.2
+AAPL-0635,Ahmed Singh,Apple,AAPL,Marketing,Senior,79.7,445300,7.2
+AAPL-0636,David Khan,Apple,AAPL,Engineering,Principal,84.1,161200,6.3
+AAPL-0637,John Ali,Apple,AAPL,Design,Senior,60.6,155200,11.9
+AAPL-0638,Thomas Murphy,Apple,AAPL,Product,Senior,87.1,276600,5.2
+AAPL-0639,Aisha Patel,Apple,AAPL,Engineering,VP,83.7,522000,12.7
+AAPL-0640,Linda Wilson,Apple,AAPL,People/HR,Staff,88.1,382100,14.6
+AAPL-0641,Zoe Khan,Apple,AAPL,Engineering,VP,86.3,1027600,15.0
+AAPL-0642,Samuel Tanaka,Apple,AAPL,Research & AI,VP,69.5,834000,20.2
+AAPL-0643,Sofia Khan,Apple,AAPL,Sales & GTM,Senior,74.7,182800,3.3
+AAPL-0644,Carlos Smith,Apple,AAPL,Engineering,Senior Director,83.6,480400,7.9
+AAPL-0645,Priya Petrov,Apple,AAPL,Legal & Policy,Senior,79.8,341200,1.8
+AAPL-0646,Chen Wilson,Apple,AAPL,Product,Senior,55.1,159300,6.3
+AAPL-0647,Maria Schmidt,Apple,AAPL,Marketing,Staff,78.2,396500,21.4
+AAPL-0648,Michael Nguyen,Apple,AAPL,Operations,Senior,74.3,231200,8.2
+AAPL-0649,Olivia Brown,Apple,AAPL,Operations,Principal,89.2,635800,8.4
+AAPL-0650,Olivia Patel,Apple,AAPL,Sales & GTM,Staff,77.5,702400,5.1
+AAPL-0651,Arjun Hassan,Apple,AAPL,Operations,Senior,90.8,175400,10.1
+AAPL-0652,Linda Wang,Apple,AAPL,Marketing,Senior,82.9,298200,8.0
+AAPL-0653,Yuki Reyes,Apple,AAPL,Engineering,Principal,73.0,249100,14.5
+AAPL-0654,Wei Yamamoto,Apple,AAPL,Legal & Policy,Senior Director,84.9,806000,18.7
+AAPL-0655,Olivia Patel,Apple,AAPL,People/HR,Staff,74.1,369600,9.2
+AAPL-0656,Hiroshi Hassan,Apple,AAPL,Engineering,Staff,87.0,280300,10.2
+AAPL-0657,Wei Murphy,Apple,AAPL,Engineering,Staff,83.1,171400,13.1
+AAPL-0658,Nina Kim,Apple,AAPL,Research & AI,Director,92.3,437900,10.1
+AAPL-0659,Samuel Garcia,Apple,AAPL,Engineering,Director,76.2,394500,13.4
+AAPL-0660,Aisha Lopez,Apple,AAPL,People/HR,Senior,89.3,418000,11.9
+AAPL-0661,Thomas Lee,Apple,AAPL,Engineering,Principal,86.9,619300,6.3
+AAPL-0662,Carlos Rossi,Apple,AAPL,Operations,Senior,74.8,253500,3.4
+AAPL-0663,Michael Davis,Apple,AAPL,Research & AI,Senior,70.0,308600,5.4
+AAPL-0664,David Chen,Apple,AAPL,Sales & GTM,Senior Director,62.7,839100,11.6
+AAPL-0665,Linda Wang,Apple,AAPL,Engineering,Principal,87.0,283700,9.5
+AAPL-0666,Maria Anderson,Apple,AAPL,Product,Director,94.4,546400,9.3
+AAPL-0667,Emily Smith,Apple,AAPL,Legal & Policy,Senior,69.4,246300,8.4
+AAPL-0668,Wei Murphy,Apple,AAPL,Research & AI,Senior,75.7,874200,9.2
+AAPL-0669,Aisha Singh,Apple,AAPL,Research & AI,Principal,70.3,480300,6.3
+AAPL-0670,Thomas Tanaka,Apple,AAPL,Product,Director,85.2,435900,6.2
+AAPL-0671,Olivia Davis,Apple,AAPL,Research & AI,Senior,80.2,434200,7.7
+AAPL-0672,Nina Ali,Apple,AAPL,Engineering,Senior,64.9,115100,2.3
+AAPL-0673,Yuki Reyes,Apple,AAPL,Engineering,Director,73.6,463700,3.8
+AAPL-0674,James Kim,Apple,AAPL,Sales & GTM,Senior,92.7,271400,5.5
+AAPL-0675,James Anderson,Apple,AAPL,Design,Staff,77.7,257500,7.1
+AAPL-0676,John Okafor,Apple,AAPL,People/HR,Director,74.3,521900,10.6
+AAPL-0677,Maria Petrov,Apple,AAPL,Sales & GTM,Principal,64.2,811100,25.2
+AAPL-0678,Grace Wilson,Apple,AAPL,Finance,Principal,74.3,421500,11.0
+AAPL-0679,Elena Johnson,Apple,AAPL,Finance,Staff,76.0,196100,6.0
+AAPL-0680,Aisha Khan,Apple,AAPL,Sales & GTM,Director,79.7,287100,8.6
+AAPL-0681,James Khan,Apple,AAPL,Product,Senior,76.2,505400,5.8
+AAPL-0682,Emily Garcia,Apple,AAPL,Product,Staff,81.3,494200,10.2
+AAPL-0683,Emily Murphy,Apple,AAPL,Engineering,Senior,83.0,173100,9.0
+AAPL-0684,Ahmed Okafor,Apple,AAPL,People/HR,Senior,67.5,355600,11.7
+AAPL-0685,Yuki Yamamoto,Apple,AAPL,Sales & GTM,Principal,85.8,560100,6.6
+AAPL-0686,Chen Silva,Apple,AAPL,Sales & GTM,Staff,80.3,339900,10.3
+AAPL-0687,John Singh,Apple,AAPL,Design,Staff,84.9,492000,14.8
+AAPL-0688,Thomas Lee,Apple,AAPL,Operations,Staff,72.5,466200,11.0
+AAPL-0689,Olivia Wilson,Apple,AAPL,People/HR,Senior,70.8,200800,1.5
+AAPL-0690,Chen Singh,Apple,AAPL,Research & AI,Director,62.7,525000,3.8
+AAPL-0691,Aisha Singh,Apple,AAPL,Marketing,Principal,70.3,730100,6.5
+AAPL-0692,Linda Reyes,Apple,AAPL,Sales & GTM,Senior,65.9,318000,1.9
+AAPL-0693,Priya Yamamoto,Apple,AAPL,Operations,Staff,79.3,187400,9.3
+AAPL-0694,Aisha Lopez,Apple,AAPL,Engineering,Director,80.1,320700,12.5
+AAPL-0695,John Schmidt,Apple,AAPL,Legal & Policy,Senior,78.8,365100,12.0
+AAPL-0696,Maria Lee,Apple,AAPL,Finance,Principal,83.7,796400,17.2
+AAPL-0697,Mary Ali,Apple,AAPL,Product,Staff,75.2,484300,11.5
+AAPL-0698,David Lopez,Apple,AAPL,Engineering,Senior Director,89.7,333000,17.0
+AAPL-0699,Chen Johnson,Apple,AAPL,Finance,Staff,78.7,856200,3.8
+AAPL-0700,Fatima Park,Apple,AAPL,Engineering,SVP,80.5,637100,31.6
+AAPL-0701,Ahmed Reyes,Apple,AAPL,Finance,Senior,74.9,530900,8.3
+AAPL-0702,Aisha Silva,Apple,AAPL,Engineering,Senior,71.4,311400,10.8
+AAPL-0703,Chen Silva,Apple,AAPL,Engineering,Director,72.4,437500,22.9
+AAPL-0704,Elena Yamamoto,Apple,AAPL,Product,Staff,74.0,108100,7.0
+AAPL-0705,Fatima Rossi,Apple,AAPL,Operations,Senior,78.4,118000,12.9
+AAPL-0706,Olivia Wang,Apple,AAPL,Engineering,Principal,88.0,658300,8.1
+AAPL-0707,Samuel Cohen,Apple,AAPL,Engineering,Staff,81.2,461400,3.9
+AAPL-0708,Aisha Tanaka,Apple,AAPL,Research & AI,Staff,78.2,142700,8.7
+AAPL-0709,Carlos Kim,Apple,AAPL,Product,Principal,61.5,266900,10.3
+AAPL-0710,Sofia Davis,Apple,AAPL,Engineering,Senior,64.8,186800,13.4
+AAPL-0711,Aisha Lopez,Apple,AAPL,Product,Principal,81.2,876200,9.9
+AAPL-0712,Zoe Wang,Apple,AAPL,Engineering,Principal,83.1,383900,7.3
+AAPL-0713,Aisha Patel,Apple,AAPL,Engineering,Senior,59.5,67400,7.0
+AAPL-0714,Linda Brown,Apple,AAPL,Marketing,Director,79.4,202500,9.8
+AAPL-0715,Zoe Kim,Apple,AAPL,Design,Senior,73.3,149100,3.4
+AAPL-0716,David Tanaka,Apple,AAPL,Marketing,Senior Director,76.2,290000,8.6
+AAPL-0717,Nina Kim,Apple,AAPL,Legal & Policy,Staff,67.4,341600,5.5
+AAPL-0718,Thomas Ali,Apple,AAPL,Research & AI,Principal,79.1,326300,17.8
+AAPL-0719,Hannah Rossi,Apple,AAPL,Research & AI,Senior,63.1,415600,5.3
+AAPL-0720,Maria Yamamoto,Apple,AAPL,Sales & GTM,Principal,82.0,955100,6.1
+AAPL-0721,Mary Ali,Apple,AAPL,Operations,Staff,70.1,163600,9.7
+AAPL-0722,Nina Okafor,Apple,AAPL,Operations,Principal,64.0,170200,9.4
+AAPL-0723,Wei Hassan,Apple,AAPL,Product,Senior,95.9,597300,2.8
+AAPL-0724,Aisha Kim,Apple,AAPL,Engineering,Staff,88.5,309400,7.8
+AAPL-0725,Hiroshi Garcia,Apple,AAPL,Design,Principal,92.3,516200,5.4
+AAPL-0726,Michael Martinez,Apple,AAPL,Engineering,Principal,86.2,543200,23.6
+AAPL-0727,Sofia Yamamoto,Apple,AAPL,Legal & Policy,Staff,91.4,651200,8.8
+AAPL-0728,Chen Smith,Apple,AAPL,Sales & GTM,SVP,65.4,776500,10.2
+AAPL-0729,David Nguyen,Apple,AAPL,Product,Staff,89.7,483000,11.9
+AAPL-0730,Hannah Nguyen,Apple,AAPL,Engineering,Senior,92.5,172800,11.0
+AAPL-0731,Fatima Park,Apple,AAPL,Product,Senior,83.6,171300,8.0
+AAPL-0732,Linda Park,Apple,AAPL,Operations,Senior Director,80.1,593100,13.5
+AAPL-0733,Nina Murphy,Apple,AAPL,Engineering,Principal,86.4,358200,15.4
+AAPL-0734,Hannah Wilson,Apple,AAPL,Engineering,Director,82.4,755600,6.5
+AAPL-0735,Hannah Singh,Apple,AAPL,Engineering,Staff,77.6,525000,3.1
+AAPL-0736,Michael Tanaka,Apple,AAPL,People/HR,Senior Director,81.6,245300,16.6
+AAPL-0737,Grace Kim,Apple,AAPL,Product,Director,95.2,654000,13.7
+AAPL-0738,Maria Silva,Apple,AAPL,Engineering,VP,70.1,1218100,11.6
+AAPL-0739,Fatima Tanaka,Apple,AAPL,Product,Principal,81.2,259000,6.0
+AAPL-0740,Yuki Garcia,Apple,AAPL,Finance,Senior,93.4,107900,10.4
+AAPL-0741,Linda Brown,Apple,AAPL,Engineering,Staff,75.9,335400,9.0
+AAPL-0742,Sofia Hassan,Apple,AAPL,Operations,VP,95.1,1606800,10.6
+AAPL-0743,John Lopez,Apple,AAPL,Engineering,Staff,70.8,233100,4.5
+AAPL-0744,Elena Wang,Apple,AAPL,Operations,Director,94.8,558600,17.4
+AAPL-0745,Hiroshi Tanaka,Apple,AAPL,Engineering,Director,69.4,598300,10.3
+AAPL-0746,Michael Nguyen,Apple,AAPL,Engineering,Senior,63.7,154400,1.7
+AAPL-0747,Kevin Garcia,Apple,AAPL,Marketing,Principal,77.5,368400,3.9
+AAPL-0748,Mary Reyes,Apple,AAPL,Operations,VP,67.4,691200,12.7
+AAPL-0749,David Kim,Apple,AAPL,Legal & Policy,Senior,79.4,329500,3.4
+AAPL-0750,Linda Tanaka,Apple,AAPL,People/HR,Director,80.0,600500,6.9
+AAPL-0751,Wei Davis,Apple,AAPL,Marketing,Principal,80.9,464500,4.5
+AAPL-0752,Emily Chen,Apple,AAPL,Engineering,Director,68.0,1315100,6.4
+AAPL-0753,Thomas Brown,Apple,AAPL,Engineering,Principal,81.2,366100,12.5
+AAPL-0754,Yuki Davis,Apple,AAPL,Finance,Staff,91.6,313900,9.4
+AAPL-0755,Fatima Silva,Apple,AAPL,Research & AI,Senior,71.1,146800,6.4
+AAPL-0756,Yuki Patel,Apple,AAPL,Engineering,Principal,84.6,366200,3.6
+AAPL-0757,Maria Silva,Apple,AAPL,Engineering,SVP,86.7,974200,14.8
+AAPL-0758,Fatima Kim,Apple,AAPL,Legal & Policy,Senior,85.8,115600,16.6
+AAPL-0759,Arjun Schmidt,Apple,AAPL,Sales & GTM,Staff,71.9,340700,2.9
+AAPL-0760,Zoe Kim,Apple,AAPL,Operations,Principal,84.7,609600,8.2
+AAPL-0761,Yuki Garcia,Apple,AAPL,People/HR,Principal,84.1,390600,5.9
+AAPL-0762,Grace Kim,Apple,AAPL,Sales & GTM,Staff,55.4,168800,8.1
+AAPL-0763,Ahmed Khan,Apple,AAPL,Operations,Senior,90.9,122600,9.2
+AAPL-0764,Thomas Wilson,Apple,AAPL,Design,Principal,100.0,901400,13.4
+AAPL-0765,Priya Ali,Apple,AAPL,Finance,Staff,78.4,562000,7.9
+AAPL-0766,Samuel Murphy,Apple,AAPL,Engineering,Senior,70.9,337300,5.3
+AAPL-0767,Daniel Lopez,Apple,AAPL,Research & AI,Senior,72.9,213400,8.1
+AAPL-0768,Yuki Wang,Apple,AAPL,Legal & Policy,Senior,87.4,427100,3.3
+AAPL-0769,John Okafor,Apple,AAPL,Design,Staff,74.6,460000,7.9
+AAPL-0770,Mary Patel,Apple,AAPL,People/HR,Principal,69.6,659500,4.1
+AAPL-0771,Carlos Schmidt,Apple,AAPL,Engineering,Staff,87.7,159300,2.3
+AAPL-0772,Maria Hassan,Apple,AAPL,Operations,Senior,93.1,246600,13.1
+AAPL-0773,Maria Reyes,Apple,AAPL,Research & AI,Staff,90.4,539000,12.6
+AAPL-0774,Raj Reyes,Apple,AAPL,Research & AI,Staff,61.6,334300,10.0
+AAPL-0775,Hannah Cohen,Apple,AAPL,Research & AI,Principal,76.5,392700,9.8
+AAPL-0776,James Chen,Apple,AAPL,Engineering,Director,82.5,689400,6.5
+AAPL-0777,Arjun Khan,Apple,AAPL,Sales & GTM,Senior,88.0,170000,3.3
+AAPL-0778,Nina Singh,Apple,AAPL,Engineering,Staff,79.9,442300,5.8
+AAPL-0779,Hiroshi Chen,Apple,AAPL,Engineering,Senior Director,86.0,385600,16.7
+AAPL-0780,Zoe Patel,Apple,AAPL,Engineering,Staff,65.4,290200,5.4
+AAPL-0781,Maria Smith,Apple,AAPL,People/HR,Senior Director,72.9,994100,8.6
+AAPL-0782,James Anderson,Apple,AAPL,Legal & Policy,Senior,87.4,369000,7.3
+AAPL-0783,Wei Khan,Apple,AAPL,People/HR,Senior Director,88.0,1062800,10.3
+AAPL-0784,Sofia Davis,Apple,AAPL,Operations,Staff,89.9,326300,1.7
+AAPL-0785,Grace Tanaka,Apple,AAPL,Sales & GTM,Senior,60.0,288400,4.9
+AAPL-0786,Linda Davis,Apple,AAPL,Marketing,Principal,90.6,144200,9.8
+AAPL-0787,James Wang,Apple,AAPL,Operations,Director,96.0,762300,7.7
+AAPL-0788,Sofia Wang,Apple,AAPL,Engineering,Senior,86.1,197600,8.5
+AAPL-0789,John Smith,Apple,AAPL,Engineering,Senior,74.1,131400,7.9
+AAPL-0790,Hannah Johnson,Apple,AAPL,Engineering,Principal,71.4,334600,6.4
+AAPL-0791,Yuki Park,Apple,AAPL,Engineering,Staff,92.6,587600,2.7
+AAPL-0792,Michael Martinez,Apple,AAPL,Design,Senior,83.8,296500,10.3
+AAPL-0793,Maria Martinez,Apple,AAPL,Engineering,Principal,56.5,212500,11.8
+AAPL-0794,Elena Lee,Apple,AAPL,Legal & Policy,Senior,81.7,288700,8.1
+AAPL-0795,Olivia Patel,Apple,AAPL,Engineering,Principal,70.2,263700,7.2
+AAPL-0796,James Wilson,Apple,AAPL,Design,C-Suite,92.4,3246700,8.5
+AAPL-0797,Hiroshi Johnson,Apple,AAPL,Sales & GTM,SVP,83.1,2027200,13.1
+AAPL-0798,Fatima Tanaka,Apple,AAPL,Engineering,Staff,81.8,623800,6.2
+AAPL-0799,Olivia Reyes,Apple,AAPL,Engineering,Principal,80.7,1051500,10.7
+AAPL-0800,Hiroshi Lopez,Apple,AAPL,Engineering,Director,82.5,1121800,7.0
+AAPL-0801,Yuki Lee,Apple,AAPL,Engineering,Principal,100.0,533700,7.4
+AAPL-0802,Grace Rossi,Apple,AAPL,Engineering,Senior Director,86.0,1057500,9.3
+AAPL-0803,Linda Johnson,Apple,AAPL,People/HR,Senior Director,74.6,751600,10.4
+AAPL-0804,Sofia Chen,Apple,AAPL,Engineering,Staff,75.0,427100,9.0
+AAPL-0805,Sofia Cohen,Apple,AAPL,Engineering,Staff,85.4,1112500,5.5
+AAPL-0806,Ahmed Nguyen,Apple,AAPL,Engineering,Staff,86.2,202600,3.8
+AAPL-0807,Grace Petrov,Apple,AAPL,Operations,Senior Director,90.2,464600,8.5
+AAPL-0808,Elena Wilson,Apple,AAPL,Product,Senior Director,69.6,600900,13.0
+AAPL-0809,Elena Tanaka,Apple,AAPL,Research & AI,Senior,94.9,312400,10.3
+AAPL-0810,Nina Schmidt,Apple,AAPL,Product,Staff,73.3,570000,2.3
+AAPL-0811,Ahmed Patel,Apple,AAPL,Engineering,Senior Director,78.1,576300,13.6
+AAPL-0812,Olivia Khan,Apple,AAPL,Research & AI,Director,72.0,170300,5.1
+AAPL-0813,Linda Ali,Apple,AAPL,Engineering,Principal,82.2,323500,10.4
+AAPL-0814,Emily Petrov,Apple,AAPL,Finance,Senior,61.2,211100,5.4
+AAPL-0815,Olivia Johnson,Apple,AAPL,Research & AI,Senior,84.6,458500,7.2
+AAPL-0816,Yuki Tanaka,Apple,AAPL,Operations,Staff,85.3,332800,4.2
+AAPL-0817,Emily Yamamoto,Apple,AAPL,Engineering,Staff,73.4,290500,4.3
+AAPL-0818,Zoe Ali,Apple,AAPL,Research & AI,Staff,79.3,286500,3.8
+AAPL-0819,John Davis,Apple,AAPL,Sales & GTM,Director,74.3,391700,5.1
+AAPL-0820,Olivia Silva,Apple,AAPL,Sales & GTM,VP,81.7,898400,13.2
+AAPL-0821,Hannah Wilson,Apple,AAPL,Engineering,Senior,74.4,207100,2.0
+AAPL-0822,Daniel Martinez,Apple,AAPL,Engineering,Principal,85.0,1071000,5.4
+AAPL-0823,Mary Silva,Apple,AAPL,Engineering,Senior,61.6,183200,4.2
+AAPL-0824,Emily Nguyen,Apple,AAPL,Sales & GTM,Staff,80.6,130800,8.4
+AAPL-0825,Fatima Nguyen,Apple,AAPL,Engineering,Senior,71.5,130700,8.1
+AAPL-0826,Elena Ali,Apple,AAPL,Legal & Policy,SVP,87.2,1403800,13.7
+AAPL-0827,Aisha Rossi,Apple,AAPL,Finance,Senior,78.1,83400,8.3
+AAPL-0828,Carlos Silva,Apple,AAPL,Legal & Policy,Senior,89.8,580000,5.6
+AAPL-0829,Raj Garcia,Apple,AAPL,Engineering,VP,83.0,1383000,10.7
+AAPL-0830,Kevin Anderson,Apple,AAPL,Operations,Senior,79.8,509500,5.8
+AAPL-0831,Priya Lopez,Apple,AAPL,Operations,Senior,72.1,145100,10.8
+AAPL-0832,Sofia Anderson,Apple,AAPL,Engineering,Staff,98.1,439400,5.6
+AAPL-0833,Hannah Wang,Apple,AAPL,Product,SVP,85.8,1391900,28.0
+AAPL-0834,Nina Wilson,Apple,AAPL,Research & AI,Staff,83.7,754400,1.8
+AAPL-0835,Zoe Schmidt,Apple,AAPL,Engineering,Senior,72.6,103900,6.9
+AAPL-0836,Aisha Cohen,Apple,AAPL,Research & AI,Senior,95.2,479600,5.1
+AAPL-0837,Daniel Smith,Apple,AAPL,Marketing,Senior,71.6,164800,11.1
+AAPL-0838,Olivia Wang,Apple,AAPL,Research & AI,Senior,63.2,83600,12.8
+AAPL-0839,Maria Brown,Apple,AAPL,People/HR,Director,83.8,421800,11.8
+AAPL-0840,Linda Schmidt,Apple,AAPL,Engineering,Senior,77.5,336000,9.5
+AAPL-0841,Daniel Okafor,Apple,AAPL,Engineering,Senior Director,56.9,314800,14.6
+AAPL-0842,Kevin Hassan,Apple,AAPL,Engineering,Senior,65.2,161100,12.1
+AAPL-0843,John Martinez,Apple,AAPL,Engineering,Principal,81.8,207500,7.5
+AAPL-0844,Elena Cohen,Apple,AAPL,Operations,Staff,65.4,373900,5.3
+AAPL-0845,Elena Brown,Apple,AAPL,Research & AI,Senior,100.0,542100,3.8
+AAPL-0846,David Patel,Apple,AAPL,Engineering,Principal,76.9,333900,11.5
+AAPL-0847,Grace Smith,Apple,AAPL,Research & AI,Director,85.2,327400,18.4
+AAPL-0848,Hiroshi Kim,Apple,AAPL,People/HR,Senior,88.3,198300,6.6
+AAPL-0849,Elena Nguyen,Apple,AAPL,Engineering,Staff,77.4,135700,8.4
+AAPL-0850,Aisha Wilson,Apple,AAPL,Engineering,Senior Director,89.2,1722700,20.6
+AAPL-0851,Maria Wang,Apple,AAPL,Legal & Policy,Staff,100.0,255700,3.6
+AAPL-0852,Priya Brown,Apple,AAPL,Engineering,Senior,81.0,246200,7.8
+AAPL-0853,Michael Chen,Apple,AAPL,Product,Staff,81.7,283500,16.3
+AAPL-0854,Chen Wang,Apple,AAPL,Sales & GTM,Principal,60.3,321200,6.4
+AAPL-0855,Chen Singh,Apple,AAPL,Research & AI,Staff,79.5,267100,5.8
+AAPL-0856,Wei Schmidt,Apple,AAPL,Engineering,Director,92.3,1109900,10.9
+AAPL-0857,Michael Tanaka,Apple,AAPL,Research & AI,Senior,82.4,606900,4.4
+AAPL-0858,Arjun Brown,Apple,AAPL,Finance,Staff,84.3,371900,5.4
+AAPL-0859,Wei Silva,Apple,AAPL,Engineering,Senior,86.6,364100,6.1
+AAPL-0860,Aisha Singh,Apple,AAPL,Finance,Senior Director,83.0,545500,16.8
+AAPL-0861,Aisha Johnson,Apple,AAPL,Finance,Director,72.5,813700,6.9
+AAPL-0862,Yuki Reyes,Apple,AAPL,Engineering,Senior,88.5,372300,14.8
+AAPL-0863,Samuel Rossi,Apple,AAPL,Marketing,Senior,73.8,186000,7.8
+AAPL-0864,Samuel Davis,Apple,AAPL,Engineering,Senior,65.6,130100,5.6
+AAPL-0865,Grace Anderson,Apple,AAPL,Engineering,Staff,88.6,381300,1.7
+AAPL-0866,David Park,Apple,AAPL,Marketing,Senior,79.9,301100,2.1
+AAPL-0867,Thomas Brown,Apple,AAPL,Research & AI,Staff,68.7,456600,3.9
+AAPL-0868,Carlos Okafor,Apple,AAPL,Engineering,Staff,92.3,764600,18.1
+AAPL-0869,Samuel Lopez,Apple,AAPL,Engineering,Principal,80.3,515000,13.3
+AAPL-0870,Maria Johnson,Apple,AAPL,Research & AI,Senior,67.7,108200,1.7
+AAPL-0871,Michael Nguyen,Apple,AAPL,Research & AI,Principal,73.7,608400,2.9
+AAPL-0872,Grace Lopez,Apple,AAPL,Marketing,Principal,81.0,216000,11.7
+AAPL-0873,Linda Wang,Apple,AAPL,Sales & GTM,Staff,97.3,503400,4.1
+AAPL-0874,Hannah Smith,Apple,AAPL,Engineering,Staff,71.9,399600,6.6
+AAPL-0875,Kevin Yamamoto,Apple,AAPL,Research & AI,Senior Director,68.7,410200,13.9
+AAPL-0876,Zoe Johnson,Apple,AAPL,Marketing,Senior Director,100.0,476900,13.2
+AAPL-0877,Elena Schmidt,Apple,AAPL,Product,Staff,86.0,306500,16.0
+AAPL-0878,Arjun Petrov,Apple,AAPL,Engineering,Senior,62.6,320700,8.5
+AAPL-0879,Olivia Tanaka,Apple,AAPL,Finance,Director,78.0,173600,12.2
+AAPL-0880,James Anderson,Apple,AAPL,Sales & GTM,Senior,68.0,420700,2.3
+AAPL-0881,David Garcia,Apple,AAPL,Legal & Policy,Staff,81.6,279600,12.6
+AAPL-0882,Raj Tanaka,Apple,AAPL,Operations,Principal,74.9,591600,11.6
+AAPL-0883,Kevin Okafor,Apple,AAPL,Engineering,Senior Director,89.5,258500,6.8
+AAPL-0884,Wei Kim,Apple,AAPL,Engineering,Senior,69.1,287900,2.6
+AAPL-0885,Nina Nguyen,Apple,AAPL,Engineering,Senior,85.4,411700,7.6
+AAPL-0886,Mary Reyes,Apple,AAPL,Sales & GTM,Director,71.1,972800,9.0
+AAPL-0887,Samuel Brown,Apple,AAPL,Sales & GTM,Staff,75.5,252400,6.4
+AAPL-0888,Samuel Davis,Apple,AAPL,Engineering,Senior Director,76.5,400700,11.5
+AAPL-0889,Elena Brown,Apple,AAPL,Engineering,Principal,76.2,325000,5.2
+AAPL-0890,Michael Wang,Apple,AAPL,Operations,Senior Director,91.5,861300,12.3
+AAPL-0891,Olivia Anderson,Apple,AAPL,Product,Director,98.5,280200,5.2
+AAPL-0892,Elena Anderson,Apple,AAPL,Research & AI,Staff,73.3,165700,12.2
+AAPL-0893,Hannah Chen,Apple,AAPL,Engineering,Principal,50.8,300200,12.3
+AAPL-0894,Elena Garcia,Apple,AAPL,Design,Staff,85.6,387700,12.0
+AAPL-0895,Mary Lopez,Apple,AAPL,Engineering,Principal,82.4,465200,14.9
+AAPL-0896,Daniel Patel,Apple,AAPL,Engineering,Senior,82.3,291800,9.3
+AAPL-0897,Wei Johnson,Apple,AAPL,Engineering,Principal,79.4,447600,6.3
+AAPL-0898,Zoe Schmidt,Apple,AAPL,Engineering,Senior Director,70.7,1461000,10.2
+AAPL-0899,Arjun Rossi,Apple,AAPL,Engineering,Senior,85.8,221800,8.1
+AAPL-0900,Raj Davis,Apple,AAPL,Product,Director,49.9,523800,7.2
+AAPL-0901,Zoe Ali,Apple,AAPL,Engineering,Senior,78.0,176700,8.6
+AAPL-0902,Elena Murphy,Apple,AAPL,Marketing,Staff,69.6,329700,12.5
+AAPL-0903,Elena Rossi,Apple,AAPL,Research & AI,Staff,90.0,418400,5.9
+AAPL-0904,Aisha Wang,Apple,AAPL,Research & AI,Staff,83.2,344300,6.2
+AAPL-0905,Daniel Reyes,Apple,AAPL,Finance,Principal,73.5,413300,9.1
+AAPL-0906,Yuki Wang,Apple,AAPL,Sales & GTM,Staff,78.7,150100,9.0
+AAPL-0907,Hannah Silva,Apple,AAPL,Research & AI,Staff,88.4,174300,10.9
+AAPL-0908,Ahmed Garcia,Apple,AAPL,Engineering,Senior,92.7,378100,12.8
+AAPL-0909,Sofia Garcia,Apple,AAPL,Design,Director,83.1,746700,7.5
+AAPL-0910,Yuki Cohen,Apple,AAPL,Research & AI,Senior Director,74.5,1238000,20.8
+AAPL-0911,Elena Park,Apple,AAPL,Product,VP,78.0,373200,14.8
+AAPL-0912,Wei Brown,Apple,AAPL,Engineering,Staff,77.9,769700,1.2
+AAPL-0913,Hannah Murphy,Apple,AAPL,Design,Senior,64.1,241000,16.0
+AAPL-0914,Wei Chen,Apple,AAPL,Marketing,Principal,75.8,234400,8.4
+AAPL-0915,Arjun Martinez,Apple,AAPL,Engineering,Senior,90.1,341000,3.4
+AAPL-0916,John Khan,Apple,AAPL,Finance,Senior,76.8,285500,8.1
+AAPL-0917,James Davis,Apple,AAPL,Product,Senior,89.8,267000,6.5
+AAPL-0918,Daniel Chen,Apple,AAPL,Engineering,VP,85.8,1499300,8.7
+AAPL-0919,Grace Tanaka,Apple,AAPL,Design,Senior,83.5,564600,16.2
+AAPL-0920,Elena Tanaka,Apple,AAPL,Sales & GTM,Principal,96.4,616100,9.4
+AAPL-0921,Linda Brown,Apple,AAPL,People/HR,Staff,74.9,551100,3.3
+AAPL-0922,James Singh,Apple,AAPL,Engineering,Senior,74.0,463800,1.1
+AAPL-0923,James Yamamoto,Apple,AAPL,Legal & Policy,Senior,70.5,658000,8.4
+AAPL-0924,Carlos Khan,Apple,AAPL,Engineering,Staff,88.4,575000,4.6
+AAPL-0925,Hannah Park,Apple,AAPL,People/HR,Staff,77.1,835900,7.4
+AAPL-0926,Chen Wilson,Apple,AAPL,Engineering,Principal,90.3,745600,7.0
+AAPL-0927,Zoe Khan,Apple,AAPL,Design,Principal,73.6,595600,4.3
+AAPL-0928,Yuki Schmidt,Apple,AAPL,Research & AI,Senior,78.3,462800,12.4
+AAPL-0929,Ahmed Murphy,Apple,AAPL,Design,Director,85.4,1224300,6.1
+AAPL-0930,Hiroshi Patel,Apple,AAPL,Sales & GTM,Principal,92.5,1133300,19.6
+AAPL-0931,Priya Garcia,Apple,AAPL,Engineering,Principal,85.3,310700,10.5
+AAPL-0932,Nina Wilson,Apple,AAPL,Research & AI,Senior,89.8,440700,13.6
+AAPL-0933,Ahmed Ali,Apple,AAPL,Engineering,Staff,72.3,374500,4.7
+AAPL-0934,Grace Davis,Apple,AAPL,Research & AI,Staff,67.2,334800,3.8
+AAPL-0935,Hannah Patel,Apple,AAPL,Engineering,Principal,88.2,467800,3.8
+AAPL-0936,Fatima Murphy,Apple,AAPL,Engineering,Staff,54.4,237700,7.2
+AAPL-0937,Wei Martinez,Apple,AAPL,Engineering,Principal,81.2,450100,7.9
+AAPL-0938,Maria Rossi,Apple,AAPL,Engineering,Senior Director,78.8,1199500,9.4
+AAPL-0939,John Yamamoto,Apple,AAPL,Engineering,Staff,83.4,364800,8.7
+AAPL-0940,John Brown,Apple,AAPL,Operations,Staff,69.6,126000,8.2
+AAPL-0941,Elena Hassan,Apple,AAPL,Operations,Principal,74.7,204400,16.7
+AAPL-0942,Michael Brown,Apple,AAPL,Research & AI,Senior,83.1,326300,7.2
+AAPL-0943,Daniel Schmidt,Apple,AAPL,Product,Director,79.5,840300,11.0
+AAPL-0944,Maria Rossi,Apple,AAPL,Research & AI,Staff,71.3,141800,10.9
+AAPL-0945,Maria Petrov,Apple,AAPL,Sales & GTM,Senior Director,81.6,830200,5.7
+AAPL-0946,Chen Park,Apple,AAPL,Sales & GTM,Principal,69.4,402900,19.7
+AAPL-0947,Chen Tanaka,Apple,AAPL,Engineering,Staff,71.2,567500,11.3
+AAPL-0948,Sofia Patel,Apple,AAPL,Operations,Senior,77.3,239400,18.6
+AAPL-0949,Wei Kim,Apple,AAPL,Engineering,Senior Director,89.8,2399400,8.2
+AAPL-0950,David Petrov,Apple,AAPL,Marketing,Senior,67.8,112600,20.5
+AAPL-0951,Daniel Hassan,Apple,AAPL,Engineering,Director,74.6,390400,5.9
+AAPL-0952,Chen Reyes,Apple,AAPL,Sales & GTM,Principal,86.2,570000,6.1
+AAPL-0953,Hannah Murphy,Apple,AAPL,Product,Principal,67.0,196200,5.6
+AAPL-0954,Hannah Garcia,Apple,AAPL,Research & AI,Principal,86.1,632400,9.0
+AAPL-0955,Yuki Chen,Apple,AAPL,Sales & GTM,Senior Director,78.1,1221400,20.5
+AAPL-0956,Michael Ali,Apple,AAPL,Research & AI,Principal,57.9,1169200,13.1
+AAPL-0957,Thomas Murphy,Apple,AAPL,Finance,Staff,57.9,148000,6.0
+AAPL-0958,Maria Rossi,Apple,AAPL,Research & AI,Senior Director,100.0,3232600,18.7
+AAPL-0959,Grace Davis,Apple,AAPL,Operations,Staff,79.4,533900,10.5
+AAPL-0960,Mary Murphy,Apple,AAPL,Engineering,Senior,75.5,433200,19.2
+AAPL-0961,Yuki Anderson,Apple,AAPL,Sales & GTM,Staff,87.8,380500,9.5
+AAPL-0962,Mary Lopez,Apple,AAPL,Marketing,Principal,62.8,203900,15.1
+AAPL-0963,Fatima Wang,Apple,AAPL,Sales & GTM,Staff,87.9,249100,8.4
+AAPL-0964,Nina Patel,Apple,AAPL,Sales & GTM,Staff,69.0,790700,18.8
+AAPL-0965,Elena Martinez,Apple,AAPL,Engineering,Senior,61.3,91000,7.2
+AAPL-0966,Raj Reyes,Apple,AAPL,Marketing,Senior,86.2,228400,8.7
+AAPL-0967,Arjun Schmidt,Apple,AAPL,Product,Principal,90.6,400100,7.0
+AAPL-0968,Chen Singh,Apple,AAPL,Sales & GTM,Principal,74.9,408300,14.2
+AAPL-0969,Arjun Martinez,Apple,AAPL,Sales & GTM,Principal,67.2,1113500,9.6
+AAPL-0970,Aisha Khan,Apple,AAPL,Research & AI,Principal,83.0,203100,16.4
+AAPL-0971,Yuki Schmidt,Apple,AAPL,Sales & GTM,Senior,86.1,159100,7.8
+AAPL-0972,Yuki Khan,Apple,AAPL,Research & AI,Principal,76.7,403900,3.7
+AAPL-0973,Samuel Ali,Apple,AAPL,Engineering,Senior,73.6,201300,5.3
+AAPL-0974,Arjun Yamamoto,Apple,AAPL,Engineering,Staff,70.8,258900,5.2
+AAPL-0975,John Garcia,Apple,AAPL,Research & AI,Senior,75.7,201100,29.9
+AAPL-0976,Mary Wang,Apple,AAPL,Engineering,Principal,96.1,997100,16.7
+AAPL-0977,Mary Schmidt,Apple,AAPL,Product,Senior,83.0,385100,2.0
+AAPL-0978,Zoe Hassan,Apple,AAPL,Engineering,Director,81.3,756200,9.2
+AAPL-0979,Thomas Davis,Apple,AAPL,Engineering,VP,83.0,926500,12.7
+AAPL-0980,Olivia Murphy,Apple,AAPL,Engineering,Staff,68.8,303000,6.4
+AAPL-0981,Sofia Rossi,Apple,AAPL,Operations,Staff,68.0,142500,4.8
+AAPL-0982,James Smith,Apple,AAPL,Product,Senior,78.1,635100,7.2
+AAPL-0983,Carlos Rossi,Apple,AAPL,Engineering,Staff,61.3,238100,8.9
+AAPL-0984,Yuki Nguyen,Apple,AAPL,Research & AI,Principal,98.2,355500,6.4
+AAPL-0985,Wei Smith,Apple,AAPL,Engineering,Senior,78.2,484100,4.8
+AAPL-0986,Hiroshi Martinez,Apple,AAPL,Engineering,Senior Director,86.2,858300,10.5
+AAPL-0987,John Murphy,Apple,AAPL,Product,VP,70.3,540400,16.5
+AAPL-0988,Nina Cohen,Apple,AAPL,Finance,Senior,74.6,103100,15.0
+AAPL-0989,Hannah Lopez,Apple,AAPL,Engineering,VP,87.8,407100,5.9
+AAPL-0990,Hiroshi Patel,Apple,AAPL,Research & AI,Director,65.3,455200,7.8
+AAPL-0991,Sofia Okafor,Apple,AAPL,Engineering,Senior Director,69.7,714800,12.8
+AAPL-0992,Zoe Reyes,Apple,AAPL,Engineering,Staff,88.1,291300,3.0
+AAPL-0993,Maria Cohen,Apple,AAPL,Marketing,SVP,77.2,1205700,16.2
+AAPL-0994,Fatima Kim,Apple,AAPL,Engineering,Principal,71.7,392600,8.8
+AAPL-0995,Emily Murphy,Apple,AAPL,Product,Senior Director,81.4,472700,8.0
+AAPL-0996,Yuki Park,Apple,AAPL,Operations,Staff,100.0,324900,5.6
+AAPL-0997,Priya Reyes,Apple,AAPL,Research & AI,Principal,71.3,169400,12.6
+AAPL-0998,Wei Rossi,Apple,AAPL,Legal & Policy,Principal,88.3,1064000,9.3
+AAPL-0999,Hannah Nguyen,Apple,AAPL,Engineering,Senior Director,94.9,899900,17.6
+AAPL-1000,Wei Davis,Apple,AAPL,Product,Senior,73.9,106900,15.8

@@ -62,7 +62,8 @@ g = df.groupby("company", observed=True)
 # --------------------------------------------------------------------------
 summary = pd.DataFrame({
     "people_documented": g.size(),
-    "pct_immigrant": (g["immigrant"].apply(lambda s: (s == "Yes").mean() * 100)).round(1),
+    "pct_immigrant": (g["immigrant"].apply(
+        lambda s: (s == "Yes").sum() / max(1, s.isin(["Yes", "No"]).sum()) * 100)).round(1),
     "pct_documented_adversity": (g["documented_adversity"].apply(
         lambda s: (~s.str.startswith("none")).mean() * 100)).round(1),
     "potential_mean": g["potential_index"].mean().round(1),

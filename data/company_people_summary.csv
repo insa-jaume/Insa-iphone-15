@@ -1,13 +1,13 @@
 company,people_documented,pct_immigrant,pct_documented_adversity,potential_mean,mental_mean,adversity_origin_mean,disclosed_comp_count,median_disclosed_comp,valuation_usd_trillions,ownership,sector
-NVIDIA,18,22.2,27.8,77.5,73.5,52.6,5,21362532.0,5.053,Public,Semiconductors / AI
-Apple,16,25.0,37.5,79.0,74.5,51.7,5,27100000.0,4.428,Public,Consumer Electronics
-Alphabet (Google),21,47.6,61.9,82.4,76.9,56.4,6,38579296.0,4.404,Public,Internet / AI
-Microsoft,22,18.2,18.2,79.4,74.6,49.0,5,28300000.0,3.058,Public,Software / Cloud
-Amazon,21,23.8,23.8,81.0,76.3,51.6,7,25717606.0,2.637,Public,E-commerce / Cloud
-TSMC,17,23.5,29.4,80.9,76.9,56.2,1,74000000.0,2.213,Public,Semiconductor Foundry
-Broadcom,14,21.4,28.6,78.7,75.1,53.1,4,28391528.0,1.877,Public,Semiconductors / Software
-Saudi Aramco,18,11.1,16.7,78.8,74.9,50.9,0,,1.75,Public,Oil & Gas
-Tesla,11,54.5,45.5,80.2,76.5,52.7,3,376000.0,1.535,Public,Automotive / Energy
-Meta Platforms,22,27.3,36.4,81.5,76.2,49.2,5,23620488.0,1.485,Public,Social / AI
-SpaceX,14,28.6,28.6,82.0,79.1,51.3,0,,1.25,Private,Aerospace / Satellites / AI
-OpenAI,22,45.5,59.1,83.9,77.5,53.3,0,,0.852,Private,Frontier AI
+NVIDIA,79,45.9,29.1,76.3,75.3,56.5,5,21362532.0,5.053,Public,Semiconductors / AI
+Apple,91,26.4,13.2,77.2,74.9,49.3,5,27100000.0,4.428,Public,Consumer Electronics
+Alphabet (Google),75,65.3,29.3,78.0,75.6,58.5,6,38579296.0,4.404,Public,Internet / AI
+Microsoft,75,56.8,26.7,77.3,75.6,54.6,5,28300000.0,3.058,Public,Software / Cloud
+Amazon,77,37.7,18.2,77.8,75.6,53.8,7,25717606.0,2.637,Public,E-commerce / Cloud
+TSMC,37,36.0,13.5,79.3,76.0,52.2,1,74000000.0,2.213,Public,Semiconductor Foundry
+Broadcom,41,40.0,12.2,77.4,74.9,50.4,4,28391528.0,1.877,Public,Semiconductors / Software
+Saudi Aramco,36,11.8,8.3,79.4,75.9,48.8,0,,1.75,Public,Oil & Gas
+Tesla,45,54.8,20.0,77.5,75.5,52.5,3,376000.0,1.535,Public,Automotive / Energy
+Meta Platforms,82,51.4,19.5,77.9,75.4,53.9,5,23620488.0,1.485,Public,Social / AI
+SpaceX,34,18.2,17.6,78.5,76.5,49.5,0,,1.25,Private,Aerospace / Satellites / AI
+OpenAI,116,37.3,13.8,77.6,74.8,51.3,0,,0.852,Private,Frontier AI

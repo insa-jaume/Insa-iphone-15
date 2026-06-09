@@ -1,19 +1,37 @@
-company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
-Saudi Aramco,2222.SR,Amin Nasser,President & CEO,1982,Saudi Arabia,Middle East,No,Founder/CEO,,,none documented,88,82,50
-Saudi Aramco,2222.SR,Yasir Al-Rumayyan,Chairman of the Board,2016,Saudi Arabia,Middle East,No,Chair,,,none documented,84,78,50
-Saudi Aramco,2222.SR,Ibrahim Al-Assaf,Deputy Chairman,2016,Saudi Arabia,Middle East,No,Director,,,none documented,80,74,50
-Saudi Aramco,2222.SR,Mohammed Al-Jadaan,Director,2016,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
-Saudi Aramco,2222.SR,Faisal Alibrahim,Director,2024,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
-Saudi Aramco,2222.SR,Khalid Al-Dabbagh,Director,2021,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
-Saudi Aramco,2222.SR,Andrew Liveris,Director,2018,Australia,Oceania,Yes,Director,,,Grandson of Greek immigrants (humble immigrant lineage),80,76,62
-Saudi Aramco,2222.SR,Bob Dudley,Director,2024,USA,North America,No,Director,,,Fled Russia in 2008 amid reported harassment in the TNK-BP dispute,80,82,50
-Saudi Aramco,2222.SR,Lynn Elsenhans,Director,2018,USA,North America,No,Director,,,none documented,78,74,48
-Saudi Aramco,2222.SR,Mark Weinberger,Director,2019,USA,North America,No,Director,,,none documented,78,74,45
-Saudi Aramco,2222.SR,Stuart Gulliver,Director,2018,UK,Europe,Yes,Director,,,Couldn't afford to train as a barrister; modest background,78,76,62
-Saudi Aramco,2222.SR,Ziad Al-Murshed,EVP & CFO,1991,Saudi Arabia,Middle East,No,CFO,,,none documented,78,74,50
-Saudi Aramco,2222.SR,Nabeel Al Mansour,EVP General Counsel,1988,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
-Saudi Aramco,2222.SR,Nasir Al-Naimi,Upstream President,1980,Saudi Arabia,Middle East,No,C-suite,,,none documented,78,74,50
-Saudi Aramco,2222.SR,Mohammed Al Qahtani,Downstream President,1996,Saudi Arabia,Middle East,No,C-suite,,,none documented (first Saudi in US NAE),78,74,50
-Saudi Aramco,2222.SR,Wail Al Jaafari,EVP Technical Services,1993,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
-Saudi Aramco,2222.SR,Ahmad Al-Khowaiter,EVP Technology & Innovation,1984,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
-Saudi Aramco,2222.SR,Ashraf Al Ghazzawi,EVP Strategy & Corporate Development,1995,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+Saudi Aramco,2222.SR,Amin Nasser,President & CEO,1982.0,Saudi Arabia,Middle East,No,Founder/CEO,,,none documented,88,82,50,core
+Saudi Aramco,2222.SR,Yasir Al-Rumayyan,Chairman of the Board,2016.0,Saudi Arabia,Middle East,No,Chair,,,none documented,84,78,50,core
+Saudi Aramco,2222.SR,Ibrahim Al-Assaf,Deputy Chairman,2016.0,Saudi Arabia,Middle East,No,Director,,,none documented,80,74,50,core
+Saudi Aramco,2222.SR,Mohammed Al-Jadaan,Director,2016.0,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50,core
+Saudi Aramco,2222.SR,Faisal Alibrahim,Director,2024.0,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50,core
+Saudi Aramco,2222.SR,Khalid Al-Dabbagh,Director,2021.0,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50,core
+Saudi Aramco,2222.SR,Andrew Liveris,Director,2018.0,Australia,Oceania,Yes,Director,,,Grandson of Greek immigrants (humble immigrant lineage),80,76,62,core
+Saudi Aramco,2222.SR,Bob Dudley,Director,2024.0,USA,North America,No,Director,,,Fled Russia in 2008 amid reported harassment in the TNK-BP dispute,80,82,50,core
+Saudi Aramco,2222.SR,Lynn Elsenhans,Director,2018.0,USA,North America,No,Director,,,none documented,78,74,48,core
+Saudi Aramco,2222.SR,Mark Weinberger,Director,2019.0,USA,North America,No,Director,,,none documented,78,74,45,core
+Saudi Aramco,2222.SR,Stuart Gulliver,Director,2018.0,UK,Europe,Yes,Director,,,Couldn't afford to train as a barrister; modest background,78,76,62,core
+Saudi Aramco,2222.SR,Ziad Al-Murshed,EVP & CFO,1991.0,Saudi Arabia,Middle East,No,CFO,,,none documented,78,74,50,core
+Saudi Aramco,2222.SR,Nabeel Al Mansour,EVP General Counsel,1988.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50,core
+Saudi Aramco,2222.SR,Nasir Al-Naimi,Upstream President,1980.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,78,74,50,core
+Saudi Aramco,2222.SR,Mohammed Al Qahtani,Downstream President,1996.0,Saudi Arabia,Middle East,No,C-suite,,,none documented (first Saudi in US NAE),78,74,50,core
+Saudi Aramco,2222.SR,Wail Al Jaafari,EVP Technical Services,1993.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50,core
+Saudi Aramco,2222.SR,Ahmad Al-Khowaiter,EVP Technology & Innovation,1984.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50,core
+Saudi Aramco,2222.SR,Ashraf Al Ghazzawi,EVP Strategy & Corporate Development,1995.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50,core
+Saudi Aramco,2222.SR,Mohammed K. Al-Mulhim,Senior Vice President; President & CEO Aramco Trading Company,1990.0,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Ahmed M. Alkhunaini,Senior Vice President of Sales Trading and Supply Planning,,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Nawaf K. Al-Dabal,Senior Vice President of Group Finance & Development Support; SVP & Treasurer,1997.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Khalid H. Al-Dabbagh,Senior Vice President of Finance Strategy & Development (former),,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Muhammad M. Al-Saggaf,Senior Vice President of Operations and Business Services (former),,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Mohammed Al-Shammary,Vice President of Procurement and Supply Chain Management,1981.0,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Motaz A. Al-Mashouk,Vice President of Engineering Services,,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Dawood Al-Dawood,Vice President of Northern Area Oil Operations,,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Olivier Gerard Thorel,Vice President Chemicals and Low Carbon Hydrogen,2018.0,France,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Saudi Aramco,2222.SR,Ahmed S. Al-Mulhem,President & CEO Aramco Americas,,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Anwar A. Al-Hejazi,CEO S-OIL; former President Aramco Asia,,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Jeff Rinker,President & CEO Motiva Enterprises,,United States,North America,Yes,Division-CEO,,,none documented,84,80,60,extended
+Saudi Aramco,2222.SR,Mahdi Aladel,CEO Aramco Ventures,2020.0,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Bruce Niven,Chief Investment Officer Aramco Ventures,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Saudi Aramco,2222.SR,Tareq Amin,CEO Aramco Digital (former),2023.0,,Unknown,Unknown,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Ashraf AlTahini,CEO Aramco Digital,,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Abdullah S. Jum'ah,President & CEO Saudi Aramco (former),,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended
+Saudi Aramco,2222.SR,Khalid A. Al-Falih,President & CEO Saudi Aramco (former),,Saudi Arabia,Middle East,No,Division-CEO,,,none documented,84,80,45,extended

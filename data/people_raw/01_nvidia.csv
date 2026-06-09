@@ -1,0 +1,66 @@
+name,title,year_joined,origin_country,education,prior_company,notable,documented_adversity
+Bill Dally,Chief Scientist and SVP of Research,2009,USA,PhD Caltech; professor Stanford and MIT,Stanford University,Pioneer of modern interconnection networks and GPU computing; NAE member,none documented
+David Luebke,VP of Research,2006,USA,PhD UNC Chapel Hill under Fred Brooks,University of Virginia faculty,Co-founder of NVIDIA Research; IEEE Fellow,none documented
+Jan Kautz,VP of Learning and Perception Research,2013,Germany,PhD Max-Planck-Institut fuer Informatik,University College London,Leads LPR computer vision and deep learning team,none documented
+Ming-Yu Liu,VP of Cosmos Lab Research,2016,Taiwan,PhD University of Maryland College Park,Mitsubishi Electric Research Labs,IEEE Fellow; world foundation models and GauGAN,none documented
+Sanja Fidler,VP of AI Research,2018,Slovenia,PhD University of Ljubljana,University of Toronto and Vector Institute,Leads Spatial Intelligence (Toronto AI) Lab; co-founded Vector Institute,Immigrant from Slovenia who built academic career abroad
+Bryan Catanzaro,VP of Applied Deep Learning Research,2016,USA,PhD UC Berkeley,Baidu,Created cuDNN; leads ADLR and open model program,none documented
+Aaron Lefohn,VP of Graphics Research,,USA,PhD UC Davis,Intel and Pixar,Led research behind DLSS and RTX path tracing,none documented
+Arash Vahdat,Research Director (Generative AI),2019,Iran,PhD Simon Fraser University,D-Wave Systems,Leads GenAIR team; diffusion model research,Immigrant from Iran
+Pavlo Molchanov,Research Director,2015,Ukraine,PhD Tampere University of Technology,,Leads deep learning efficiency team,Immigrant from Ukraine
+Michael Garland,Senior Director of Research,2006,USA,PhD Carnegie Mellon University,University of Illinois faculty,Early NVIDIA Research member; parallel programming systems,none documented
+Jonathan Cohen,VP of Applied Research,,USA,,Apple,Co-author of cuDNN; leads BioNeMo and Parabricks,none documented
+Mohammad Shoeybi,Senior Director of Applied Research,,Iran,PhD Stanford University,DeepMind and Baidu,Led Megatron-LM large-scale training framework,Immigrant from Iran
+Oleksii Kuchaiev,Senior Director of Applied Research,,Ukraine,PhD UC Irvine,Apple and Microsoft,Grew NeMo from one person; leads Nemotron post-training,Immigrant from Ukraine
+Boris Ginsburg,Research Director,,,,,Key contributor to NeMo speech and LARS/LAMB optimizers (unverified title),none documented
+Andrew Tao,Distinguished Engineer,,USA,MS Stanford University,,Manages Computer Vision team in ADLR,none documented
+Guilin Liu,Research Scientist,2017,China,PhD George Mason University,,Partial convolutions for image inpainting,none documented
+Paulius Micikevicius,Distinguished Engineer,2007,Lithuania,PhD University of Central Florida,Armstrong Atlantic State University faculty,Lead author of Mixed Precision Training paper,Immigrant from Lithuania
+Tero Karras,Senior Distinguished Research Scientist,2009,Finland,Helsinki University of Technology,,Primary author of StyleGAN family,none documented
+Timo Aila,Senior Distinguished Research Scientist,2007,Finland,Helsinki University of Technology,,Ray tracing and StyleGAN; PantaRay renderer used in Avatar,none documented
+Samuli Laine,Distinguished Research Scientist,2007,Finland,PhD Helsinki University of Technology,,Co-author of StyleGAN and GPU ray tracing research,none documented
+Jaakko Lehtinen,Distinguished Research Scientist,,Finland,PhD Helsinki University of Technology,Aalto University professor,Lead author of Noise2Noise,none documented
+Morgan McGuire,Distinguished Research Scientist (former),2009,,PhD Brown University,Williams College faculty,Co-author of The Graphics Codex; later joined Roblox,none documented
+Koki Nagano,Principal Research Scientist,2020,Japan,PhD USC,,Digital humans; work in Blade Runner 2049 and Ready Player One,Immigrant from Japan
+Shalini De Mello,Director of Research (New Experiences),,India,,,Leads AI-Mediated Reality and Interaction (AMRI) group,Immigrant from India
+Ting-Chun Wang,Principal Research Scientist,,Taiwan,PhD UC Berkeley,,Lead author of pix2pixHD and vid2vid,none documented
+Chen-Hsuan Lin,Senior Research Scientist,,Taiwan,PhD Carnegie Mellon University,,3D reconstruction and neural rendering,none documented
+Huan Ling,Senior Research Scientist,,China,University of Toronto,,Generative video and 3D scene models at Toronto AI lab,none documented
+Zan Gojcic,Research Scientist,,Slovenia,PhD ETH Zurich,,3D vision; GET3D and 3D Gaussian work at Toronto AI lab,none documented
+Stan Birchfield,Principal Research Scientist and Senior Research Manager,,USA,PhD Stanford University,Clemson University faculty,Computer vision and robotics at Seattle Robotics Lab,none documented
+Nathan Ratliff,Distinguished Research Scientist,,USA,PhD Carnegie Mellon University,Lula Robotics,Foundation of NVIDIA manipulation platform,none documented
+Marco Pavone,Director of Autonomous Vehicle Research,,Italy,PhD MIT,Stanford University and NASA JPL,Presidential Early Career Award recipient; AV research lead,Immigrant from Italy
+Zhiding Yu,Senior Research Scientist,,China,PhD Carnegie Mellon University,,Won CVPR 2024 End-to-End Driving challenge,none documented
+Jose Alvarez,Director of AV Applied Research and Distinguished Scientist,,Spain,,,Leads AV applied research; OmniDrive,Immigrant from Spain
+Jim Fan,Director of AI and Distinguished Research Scientist,2021,China,PhD Stanford University under Fei-Fei Li,OpenAI intern,Co-leads GEAR lab and Project GR00T,Immigrant from China
+Yuke Zhu,Director and Distinguished Research Scientist,,China,PhD Stanford University,UT Austin faculty,Co-leads GEAR lab; IEEE RAS Early Career Award,Immigrant from China
+Song Han,Distinguished Scientist,,China,PhD Stanford University,MIT faculty,Deep Compression and TinyML; influenced Ampere Sparse Tensor Core,Immigrant from China
+Anima Anandkumar,Senior Director of AI Research (former),2018,India,PhD Cornell University,Amazon Web Services,Tensor methods and Bren Professor at Caltech,Immigrant from India
+Ian Buck,VP and GM Hyperscale and HPC,2004,USA,PhD Stanford University,,Created CUDA; testified before US Congress on AI,none documented
+Jonah Alben,SVP of GPU Engineering,1997,USA,BS and MS Stanford University,Silicon Graphics,Key CUDA contributor; led A100 development,none documented
+Brian Kelleher,SVP of Hardware Engineering (retired),2000,USA,BS Brown University,3dfx Interactive,Led GPU product development for over two decades,none documented
+Dwight Diercks,SVP of Software Engineering,1994,USA,PhD MSOE,,Built NVIDIA software organization; longtime SVP,none documented
+Stephen Jones,Distinguished Engineer (CUDA Architect),,USA,,SpaceX,One of the original CUDA architects,none documented
+Michael Houston,VP and Chief Architect AI Systems,,USA,PhD Stanford University,,Deep learning systems architecture,none documented
+Ujval Kapasi,VP of AI and HPC Frameworks and Libraries,2009,,PhD Stanford University,Stream Processors Inc,Leads deep learning and HPC software libraries,none documented
+Chris Lamb,VP of Compute Software,,USA,BS University of Illinois Urbana-Champaign,,Leads CUDA platform and compute software,none documented
+Kevin Klues,Distinguished Engineer,,,,,Kubernetes Topology Manager and multi-instance GPU stack,none documented
+Frans Sijstermans,VP of Hardware Engineering,2004,Netherlands,,,Leads RISC-V processors and media engines,Immigrant from the Netherlands
+Gary Hicok,SVP of Automotive Hardware and Systems,1999,USA,,,Oversees NVIDIA DRIVE platforms,none documented
+Ali Kani,VP and GM of Automotive,,,,Raza Microelectronics,Leads NVIDIA DRIVE end-to-end platform,none documented
+Danny Shapiro,VP of Automotive,2009,USA,,,25-year veteran leading automotive division,none documented
+Steve Oberlin,CTO Tesla business unit,2013,USA,,Cray Research,Worked with Seymour Cray; HPC architecture leader,none documented
+Manuvir Das,Head of Enterprise Computing (former),2019,India,PhD University of Wisconsin-Madison,Dell EMC and Microsoft,Helped create Azure; led enterprise AI,Immigrant from India
+Kari Briski,VP of Generative AI Software for Enterprise,,USA,,,Leads Nemotron and NeMo software,none documented
+Charlie Boyle,VP and GM of DGX Systems,,USA,,Oracle and Sun,Drives DGX AI supercomputer adoption,none documented
+Kimberly Powell,VP and GM of Healthcare,2008,USA,BS Northeastern University,Planar Systems,Leads worldwide healthcare business,none documented
+Marc Hamilton,VP of Solutions Architecture and Engineering,,USA,BS UCLA and MS USC,HP and Sun Microsystems,Leads worldwide solutions architecture,none documented
+Gilad Shainer,SVP of Networking,2020,Israel,Technion,Mellanox,Leads InfiniBand and Ethernet networking; HPC-AI Advisory Council chair,Immigrant from Israel
+Kevin Deierling,SVP of Networking,2020,USA,BA UC Berkeley,Mellanox,Leads networking products and DPUs,none documented
+Rev Lebaredian,VP of Omniverse and Simulation Technology,2002,USA,,Warner Brothers and Disney,Leads Omniverse and Isaac Sim,none documented
+Ronnie Vasishta,SVP of Telecom,2020,UK,,Intel,Leads telecom business and AI-RAN,Immigrant from the UK
+Justin Boitano,VP of Enterprise AI,,USA,,Nutanix (Frame),Leads enterprise AI and EGX,none documented
+Bob Pette,VP and GM of Enterprise Platforms (retired),2009,USA,,,Led professional visualization and enterprise platforms,none documented
+Greg Estes,VP of Corporate Marketing and Developer Programs (former),,USA,,,Built Inception startup program and developer community,none documented
+Joe Eaton,Distinguished System Engineer for Data and Graph Analytics,,USA,PhD computational and applied mathematics,,Co-founder of RAPIDS GPU data science stack,none documented
+John Nickolls,Director of Architecture for GPU Computing (deceased),,USA,PhD Stanford University,MasPar Computer,Co-led CUDA development; died 2011,none documented

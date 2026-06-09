@@ -1,8 +1,17 @@
 # People Dataset — Sourcing & Methodology Appendix
 
-This file backs **`data/all_people.csv`** (216 real, individually-documented people across
-12 companies). It records (a) how the data was gathered, (b) how the character indices were
-derived, and (c) the public sources used per company.
+This file backs the **216 "core"** people in `data/all_people.csv` — the deeply-profiled top
+leadership/board and marquee figures. It records (a) how the data was gathered, (b) how the
+character indices were derived, and (c) the public sources used per company.
+
+> **Note on the 572 "extended" people.** `data/all_people.csv` also contains 572 additional
+> real, verifiable people (VPs, distinguished engineers, fellows, and named researchers such
+> as paper authors), marked `data_tier = extended`. Their factual fields (title, education,
+> prior company, notable work, origin where public) are in **`data/people_raw/<NN>_<slug>.csv`**,
+> gathered from the same kinds of public sources listed below — official leadership/research
+> pages, theorg.com, **arXiv paper bylines**, university/conference bios, and reputable press.
+> Their character indices are assigned by the role rubric (not per-biography), and their
+> compensation is blank (not public).
 
 ## How the data was gathered
 For each company, public sources were searched and read: **SEC proxy statements (DEF 14A)**

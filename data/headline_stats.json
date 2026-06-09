@@ -1,29 +1,29 @@
 {
-  "people_documented": 216,
+  "people_documented": 788,
   "companies": 12,
   "people_with_disclosed_comp": 41,
-  "overall_pct_immigrant": 28.7,
+  "overall_pct_immigrant": 34.5,
   "highest_disclosed_comp": [
     "Hock Tan",
     205278006
   ],
   "tyrell_winner": [
     "NVIDIA",
-    88.7
+    89.0
   ],
   "tyrell_top5": {
-    "NVIDIA": 88.7,
-    "Alphabet (Google)": 82.6,
-    "Apple": 81.0,
-    "Microsoft": 72.0,
-    "TSMC": 69.0
+    "NVIDIA": 89.0,
+    "Alphabet (Google)": 82.0,
+    "Apple": 80.6,
+    "Microsoft": 72.2,
+    "Amazon": 68.4
   },
   "most_immigrant_company": [
-    "Tesla",
-    54.5
+    "Alphabet (Google)",
+    65.3
   ],
   "highest_adversity_company": [
     "Alphabet (Google)",
-    56.4
+    58.5
   ]
 }

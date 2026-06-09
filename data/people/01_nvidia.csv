@@ -1,19 +1,80 @@
-company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
-NVIDIA,NVDA,Jensen Huang,Founder President & CEO,1993,Taiwan,East Asia,Yes,Founder/CEO,49866251.0,FY2025,Immigrant sent to US ~age 9; cleaned bathrooms at a Kentucky boarding school; modest means,100,95,88
-NVIDIA,NVDA,Chris Malachowsky,Co-founder & NVIDIA Fellow,1993,USA,North America,No,Co-founder,,,none documented,85,76,45
-NVIDIA,NVDA,Curtis Priem,Co-founder (former CTO),1993,USA,North America,No,Co-founder,,,none documented,80,72,45
-NVIDIA,NVDA,Colette Kress,EVP & CFO,2013,USA,North America,No,CFO,21362532.0,FY2025,none documented,80,72,45
-NVIDIA,NVDA,Jay Puri,EVP Worldwide Field Operations,2005,India,South Asia,Yes,C-suite,21590897.0,FY2025,immigrant background,78,74,60
-NVIDIA,NVDA,Debora Shoquist,EVP Operations,2007,USA,North America,No,C-suite,19217903.0,FY2025,none documented,76,72,45
-NVIDIA,NVDA,Tim Teter,EVP General Counsel,2017,USA,North America,No,C-suite,19201821.0,FY2025,none documented,74,70,45
-NVIDIA,NVDA,Michael Kagan,Chief Technology Officer,2020,USSR/Israel,Middle East,Yes,CTO,,,Reportedly rejected by Russian university over Jewish name; immigrated to Israel; funded studies as a cleaner,82,90,88
-NVIDIA,NVDA,Bill Dally,Chief Scientist & SVP Research,2009,USA,North America,No,Chief Scientist,,,none documented,84,74,45
-NVIDIA,NVDA,Ian Buck,VP & GM Hyperscale and HPC,2004,USA,North America,No,Tech Leader,,,none documented (created CUDA),82,72,45
-NVIDIA,NVDA,Bryan Catanzaro,VP Applied Deep Learning Research,2011,USA,North America,No,Tech Leader,,,none documented,78,70,45
-NVIDIA,NVDA,Jonah Alben,SVP GPU Engineering,1997,USA,North America,No,Tech Leader,,,none documented,78,72,45
-NVIDIA,NVDA,Tench Coxe,Director,1993,USA,North America,No,Director,,,none documented,68,68,45
-NVIDIA,NVDA,Mark Stevens,Director,1993,USA,North America,No,Director,,,none documented,70,68,45
-NVIDIA,NVDA,Dawn Hudson,Director,2013,USA,North America,No,Director,,,none documented,66,66,45
-NVIDIA,NVDA,John Dabiri,Director,2020,USA,North America,No,Director,,,Son of Nigerian immigrants; became full professor at 25,80,76,68
-NVIDIA,NVDA,Stephen Neal,Lead Independent Director,2008,USA,North America,No,Director,,,none documented,66,66,45
-NVIDIA,NVDA,Aarti Shah,Director,2020,India,South Asia,Yes,Director,,,immigrant background,68,70,58
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+NVIDIA,NVDA,Jensen Huang,Founder President & CEO,1993.0,Taiwan,East Asia,Yes,Founder/CEO,49866251.0,FY2025,Immigrant sent to US ~age 9; cleaned bathrooms at a Kentucky boarding school; modest means,100,95,88,core
+NVIDIA,NVDA,Chris Malachowsky,Co-founder & NVIDIA Fellow,1993.0,USA,North America,No,Co-founder,,,none documented,85,76,45,core
+NVIDIA,NVDA,Curtis Priem,Co-founder (former CTO),1993.0,USA,North America,No,Co-founder,,,none documented,80,72,45,core
+NVIDIA,NVDA,Colette Kress,EVP & CFO,2013.0,USA,North America,No,CFO,21362532.0,FY2025,none documented,80,72,45,core
+NVIDIA,NVDA,Jay Puri,EVP Worldwide Field Operations,2005.0,India,South Asia,Yes,C-suite,21590897.0,FY2025,immigrant background,78,74,60,core
+NVIDIA,NVDA,Debora Shoquist,EVP Operations,2007.0,USA,North America,No,C-suite,19217903.0,FY2025,none documented,76,72,45,core
+NVIDIA,NVDA,Tim Teter,EVP General Counsel,2017.0,USA,North America,No,C-suite,19201821.0,FY2025,none documented,74,70,45,core
+NVIDIA,NVDA,Michael Kagan,Chief Technology Officer,2020.0,USSR/Israel,Middle East,Yes,CTO,,,Reportedly rejected by Russian university over Jewish name; immigrated to Israel; funded studies as a cleaner,82,90,88,core
+NVIDIA,NVDA,Bill Dally,Chief Scientist & SVP Research,2009.0,USA,North America,No,Chief Scientist,,,none documented,84,74,45,core
+NVIDIA,NVDA,Ian Buck,VP & GM Hyperscale and HPC,2004.0,USA,North America,No,Tech Leader,,,none documented (created CUDA),82,72,45,core
+NVIDIA,NVDA,Bryan Catanzaro,VP Applied Deep Learning Research,2011.0,USA,North America,No,Tech Leader,,,none documented,78,70,45,core
+NVIDIA,NVDA,Jonah Alben,SVP GPU Engineering,1997.0,USA,North America,No,Tech Leader,,,none documented,78,72,45,core
+NVIDIA,NVDA,Tench Coxe,Director,1993.0,USA,North America,No,Director,,,none documented,68,68,45,core
+NVIDIA,NVDA,Mark Stevens,Director,1993.0,USA,North America,No,Director,,,none documented,70,68,45,core
+NVIDIA,NVDA,Dawn Hudson,Director,2013.0,USA,North America,No,Director,,,none documented,66,66,45,core
+NVIDIA,NVDA,John Dabiri,Director,2020.0,USA,North America,No,Director,,,Son of Nigerian immigrants; became full professor at 25,80,76,68,core
+NVIDIA,NVDA,Stephen Neal,Lead Independent Director,2008.0,USA,North America,No,Director,,,none documented,66,66,45,core
+NVIDIA,NVDA,Aarti Shah,Director,2020.0,India,South Asia,Yes,Director,,,immigrant background,68,70,58,core
+NVIDIA,NVDA,David Luebke,VP of Research,2006.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Jan Kautz,VP of Learning and Perception Research,2013.0,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Ming-Yu Liu,VP of Cosmos Lab Research,2016.0,Taiwan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Sanja Fidler,VP of AI Research,2018.0,Slovenia,Other,Yes,Tech Leader,,,Immigrant from Slovenia who built academic career abroad,76,80,78,extended
+NVIDIA,NVDA,Aaron Lefohn,VP of Graphics Research,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Arash Vahdat,Research Director (Generative AI),2019.0,Iran,Middle East,Yes,Tech Leader,,,Immigrant from Iran,76,80,78,extended
+NVIDIA,NVDA,Pavlo Molchanov,Research Director,2015.0,Ukraine,Europe,Yes,Tech Leader,,,Immigrant from Ukraine,76,80,78,extended
+NVIDIA,NVDA,Michael Garland,Senior Director of Research,2006.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Jonathan Cohen,VP of Applied Research,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Mohammad Shoeybi,Senior Director of Applied Research,,Iran,Middle East,Yes,Tech Leader,,,Immigrant from Iran,76,80,78,extended
+NVIDIA,NVDA,Oleksii Kuchaiev,Senior Director of Applied Research,,Ukraine,Europe,Yes,Tech Leader,,,Immigrant from Ukraine,76,80,78,extended
+NVIDIA,NVDA,Boris Ginsburg,Research Director,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Andrew Tao,Distinguished Engineer,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Guilin Liu,Research Scientist,2017.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Paulius Micikevicius,Distinguished Engineer,2007.0,Lithuania,Other,Yes,Tech Leader,,,Immigrant from Lithuania,76,80,78,extended
+NVIDIA,NVDA,Tero Karras,Senior Distinguished Research Scientist,2009.0,Finland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Timo Aila,Senior Distinguished Research Scientist,2007.0,Finland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Samuli Laine,Distinguished Research Scientist,2007.0,Finland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Jaakko Lehtinen,Distinguished Research Scientist,,Finland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Morgan McGuire,Distinguished Research Scientist (former),2009.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Koki Nagano,Principal Research Scientist,2020.0,Japan,East Asia,Yes,Tech Leader,,,Immigrant from Japan,76,80,78,extended
+NVIDIA,NVDA,Shalini De Mello,Director of Research (New Experiences),,India,South Asia,Yes,Tech Leader,,,Immigrant from India,76,80,78,extended
+NVIDIA,NVDA,Ting-Chun Wang,Principal Research Scientist,,Taiwan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Chen-Hsuan Lin,Senior Research Scientist,,Taiwan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Huan Ling,Senior Research Scientist,,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Zan Gojcic,Research Scientist,,Slovenia,Other,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Stan Birchfield,Principal Research Scientist and Senior Research Manager,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Nathan Ratliff,Distinguished Research Scientist,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Marco Pavone,Director of Autonomous Vehicle Research,,Italy,Europe,Yes,Tech Leader,,,Immigrant from Italy,76,80,78,extended
+NVIDIA,NVDA,Zhiding Yu,Senior Research Scientist,,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+NVIDIA,NVDA,Jose Alvarez,Director of AV Applied Research and Distinguished Scientist,,Spain,Europe,Yes,Tech Leader,,,Immigrant from Spain,76,80,78,extended
+NVIDIA,NVDA,Jim Fan,Director of AI and Distinguished Research Scientist,2021.0,China,East Asia,Yes,Tech Leader,,,Immigrant from China,76,80,78,extended
+NVIDIA,NVDA,Yuke Zhu,Director and Distinguished Research Scientist,,China,East Asia,Yes,Tech Leader,,,Immigrant from China,76,80,78,extended
+NVIDIA,NVDA,Song Han,Distinguished Scientist,,China,East Asia,Yes,Tech Leader,,,Immigrant from China,76,80,78,extended
+NVIDIA,NVDA,Anima Anandkumar,Senior Director of AI Research (former),2018.0,India,South Asia,Yes,Tech Leader,,,Immigrant from India,76,80,78,extended
+NVIDIA,NVDA,Brian Kelleher,SVP of Hardware Engineering (retired),2000.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Dwight Diercks,SVP of Software Engineering,1994.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Stephen Jones,Distinguished Engineer (CUDA Architect),,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Michael Houston,VP and Chief Architect AI Systems,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Ujval Kapasi,VP of AI and HPC Frameworks and Libraries,2009.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Chris Lamb,VP of Compute Software,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Kevin Klues,Distinguished Engineer,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Frans Sijstermans,VP of Hardware Engineering,2004.0,Netherlands,Europe,Yes,C-suite,,,Immigrant from the Netherlands,76,80,78,extended
+NVIDIA,NVDA,Gary Hicok,SVP of Automotive Hardware and Systems,1999.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Ali Kani,VP and GM of Automotive,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Danny Shapiro,VP of Automotive,2009.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Steve Oberlin,CTO Tesla business unit,2013.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Manuvir Das,Head of Enterprise Computing (former),2019.0,India,South Asia,Yes,C-suite,,,Immigrant from India,76,80,78,extended
+NVIDIA,NVDA,Kari Briski,VP of Generative AI Software for Enterprise,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Charlie Boyle,VP and GM of DGX Systems,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Kimberly Powell,VP and GM of Healthcare,2008.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Marc Hamilton,VP of Solutions Architecture and Engineering,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Gilad Shainer,SVP of Networking,2020.0,Israel,Middle East,Yes,C-suite,,,Immigrant from Israel,76,80,78,extended
+NVIDIA,NVDA,Kevin Deierling,SVP of Networking,2020.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Rev Lebaredian,VP of Omniverse and Simulation Technology,2002.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Ronnie Vasishta,SVP of Telecom,2020.0,UK,Europe,Yes,C-suite,,,Immigrant from the UK,76,80,78,extended
+NVIDIA,NVDA,Justin Boitano,VP of Enterprise AI,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Bob Pette,VP and GM of Enterprise Platforms (retired),2009.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Greg Estes,VP of Corporate Marketing and Developer Programs (former),,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+NVIDIA,NVDA,Joe Eaton,Distinguished System Engineer for Data and Graph Analytics,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+NVIDIA,NVDA,John Nickolls,Director of Architecture for GPU Computing (deceased),,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended

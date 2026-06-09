@@ -1,0 +1,62 @@
+name,title,year_joined,origin_country,education,prior_company,notable,documented_adversity
+Aicha Evans,CEO Zoox (S-team),2024,Senegal/France,Engineering studies in France,Intel,Senegalese-born chip exec leading Amazon's self-driving unit Zoox,Born in Senegal and raised partly in France; immigrant background
+Amit Agarwal,SVP Emerging Markets and Selling Partner Services (S-team),1999,India,B.Tech IIT Kanpur; MS Stanford,Informatica,Launched and built Amazon India,none documented
+Beth Galetti,SVP People eXperience and Technology (S-team),2013,USA,BS Lehigh; MS engineering management,FedEx,Heads Amazon HR/PXT,none documented
+Candi Castleberry,VP Amazon eXperience and Upskilling (S-team),2020,USA,University of Wisconsin-Whitewater,Twitter,Diversity and inclusion leader,none documented
+Christine Beauchamp,SVP North America Stores (S-team),,USA,,Ann Taylor,Led Amazon Fashion before NA Stores,none documented
+Colleen Aubrey,SVP AWS Applied AI Solutions (S-team),2007,USA,,,Longtime Amazon advertising and AWS leader,none documented
+Dave Treadwell,SVP eCommerce Foundation (S-team),2006,USA,,Microsoft,Leads core ecommerce platform,none documented
+David Brown,SVP AWS Compute and ML Services (S-team),2007,South Africa,University studies in South Africa,,Built EC2; rose from engineer to SVP,Immigrant from South Africa
+David Zapolsky,Chief Global Affairs and Legal Officer (S-team),1999,USA,BA UC Berkeley; JD Columbia,,Amazon general counsel,none documented
+Drew Herdener,SVP Communications and Corporate Responsibility (S-team),2005,USA,,,Heads Amazon global communications,none documented
+James Hamilton,SVP and Distinguished Engineer (S-team),2009,Canada,University of Victoria,Microsoft,Designed AWS data-center and custom-silicon infrastructure,Former auto mechanic before software career
+John Felton,SVP AWS CFO (S-team),2005,USA,,,Rose through operations finance to AWS CFO,none documented
+Mike Hopkins,SVP Amazon Video and Studios (S-team),2017,USA,University of Arizona,Hulu/Sony,Former Hulu and Sony Pictures TV chief,none documented
+Neil Lindsay,SVP Amazon Health Services (S-team),,Australia,,,Marketing leader now over Amazon Health,none documented
+Panos Panay,SVP Devices and Services (S-team),2023,USA/Greece,California State University Northridge,Microsoft,Former Microsoft Surface chief; leads Alexa and devices,Of Greek descent
+Paul Kotas,SVP Advertising IMDb and Grand Challenge (S-team),1999,USA,,,Longtime advertising leader,none documented
+Peter DeSantis,SVP Foundational AI Models Custom Silicon Quantum and AGI (S-team),1998,USA,Bucknell University,,Leads AWS core infrastructure and AGI group,none documented
+Peter Krawiec,SVP Worldwide Corporate and Business Development (S-team),2002,USA,,,Leads Amazon M&A,none documented
+Prasad Kalyanaraman,VP AWS Infrastructure Services (S-team),2005,India,,,Runs AWS global data-center infrastructure,none documented
+Russell Grandinetti,SVP International Stores (S-team),1998,USA,Anderson School / University,,Longtime Kindle and international leader,none documented
+Steve Boom,VP Audio Twitch and Games (S-team),2016,USA,Harvard,,Former Amazon Music chief,none documented
+Steve Schmidt,Chief Security Officer (S-team),2008,USA,,FBI,Former FBI; Amazon CSO,none documented
+Swami Sivasubramanian,VP AWS Agentic AI (S-team),2006,India,MS Iowa State; PhD Vrije Universiteit Amsterdam,,Built SageMaker and many AWS services; on NAIAC,Grew up in Chennai with one shared school computer; humble origins
+Udit Madan,SVP Worldwide Operations (S-team),2013,India,,,Leads Amazon worldwide operations,none documented
+Rohit Prasad,SVP and Head Scientist Artificial General Intelligence,2013,India,BTech BIT Mesra; MS Illinois Institute of Technology,BBN Technologies,Led Alexa AI and Nova foundation models (departed end 2025),none documented
+Vishal Sharma,VP Amazon AGI,,India,,,Leads AGI information org and LLM work,none documented
+Bernhard Scholkopf,VP and Distinguished Scientist AWS,,Germany,PhD ML,Max Planck Institute,Leading European machine learning and causality researcher,none documented
+Stefano Soatto,VP and Distinguished Scientist AWS Agentic AI,,Italy,PhD,UCLA (Professor),Computer vision leader; UCLA professor,none documented
+Ralf Herbrich,Director of Machine Learning / MD Amazon Germany,,Germany,PhD TU Berlin,Microsoft Research,Led Amazon Development Center Germany ML,none documented
+Pietro Perona,Amazon Scholar / VP AWS,2017,Italy,PhD UC Berkeley,Caltech (Professor),Computer vision pioneer on leave from Caltech,none documented
+Prem Natarajan,VP and Head of AGI Natural Understanding,,India,PhD Northeastern,USC ISI,Led Alexa AI natural understanding,none documented
+Michael Kearns,Amazon Scholar,2020,USA,PhD Harvard,University of Pennsylvania (Professor),Machine learning and algorithmic fairness leader,none documented
+Aaron Roth,Amazon Scholar,,USA,PhD Carnegie Mellon,University of Pennsylvania (Professor),Differential privacy and ML ethics researcher,none documented
+Christos Faloutsos,Amazon Scholar,,Greece,PhD University of Toronto,Carnegie Mellon (Professor),Data mining researcher; Greek-born,none documented
+Matthew Lease,Amazon Scholar,2019,USA,PhD Brown,University of Texas at Austin (Professor),Human-in-the-loop computing researcher,none documented
+John Preskill,Amazon Scholar,,USA,PhD Harvard,Caltech (Professor),Quantum computing leader; Bell Prize winner,none documented
+Michael I Jordan,Amazon Scholar,,USA,PhD UC San Diego,UC Berkeley (Professor),Foundational machine learning researcher (unverified),none documented
+Marc Brooker,VP and Distinguished Engineer AWS,,South Africa,University of Cape Town,,Worked on EC2 EBS Lambda and Aurora DSQL,Immigrant from South Africa
+Colm MacCarthaigh,VP and Distinguished Engineer AWS,,Ireland,,,Built AWS network security and TLS infrastructure (s2n),Immigrant from Ireland
+Eric Brandwine,VP and Distinguished Engineer AWS Security,,USA,,,Longtime AWS security distinguished engineer,none documented
+Andy Warfield,VP and Distinguished Engineer AWS Storage,,Canada,PhD University of Cambridge,Coho Data,S3 and storage distinguished engineer; Xen co-creator,none documented
+Mai-Lan Tomsen Bukovec,VP AWS Foundational Data Services,,USA,,,Leads S3 and object/block storage,none documented
+Deepak Singh,VP AWS Next Gen Developer Experience,,India,PhD,,Led AWS containers and compute services,none documented
+Jeff Barr,VP and Chief Evangelist AWS,2002,USA,,,One of first AWS employees; longtime AWS evangelist,none documented
+Bratin Saha,VP Machine Learning and AI Services AWS,,India,PhD Yale,NVIDIA,Built AWS machine learning business,none documented
+Francessca Vasquez,VP AWS Professional Services and GenAI Innovation Center,,USA,,,Leads AWS enterprise AI deployments,none documented
+Ruba Borno,VP AWS Global Specialists and Partners,,USA,PhD University of Michigan,Cisco,Leads AWS partner organization,none documented
+Tye Brady,Chief Technologist Amazon Robotics,,USA,MS MIT,Draper Laboratory,Heads Amazon Robotics technology and research,none documented
+Daniel Rausch,VP Alexa and Echo,,USA,,,Leads Alexa and Echo product,none documented
+Heather Zorn,VP Alexa,,USA,,,Leads Alexa customer experience,none documented
+Aaron Rubenson,VP Alexa Music Audio and Alexa Skills,,USA,,,Leads Alexa Music and Skills,none documented
+Adam Selipsky,Former CEO Amazon Web Services,2005,USA,MBA Harvard,Tableau,Led AWS to $100B+ then returned briefly as CEO 2021-2024,none documented
+Charlie Bell,Former SVP AWS (cofounder),1998,USA,,,AWS cofounding engineer; left for Microsoft 2021,none documented
+Tim Bray,Former VP and Distinguished Engineer AWS,2014,Canada,University of Guelph,Google/Sun,Co-invented XML; resigned 2020 over activist firings,none documented
+Jeff Wilke,Former CEO Worldwide Consumer,1999,USA,BS Princeton; MBA/MS MIT,AlliedSignal,Built Amazon's retail/operations; Bezos's tutor,none documented
+Diego Piacentini,Former SVP International Consumer Business,2000,Italy,Bocconi University,Apple,Led Amazon international expansion,Immigrant from Italy
+Jeff Blackburn,Former SVP Global Media and Entertainment,1998,USA,Dartmouth,Deutsche Bank,Led Amazon business development and entertainment,none documented
+Tom Szkutak,Former CFO and SVP,2002,USA,,General Electric,Amazon CFO 2002-2015,none documented
+Rick Dalzell,Former CIO and SVP,1997,USA,US Military Academy West Point,Walmart,First Amazon CIO; drove tech growth,Served in US Army before tech career
+David Limp,Former SVP Devices and Services,2010,USA,BE Vanderbilt,Apple,Led Alexa Echo Kindle and Fire; now Blue Origin CEO,none documented
+Tom Killalea,Former VP Technology and CISO,1998,Ireland,Trinity College Dublin,,Amazon's first CISO; built infrastructure team,Immigrant from Ireland

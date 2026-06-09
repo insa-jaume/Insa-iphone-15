@@ -1,0 +1,22 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Amazon,AMZN,Jeff Bezos,Founder & Executive Chair,1994,USA,North America,No,Founder/CEO,1681840.0,FY2024,Born to a 17-year-old single mother; adopted by Cuban immigrant stepfather,98,88,70
+Amazon,AMZN,Andy Jassy,President & CEO,1997,USA,North America,No,Founder/CEO,1596889.0,FY2024,none documented,90,82,45
+Amazon,AMZN,Brian Olsavsky,SVP & CFO,2002,USA,North America,No,CFO,25717606.0,FY2024,none documented,80,74,45
+Amazon,AMZN,Matt Garman,CEO Amazon Web Services,2005,USA,North America,No,Division-CEO,33180619.0,FY2024,none documented (intern to CEO),86,78,48
+Amazon,AMZN,Doug Herrington,CEO Worldwide Amazon Stores,2005,USA,North America,No,Division-CEO,34193958.0,FY2024,none documented,82,76,45
+Amazon,AMZN,David Zapolsky,SVP Chief Global Affairs & Legal Officer,1999,USA,North America,No,C-suite,25717606.0,FY2024,none documented,78,74,45
+Amazon,AMZN,Adam Selipsky,Former CEO AWS,2005,South Africa,Africa,Yes,Division-CEO,34284148.0,FY2024,Family history of fleeing antisemitic persecution,84,80,72
+Amazon,AMZN,Beth Galetti,SVP People eXperience and Technology,2013,USA,North America,No,C-suite,,,none documented,76,72,45
+Amazon,AMZN,Werner Vogels,VP & Chief Technology Officer,2004,Netherlands,Europe,Yes,CTO,,,Career pivot from radiology into CS in late 20s,82,76,55
+Amazon,AMZN,Swami Sivasubramanian,VP Agentic AI,2005,India,South Asia,Yes,Tech Leader,,,One shared computer for his whole high school in India,82,80,72
+Amazon,AMZN,Peter DeSantis,SVP Foundational AI Models Custom Silicon Quantum,1998,USA,North America,No,Tech Leader,,,none documented,82,76,45
+Amazon,AMZN,Indra Nooyi,Director,2019,India,South Asia,Yes,Director,,,Immigrant on student visa; worked as a receptionist; first night crying alone,84,82,72
+Amazon,AMZN,Andrew Ng,Director,2024,UK,East Asia,Yes,Director,,,none documented,84,76,52
+Amazon,AMZN,Daniel Huttenlocher,Director,2016,USA,North America,No,Director,,,none documented,78,72,45
+Amazon,AMZN,Jamie Gorelick,Lead Independent Director,2012,USA,North America,No,Director,,,none documented,76,74,45
+Amazon,AMZN,Edith Cooper,Director,2021,USA,North America,No,Director,,,none documented,74,72,52
+Amazon,AMZN,Jonathan Rubinstein,Director,2020,USA,North America,No,Director,,,none documented,78,72,45
+Amazon,AMZN,Brad D Smith,Director,2017,USA,North America,No,Director,,,none documented,78,74,48
+Amazon,AMZN,Patricia Stonesifer,Director,2014,USA,North America,No,Director,,,none documented,76,72,45
+Amazon,AMZN,Wendell Weeks,Director,2016,USA,North America,No,Director,,,none documented,76,72,45
+Amazon,AMZN,Keith Alexander,Director,2020,USA,North America,No,Director,,,none documented (4-star general),78,80,48

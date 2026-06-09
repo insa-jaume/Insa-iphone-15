@@ -1,0 +1,23 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Microsoft,MSFT,Satya Nadella,Chairman & CEO,1992,India,South Asia,Yes,Founder/CEO,96500000.0,FY2025,Immigrant; raised son with cerebral palsy (Zain d. 2022),96,88,68
+Microsoft,MSFT,Amy Hood,EVP & CFO,2002,USA,North America,No,CFO,29500000.0,FY2025,none documented,82,74,45
+Microsoft,MSFT,Judson Althoff,EVP & CEO Commercial Business,2013,USA,North America,No,C-suite,28200000.0,FY2025,none documented,80,74,45
+Microsoft,MSFT,Brad Smith,Vice Chair & President,1993,USA,North America,No,C-suite,28300000.0,FY2025,none documented,82,76,45
+Microsoft,MSFT,Takeshi Numoto,EVP & Chief Marketing Officer,1997,Japan,East Asia,Yes,C-suite,11870000.0,FY2025,immigrant background,78,74,55
+Microsoft,MSFT,Kevin Scott,EVP & CTO,2017,USA,North America,No,CTO,,,Rural working-class Virginia upbringing,84,80,70
+Microsoft,MSFT,Mustafa Suleyman,EVP & CEO Microsoft AI,2024,UK,Europe,No,Division-CEO,,,Son of a Syrian immigrant taxi driver; Oxford dropout,88,84,75
+Microsoft,MSFT,Scott Guthrie,EVP Cloud + AI Group,1997,USA,North America,No,C-suite,,,none documented,82,74,45
+Microsoft,MSFT,Phil Spencer,CEO Microsoft Gaming (retired 2026),1988,USA,North America,No,Division-CEO,,,none documented,80,74,45
+Microsoft,MSFT,Kathleen Hogan,EVP Office of Strategy and Transformation,2003,USA,North America,No,C-suite,,,none documented,78,72,45
+Microsoft,MSFT,Amy Coleman,EVP & Chief People Officer,2003,USA,North America,No,C-suite,,,none documented,74,70,45
+Microsoft,MSFT,Reid Hoffman,Independent Director,2017,USA,North America,No,Director,,,none documented,82,74,45
+Microsoft,MSFT,Penny Pritzker,Independent Director,2017,USA,North America,No,Director,,,none documented (Pritzker family),76,72,25
+Microsoft,MSFT,John Stanton,Lead Independent Director,2014,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Sandi Peterson,Independent Director,2015,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Teri List,Independent Director,2014,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Hugh Johnston,Independent Director,2017,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Charles Scharf,Independent Director,2025,USA,North America,No,Director,,,none documented,78,74,45
+Microsoft,MSFT,Emma Walmsley,Independent Director,2019,UK,Europe,Yes,Director,,,none documented,80,74,48
+Microsoft,MSFT,Catherine MacGregor,Independent Director,2023,Morocco,Africa,Yes,Director,,,none documented,78,74,55
+Microsoft,MSFT,Mark Mason,Independent Director,2024,USA,North America,No,Director,,,none documented,76,74,52
+Microsoft,MSFT,John David Rainey,Independent Director,2025,USA,North America,No,Director,,,none documented,76,72,45

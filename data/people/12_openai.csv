@@ -1,0 +1,23 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+OpenAI,OPENAI,Sam Altman,Co-founder & CEO,2015,USA,North America,No,Founder/CEO,,,Briefly ousted as CEO in Nov 2023 and reinstated after 5 days,96,86,42
+OpenAI,OPENAI,Greg Brockman,Co-founder & President,2015,USA,North America,No,Co-founder,,,Removed from board Nov 2023 and reinstated,90,82,45
+OpenAI,OPENAI,Ilya Sutskever,Co-founder (former Chief Scientist),2015,USSR,Europe,Yes,Co-founder,,,Immigrant: USSR to Israel to Canada,92,84,72
+OpenAI,OPENAI,Wojciech Zaremba,Co-founder,2015,Poland,Europe,Yes,Co-founder,,,immigrant background,84,76,55
+OpenAI,OPENAI,Andrej Karpathy,Co-founder (former),2015,Slovakia,Europe,Yes,Co-founder,,,Relocated Slovakia to Canada as a teenager,88,76,58
+OpenAI,OPENAI,John Schulman,Co-founder (former),2015,USA,North America,No,Co-founder,,,none documented,86,76,45
+OpenAI,OPENAI,Durk Kingma,Co-founder (former),2015,Netherlands,Europe,Yes,Co-founder,,,immigrant background,84,74,52
+OpenAI,OPENAI,Mira Murati,Former CTO,2018,Albania,Europe,Yes,CTO,,,Emigrated from Albania as a teen on a UWC scholarship,88,82,72
+OpenAI,OPENAI,Jakub Pachocki,Chief Scientist,2017,Poland,Europe,Yes,Chief Scientist,,,immigrant background,86,78,55
+OpenAI,OPENAI,Mark Chen,Chief Research Officer,2018,USA,North America,No,Chief Scientist,,,none documented,84,76,45
+OpenAI,OPENAI,Brad Lightcap,Chief Operating Officer,2018,USA,North America,No,C-suite,,,none documented,80,74,45
+OpenAI,OPENAI,Sarah Friar,Chief Financial Officer,2024,UK,Europe,Yes,CFO,,,Grew up amid The Troubles in Northern Ireland,84,82,72
+OpenAI,OPENAI,Fidji Simo,CEO of Applications,2025,France,Europe,Yes,Division-CEO,,,First in her family to graduate high school; from a fishing town,84,80,72
+OpenAI,OPENAI,Aaron Chatterji,Chief Economist,2024,USA,North America,No,C-suite,,,none documented,78,74,48
+OpenAI,OPENAI,Jan Leike,Former Head of Alignment,2021,Germany,Europe,Yes,Tech Leader,,,immigrant background,82,76,50
+OpenAI,OPENAI,Bret Taylor,Board Chair,2023,USA,North America,No,Chair,,,none documented,84,76,45
+OpenAI,OPENAI,Adam D'Angelo,Board Director,2018,USA,North America,No,Director,,,none documented,82,74,45
+OpenAI,OPENAI,Zico Kolter,Board Director,2024,USA,North America,No,Director,,,none documented,80,74,45
+OpenAI,OPENAI,Paul Nakasone,Board Director,2024,USA,North America,No,Director,,,Second-generation Japanese American,78,80,52
+OpenAI,OPENAI,Adebayo Ogunlesi,Board Director,2025,Nigeria,Africa,Yes,Director,,,Immigrant from Nigeria,82,78,62
+OpenAI,OPENAI,Sue Desmond-Hellmann,Board Director,2023,USA,North America,No,Director,,,none documented,78,74,48
+OpenAI,OPENAI,Nicole Seligman,Board Director,2023,USA,North America,No,Director,,,none documented,76,72,48

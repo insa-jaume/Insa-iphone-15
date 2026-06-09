@@ -1,0 +1,15 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+SpaceX,SPACEX,Elon Musk,Founder CEO & Chief Engineer,2002,South Africa,Africa,Yes,Founder/CEO,,,Immigrant via Canada; publicly described a difficult childhood,100,92,72
+SpaceX,SPACEX,Gwynne Shotwell,President & COO,2002,USA,North America,No,C-suite,,,none documented,88,82,48
+SpaceX,SPACEX,Tom Mueller,Founding employee (former VP Propulsion),2002,USA,North America,No,Tech Leader,,,Logger's son; worked as a logger to fund education; built engines in his garage,86,82,72
+SpaceX,SPACEX,Hans Koenigsmann,Former VP Build & Flight Reliability,2002,Germany,Europe,Yes,Tech Leader,,,Immigrant; abandoned pilot ambition due to eyesight,82,78,56
+SpaceX,SPACEX,Mark Juncosa,VP Vehicle Engineering,2005,USA,North America,No,Tech Leader,,,none documented,82,80,45
+SpaceX,SPACEX,Kiko Dontchev,VP Launch,2010,Bulgaria,Europe,Yes,Tech Leader,,,Immigrant from Bulgaria; arrived in US at age 3,82,80,60
+SpaceX,SPACEX,Bill Gerstenmaier,VP Build & Flight Reliability,2020,USA,North America,No,Tech Leader,,,none documented,80,78,45
+SpaceX,SPACEX,Jessica Jensen,VP Customer Operations & Integration,2006,USA,North America,No,C-suite,,,none documented,78,76,45
+SpaceX,SPACEX,Jonathan Hofeller,VP Starlink Commercial Sales,2007,USA,North America,No,C-suite,,,none documented,76,74,45
+SpaceX,SPACEX,Stephanie Bednarek,VP Commercial Sales,2008,USA,North America,No,C-suite,,,none documented,76,74,45
+SpaceX,SPACEX,Bret Johnsen,Chief Financial Officer,2011,USA,North America,No,CFO,,,none documented,78,76,45
+SpaceX,SPACEX,Lars Blackmore,Senior Principal Mars Landing Engineer,2011,UK,Europe,Yes,Tech Leader,,,none documented,82,78,50
+SpaceX,SPACEX,Tim Hughes,SVP Global Business & Government Affairs,2005,USA,North America,No,C-suite,,,none documented,78,76,45
+SpaceX,SPACEX,Garrett Reisman,Former Director of Space Operations,2011,USA,North America,No,Tech Leader,,,none documented (former NASA astronaut),80,82,45

@@ -1,0 +1,18 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+TSMC,TSM,Morris Chang,Founder (former Chairman/CEO),1987,China,East Asia,Yes,Founder/CEO,,,Wartime childhood displacement across China and Hong Kong; failed MIT doctoral qualifier twice,98,92,85
+TSMC,TSM,C.C. Wei,Chairman & CEO,1998,Taiwan,East Asia,No,Founder/CEO,74000000.0,FY2024,Humble rural birthplace (farming township),92,88,70
+TSMC,TSM,Mark Liu,Former Chairman,1993,Taiwan,East Asia,No,Chair,,,none documented,86,78,48
+TSMC,TSM,F.C. Tseng,Vice Chairman,1987,Taiwan,East Asia,No,Co-founder,,,none documented,80,74,48
+TSMC,TSM,Y.J. Mii,EVP & Co-COO,1994,Taiwan,East Asia,No,C-suite,,,none documented,80,74,48
+TSMC,TSM,Y.P. Chyn,EVP & Co-COO,1987,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Cliff Hou,SVP & Deputy Co-COO,1997,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Wendell Huang,SVP Finance & CFO,1999,Taiwan,East Asia,No,CFO,,,none documented,78,72,48
+TSMC,TSM,Lora Ho,SVP Corporate Sustainability (former CFO),1999,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Rick Cassidy,Executive Advisor (former Chairman TSMC Arizona),1997,USA,North America,No,C-suite,,,none documented,78,76,45
+TSMC,TSM,Wei-Jen Lo,SVP Corporate Strategy (retired 2025),2004,Taiwan,East Asia,No,Tech Leader,,,none documented,78,74,48
+TSMC,TSM,L. Rafael Reif,Independent Director,2021,Venezuela,Latin America,Yes,Director,,,Son of Eastern-European Jewish refugees who fled to Venezuela; immigrant; non-native English speaker,84,82,85
+TSMC,TSM,Ursula Burns,Independent Director,2024,USA,North America,No,Director,,,Raised in a low-income Manhattan housing project by a single mother,82,84,90
+TSMC,TSM,Lynn Elsenhans,Independent Director,2024,USA,North America,No,Director,,,none documented,78,74,48
+TSMC,TSM,Peter Bonfield,Independent Director,2018,UK,Europe,Yes,Director,,,none documented,76,72,48
+TSMC,TSM,Michael Splinter,Independent Director,2019,USA,North America,No,Director,,,none documented,76,72,45
+TSMC,TSM,Moshe Gavrielov,Independent Director,2020,Israel,Middle East,Yes,Director,,,immigrant background,76,74,55

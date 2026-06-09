@@ -1,0 +1,19 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+NVIDIA,NVDA,Jensen Huang,Founder President & CEO,1993,Taiwan,East Asia,Yes,Founder/CEO,49866251.0,FY2025,Immigrant sent to US ~age 9; cleaned bathrooms at a Kentucky boarding school; modest means,100,95,88
+NVIDIA,NVDA,Chris Malachowsky,Co-founder & NVIDIA Fellow,1993,USA,North America,No,Co-founder,,,none documented,85,76,45
+NVIDIA,NVDA,Curtis Priem,Co-founder (former CTO),1993,USA,North America,No,Co-founder,,,none documented,80,72,45
+NVIDIA,NVDA,Colette Kress,EVP & CFO,2013,USA,North America,No,CFO,21362532.0,FY2025,none documented,80,72,45
+NVIDIA,NVDA,Jay Puri,EVP Worldwide Field Operations,2005,India,South Asia,Yes,C-suite,21590897.0,FY2025,immigrant background,78,74,60
+NVIDIA,NVDA,Debora Shoquist,EVP Operations,2007,USA,North America,No,C-suite,19217903.0,FY2025,none documented,76,72,45
+NVIDIA,NVDA,Tim Teter,EVP General Counsel,2017,USA,North America,No,C-suite,19201821.0,FY2025,none documented,74,70,45
+NVIDIA,NVDA,Michael Kagan,Chief Technology Officer,2020,USSR/Israel,Middle East,Yes,CTO,,,Reportedly rejected by Russian university over Jewish name; immigrated to Israel; funded studies as a cleaner,82,90,88
+NVIDIA,NVDA,Bill Dally,Chief Scientist & SVP Research,2009,USA,North America,No,Chief Scientist,,,none documented,84,74,45
+NVIDIA,NVDA,Ian Buck,VP & GM Hyperscale and HPC,2004,USA,North America,No,Tech Leader,,,none documented (created CUDA),82,72,45
+NVIDIA,NVDA,Bryan Catanzaro,VP Applied Deep Learning Research,2011,USA,North America,No,Tech Leader,,,none documented,78,70,45
+NVIDIA,NVDA,Jonah Alben,SVP GPU Engineering,1997,USA,North America,No,Tech Leader,,,none documented,78,72,45
+NVIDIA,NVDA,Tench Coxe,Director,1993,USA,North America,No,Director,,,none documented,68,68,45
+NVIDIA,NVDA,Mark Stevens,Director,1993,USA,North America,No,Director,,,none documented,70,68,45
+NVIDIA,NVDA,Dawn Hudson,Director,2013,USA,North America,No,Director,,,none documented,66,66,45
+NVIDIA,NVDA,John Dabiri,Director,2020,USA,North America,No,Director,,,Son of Nigerian immigrants; became full professor at 25,80,76,68
+NVIDIA,NVDA,Stephen Neal,Lead Independent Director,2008,USA,North America,No,Director,,,none documented,66,66,45
+NVIDIA,NVDA,Aarti Shah,Director,2020,India,South Asia,Yes,Director,,,immigrant background,68,70,58

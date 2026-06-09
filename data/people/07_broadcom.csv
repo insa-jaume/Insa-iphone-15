@@ -1,0 +1,15 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Broadcom,AVGO,Hock Tan,President CEO & Director,2006,Malaysia,Southeast Asia,Yes,Founder/CEO,205278006.0,FY2025,Immigrant from modest Penang origins; MIT on scholarship; two children with autism,90,88,80
+Broadcom,AVGO,Henry Samueli,Chairman & Co-founder,1991,USA,North America,No,Co-founder,,,Son of Polish-Jewish Holocaust survivors,88,82,85
+Broadcom,AVGO,Kirsten Spears,CFO & Chief Accounting Officer,2014,USA,North America,No,CFO,28164046.0,FY2025,none documented,78,72,45
+Broadcom,AVGO,Charlie Kawwas,President Semiconductor Solutions Group,2014,Canada,North America,No,C-suite,2115626.0,FY2025,none documented,80,74,48
+Broadcom,AVGO,Mark Brazeal,Chief Legal & Corporate Affairs Officer,2017,USA,North America,No,C-suite,28619011.0,FY2025,none documented,76,72,45
+Broadcom,AVGO,Diane Bryant,Director,2019,USA,North America,No,Director,,,none documented,78,74,45
+Broadcom,AVGO,Gayla Delly,Director,2018,USA,North America,No,Director,,,none documented,74,72,45
+Broadcom,AVGO,Kenneth Hao,Director,2024,USA,North America,No,Director,,,none documented,78,72,45
+Broadcom,AVGO,Check Kian Low,Director,2016,Singapore,Southeast Asia,Yes,Director,,,none documented,74,72,50
+Broadcom,AVGO,Justine Page,Director,2019,USA,North America,No,Director,,,none documented,72,72,45
+Broadcom,AVGO,Harry You,Director,2020,USA,North America,No,Director,,,none documented,76,72,48
+Broadcom,AVGO,Henry Nicholas III,Co-founder,1991,USA,North America,No,Co-founder,,,Has dyslexia; parents divorced when he was four,82,82,60
+Broadcom,AVGO,Ram Velaga,SVP & GM Core Switching,2012,India,South Asia,Yes,Tech Leader,,,immigrant background,78,74,58
+Broadcom,AVGO,Tom Krause,Former President Software Group / CFO,2015,USA,North America,No,C-suite,,,none documented,78,74,45

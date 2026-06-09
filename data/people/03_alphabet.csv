@@ -1,0 +1,22 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Alphabet (Google),GOOG,Sundar Pichai,CEO Alphabet and Google,2004,India,South Asia,Yes,Founder/CEO,10725043.0,FY2024,Humble origins; modest household; immigrant,95,84,74
+Alphabet (Google),GOOG,Larry Page,Co-founder & Director,1998,USA,North America,No,Co-founder,,,Disclosed vocal cord paralysis and Hashimoto's,92,80,45
+Alphabet (Google),GOOG,Sergey Brin,Co-founder & Director,1998,USSR,Europe,Yes,Co-founder,,,Refugee: family fled Soviet antisemitism in 1979,94,86,90
+Alphabet (Google),GOOG,Ruth Porat,President & Chief Investment Officer,2015,UK,Europe,Yes,C-suite,30166427.0,FY2024,Two-time breast cancer survivor; father fled Vienna on Kristallnacht,86,90,82
+Alphabet (Google),GOOG,Anat Ashkenazi,SVP & CFO,2024,Israel,Middle East,Yes,CFO,49978135.0,FY2024,immigrant background,80,76,60
+Alphabet (Google),GOOG,Philipp Schindler,SVP & Chief Business Officer,1999,Germany,Europe,Yes,C-suite,47024009.0,FY2024,immigrant background,78,74,52
+Alphabet (Google),GOOG,Kent Walker,President Global Affairs & CLO,2006,USA,North America,No,C-suite,30162760.0,FY2024,none documented,78,74,45
+Alphabet (Google),GOOG,Prabhakar Raghavan,Chief Technologist,2012,India,South Asia,Yes,CTO,46992166.0,FY2024,immigrant background,82,76,58
+Alphabet (Google),GOOG,John Hennessy,Chair of the Board,2004,USA,North America,No,Chair,,,none documented (Turing Award),84,74,45
+Alphabet (Google),GOOG,Frances Arnold,Independent Director,2019,USA,North America,No,Director,,,none documented (Nobel laureate),82,74,45
+Alphabet (Google),GOOG,Marty Chavez,Independent Director,2022,USA,North America,No,Director,,,Hispanic background (New Mexico),74,72,50
+Alphabet (Google),GOOG,John Doerr,Independent Director,1999,USA,North America,No,Director,,,none documented,76,72,45
+Alphabet (Google),GOOG,Roger Ferguson,Independent Director,2016,USA,North America,No,Director,,,none documented,74,72,45
+Alphabet (Google),GOOG,Ram Shriram,Independent Director,1998,India,South Asia,Yes,Director,,,immigrant background,74,72,58
+Alphabet (Google),GOOG,Robin Washington,Independent Director,2019,USA,North America,No,Director,,,none documented,74,72,48
+Alphabet (Google),GOOG,Demis Hassabis,CEO & Co-founder Google DeepMind,2014,UK,Europe,No,Division-CEO,,,Modest origins; mother worked in a department store,92,84,60
+Alphabet (Google),GOOG,Jeff Dean,Chief Scientist Google DeepMind,1999,USA,North America,No,Chief Scientist,,,none documented,86,76,48
+Alphabet (Google),GOOG,Shane Legg,Chief AGI Scientist & Co-founder DeepMind,2014,New Zealand,Oceania,Yes,Co-founder,,,none documented,82,74,50
+Alphabet (Google),GOOG,Koray Kavukcuoglu,CTO Google DeepMind,2012,Turkey,Middle East,Yes,CTO,,,immigrant background,80,76,58
+Alphabet (Google),GOOG,Thomas Kurian,CEO Google Cloud,2018,India,South Asia,Yes,Division-CEO,,,immigrant background,84,78,60
+Alphabet (Google),GOOG,Neal Mohan,CEO YouTube,2007,USA,North America,No,Division-CEO,,,Father immigrated with $25 in his pocket,84,78,66

@@ -1,66 +1,58 @@
-# Which Big-Tech Giant Becomes the *Tyrell Corporation*?
+# Which Big Company Becomes the *Tyrell Corporation*? — a real-people study
 
-A study of the **10 largest public companies by market cap** (June 2026) **plus the two
-giant private players — OpenAI and SpaceX** — that models **1,000 key employees each**
-(**12,000 total**) across **6 metrics**, then predicts which company is most likely to
-become the **globally dominant megacorporation** (the "Tyrell Corporation" of our
-universe — meaning *dominant*, not robot-building).
+A study of the **12 largest tech/energy companies** (10 largest public by market cap +
+private **OpenAI** and **SpaceX**), profiling **216 real, individually-sourced leaders**
+— founders, executives, board members, and marquee technical leaders — across **6
+metrics**, then predicting which company is most likely to become the **globally
+dominant megacorporation** (the "Tyrell Corporation" — meaning *dominant*).
 
-### 🏆 Answer: **NVIDIA** — Tyrell Index **86.2 / 100**, ahead of Alphabet (71.3) and Apple (65.8).
-The two private newcomers debut high — **SpaceX #4 (59.1)** and **OpenAI #5 (57.8)** —
-beating Amazon, Microsoft and TSMC on workforce character + moat despite being smallest
-by value. (OpenAI & SpaceX are private, ranked by *valuation*, not market cap.)
+### 🏆 Answer: **NVIDIA** — Tyrell Index **88.7 / 100**, ahead of Alphabet (82.6) and Apple (81.0).
 
-> ⚠️ **Data honesty.** The *company list* is real and sourced. The *per-employee data
-> is synthetic* — no public dataset of any company's "1,000 most important employees"
-> with personal performance, pay, **potential, origins, or mental strength** exists
-> (and character/origins are unmeasurable anyway). The data is generated from
-> distributions **calibrated to public, company-level characteristics**, so it is
-> realistic in shape but is **not** about real individuals. Fully reproducible. See
-> the report for full provenance.
+> ✅ **This version is real.** Names, titles, origins, careers and **disclosed executive
+> compensation** are genuine and individually sourced (SEC proxies, official pages,
+> Wikipedia, press — see `reports/PROFILES.md`). The three **character** metrics
+> (potential, mental strength, adversity-of-origin) are **interpretive assessments
+> derived from each person's documented public biography** via one consistent rubric —
+> not psychometric measurements. No invented people, no scraped private individuals.
 
 ## 📑 Start here → [reports/REPORT.md](reports/REPORT.md)
 
-The full report: objective, the 6 metrics, comparison tables, 12 charts, the **Tyrell
-Index** verdict with reasoning and sensitivity, and cross-company conclusions.
+Full report: the 12 companies, the 6 metrics + rubric, summary tables, charts, the
+**Tyrell Index** verdict, and conclusions. Sourcing appendix: **[reports/PROFILES.md](reports/PROFILES.md)**.
 
 ## The 6 metrics
+**Facts:** role/seniority · disclosed compensation (NEOs only) · origin & tenure.
+**Character (from documented bios):** potential · adversity-of-origin · mental strength.
 
-**Performance:** performance score · total compensation · tenure.
-**Character (deep):** **potential** (growth ceiling) · **adversity-of-origin** (where
-they come from, quantified) · **mental strength** (resilience/grit).
-
-## The Tyrell Index
-
-Five pillars → one 0–100 score predicting durable global dominance:
-**dominance now** (market cap, 0.34) · **strategic moat** (control of a global
-chokepoint, 0.34) · **workforce potential** (0.14) · **mental strength** (0.10) ·
-**builder origins** (0.08). NVIDIA wins by topping the two heavyweight pillars at once
-— biggest company *and* owner of the AI-compute chokepoint.
+## What the real data shows
+- **Big Tech is run by immigrants** — 28.7% of all documented leaders; the top firms
+  are immigrant-founded-or-led (Huang, Nadella, Pichai, Musk, Tan, Morris Chang). Most
+  immigrant leaderships: Tesla 55%, Alphabet 48%, OpenAI 46%; least: Aramco 11%.
+- **The self-made story is real and concentrated at the top** — Huang (bathroom-cleaning
+  immigrant), Cook (working-class Alabama), Brin (Soviet refugee), Tan (Penang
+  scholarship), Ursula Burns (housing project), Rafael Reif (refugee family).
+- **Real pay is wildly unequal** — Hock Tan $205.3M, Nadella $96.5M, Cook $74.6M; yet
+  founders take little cash (Musk $0, Bezos $1.68M). Private firms/Aramco disclose nothing.
+- **Verdict is robust** — in a world where compute is power, the company that owns the
+  compute (**NVIDIA**) becomes Tyrell.
 
 ## Layout
-
 ```
 data/
-  companies.csv                  # the 12 companies (REAL, sourced; 10 public + 2 private)
-  employees/01_nvidia.csv … 12_openai.csv # 1,000 employees each (synthetic, 6 metrics)
-  all_employees.csv              # combined 12,000-row table
-  company_metrics_summary.csv    # per-company aggregates
-  origin_region_breakdown.csv    # "where they come from" by company
-  tyrell_index.csv               # the dominance ranking
-  headline_stats.json            # correlations + headline numbers
+  companies.csv                  # the 12 companies (real; 10 public + 2 private)
+  all_people.csv                 # 216 real people, 6 metrics  ← the dataset
+  people/01_nvidia.csv … 12_openai.csv   # split per company
+  company_people_summary.csv, origin_region_breakdown.csv, tyrell_index.csv, headline_stats.json
 scripts/
-  generate_data.py               # builds the dataset (seed 20260609)
-  analyze.py                     # aggregates, correlations, Tyrell Index, charts
+  analyze_people.py              # summaries, origin breakdown, Tyrell Index, charts
 reports/
   REPORT.md                      # ← the deliverable
-  figures/*.png                  # 12 charts
+  PROFILES.md                    # sourcing & methodology appendix (sources per company)
+  figures/*.png
 ```
 
 ## Reproduce
-
 ```bash
 pip install numpy pandas matplotlib
-python3 scripts/generate_data.py
-python3 scripts/analyze.py
+python3 scripts/analyze_people.py
 ```

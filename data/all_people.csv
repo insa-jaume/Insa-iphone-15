@@ -1,0 +1,217 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+NVIDIA,NVDA,Jensen Huang,Founder President & CEO,1993,Taiwan,East Asia,Yes,Founder/CEO,49866251,FY2025,Immigrant sent to US ~age 9; cleaned bathrooms at a Kentucky boarding school; modest means,100,95,88
+NVIDIA,NVDA,Chris Malachowsky,Co-founder & NVIDIA Fellow,1993,USA,North America,No,Co-founder,,,none documented,85,76,45
+NVIDIA,NVDA,Curtis Priem,Co-founder (former CTO),1993,USA,North America,No,Co-founder,,,none documented,80,72,45
+NVIDIA,NVDA,Colette Kress,EVP & CFO,2013,USA,North America,No,CFO,21362532,FY2025,none documented,80,72,45
+NVIDIA,NVDA,Jay Puri,EVP Worldwide Field Operations,2005,India,South Asia,Yes,C-suite,21590897,FY2025,immigrant background,78,74,60
+NVIDIA,NVDA,Debora Shoquist,EVP Operations,2007,USA,North America,No,C-suite,19217903,FY2025,none documented,76,72,45
+NVIDIA,NVDA,Tim Teter,EVP General Counsel,2017,USA,North America,No,C-suite,19201821,FY2025,none documented,74,70,45
+NVIDIA,NVDA,Michael Kagan,Chief Technology Officer,2020,USSR/Israel,Middle East,Yes,CTO,,,Reportedly rejected by Russian university over Jewish name; immigrated to Israel; funded studies as a cleaner,82,90,88
+NVIDIA,NVDA,Bill Dally,Chief Scientist & SVP Research,2009,USA,North America,No,Chief Scientist,,,none documented,84,74,45
+NVIDIA,NVDA,Ian Buck,VP & GM Hyperscale and HPC,2004,USA,North America,No,Tech Leader,,,none documented (created CUDA),82,72,45
+NVIDIA,NVDA,Bryan Catanzaro,VP Applied Deep Learning Research,2011,USA,North America,No,Tech Leader,,,none documented,78,70,45
+NVIDIA,NVDA,Jonah Alben,SVP GPU Engineering,1997,USA,North America,No,Tech Leader,,,none documented,78,72,45
+NVIDIA,NVDA,Tench Coxe,Director,1993,USA,North America,No,Director,,,none documented,68,68,45
+NVIDIA,NVDA,Mark Stevens,Director,1993,USA,North America,No,Director,,,none documented,70,68,45
+NVIDIA,NVDA,Dawn Hudson,Director,2013,USA,North America,No,Director,,,none documented,66,66,45
+NVIDIA,NVDA,John Dabiri,Director,2020,USA,North America,No,Director,,,Son of Nigerian immigrants; became full professor at 25,80,76,68
+NVIDIA,NVDA,Stephen Neal,Lead Independent Director,2008,USA,North America,No,Director,,,none documented,66,66,45
+NVIDIA,NVDA,Aarti Shah,Director,2020,India,South Asia,Yes,Director,,,immigrant background,68,70,58
+Apple,AAPL,Tim Cook,CEO (becoming Executive Chair Sep 2026),1998,USA,North America,No,Founder/CEO,74600000,FY2024,Working-class Alabama roots; shipyard-worker father,92,86,72
+Apple,AAPL,John Ternus,SVP Hardware Engineering (becoming CEO),2001,USA,North America,No,C-suite,,,none documented,82,74,45
+Apple,AAPL,Sabih Khan,Chief Operating Officer,1995,India,South Asia,Yes,C-suite,,,immigrant; moved India to Singapore to US,80,76,62
+Apple,AAPL,Craig Federighi,SVP Software Engineering,2009,USA,North America,No,C-suite,,,none documented,82,74,45
+Apple,AAPL,Eddy Cue,SVP Services,1989,USA,North America,No,C-suite,,,Cuban-Spanish heritage,80,74,55
+Apple,AAPL,Greg Joswiak,SVP Worldwide Marketing,1986,USA,North America,No,C-suite,,,none documented,76,72,45
+Apple,AAPL,Johny Srouji,SVP Hardware Technologies,2008,Israel,Middle East,Yes,C-suite,,,Arab-Christian minority in Israel; carpenter father; humble origins,84,84,78
+Apple,AAPL,Deirdre O'Brien,SVP Retail + People,1988,USA,North America,No,C-suite,27100000,FY2024,none documented,76,72,45
+Apple,AAPL,Kate Adams,SVP & General Counsel,2017,USA,North America,No,C-suite,27200000,FY2024,none documented,74,70,45
+Apple,AAPL,Jennifer Newstead,SVP & General Counsel,2025,USA,North America,No,C-suite,,,none documented,74,72,45
+Apple,AAPL,Kevan Parekh,SVP & CFO,2024,USA,North America,No,CFO,,,none documented,76,72,45
+Apple,AAPL,Phil Schiller,Apple Fellow,1997,USA,North America,No,Tech Leader,,,none documented,76,72,45
+Apple,AAPL,Luca Maestri,VP Corporate Services (former CFO),2013,Italy,Europe,Yes,C-suite,27100000,FY2024,immigrant background,76,74,52
+Apple,AAPL,Jeff Williams,Former COO,1998,USA,North America,No,C-suite,27100000,FY2024,none documented,80,74,45
+Apple,AAPL,Arthur Levinson,Chair of the Board,2000,USA,North America,No,Chair,,,none documented,82,74,45
+Apple,AAPL,Isabel Ge Mahe,VP & MD Greater China,2017,China,East Asia,Yes,C-suite,,,immigrant background,74,72,58
+Alphabet (Google),GOOG,Sundar Pichai,CEO Alphabet and Google,2004,India,South Asia,Yes,Founder/CEO,10725043,FY2024,Humble origins; modest household; immigrant,95,84,74
+Alphabet (Google),GOOG,Larry Page,Co-founder & Director,1998,USA,North America,No,Co-founder,,,Disclosed vocal cord paralysis and Hashimoto's,92,80,45
+Alphabet (Google),GOOG,Sergey Brin,Co-founder & Director,1998,USSR,Europe,Yes,Co-founder,,,Refugee: family fled Soviet antisemitism in 1979,94,86,90
+Alphabet (Google),GOOG,Ruth Porat,President & Chief Investment Officer,2015,UK,Europe,Yes,C-suite,30166427,FY2024,Two-time breast cancer survivor; father fled Vienna on Kristallnacht,86,90,82
+Alphabet (Google),GOOG,Anat Ashkenazi,SVP & CFO,2024,Israel,Middle East,Yes,CFO,49978135,FY2024,immigrant background,80,76,60
+Alphabet (Google),GOOG,Philipp Schindler,SVP & Chief Business Officer,1999,Germany,Europe,Yes,C-suite,47024009,FY2024,immigrant background,78,74,52
+Alphabet (Google),GOOG,Kent Walker,President Global Affairs & CLO,2006,USA,North America,No,C-suite,30162760,FY2024,none documented,78,74,45
+Alphabet (Google),GOOG,Prabhakar Raghavan,Chief Technologist,2012,India,South Asia,Yes,CTO,46992166,FY2024,immigrant background,82,76,58
+Alphabet (Google),GOOG,John Hennessy,Chair of the Board,2004,USA,North America,No,Chair,,,none documented (Turing Award),84,74,45
+Alphabet (Google),GOOG,Frances Arnold,Independent Director,2019,USA,North America,No,Director,,,none documented (Nobel laureate),82,74,45
+Alphabet (Google),GOOG,Marty Chavez,Independent Director,2022,USA,North America,No,Director,,,Hispanic background (New Mexico),74,72,50
+Alphabet (Google),GOOG,John Doerr,Independent Director,1999,USA,North America,No,Director,,,none documented,76,72,45
+Alphabet (Google),GOOG,Roger Ferguson,Independent Director,2016,USA,North America,No,Director,,,none documented,74,72,45
+Alphabet (Google),GOOG,Ram Shriram,Independent Director,1998,India,South Asia,Yes,Director,,,immigrant background,74,72,58
+Alphabet (Google),GOOG,Robin Washington,Independent Director,2019,USA,North America,No,Director,,,none documented,74,72,48
+Alphabet (Google),GOOG,Demis Hassabis,CEO & Co-founder Google DeepMind,2014,UK,Europe,No,Division-CEO,,,Modest origins; mother worked in a department store,92,84,60
+Alphabet (Google),GOOG,Jeff Dean,Chief Scientist Google DeepMind,1999,USA,North America,No,Chief Scientist,,,none documented,86,76,48
+Alphabet (Google),GOOG,Shane Legg,Chief AGI Scientist & Co-founder DeepMind,2014,New Zealand,Oceania,Yes,Co-founder,,,none documented,82,74,50
+Alphabet (Google),GOOG,Koray Kavukcuoglu,CTO Google DeepMind,2012,Turkey,Middle East,Yes,CTO,,,immigrant background,80,76,58
+Alphabet (Google),GOOG,Thomas Kurian,CEO Google Cloud,2018,India,South Asia,Yes,Division-CEO,,,immigrant background,84,78,60
+Alphabet (Google),GOOG,Neal Mohan,CEO YouTube,2007,USA,North America,No,Division-CEO,,,Father immigrated with $25 in his pocket,84,78,66
+Microsoft,MSFT,Satya Nadella,Chairman & CEO,1992,India,South Asia,Yes,Founder/CEO,96500000,FY2025,Immigrant; raised son with cerebral palsy (Zain d. 2022),96,88,68
+Microsoft,MSFT,Amy Hood,EVP & CFO,2002,USA,North America,No,CFO,29500000,FY2025,none documented,82,74,45
+Microsoft,MSFT,Judson Althoff,EVP & CEO Commercial Business,2013,USA,North America,No,C-suite,28200000,FY2025,none documented,80,74,45
+Microsoft,MSFT,Brad Smith,Vice Chair & President,1993,USA,North America,No,C-suite,28300000,FY2025,none documented,82,76,45
+Microsoft,MSFT,Takeshi Numoto,EVP & Chief Marketing Officer,1997,Japan,East Asia,Yes,C-suite,11870000,FY2025,immigrant background,78,74,55
+Microsoft,MSFT,Kevin Scott,EVP & CTO,2017,USA,North America,No,CTO,,,Rural working-class Virginia upbringing,84,80,70
+Microsoft,MSFT,Mustafa Suleyman,EVP & CEO Microsoft AI,2024,UK,Europe,No,Division-CEO,,,Son of a Syrian immigrant taxi driver; Oxford dropout,88,84,75
+Microsoft,MSFT,Scott Guthrie,EVP Cloud + AI Group,1997,USA,North America,No,C-suite,,,none documented,82,74,45
+Microsoft,MSFT,Phil Spencer,CEO Microsoft Gaming (retired 2026),1988,USA,North America,No,Division-CEO,,,none documented,80,74,45
+Microsoft,MSFT,Kathleen Hogan,EVP Office of Strategy and Transformation,2003,USA,North America,No,C-suite,,,none documented,78,72,45
+Microsoft,MSFT,Amy Coleman,EVP & Chief People Officer,2003,USA,North America,No,C-suite,,,none documented,74,70,45
+Microsoft,MSFT,Reid Hoffman,Independent Director,2017,USA,North America,No,Director,,,none documented,82,74,45
+Microsoft,MSFT,Penny Pritzker,Independent Director,2017,USA,North America,No,Director,,,none documented (Pritzker family),76,72,25
+Microsoft,MSFT,John Stanton,Lead Independent Director,2014,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Sandi Peterson,Independent Director,2015,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Teri List,Independent Director,2014,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Hugh Johnston,Independent Director,2017,USA,North America,No,Director,,,none documented,74,72,45
+Microsoft,MSFT,Charles Scharf,Independent Director,2025,USA,North America,No,Director,,,none documented,78,74,45
+Microsoft,MSFT,Emma Walmsley,Independent Director,2019,UK,Europe,Yes,Director,,,none documented,80,74,48
+Microsoft,MSFT,Catherine MacGregor,Independent Director,2023,Morocco,Africa,Yes,Director,,,none documented,78,74,55
+Microsoft,MSFT,Mark Mason,Independent Director,2024,USA,North America,No,Director,,,none documented,76,74,52
+Microsoft,MSFT,John David Rainey,Independent Director,2025,USA,North America,No,Director,,,none documented,76,72,45
+Amazon,AMZN,Jeff Bezos,Founder & Executive Chair,1994,USA,North America,No,Founder/CEO,1681840,FY2024,Born to a 17-year-old single mother; adopted by Cuban immigrant stepfather,98,88,70
+Amazon,AMZN,Andy Jassy,President & CEO,1997,USA,North America,No,Founder/CEO,1596889,FY2024,none documented,90,82,45
+Amazon,AMZN,Brian Olsavsky,SVP & CFO,2002,USA,North America,No,CFO,25717606,FY2024,none documented,80,74,45
+Amazon,AMZN,Matt Garman,CEO Amazon Web Services,2005,USA,North America,No,Division-CEO,33180619,FY2024,none documented (intern to CEO),86,78,48
+Amazon,AMZN,Doug Herrington,CEO Worldwide Amazon Stores,2005,USA,North America,No,Division-CEO,34193958,FY2024,none documented,82,76,45
+Amazon,AMZN,David Zapolsky,SVP Chief Global Affairs & Legal Officer,1999,USA,North America,No,C-suite,25717606,FY2024,none documented,78,74,45
+Amazon,AMZN,Adam Selipsky,Former CEO AWS,2005,South Africa,Africa,Yes,Division-CEO,34284148,FY2024,Family history of fleeing antisemitic persecution,84,80,72
+Amazon,AMZN,Beth Galetti,SVP People eXperience and Technology,2013,USA,North America,No,C-suite,,,none documented,76,72,45
+Amazon,AMZN,Werner Vogels,VP & Chief Technology Officer,2004,Netherlands,Europe,Yes,CTO,,,Career pivot from radiology into CS in late 20s,82,76,55
+Amazon,AMZN,Swami Sivasubramanian,VP Agentic AI,2005,India,South Asia,Yes,Tech Leader,,,One shared computer for his whole high school in India,82,80,72
+Amazon,AMZN,Peter DeSantis,SVP Foundational AI Models Custom Silicon Quantum,1998,USA,North America,No,Tech Leader,,,none documented,82,76,45
+Amazon,AMZN,Indra Nooyi,Director,2019,India,South Asia,Yes,Director,,,Immigrant on student visa; worked as a receptionist; first night crying alone,84,82,72
+Amazon,AMZN,Andrew Ng,Director,2024,UK,East Asia,Yes,Director,,,none documented,84,76,52
+Amazon,AMZN,Daniel Huttenlocher,Director,2016,USA,North America,No,Director,,,none documented,78,72,45
+Amazon,AMZN,Jamie Gorelick,Lead Independent Director,2012,USA,North America,No,Director,,,none documented,76,74,45
+Amazon,AMZN,Edith Cooper,Director,2021,USA,North America,No,Director,,,none documented,74,72,52
+Amazon,AMZN,Jonathan Rubinstein,Director,2020,USA,North America,No,Director,,,none documented,78,72,45
+Amazon,AMZN,Brad D Smith,Director,2017,USA,North America,No,Director,,,none documented,78,74,48
+Amazon,AMZN,Patricia Stonesifer,Director,2014,USA,North America,No,Director,,,none documented,76,72,45
+Amazon,AMZN,Wendell Weeks,Director,2016,USA,North America,No,Director,,,none documented,76,72,45
+Amazon,AMZN,Keith Alexander,Director,2020,USA,North America,No,Director,,,none documented (4-star general),78,80,48
+TSMC,TSM,Morris Chang,Founder (former Chairman/CEO),1987,China,East Asia,Yes,Founder/CEO,,,Wartime childhood displacement across China and Hong Kong; failed MIT doctoral qualifier twice,98,92,85
+TSMC,TSM,C.C. Wei,Chairman & CEO,1998,Taiwan,East Asia,No,Founder/CEO,74000000,FY2024,Humble rural birthplace (farming township),92,88,70
+TSMC,TSM,Mark Liu,Former Chairman,1993,Taiwan,East Asia,No,Chair,,,none documented,86,78,48
+TSMC,TSM,F.C. Tseng,Vice Chairman,1987,Taiwan,East Asia,No,Co-founder,,,none documented,80,74,48
+TSMC,TSM,Y.J. Mii,EVP & Co-COO,1994,Taiwan,East Asia,No,C-suite,,,none documented,80,74,48
+TSMC,TSM,Y.P. Chyn,EVP & Co-COO,1987,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Cliff Hou,SVP & Deputy Co-COO,1997,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Wendell Huang,SVP Finance & CFO,1999,Taiwan,East Asia,No,CFO,,,none documented,78,72,48
+TSMC,TSM,Lora Ho,SVP Corporate Sustainability (former CFO),1999,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48
+TSMC,TSM,Rick Cassidy,Executive Advisor (former Chairman TSMC Arizona),1997,USA,North America,No,C-suite,,,none documented,78,76,45
+TSMC,TSM,Wei-Jen Lo,SVP Corporate Strategy (retired 2025),2004,Taiwan,East Asia,No,Tech Leader,,,none documented,78,74,48
+TSMC,TSM,L. Rafael Reif,Independent Director,2021,Venezuela,Latin America,Yes,Director,,,Son of Eastern-European Jewish refugees who fled to Venezuela; immigrant; non-native English speaker,84,82,85
+TSMC,TSM,Ursula Burns,Independent Director,2024,USA,North America,No,Director,,,Raised in a low-income Manhattan housing project by a single mother,82,84,90
+TSMC,TSM,Lynn Elsenhans,Independent Director,2024,USA,North America,No,Director,,,none documented,78,74,48
+TSMC,TSM,Peter Bonfield,Independent Director,2018,UK,Europe,Yes,Director,,,none documented,76,72,48
+TSMC,TSM,Michael Splinter,Independent Director,2019,USA,North America,No,Director,,,none documented,76,72,45
+TSMC,TSM,Moshe Gavrielov,Independent Director,2020,Israel,Middle East,Yes,Director,,,immigrant background,76,74,55
+Broadcom,AVGO,Hock Tan,President CEO & Director,2006,Malaysia,Southeast Asia,Yes,Founder/CEO,205278006,FY2025,Immigrant from modest Penang origins; MIT on scholarship; two children with autism,90,88,80
+Broadcom,AVGO,Henry Samueli,Chairman & Co-founder,1991,USA,North America,No,Co-founder,,,Son of Polish-Jewish Holocaust survivors,88,82,85
+Broadcom,AVGO,Kirsten Spears,CFO & Chief Accounting Officer,2014,USA,North America,No,CFO,28164046,FY2025,none documented,78,72,45
+Broadcom,AVGO,Charlie Kawwas,President Semiconductor Solutions Group,2014,Canada,North America,No,C-suite,2115626,FY2025,none documented,80,74,48
+Broadcom,AVGO,Mark Brazeal,Chief Legal & Corporate Affairs Officer,2017,USA,North America,No,C-suite,28619011,FY2025,none documented,76,72,45
+Broadcom,AVGO,Diane Bryant,Director,2019,USA,North America,No,Director,,,none documented,78,74,45
+Broadcom,AVGO,Gayla Delly,Director,2018,USA,North America,No,Director,,,none documented,74,72,45
+Broadcom,AVGO,Kenneth Hao,Director,2024,USA,North America,No,Director,,,none documented,78,72,45
+Broadcom,AVGO,Check Kian Low,Director,2016,Singapore,Southeast Asia,Yes,Director,,,none documented,74,72,50
+Broadcom,AVGO,Justine Page,Director,2019,USA,North America,No,Director,,,none documented,72,72,45
+Broadcom,AVGO,Harry You,Director,2020,USA,North America,No,Director,,,none documented,76,72,48
+Broadcom,AVGO,Henry Nicholas III,Co-founder,1991,USA,North America,No,Co-founder,,,Has dyslexia; parents divorced when he was four,82,82,60
+Broadcom,AVGO,Ram Velaga,SVP & GM Core Switching,2012,India,South Asia,Yes,Tech Leader,,,immigrant background,78,74,58
+Broadcom,AVGO,Tom Krause,Former President Software Group / CFO,2015,USA,North America,No,C-suite,,,none documented,78,74,45
+Saudi Aramco,2222.SR,Amin Nasser,President & CEO,1982,Saudi Arabia,Middle East,No,Founder/CEO,,,none documented,88,82,50
+Saudi Aramco,2222.SR,Yasir Al-Rumayyan,Chairman of the Board,2016,Saudi Arabia,Middle East,No,Chair,,,none documented,84,78,50
+Saudi Aramco,2222.SR,Ibrahim Al-Assaf,Deputy Chairman,2016,Saudi Arabia,Middle East,No,Director,,,none documented,80,74,50
+Saudi Aramco,2222.SR,Mohammed Al-Jadaan,Director,2016,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Faisal Alibrahim,Director,2024,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Khalid Al-Dabbagh,Director,2021,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Andrew Liveris,Director,2018,Australia,Oceania,Yes,Director,,,Grandson of Greek immigrants (humble immigrant lineage),80,76,62
+Saudi Aramco,2222.SR,Bob Dudley,Director,2024,USA,North America,No,Director,,,Fled Russia in 2008 amid reported harassment in the TNK-BP dispute,80,82,50
+Saudi Aramco,2222.SR,Lynn Elsenhans,Director,2018,USA,North America,No,Director,,,none documented,78,74,48
+Saudi Aramco,2222.SR,Mark Weinberger,Director,2019,USA,North America,No,Director,,,none documented,78,74,45
+Saudi Aramco,2222.SR,Stuart Gulliver,Director,2018,UK,Europe,Yes,Director,,,Couldn't afford to train as a barrister; modest background,78,76,62
+Saudi Aramco,2222.SR,Ziad Al-Murshed,EVP & CFO,1991,Saudi Arabia,Middle East,No,CFO,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Nabeel Al Mansour,EVP General Counsel,1988,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Nasir Al-Naimi,Upstream President,1980,Saudi Arabia,Middle East,No,C-suite,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Mohammed Al Qahtani,Downstream President,1996,Saudi Arabia,Middle East,No,C-suite,,,none documented (first Saudi in US NAE),78,74,50
+Saudi Aramco,2222.SR,Wail Al Jaafari,EVP Technical Services,1993,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Ahmad Al-Khowaiter,EVP Technology & Innovation,1984,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Ashraf Al Ghazzawi,EVP Strategy & Corporate Development,1995,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Tesla,TSLA,Elon Musk,CEO & Director,2004,South Africa,Africa,Yes,Founder/CEO,0,FY2024,Immigrant via Canada; publicly described a difficult childhood and estrangement from father,100,92,72
+Tesla,TSLA,Vaibhav Taneja,Chief Financial Officer,2017,India,South Asia,Yes,CFO,139500000,FY2024,Humble Delhi origins; rose from PwC trainee,82,78,66
+Tesla,TSLA,Tom Zhu,SVP APAC and Global Vehicle Manufacturing,2014,China,East Asia,Yes,C-suite,376000,FY2024,immigrant; rose through operational ranks,82,80,62
+Tesla,TSLA,Robyn Denholm,Chair of the Board,2014,Australia,Oceania,Yes,Chair,,,Daughter of post-war immigrants; grew up working in family's service station,80,78,68
+Tesla,TSLA,JB Straubel,Director (co-founder & former CTO),2004,USA,North America,No,Co-founder,,,none documented,86,78,45
+Tesla,TSLA,Ira Ehrenpreis,Independent Director,2007,USA,North America,No,Director,,,none documented,74,72,45
+Tesla,TSLA,Kimbal Musk,Director,2004,South Africa,Africa,Yes,Director,,,Immigrant from South Africa,74,74,55
+Tesla,TSLA,James Murdoch,Director,2017,UK,Europe,Yes,Director,,,none documented (Murdoch family),74,72,25
+Tesla,TSLA,Joe Gebbia,Director,2022,USA,North America,No,Director,,,none documented,80,74,45
+Tesla,TSLA,Kathleen Wilson-Thompson,Director,2018,USA,North America,No,Director,,,none documented,74,72,52
+Tesla,TSLA,Jack Hartung,Director,2025,USA,North America,No,Director,,,none documented,76,72,45
+Meta Platforms,META,Mark Zuckerberg,Founder Chairman & CEO,2004,USA,North America,No,Founder/CEO,27219874,FY2024,none documented,98,86,40
+Meta Platforms,META,Javier Olivan,Chief Operating Officer,2007,Spain,Europe,Yes,C-suite,25500000,FY2024,Immigrant from a small Pyrenees town,82,76,58
+Meta Platforms,META,Susan Li,Chief Financial Officer,2008,China,East Asia,Yes,CFO,23620488,FY2024,Immigrant from China; entered college at 15,84,78,64
+Meta Platforms,META,Andrew Bosworth,CTO & Head of Reality Labs,2006,USA,North America,No,CTO,23594826,FY2024,none documented,82,74,45
+Meta Platforms,META,Chris Cox,Chief Product Officer,2005,USA,North America,No,C-suite,23600000,FY2024,none documented,82,74,45
+Meta Platforms,META,Alexandr Wang,Chief AI Officer,2025,USA,North America,No,Tech Leader,,,Son of Chinese immigrant physicists,88,80,58
+Meta Platforms,META,Dina Powell McCormick,President & Vice Chairman,2026,Egypt,Middle East,Yes,C-suite,,,Immigrant from Egypt; Coptic Christian middle-class family,80,78,62
+Meta Platforms,META,Joel Kaplan,Chief Global Affairs Officer,2011,USA,North America,No,C-suite,,,none documented (Marine Corps officer),78,78,45
+Meta Platforms,META,C.J. Mahoney,Chief Legal Officer,2026,USA,North America,No,C-suite,,,none documented,76,72,45
+Meta Platforms,META,Adam Mosseri,Head of Instagram,2008,USA,North America,No,Division-CEO,,,none documented,82,74,48
+Meta Platforms,META,Will Cathcart,Head of WhatsApp,2010,USA,North America,No,Division-CEO,,,none documented,80,74,45
+Meta Platforms,META,Naomi Gleit,Head of Product,2005,USA,North America,No,C-suite,,,none documented,80,74,45
+Meta Platforms,META,Alex Schultz,CMO & VP Analytics,2007,UK,Europe,Yes,C-suite,,,none documented,78,74,48
+Meta Platforms,META,Mike Schroepfer,Senior Fellow (former CTO),2008,USA,North America,No,Tech Leader,,,none documented,80,74,45
+Meta Platforms,META,Marc Andreessen,Director,2008,USA,North America,No,Director,,,Rural Wisconsin upbringing,84,76,55
+Meta Platforms,META,Robert Kimmitt,Lead Independent Director,2020,USA,North America,No,Director,,,Vietnam War combat veteran,78,82,48
+Meta Platforms,META,Peggy Alford,Director,2019,USA,North America,No,Director,,,none documented,76,72,52
+Meta Platforms,META,Drew Houston,Director,2020,USA,North America,No,Director,,,none documented,82,74,45
+Meta Platforms,META,Patrick Collison,Director,2025,Ireland,Europe,Yes,Director,,,Rural Irish village upbringing; left MIT before graduating,86,78,55
+Meta Platforms,META,Tony Xu,Director,2022,China,East Asia,Yes,Director,,,Immigrant from China; credits early work as a dishwasher,84,80,66
+Meta Platforms,META,John Elkann,Director,2025,USA,Europe,No,Director,,,none documented (Agnelli dynasty heir),76,72,20
+Meta Platforms,META,Dana White,Director,2025,USA,North America,No,Director,,,none documented,78,76,48
+OpenAI,OPENAI,Sam Altman,Co-founder & CEO,2015,USA,North America,No,Founder/CEO,,,Briefly ousted as CEO in Nov 2023 and reinstated after 5 days,96,86,42
+OpenAI,OPENAI,Greg Brockman,Co-founder & President,2015,USA,North America,No,Co-founder,,,Removed from board Nov 2023 and reinstated,90,82,45
+OpenAI,OPENAI,Ilya Sutskever,Co-founder (former Chief Scientist),2015,USSR,Europe,Yes,Co-founder,,,Immigrant: USSR to Israel to Canada,92,84,72
+OpenAI,OPENAI,Wojciech Zaremba,Co-founder,2015,Poland,Europe,Yes,Co-founder,,,immigrant background,84,76,55
+OpenAI,OPENAI,Andrej Karpathy,Co-founder (former),2015,Slovakia,Europe,Yes,Co-founder,,,Relocated Slovakia to Canada as a teenager,88,76,58
+OpenAI,OPENAI,John Schulman,Co-founder (former),2015,USA,North America,No,Co-founder,,,none documented,86,76,45
+OpenAI,OPENAI,Durk Kingma,Co-founder (former),2015,Netherlands,Europe,Yes,Co-founder,,,immigrant background,84,74,52
+OpenAI,OPENAI,Mira Murati,Former CTO,2018,Albania,Europe,Yes,CTO,,,Emigrated from Albania as a teen on a UWC scholarship,88,82,72
+OpenAI,OPENAI,Jakub Pachocki,Chief Scientist,2017,Poland,Europe,Yes,Chief Scientist,,,immigrant background,86,78,55
+OpenAI,OPENAI,Mark Chen,Chief Research Officer,2018,USA,North America,No,Chief Scientist,,,none documented,84,76,45
+OpenAI,OPENAI,Brad Lightcap,Chief Operating Officer,2018,USA,North America,No,C-suite,,,none documented,80,74,45
+OpenAI,OPENAI,Sarah Friar,Chief Financial Officer,2024,UK,Europe,Yes,CFO,,,Grew up amid The Troubles in Northern Ireland,84,82,72
+OpenAI,OPENAI,Fidji Simo,CEO of Applications,2025,France,Europe,Yes,Division-CEO,,,First in her family to graduate high school; from a fishing town,84,80,72
+OpenAI,OPENAI,Aaron Chatterji,Chief Economist,2024,USA,North America,No,C-suite,,,none documented,78,74,48
+OpenAI,OPENAI,Jan Leike,Former Head of Alignment,2021,Germany,Europe,Yes,Tech Leader,,,immigrant background,82,76,50
+OpenAI,OPENAI,Bret Taylor,Board Chair,2023,USA,North America,No,Chair,,,none documented,84,76,45
+OpenAI,OPENAI,Adam D'Angelo,Board Director,2018,USA,North America,No,Director,,,none documented,82,74,45
+OpenAI,OPENAI,Zico Kolter,Board Director,2024,USA,North America,No,Director,,,none documented,80,74,45
+OpenAI,OPENAI,Paul Nakasone,Board Director,2024,USA,North America,No,Director,,,Second-generation Japanese American,78,80,52
+OpenAI,OPENAI,Adebayo Ogunlesi,Board Director,2025,Nigeria,Africa,Yes,Director,,,Immigrant from Nigeria,82,78,62
+OpenAI,OPENAI,Sue Desmond-Hellmann,Board Director,2023,USA,North America,No,Director,,,none documented,78,74,48
+OpenAI,OPENAI,Nicole Seligman,Board Director,2023,USA,North America,No,Director,,,none documented,76,72,48
+SpaceX,SPACEX,Elon Musk,Founder CEO & Chief Engineer,2002,South Africa,Africa,Yes,Founder/CEO,,,Immigrant via Canada; publicly described a difficult childhood,100,92,72
+SpaceX,SPACEX,Gwynne Shotwell,President & COO,2002,USA,North America,No,C-suite,,,none documented,88,82,48
+SpaceX,SPACEX,Tom Mueller,Founding employee (former VP Propulsion),2002,USA,North America,No,Tech Leader,,,Logger's son; worked as a logger to fund education; built engines in his garage,86,82,72
+SpaceX,SPACEX,Hans Koenigsmann,Former VP Build & Flight Reliability,2002,Germany,Europe,Yes,Tech Leader,,,Immigrant; abandoned pilot ambition due to eyesight,82,78,56
+SpaceX,SPACEX,Mark Juncosa,VP Vehicle Engineering,2005,USA,North America,No,Tech Leader,,,none documented,82,80,45
+SpaceX,SPACEX,Kiko Dontchev,VP Launch,2010,Bulgaria,Europe,Yes,Tech Leader,,,Immigrant from Bulgaria; arrived in US at age 3,82,80,60
+SpaceX,SPACEX,Bill Gerstenmaier,VP Build & Flight Reliability,2020,USA,North America,No,Tech Leader,,,none documented,80,78,45
+SpaceX,SPACEX,Jessica Jensen,VP Customer Operations & Integration,2006,USA,North America,No,C-suite,,,none documented,78,76,45
+SpaceX,SPACEX,Jonathan Hofeller,VP Starlink Commercial Sales,2007,USA,North America,No,C-suite,,,none documented,76,74,45
+SpaceX,SPACEX,Stephanie Bednarek,VP Commercial Sales,2008,USA,North America,No,C-suite,,,none documented,76,74,45
+SpaceX,SPACEX,Bret Johnsen,Chief Financial Officer,2011,USA,North America,No,CFO,,,none documented,78,76,45
+SpaceX,SPACEX,Lars Blackmore,Senior Principal Mars Landing Engineer,2011,UK,Europe,Yes,Tech Leader,,,none documented,82,78,50
+SpaceX,SPACEX,Tim Hughes,SVP Global Business & Government Affairs,2005,USA,North America,No,C-suite,,,none documented,78,76,45
+SpaceX,SPACEX,Garrett Reisman,Former Director of Space Operations,2011,USA,North America,No,Tech Leader,,,none documented (former NASA astronaut),80,82,45

@@ -1,110 +1,29 @@
 {
-  "total_employees": 12000,
+  "people_documented": 216,
   "companies": 12,
-  "pooled_correlations": {
-    "performance_score": {
-      "performance_score": 1.0,
-      "total_compensation_usd": 0.169,
-      "tenure_years": 0.056,
-      "potential_index": 0.102,
-      "adversity_origin_score": 0.0,
-      "mental_strength": 0.124
-    },
-    "total_compensation_usd": {
-      "performance_score": 0.169,
-      "total_compensation_usd": 1.0,
-      "tenure_years": 0.019,
-      "potential_index": 0.224,
-      "adversity_origin_score": 0.012,
-      "mental_strength": 0.067
-    },
-    "tenure_years": {
-      "performance_score": 0.056,
-      "total_compensation_usd": 0.019,
-      "tenure_years": 1.0,
-      "potential_index": -0.135,
-      "adversity_origin_score": 0.013,
-      "mental_strength": -0.085
-    },
-    "potential_index": {
-      "performance_score": 0.102,
-      "total_compensation_usd": 0.224,
-      "tenure_years": -0.135,
-      "potential_index": 1.0,
-      "adversity_origin_score": 0.063,
-      "mental_strength": 0.287
-    },
-    "adversity_origin_score": {
-      "performance_score": 0.0,
-      "total_compensation_usd": 0.012,
-      "tenure_years": 0.013,
-      "potential_index": 0.063,
-      "adversity_origin_score": 1.0,
-      "mental_strength": 0.302
-    },
-    "mental_strength": {
-      "performance_score": 0.124,
-      "total_compensation_usd": 0.067,
-      "tenure_years": -0.085,
-      "potential_index": 0.287,
-      "adversity_origin_score": 0.302,
-      "mental_strength": 1.0
-    }
-  },
-  "adversity_vs_mental_corr": 0.302,
-  "potential_vs_mental_corr": 0.287,
-  "highest_potential": [
-    "OpenAI",
-    72.3
+  "people_with_disclosed_comp": 41,
+  "overall_pct_immigrant": 28.7,
+  "highest_disclosed_comp": [
+    "Hock Tan",
+    205278006
   ],
-  "lowest_potential": [
-    "Saudi Aramco",
-    64.4
-  ],
-  "highest_mental": [
-    "SpaceX",
-    80.5
-  ],
-  "lowest_mental": [
-    "Microsoft",
-    67.5
-  ],
-  "highest_adversity_origin": [
-    "NVIDIA",
-    60.7
-  ],
-  "lowest_adversity_origin": [
-    "Amazon",
-    58.5
-  ],
-  "highest_first_gen_pct": [
-    "NVIDIA",
-    41.9
-  ],
-  "lowest_first_gen_pct": [
-    "Tesla",
-    36.8
-  ],
-  "tyrell_index": {
-    "NVIDIA": 86.2,
-    "Alphabet (Google)": 71.3,
-    "Apple": 65.8,
-    "SpaceX": 59.1,
-    "OpenAI": 57.8,
-    "Amazon": 54.3,
-    "Microsoft": 52.2,
-    "TSMC": 52.0,
-    "Tesla": 46.0,
-    "Meta Platforms": 45.4,
-    "Saudi Aramco": 41.2,
-    "Broadcom": 40.7
-  },
   "tyrell_winner": [
     "NVIDIA",
-    86.2
+    88.7
   ],
-  "tyrell_runner_up": [
+  "tyrell_top5": {
+    "NVIDIA": 88.7,
+    "Alphabet (Google)": 82.6,
+    "Apple": 81.0,
+    "Microsoft": 72.0,
+    "TSMC": 69.0
+  },
+  "most_immigrant_company": [
+    "Tesla",
+    54.5
+  ],
+  "highest_adversity_company": [
     "Alphabet (Google)",
-    71.3
+    56.4
   ]
 }

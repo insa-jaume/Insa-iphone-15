@@ -1,0 +1,17 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Apple,AAPL,Tim Cook,CEO (becoming Executive Chair Sep 2026),1998,USA,North America,No,Founder/CEO,74600000.0,FY2024,Working-class Alabama roots; shipyard-worker father,92,86,72
+Apple,AAPL,John Ternus,SVP Hardware Engineering (becoming CEO),2001,USA,North America,No,C-suite,,,none documented,82,74,45
+Apple,AAPL,Sabih Khan,Chief Operating Officer,1995,India,South Asia,Yes,C-suite,,,immigrant; moved India to Singapore to US,80,76,62
+Apple,AAPL,Craig Federighi,SVP Software Engineering,2009,USA,North America,No,C-suite,,,none documented,82,74,45
+Apple,AAPL,Eddy Cue,SVP Services,1989,USA,North America,No,C-suite,,,Cuban-Spanish heritage,80,74,55
+Apple,AAPL,Greg Joswiak,SVP Worldwide Marketing,1986,USA,North America,No,C-suite,,,none documented,76,72,45
+Apple,AAPL,Johny Srouji,SVP Hardware Technologies,2008,Israel,Middle East,Yes,C-suite,,,Arab-Christian minority in Israel; carpenter father; humble origins,84,84,78
+Apple,AAPL,Deirdre O'Brien,SVP Retail + People,1988,USA,North America,No,C-suite,27100000.0,FY2024,none documented,76,72,45
+Apple,AAPL,Kate Adams,SVP & General Counsel,2017,USA,North America,No,C-suite,27200000.0,FY2024,none documented,74,70,45
+Apple,AAPL,Jennifer Newstead,SVP & General Counsel,2025,USA,North America,No,C-suite,,,none documented,74,72,45
+Apple,AAPL,Kevan Parekh,SVP & CFO,2024,USA,North America,No,CFO,,,none documented,76,72,45
+Apple,AAPL,Phil Schiller,Apple Fellow,1997,USA,North America,No,Tech Leader,,,none documented,76,72,45
+Apple,AAPL,Luca Maestri,VP Corporate Services (former CFO),2013,Italy,Europe,Yes,C-suite,27100000.0,FY2024,immigrant background,76,74,52
+Apple,AAPL,Jeff Williams,Former COO,1998,USA,North America,No,C-suite,27100000.0,FY2024,none documented,80,74,45
+Apple,AAPL,Arthur Levinson,Chair of the Board,2000,USA,North America,No,Chair,,,none documented,82,74,45
+Apple,AAPL,Isabel Ge Mahe,VP & MD Greater China,2017,China,East Asia,Yes,C-suite,,,immigrant background,74,72,58

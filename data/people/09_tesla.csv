@@ -1,0 +1,12 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Tesla,TSLA,Elon Musk,CEO & Director,2004,South Africa,Africa,Yes,Founder/CEO,0.0,FY2024,Immigrant via Canada; publicly described a difficult childhood and estrangement from father,100,92,72
+Tesla,TSLA,Vaibhav Taneja,Chief Financial Officer,2017,India,South Asia,Yes,CFO,139500000.0,FY2024,Humble Delhi origins; rose from PwC trainee,82,78,66
+Tesla,TSLA,Tom Zhu,SVP APAC and Global Vehicle Manufacturing,2014,China,East Asia,Yes,C-suite,376000.0,FY2024,immigrant; rose through operational ranks,82,80,62
+Tesla,TSLA,Robyn Denholm,Chair of the Board,2014,Australia,Oceania,Yes,Chair,,,Daughter of post-war immigrants; grew up working in family's service station,80,78,68
+Tesla,TSLA,JB Straubel,Director (co-founder & former CTO),2004,USA,North America,No,Co-founder,,,none documented,86,78,45
+Tesla,TSLA,Ira Ehrenpreis,Independent Director,2007,USA,North America,No,Director,,,none documented,74,72,45
+Tesla,TSLA,Kimbal Musk,Director,2004,South Africa,Africa,Yes,Director,,,Immigrant from South Africa,74,74,55
+Tesla,TSLA,James Murdoch,Director,2017,UK,Europe,Yes,Director,,,none documented (Murdoch family),74,72,25
+Tesla,TSLA,Joe Gebbia,Director,2022,USA,North America,No,Director,,,none documented,80,74,45
+Tesla,TSLA,Kathleen Wilson-Thompson,Director,2018,USA,North America,No,Director,,,none documented,74,72,52
+Tesla,TSLA,Jack Hartung,Director,2025,USA,North America,No,Director,,,none documented,76,72,45

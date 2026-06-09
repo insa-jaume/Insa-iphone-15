@@ -1,0 +1,19 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score
+Saudi Aramco,2222.SR,Amin Nasser,President & CEO,1982,Saudi Arabia,Middle East,No,Founder/CEO,,,none documented,88,82,50
+Saudi Aramco,2222.SR,Yasir Al-Rumayyan,Chairman of the Board,2016,Saudi Arabia,Middle East,No,Chair,,,none documented,84,78,50
+Saudi Aramco,2222.SR,Ibrahim Al-Assaf,Deputy Chairman,2016,Saudi Arabia,Middle East,No,Director,,,none documented,80,74,50
+Saudi Aramco,2222.SR,Mohammed Al-Jadaan,Director,2016,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Faisal Alibrahim,Director,2024,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Khalid Al-Dabbagh,Director,2021,Saudi Arabia,Middle East,No,Director,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Andrew Liveris,Director,2018,Australia,Oceania,Yes,Director,,,Grandson of Greek immigrants (humble immigrant lineage),80,76,62
+Saudi Aramco,2222.SR,Bob Dudley,Director,2024,USA,North America,No,Director,,,Fled Russia in 2008 amid reported harassment in the TNK-BP dispute,80,82,50
+Saudi Aramco,2222.SR,Lynn Elsenhans,Director,2018,USA,North America,No,Director,,,none documented,78,74,48
+Saudi Aramco,2222.SR,Mark Weinberger,Director,2019,USA,North America,No,Director,,,none documented,78,74,45
+Saudi Aramco,2222.SR,Stuart Gulliver,Director,2018,UK,Europe,Yes,Director,,,Couldn't afford to train as a barrister; modest background,78,76,62
+Saudi Aramco,2222.SR,Ziad Al-Murshed,EVP & CFO,1991,Saudi Arabia,Middle East,No,CFO,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Nabeel Al Mansour,EVP General Counsel,1988,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Nasir Al-Naimi,Upstream President,1980,Saudi Arabia,Middle East,No,C-suite,,,none documented,78,74,50
+Saudi Aramco,2222.SR,Mohammed Al Qahtani,Downstream President,1996,Saudi Arabia,Middle East,No,C-suite,,,none documented (first Saudi in US NAE),78,74,50
+Saudi Aramco,2222.SR,Wail Al Jaafari,EVP Technical Services,1993,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Ahmad Al-Khowaiter,EVP Technology & Innovation,1984,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50
+Saudi Aramco,2222.SR,Ashraf Al Ghazzawi,EVP Strategy & Corporate Development,1995,Saudi Arabia,Middle East,No,C-suite,,,none documented,76,72,50

@@ -1,0 +1,76 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+Alphabet (Google),GOOG,Sundar Pichai,CEO Alphabet and Google,2004.0,India,South Asia,Yes,Founder/CEO,10725043.0,FY2024,Humble origins; modest household; immigrant,95,84,74,core
+Alphabet (Google),GOOG,Larry Page,Co-founder & Director,1998.0,USA,North America,No,Co-founder,,,Disclosed vocal cord paralysis and Hashimoto's,92,80,45,core
+Alphabet (Google),GOOG,Sergey Brin,Co-founder & Director,1998.0,USSR,Europe,Yes,Co-founder,,,Refugee: family fled Soviet antisemitism in 1979,94,86,90,core
+Alphabet (Google),GOOG,Ruth Porat,President & Chief Investment Officer,2015.0,UK,Europe,Yes,C-suite,30166427.0,FY2024,Two-time breast cancer survivor; father fled Vienna on Kristallnacht,86,90,82,core
+Alphabet (Google),GOOG,Anat Ashkenazi,SVP & CFO,2024.0,Israel,Middle East,Yes,CFO,49978135.0,FY2024,immigrant background,80,76,60,core
+Alphabet (Google),GOOG,Philipp Schindler,SVP & Chief Business Officer,1999.0,Germany,Europe,Yes,C-suite,47024009.0,FY2024,immigrant background,78,74,52,core
+Alphabet (Google),GOOG,Kent Walker,President Global Affairs & CLO,2006.0,USA,North America,No,C-suite,30162760.0,FY2024,none documented,78,74,45,core
+Alphabet (Google),GOOG,Prabhakar Raghavan,Chief Technologist,2012.0,India,South Asia,Yes,CTO,46992166.0,FY2024,immigrant background,82,76,58,core
+Alphabet (Google),GOOG,John Hennessy,Chair of the Board,2004.0,USA,North America,No,Chair,,,none documented (Turing Award),84,74,45,core
+Alphabet (Google),GOOG,Frances Arnold,Independent Director,2019.0,USA,North America,No,Director,,,none documented (Nobel laureate),82,74,45,core
+Alphabet (Google),GOOG,Marty Chavez,Independent Director,2022.0,USA,North America,No,Director,,,Hispanic background (New Mexico),74,72,50,core
+Alphabet (Google),GOOG,John Doerr,Independent Director,1999.0,USA,North America,No,Director,,,none documented,76,72,45,core
+Alphabet (Google),GOOG,Roger Ferguson,Independent Director,2016.0,USA,North America,No,Director,,,none documented,74,72,45,core
+Alphabet (Google),GOOG,Ram Shriram,Independent Director,1998.0,India,South Asia,Yes,Director,,,immigrant background,74,72,58,core
+Alphabet (Google),GOOG,Robin Washington,Independent Director,2019.0,USA,North America,No,Director,,,none documented,74,72,48,core
+Alphabet (Google),GOOG,Demis Hassabis,CEO & Co-founder Google DeepMind,2014.0,UK,Europe,No,Division-CEO,,,Modest origins; mother worked in a department store,92,84,60,core
+Alphabet (Google),GOOG,Jeff Dean,Chief Scientist Google DeepMind,1999.0,USA,North America,No,Chief Scientist,,,none documented,86,76,48,core
+Alphabet (Google),GOOG,Shane Legg,Chief AGI Scientist & Co-founder DeepMind,2014.0,New Zealand,Oceania,Yes,Co-founder,,,none documented,82,74,50,core
+Alphabet (Google),GOOG,Koray Kavukcuoglu,CTO Google DeepMind,2012.0,Turkey,Middle East,Yes,CTO,,,immigrant background,80,76,58,core
+Alphabet (Google),GOOG,Thomas Kurian,CEO Google Cloud,2018.0,India,South Asia,Yes,Division-CEO,,,immigrant background,84,78,60,core
+Alphabet (Google),GOOG,Neal Mohan,CEO YouTube,2007.0,USA,North America,No,Division-CEO,,,Father immigrated with $25 in his pocket,84,78,66,core
+Alphabet (Google),GOOG,Sanjay Ghemawat,Senior Fellow Systems Infrastructure,1999.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Ashish Vaswani,Former research scientist Google Brain,2016.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Noam Shazeer,VP Engineering and Gemini co-lead,2000.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Niki Parmar,Former research scientist Google Brain,2016.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Jakob Uszkoreit,Former research scientist Google Brain,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Llion Jones,Former software engineer Google,2012.0,UK,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Aidan Gomez,Former Google Brain intern,2017.0,Canada,North America,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Lukasz Kaiser,Former research scientist Google Brain,,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Illia Polosukhin,Former software engineer Google,2014.0,Ukraine,Europe,Yes,Tech Leader,,,Grew up in Kharkiv Ukraine; founded Unchain Fund for those affected by the war in Ukraine,76,80,78,extended
+Alphabet (Google),GOOG,Oriol Vinyals,VP of Research and Gemini co-lead Google DeepMind,2016.0,Spain,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Quoc V. Le,Google Fellow Google DeepMind,2011.0,Vietnam,Southeast Asia,Yes,Tech Leader,,,Born in rural Huong Thuy Vietnam; moved abroad for education,76,80,78,extended
+Alphabet (Google),GOOG,John M. Jumper,Director Google DeepMind,2017.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,David Silver,Former Principal Research Scientist Google DeepMind,2013.0,UK,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Pushmeet Kohli,VP of Research Google DeepMind,2017.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Aja Huang,Senior Staff Research Scientist Google DeepMind,2012.0,Taiwan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Julian Schrittwieser,Former Staff Software Engineer Google DeepMind,2013.0,Austria,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Ian Goodfellow,Research scientist Google DeepMind,2019.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Vint Cerf,VP and Chief Internet Evangelist,2005.0,USA,North America,No,C-suite,,,Has a hearing impairment and is a longtime disability-access advocate,76,80,78,extended
+Alphabet (Google),GOOG,Urs Holzle,Google Fellow,1999.0,Switzerland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Amin Vahdat,SVP and Chief Technologist AI and Infrastructure; Fellow,2010.0,Iran,Middle East,Yes,CTO,,,none documented,80,76,60,extended
+Alphabet (Google),GOOG,Norman Jouppi,VP and Engineering Fellow,2013.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Marian Croak,VP Engineering and Responsible AI,2014.0,USA,North America,No,C-suite,,,One of few Black women honored in the National Inventors Hall of Fame,76,80,78,extended
+Alphabet (Google),GOOG,Blaise Aguera y Arcas,VP and Fellow; CTO of Technology and Society,2014.0,USA,North America,No,CTO,,,none documented,80,76,45,extended
+Alphabet (Google),GOOG,Krishna Bharat,Distinguished Scientist (returned 2019),1999.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Ben Gomes,VP Learning and Sustainability,1999.0,India (born Tanzania),Other,Yes,C-suite,,,Born to an Indian family in Tanzania; immigrant background,76,80,78,extended
+Alphabet (Google),GOOG,Amit Singhal,Former SVP and Google Fellow,2000.0,India,South Asia,Yes,Tech Leader,,,Grew up in Uttar Pradesh India; immigrant to the US,76,80,78,extended
+Alphabet (Google),GOOG,Geoffrey Hinton,Former VP and Engineering Fellow Google Brain,2013.0,UK,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Samy Bengio,Former research scientist and Google Brain manager,2007.0,France/Switzerland,Other,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Greg Corrado,Distinguished Scientist,2011.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Rajat Monga,Former engineering director,2009.0,India,South Asia,Yes,C-suite,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Anelia Angelova,Principal Scientist Google DeepMind,,Bulgaria,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Mohammad Norouzi,Former Senior Staff Research Scientist Google Brain,2016.0,Iran,Middle East,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Barret Zoph,Former research scientist Google Brain,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Corinna Cortes,VP Google Research (New York),2003.0,Denmark,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Mehryar Mohri,Head of Learning Theory team Google Research,,Iran (raised France),Other,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Yossi Matias,VP Engineering and Research; Head of Search and AI,,Israel,Middle East,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Jay Yagnik,VP and Engineering Fellow Google AI,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Maggie Johnson,VP Education and University Programs,2006.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Hartmut Neven,VP and Founder Google Quantum AI,2006.0,Germany,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Sebastian Thrun,Former VP and Fellow; founder of Google X,2007.0,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Andrew Ng,Former lead Google Brain,2011.0,UK (raised Hong Kong/Singapore),Other,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Hiroshi Lockheimer,Former SVP Platforms and Ecosystems (Android Chrome),2006.0,USA (raised Japan),Other,Yes,C-suite,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Jen Fitzpatrick,SVP Core,1999.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Mike Schuster,Former research scientist Google Brain,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Yonghui Wu,Distinguished Scientist,,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Jacob Devlin,Former research scientist Google AI,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Ming-Wei Chang,Research scientist Google DeepMind,,Taiwan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Kristina Toutanova,Research scientist Google DeepMind,,Bulgaria,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Alphabet (Google),GOOG,Anna Patterson,Former VP of Engineering AI,2004.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Nando de Freitas,Former research director Google DeepMind,2014.0,Zimbabwe,Other,Yes,Tech Leader,,,Born in Zimbabwe; of Portuguese descent,76,80,78,extended
+Alphabet (Google),GOOG,Timnit Gebru,Former co-lead Ethical AI team,2018.0,Eritrea/Ethiopia,Other,Yes,Tech Leader,,,Fled Ethiopia at 15 during the Eritrean-Ethiopian war; received US political asylum,76,80,78,extended
+Alphabet (Google),GOOG,Margaret Mitchell,Former founder and co-lead Ethical AI team,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Alphabet (Google),GOOG,Fei-Fei Li,Former VP and Chief Scientist AI/ML Google Cloud,2017.0,China,East Asia,Yes,Chief Scientist,,,Immigrated to the US at 15 with little English; ran the family dry-cleaning business,82,82,78,extended
+Alphabet (Google),GOOG,Kathryn S. McKinley,Distinguished Engineer,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended

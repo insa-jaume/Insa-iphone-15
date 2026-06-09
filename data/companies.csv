@@ -1,0 +1,13 @@
+rank,company,ticker,country,sector,ownership,valuation_basis,valuation_usd_trillions
+1,NVIDIA,NVDA,USA,Semiconductors / AI,Public,market cap,5.053
+2,Apple,AAPL,USA,Consumer Electronics,Public,market cap,4.428
+3,Alphabet (Google),GOOG,USA,Internet / AI,Public,market cap,4.404
+4,Microsoft,MSFT,USA,Software / Cloud,Public,market cap,3.058
+5,Amazon,AMZN,USA,E-commerce / Cloud,Public,market cap,2.637
+6,TSMC,TSM,Taiwan,Semiconductor Foundry,Public,market cap,2.213
+7,Broadcom,AVGO,USA,Semiconductors / Software,Public,market cap,1.877
+8,Saudi Aramco,2222.SR,Saudi Arabia,Oil & Gas,Public,market cap,1.75
+9,Tesla,TSLA,USA,Automotive / Energy,Public,market cap,1.535
+10,Meta Platforms,META,USA,Social / AI,Public,market cap,1.485
+11,SpaceX,SPACEX,USA,Aerospace / Satellites / AI,Private,private valuation (incl. xAI merger),1.25
+12,OpenAI,OPENAI,USA,Frontier AI,Private,private valuation (Series G),0.852

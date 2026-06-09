@@ -1,0 +1,38 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+TSMC,TSM,Morris Chang,Founder (former Chairman/CEO),1987.0,China,East Asia,Yes,Founder/CEO,,,Wartime childhood displacement across China and Hong Kong; failed MIT doctoral qualifier twice,98,92,85,core
+TSMC,TSM,C.C. Wei,Chairman & CEO,1998.0,Taiwan,East Asia,No,Founder/CEO,74000000.0,FY2024,Humble rural birthplace (farming township),92,88,70,core
+TSMC,TSM,Mark Liu,Former Chairman,1993.0,Taiwan,East Asia,No,Chair,,,none documented,86,78,48,core
+TSMC,TSM,F.C. Tseng,Vice Chairman,1987.0,Taiwan,East Asia,No,Co-founder,,,none documented,80,74,48,core
+TSMC,TSM,Y.J. Mii,EVP & Co-COO,1994.0,Taiwan,East Asia,No,C-suite,,,none documented,80,74,48,core
+TSMC,TSM,Y.P. Chyn,EVP & Co-COO,1987.0,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48,core
+TSMC,TSM,Cliff Hou,SVP & Deputy Co-COO,1997.0,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48,core
+TSMC,TSM,Wendell Huang,SVP Finance & CFO,1999.0,Taiwan,East Asia,No,CFO,,,none documented,78,72,48,core
+TSMC,TSM,Lora Ho,SVP Corporate Sustainability (former CFO),1999.0,Taiwan,East Asia,No,C-suite,,,none documented,78,74,48,core
+TSMC,TSM,Rick Cassidy,Executive Advisor (former Chairman TSMC Arizona),1997.0,USA,North America,No,C-suite,,,none documented,78,76,45,core
+TSMC,TSM,Wei-Jen Lo,SVP Corporate Strategy (retired 2025),2004.0,Taiwan,East Asia,No,Tech Leader,,,none documented,78,74,48,core
+TSMC,TSM,L. Rafael Reif,Independent Director,2021.0,Venezuela,Latin America,Yes,Director,,,Son of Eastern-European Jewish refugees who fled to Venezuela; immigrant; non-native English speaker,84,82,85,core
+TSMC,TSM,Ursula Burns,Independent Director,2024.0,USA,North America,No,Director,,,Raised in a low-income Manhattan housing project by a single mother,82,84,90,core
+TSMC,TSM,Lynn Elsenhans,Independent Director,2024.0,USA,North America,No,Director,,,none documented,78,74,48,core
+TSMC,TSM,Peter Bonfield,Independent Director,2018.0,UK,Europe,Yes,Director,,,none documented,76,72,48,core
+TSMC,TSM,Michael Splinter,Independent Director,2019.0,USA,North America,No,Director,,,none documented,76,72,45,core
+TSMC,TSM,Moshe Gavrielov,Independent Director,2020.0,Israel,Middle East,Yes,Director,,,immigrant background,76,74,55,core
+TSMC,TSM,Rose Castanares,President TSMC Arizona,1998.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,Brian Harrison,Former President TSMC Arizona,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,Y.L. Wang,VP Operations / former CEO TSMC Arizona,1992.0,,Unknown,Unknown,Division-CEO,,,none documented,84,80,45,extended
+TSMC,TSM,Ray Chuang,CEO and Director TSMC Arizona,,,Unknown,Unknown,Division-CEO,,,none documented,84,80,45,extended
+TSMC,TSM,Makoto Onodera,President TSMC Japan,1997.0,Japan,East Asia,Yes,C-suite,,,none documented,76,74,60,extended
+TSMC,TSM,Yuichi Hotta,President/CEO JASM (TSMC Kumamoto),,Japan,East Asia,Yes,Division-CEO,,,none documented,84,80,60,extended
+TSMC,TSM,Roger Luo,President TSMC China and President TSMC Nanjing,1994.0,Taiwan,East Asia,No,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,Christopher Thomas,President TSMC Europe,2026.0,USA,North America,Yes,C-suite,,,none documented,76,74,60,extended
+TSMC,TSM,Christian Koitzsch,President ESMC (TSMC Dresden),2024.0,Germany,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+TSMC,TSM,Gunnar Thomas,General Counsel and Head of HR ESMC / TSMC EMEA,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,H.-S. Philip Wong,Chief Scientist TSMC,2018.0,Hong Kong,East Asia,Yes,Chief Scientist,,,none documented,82,76,60,extended
+TSMC,TSM,Douglas C.H. Yu,Former VP Pathfinding for System Integration / Distinguished Fellow,1994.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+TSMC,TSM,L.C. Lu,VP R&D / Design & Technology Platform; Senior Fellow,2000.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+TSMC,TSM,T.S. Chang,TSMC Fellow and VP Operations / Advanced Technology and Mask Engineering,1995.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+TSMC,TSM,Jack Sun,Former CTO and VP R&D,1997.0,,Unknown,Unknown,CTO,,,none documented,80,76,45,extended
+TSMC,TSM,Burn-Jeng Lin,Former VP / Senior Director (lithography),2000.0,Taiwan,East Asia,No,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,Shang-yi Chiang,Former Co-COO / SVP R&D,1997.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+TSMC,TSM,Chenming Hu,Former Chief Technology Officer,2001.0,,Unknown,Unknown,CTO,,,none documented,80,76,45,extended
+TSMC,TSM,Mong-Song Liang,Former R&D module leader (copper process),,Taiwan,East Asia,No,Tech Leader,,,none documented,76,74,45,extended
+TSMC,TSM,Konrad Young,Former R&D Director,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended

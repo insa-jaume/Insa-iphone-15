@@ -1,0 +1,117 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+OpenAI,OPENAI,Sam Altman,Co-founder & CEO,2015.0,USA,North America,No,Founder/CEO,,,Briefly ousted as CEO in Nov 2023 and reinstated after 5 days,96,86,42,core
+OpenAI,OPENAI,Greg Brockman,Co-founder & President,2015.0,USA,North America,No,Co-founder,,,Removed from board Nov 2023 and reinstated,90,82,45,core
+OpenAI,OPENAI,Ilya Sutskever,Co-founder (former Chief Scientist),2015.0,USSR,Europe,Yes,Co-founder,,,Immigrant: USSR to Israel to Canada,92,84,72,core
+OpenAI,OPENAI,Wojciech Zaremba,Co-founder,2015.0,Poland,Europe,Yes,Co-founder,,,immigrant background,84,76,55,core
+OpenAI,OPENAI,Andrej Karpathy,Co-founder (former),2015.0,Slovakia,Europe,Yes,Co-founder,,,Relocated Slovakia to Canada as a teenager,88,76,58,core
+OpenAI,OPENAI,John Schulman,Co-founder (former),2015.0,USA,North America,No,Co-founder,,,none documented,86,76,45,core
+OpenAI,OPENAI,Durk Kingma,Co-founder (former),2015.0,Netherlands,Europe,Yes,Co-founder,,,immigrant background,84,74,52,core
+OpenAI,OPENAI,Mira Murati,Former CTO,2018.0,Albania,Europe,Yes,CTO,,,Emigrated from Albania as a teen on a UWC scholarship,88,82,72,core
+OpenAI,OPENAI,Jakub Pachocki,Chief Scientist,2017.0,Poland,Europe,Yes,Chief Scientist,,,immigrant background,86,78,55,core
+OpenAI,OPENAI,Mark Chen,Chief Research Officer,2018.0,USA,North America,No,Chief Scientist,,,none documented,84,76,45,core
+OpenAI,OPENAI,Brad Lightcap,Chief Operating Officer,2018.0,USA,North America,No,C-suite,,,none documented,80,74,45,core
+OpenAI,OPENAI,Sarah Friar,Chief Financial Officer,2024.0,UK,Europe,Yes,CFO,,,Grew up amid The Troubles in Northern Ireland,84,82,72,core
+OpenAI,OPENAI,Fidji Simo,CEO of Applications,2025.0,France,Europe,Yes,Division-CEO,,,First in her family to graduate high school; from a fishing town,84,80,72,core
+OpenAI,OPENAI,Aaron Chatterji,Chief Economist,2024.0,USA,North America,No,C-suite,,,none documented,78,74,48,core
+OpenAI,OPENAI,Jan Leike,Former Head of Alignment,2021.0,Germany,Europe,Yes,Tech Leader,,,immigrant background,82,76,50,core
+OpenAI,OPENAI,Bret Taylor,Board Chair,2023.0,USA,North America,No,Chair,,,none documented,84,76,45,core
+OpenAI,OPENAI,Adam D'Angelo,Board Director,2018.0,USA,North America,No,Director,,,none documented,82,74,45,core
+OpenAI,OPENAI,Zico Kolter,Board Director,2024.0,USA,North America,No,Director,,,none documented,80,74,45,core
+OpenAI,OPENAI,Paul Nakasone,Board Director,2024.0,USA,North America,No,Director,,,Second-generation Japanese American,78,80,52,core
+OpenAI,OPENAI,Adebayo Ogunlesi,Board Director,2025.0,Nigeria,Africa,Yes,Director,,,Immigrant from Nigeria,82,78,62,core
+OpenAI,OPENAI,Sue Desmond-Hellmann,Board Director,2023.0,USA,North America,No,Director,,,none documented,78,74,48,core
+OpenAI,OPENAI,Nicole Seligman,Board Director,2023.0,USA,North America,No,Director,,,none documented,76,72,48,core
+OpenAI,OPENAI,Alec Radford,Researcher,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Aditya Ramesh,VP of Research,2019.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Prafulla Dhariwal,Technical Fellow,2016.0,India,South Asia,Yes,Tech Leader,,,Humble origins; rose from Pune as child prodigy,76,80,78,extended
+OpenAI,OPENAI,Ian Goodfellow,Research Scientist,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Tom Brown,Researcher,2016.0,USA,North America,No,Tech Leader,,,Self-taught; B-minus in linear algebra then rose to AI lead,76,80,78,extended
+OpenAI,OPENAI,Jared Kaplan,Researcher,2019.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Benjamin Mann,Researcher,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Nick Ryder,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Sam McCandlish,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Dario Amodei,VP of Research,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Daniela Amodei,VP of Safety and Policy,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Chris Olah,Researcher,,Canada,North America,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Jack Clark,Policy Director,,UK,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Tom Henighan,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Long Ouyang,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Jeff Wu,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Carroll Wainwright,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Pamela Mishkin,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Diogo Almeida,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Xu Jiang,Researcher,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Ryan Lowe,Researcher,,Canada,North America,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Jerry Tworek,Researcher; VP of Research,,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Heewoo Jun,Researcher,,South Korea,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Qiming Yuan,Researcher,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Henrique Ponde de Oliveira Pinto,Researcher,,Brazil,Latin America,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Harri Edwards,Researcher,,UK,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Alex Ray,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Raul Puri,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Michael Petrov,Researcher,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Brooke Chan,Engineer,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Scott Gray,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Mikhail Pavlov,Researcher,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Alethea Power,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Mohammad Bavarian,Researcher,,Iran,Middle East,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Clemens Winter,Researcher,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Philippe Tillet,Researcher,,France,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Felipe Petroski Such,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Matthias Plappert,Researcher,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Fotios Chantzis,Engineer,,Greece,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Elizabeth Barnes,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Ariel Herbert-Voss,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,William Hebgen Guss,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Alex Nichol,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Alex Paino,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Nikolas Tezak,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Jie Tang,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Igor Babuschkin,Researcher,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Suchir Balaji,Researcher,2020.0,USA,North America,No,Tech Leader,,,Died in 2024; raised copyright concerns as whistleblower,76,80,78,extended
+OpenAI,OPENAI,Shantanu Jain,Researcher,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,William Saunders,Researcher,,Canada,North America,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Christopher Hesse,Engineer,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Andrew N. Carr,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Josh Achiam,Researcher; Head of Mission Alignment,2016.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Vedant Misra,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Evan Morikawa,Engineering lead,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Matthew Knight,Security lead,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Miles Brundage,Policy Researcher; Head of Policy Research,2018.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Katie Mayer,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Peter Welinder,VP of Product and Partnerships,2017.0,Sweden,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Bob McGrew,Chief Research Officer,2017.0,USA,North America,No,Chief Scientist,,,none documented,82,76,45,extended
+OpenAI,OPENAI,Aravind Srinivas,Researcher,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Pieter Abbeel,Research Scientist,2016.0,Belgium,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Lilian Weng,VP of Research (Safety),2018.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Jong Wook Kim,Member of Technical Staff,,South Korea,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Aidan Clark,VP of Research (Training),,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Liam Fedus,VP of Research; Post-training lead,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Barret Zoph,VP of Research,2022.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Luke Metz,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Noam Brown,Research Scientist,2023.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Jason Wei,Research Scientist,2023.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Hyung Won Chung,Research Scientist,2023.0,South Korea,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Karl Cobbe,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Szymon Sidor,Researcher,2016.0,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Filip Wolski,Researcher,,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Susan Zhang,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Amanda Askell,Research Scientist (Policy),2018.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Girish Sastry,Policy Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Gretchen Krueger,Policy Manager,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Sandhini Agarwal,Policy Researcher,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Daniel Ziegler,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Arvind Neelakantan,Researcher,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Pranav Shyam,Researcher,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Melanie Subbiah,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Rewon Child,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Tim Brooks,Researcher; Sora co-lead,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Bill Peebles,Researcher; Sora co-lead,2023.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Lukasz Kaiser,Researcher,2021.0,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Yuri Burda,Researcher,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Nicholas Joseph,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Heidy Khlaaf,Safety Engineer,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Marcin Andrychowicz,Researcher,,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Maciej Chociej,Researcher,,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+OpenAI,OPENAI,Bowen Baker,Researcher,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+OpenAI,OPENAI,Ilge Akkaya,Researcher,,Turkey,Middle East,Yes,Tech Leader,,,none documented,76,74,60,extended

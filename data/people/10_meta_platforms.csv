@@ -1,0 +1,83 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+Meta Platforms,META,Mark Zuckerberg,Founder Chairman & CEO,2004.0,USA,North America,No,Founder/CEO,27219874.0,FY2024,none documented,98,86,40,core
+Meta Platforms,META,Javier Olivan,Chief Operating Officer,2007.0,Spain,Europe,Yes,C-suite,25500000.0,FY2024,Immigrant from a small Pyrenees town,82,76,58,core
+Meta Platforms,META,Susan Li,Chief Financial Officer,2008.0,China,East Asia,Yes,CFO,23620488.0,FY2024,Immigrant from China; entered college at 15,84,78,64,core
+Meta Platforms,META,Andrew Bosworth,CTO & Head of Reality Labs,2006.0,USA,North America,No,CTO,23594826.0,FY2024,none documented,82,74,45,core
+Meta Platforms,META,Chris Cox,Chief Product Officer,2005.0,USA,North America,No,C-suite,23600000.0,FY2024,none documented,82,74,45,core
+Meta Platforms,META,Alexandr Wang,Chief AI Officer,2025.0,USA,North America,No,Tech Leader,,,Son of Chinese immigrant physicists,88,80,58,core
+Meta Platforms,META,Dina Powell McCormick,President & Vice Chairman,2026.0,Egypt,Middle East,Yes,C-suite,,,Immigrant from Egypt; Coptic Christian middle-class family,80,78,62,core
+Meta Platforms,META,Joel Kaplan,Chief Global Affairs Officer,2011.0,USA,North America,No,C-suite,,,none documented (Marine Corps officer),78,78,45,core
+Meta Platforms,META,C.J. Mahoney,Chief Legal Officer,2026.0,USA,North America,No,C-suite,,,none documented,76,72,45,core
+Meta Platforms,META,Adam Mosseri,Head of Instagram,2008.0,USA,North America,No,Division-CEO,,,none documented,82,74,48,core
+Meta Platforms,META,Will Cathcart,Head of WhatsApp,2010.0,USA,North America,No,Division-CEO,,,none documented,80,74,45,core
+Meta Platforms,META,Naomi Gleit,Head of Product,2005.0,USA,North America,No,C-suite,,,none documented,80,74,45,core
+Meta Platforms,META,Alex Schultz,CMO & VP Analytics,2007.0,UK,Europe,Yes,C-suite,,,none documented,78,74,48,core
+Meta Platforms,META,Mike Schroepfer,Senior Fellow (former CTO),2008.0,USA,North America,No,Tech Leader,,,none documented,80,74,45,core
+Meta Platforms,META,Marc Andreessen,Director,2008.0,USA,North America,No,Director,,,Rural Wisconsin upbringing,84,76,55,core
+Meta Platforms,META,Robert Kimmitt,Lead Independent Director,2020.0,USA,North America,No,Director,,,Vietnam War combat veteran,78,82,48,core
+Meta Platforms,META,Peggy Alford,Director,2019.0,USA,North America,No,Director,,,none documented,76,72,52,core
+Meta Platforms,META,Drew Houston,Director,2020.0,USA,North America,No,Director,,,none documented,82,74,45,core
+Meta Platforms,META,Patrick Collison,Director,2025.0,Ireland,Europe,Yes,Director,,,Rural Irish village upbringing; left MIT before graduating,86,78,55,core
+Meta Platforms,META,Tony Xu,Director,2022.0,China,East Asia,Yes,Director,,,Immigrant from China; credits early work as a dishwasher,84,80,66,core
+Meta Platforms,META,John Elkann,Director,2025.0,USA,Europe,No,Director,,,none documented (Agnelli dynasty heir),76,72,20,core
+Meta Platforms,META,Dana White,Director,2025.0,USA,North America,No,Director,,,none documented,78,76,48,core
+Meta Platforms,META,Janelle Gale,Chief People Officer,2012.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Dave Wehner,Chief Strategy Officer,2012.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Maxine Williams,VP Accessibility and Engagement,2013.0,Trinidad and Tobago,Other,Yes,C-suite,,,Born in Trinidad and Tobago,76,80,78,extended
+Meta Platforms,META,Santosh Janardhan,Head of Infrastructure,,India,South Asia,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Erin Egan,Chief Privacy Officer Policy,,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Michel Protti,Chief Compliance and Privacy Officer Product,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Tom Alison,Head of Facebook,2016.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Justin Osofsky,Head of Partnerships and Business Development,2008.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,John Hegeman,Chief Revenue Officer,2007.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Nicola Mendelsohn,Head of Global Business Group,2013.0,United Kingdom,Europe,Yes,C-suite,,,Has spoken publicly about her follicular lymphoma diagnosis,76,80,78,extended
+Meta Platforms,META,Guy Rosen,Chief Information Security Officer (former),2013.0,Israel,Middle East,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Vishal Shah,VP AI Products,,India,South Asia,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,David Marcus,VP Messaging / Head of Libra (former),2014.0,France,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Stephane Kasriel,Head of Commerce and Fintech,,France,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Marne Levine,Chief Business Officer (former),2010.0,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Sheryl Sandberg,Chief Operating Officer (former),2008.0,USA,North America,No,C-suite,,,Widowed suddenly in 2015 (husband Dave Goldberg),76,80,78,extended
+Meta Platforms,META,Nick Clegg,President Global Affairs (former),2018.0,United Kingdom,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Nat Friedman,Leader AI Products (MSL),2025.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Daniel Gross,Leader (MSL),2025.0,Israel,Middle East,Yes,Tech Leader,,,Immigrant; born in Jerusalem Israel,76,80,78,extended
+Meta Platforms,META,Yann LeCun,Chief AI Scientist (former),2013.0,France,Europe,Yes,Chief Scientist,,,none documented,82,76,60,extended
+Meta Platforms,META,Joelle Pineau,Head of AI Research / FAIR lead (former),2017.0,Canada,North America,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Robert Fergus,Head of FAIR,2025.0,United Kingdom,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Jerome Pesenti,VP of AI (former),2018.0,France,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Michael Abrash,Chief Scientist Reality Labs,2014.0,USA,North America,No,Chief Scientist,,,none documented,82,76,45,extended
+Meta Platforms,META,Manohar Paluri,VP AI,2014.0,India,South Asia,Yes,C-suite,,,Grew up in India,76,80,78,extended
+Meta Platforms,META,Ahmad Al-Dahle,VP Head of GenAI (former),,USA,North America,No,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Aparna Ramani,VP Engineering AI Infrastructure (former),,India,South Asia,Yes,C-suite,,,none documented,76,74,60,extended
+Meta Platforms,META,Devi Parikh,Senior Director GenAI (former),2016.0,India,South Asia,Yes,C-suite,,,Immigrant from India to US,76,80,78,extended
+Meta Platforms,META,Soumith Chintala,Distinguished Engineer / PyTorch lead (former),2014.0,India,South Asia,Yes,Tech Leader,,,Rejected by 12 US universities; from a tier-2 Indian college,76,80,78,extended
+Meta Platforms,META,Hugo Touvron,Research Scientist,,France,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Xavier Martinet,Research Engineer,,France,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Faisal Azhar,Technical Program Lead,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Aaron Grattafiori,Research Scientist,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Laurens van der Maaten,Distinguished Research Scientist (former),,Netherlands,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Nikhila Ravi,Director MSL,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Piotr Dollar,Research Scientist Lead,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Ross Girshick,Research Scientist (former),,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Alexander Kirillov,Research Scientist (former),,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Vishrav Chaudhary,Research Scientist,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Rohit Patel,Director MSL,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Meta Platforms,META,Andrew Tulloch,AI Researcher (MSL),2025.0,Australia,Oceania,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Shengjia Zhao,Research Scientist (MSL),2025.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Jack Rae,Principal Research Scientist (MSL),2025.0,United Kingdom,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Jason Wei,Research Scientist (MSL former),2025.0,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Hyung Won Chung,Research Scientist (MSL),2025.0,South Korea,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Shuchao Bi,Research Scientist (MSL),2025.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Joel Pobar,Engineer (MSL),2025.0,Australia,Oceania,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Ruoming Pang,AI Infrastructure Lead MSL (former),2025.0,China,East Asia,Yes,Tech Leader,,,Immigrant from China to US,76,80,78,extended
+Meta Platforms,META,Trapit Bansal,Research Scientist (MSL),2025.0,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Pei Sun,Research Scientist (MSL),2025.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Jiahui Yu,Research Scientist (MSL),2025.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Hongyu Ren,Research Scientist (MSL),2025.0,China,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Adam Paszke,PyTorch creator (former),,Poland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Meta Platforms,META,Sam Gross,Research Engineer (former),,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Gregory Chanan,Engineer PyTorch,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Edward Yang,Research Engineer PyTorch,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Zachary DeVito,Research Scientist PyTorch,,USA,North America,No,Tech Leader,,,none documented,76,74,45,extended
+Meta Platforms,META,Dustin Moskovitz,Co-founder (former),2004.0,USA,North America,No,Co-founder,,,none documented,84,80,45,extended
+Meta Platforms,META,Andrew McCollum,Co-founder (former),2004.0,USA,North America,No,Co-founder,,,none documented,84,80,45,extended
+Meta Platforms,META,Chris Hughes,Co-founder (former),2004.0,USA,North America,No,Co-founder,,,none documented,84,80,45,extended

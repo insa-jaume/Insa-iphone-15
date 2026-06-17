@@ -1,0 +1,76 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+Microsoft,MSFT,Satya Nadella,Chairman & CEO,1992.0,India,South Asia,Yes,Founder/CEO,96500000.0,FY2025,Immigrant; raised son with cerebral palsy (Zain d. 2022),96,88,68,core
+Microsoft,MSFT,Amy Hood,EVP & CFO,2002.0,USA,North America,No,CFO,29500000.0,FY2025,none documented,82,74,45,core
+Microsoft,MSFT,Judson Althoff,EVP & CEO Commercial Business,2013.0,USA,North America,No,C-suite,28200000.0,FY2025,none documented,80,74,45,core
+Microsoft,MSFT,Brad Smith,Vice Chair & President,1993.0,USA,North America,No,C-suite,28300000.0,FY2025,none documented,82,76,45,core
+Microsoft,MSFT,Takeshi Numoto,EVP & Chief Marketing Officer,1997.0,Japan,East Asia,Yes,C-suite,11870000.0,FY2025,immigrant background,78,74,55,core
+Microsoft,MSFT,Kevin Scott,EVP & CTO,2017.0,USA,North America,No,CTO,,,Rural working-class Virginia upbringing,84,80,70,core
+Microsoft,MSFT,Mustafa Suleyman,EVP & CEO Microsoft AI,2024.0,UK,Europe,No,Division-CEO,,,Son of a Syrian immigrant taxi driver; Oxford dropout,88,84,75,core
+Microsoft,MSFT,Scott Guthrie,EVP Cloud + AI Group,1997.0,USA,North America,No,C-suite,,,none documented,82,74,45,core
+Microsoft,MSFT,Phil Spencer,CEO Microsoft Gaming (retired 2026),1988.0,USA,North America,No,Division-CEO,,,none documented,80,74,45,core
+Microsoft,MSFT,Kathleen Hogan,EVP Office of Strategy and Transformation,2003.0,USA,North America,No,C-suite,,,none documented,78,72,45,core
+Microsoft,MSFT,Amy Coleman,EVP & Chief People Officer,2003.0,USA,North America,No,C-suite,,,none documented,74,70,45,core
+Microsoft,MSFT,Reid Hoffman,Independent Director,2017.0,USA,North America,No,Director,,,none documented,82,74,45,core
+Microsoft,MSFT,Penny Pritzker,Independent Director,2017.0,USA,North America,No,Director,,,none documented (Pritzker family),76,72,25,core
+Microsoft,MSFT,John Stanton,Lead Independent Director,2014.0,USA,North America,No,Director,,,none documented,74,72,45,core
+Microsoft,MSFT,Sandi Peterson,Independent Director,2015.0,USA,North America,No,Director,,,none documented,74,72,45,core
+Microsoft,MSFT,Teri List,Independent Director,2014.0,USA,North America,No,Director,,,none documented,74,72,45,core
+Microsoft,MSFT,Hugh Johnston,Independent Director,2017.0,USA,North America,No,Director,,,none documented,74,72,45,core
+Microsoft,MSFT,Charles Scharf,Independent Director,2025.0,USA,North America,No,Director,,,none documented,78,74,45,core
+Microsoft,MSFT,Emma Walmsley,Independent Director,2019.0,UK,Europe,Yes,Director,,,none documented,80,74,48,core
+Microsoft,MSFT,Catherine MacGregor,Independent Director,2023.0,Morocco,Africa,Yes,Director,,,none documented,78,74,55,core
+Microsoft,MSFT,Mark Mason,Independent Director,2024.0,USA,North America,No,Director,,,none documented,76,74,52,core
+Microsoft,MSFT,John David Rainey,Independent Director,2025.0,USA,North America,No,Director,,,none documented,76,72,45,core
+Microsoft,MSFT,Mark Russinovich,CTO and Technical Fellow Microsoft Azure,2006.0,Spain,Europe,Yes,Tech Leader,,,Immigrant; born in Spain and emigrated to the US as a child,76,80,78,extended
+Microsoft,MSFT,Charlie Bell,Executive Vice President Security,2021.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Igor Tsyganskiy,Executive Vice President Microsoft Research,2023.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Pavan Davuluri,President Windows and Devices,,India,South Asia,Yes,C-suite,,,Immigrant from India to the US,76,80,78,extended
+Microsoft,MSFT,Jay Parikh,Executive Vice President CoreAI Platform and Tools,2025.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Ryan Roslansky,Executive Vice President LinkedIn and Office,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Charles Lamanna,President Copilot Agents and Platform,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Eric Boyd,Corporate Vice President Azure AI Platform,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Christopher Young,Executive Vice President Business Development Strategy and Ventures,2020.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Asha Sharma,Executive Vice President and CEO Microsoft Gaming,,,Unknown,Unknown,Division-CEO,,,none documented,84,80,45,extended
+Microsoft,MSFT,Matt Booty,Executive Vice President and Chief Content Officer,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Rajesh Jha,Executive Vice President Experiences and Devices,1990.0,India,South Asia,Yes,C-suite,,,Immigrant from India to the US,76,80,78,extended
+Microsoft,MSFT,Jared Spataro,Corporate Vice President Microsoft 365 (AI at Work),2006.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Deepak Bansal,Corporate Vice President and Technical Fellow Azure Core,2008.0,India,South Asia,Yes,Tech Leader,,,Immigrant from India to the US,76,80,78,extended
+Microsoft,MSFT,Eric Horvitz,Chief Scientific Officer and Technical Fellow,1993.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Peter Lee,President Microsoft Science,2010.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Christopher Bishop,Technical Fellow and Director Microsoft Research AI for Science,1997.0,United Kingdom,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Microsoft,MSFT,Doug Burger,Technical Fellow,2008.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Lidong Zhou,Corporate Vice President and Managing Director Microsoft Research Asia,,China,East Asia,Yes,Tech Leader,,,Immigrant from China; studied abroad,76,80,78,extended
+Microsoft,MSFT,Donald Kossmann,Distinguished Scientist and Managing Director Microsoft Research Redmond,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Microsoft,MSFT,Sriram Rajamani,Distinguished Scientist and Managing Director Microsoft Research India,,India,South Asia,Yes,Tech Leader,,,Immigrant from India; studied abroad,76,80,78,extended
+Microsoft,MSFT,Aditya Nori,Lab Director Microsoft Research Cambridge,,India,South Asia,Yes,Tech Leader,,,none documented,76,74,60,extended
+Microsoft,MSFT,Abigail Sellen,Distinguished Scientist and Lab Director Microsoft Research Cambridge,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Susan Dumais,Technical Fellow and Managing Director Microsoft Research New England,1997.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Jaime Teevan,Technical Fellow and Chief Scientist Microsoft AI,2006.0,,Unknown,Unknown,Chief Scientist,,,none documented,82,76,45,extended
+Microsoft,MSFT,Victor Bahl,Technical Fellow and Chief Technology Officer Azure for Operators,,,Unknown,Unknown,CTO,,,none documented,80,76,45,extended
+Microsoft,MSFT,Raghu Ramakrishnan,Technical Fellow and CTO for Data,2012.0,India,South Asia,Yes,CTO,,,Immigrant from India to the US,80,82,78,extended
+Microsoft,MSFT,Johannes Gehrke,Technical Fellow,2017.0,Germany,Europe,Yes,Tech Leader,,,Immigrant from Germany to the US,76,80,78,extended
+Microsoft,MSFT,Jennifer Tour Chayes,Former Technical Fellow and Managing Director Microsoft Research New England,1997.0,United States,North America,No,Tech Leader,,,Child of Iranian immigrants,76,80,78,extended
+Microsoft,MSFT,Dave Cutler,Senior Technical Fellow,1988.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Anders Hejlsberg,Technical Fellow,1996.0,Denmark,Europe,Yes,Tech Leader,,,Immigrant from Denmark to the US,76,80,78,extended
+Microsoft,MSFT,Butler Lampson,Technical Fellow,1995.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Erich Gamma,Technical Fellow,2011.0,Switzerland,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Microsoft,MSFT,Don Box,Former Technical Fellow,2002.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,John Shewchuk,Technical Fellow,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Jeffrey Snover,Former Technical Fellow,1999.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,David DeWitt,Former Technical Fellow,2008.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Alex Kipman,Former Technical Fellow,2001.0,Brazil,Latin America,Yes,Tech Leader,,,Immigrant from Brazil to the US,76,80,78,extended
+Microsoft,MSFT,Eric Traut,Former Technical Fellow,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Marcus Fontoura,Former Technical Fellow,,Brazil,Latin America,Yes,Tech Leader,,,Immigrant from Brazil to the US,76,80,78,extended
+Microsoft,MSFT,Michael Freedman,Technical Fellow,,,Unknown,Unknown,Tech Leader,,,(unverified),76,80,78,extended
+Microsoft,MSFT,Sebastien Bubeck,Former Vice President of Applied Research and Distinguished Scientist,2014.0,France,Europe,Yes,Tech Leader,,,Immigrant from France to the US,76,80,78,extended
+Microsoft,MSFT,Bret Arsenault,Former Chief Information Security Officer,1990.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Sarah Bond,Former President of Xbox,2017.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Panos Panay,Former Chief Product Officer,2004.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Steven Sinofsky,Former President of Windows,1989.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+Microsoft,MSFT,Ray Ozzie,Former Chief Software Architect,2005.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Qi Lu,Former Executive Vice President Applications and Services,2008.0,China,East Asia,Yes,C-suite,,,Immigrant from rural China; humble origins,76,80,78,extended
+Microsoft,MSFT,Harry Shum,Former Executive Vice President AI and Research,1996.0,China,East Asia,Yes,Tech Leader,,,Immigrant from China to the US,76,80,78,extended
+Microsoft,MSFT,Jean-Philippe Courtois,Former Executive Vice President and President of Global Sales,1984.0,France,Europe,Yes,C-suite,,,none documented,76,74,60,extended
+Microsoft,MSFT,Frank Noe,Partner Research Manager Microsoft Research AI for Science,,Germany,Europe,Yes,Tech Leader,,,none documented,76,74,60,extended
+Microsoft,MSFT,Bonnie Kruft,Partner and Deputy Director AI for Science Microsoft Research,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+Microsoft,MSFT,Yasuyuki Matsushita,Lab Director Microsoft Research Asia Tokyo,2024.0,Japan,East Asia,Yes,Tech Leader,,,none documented,76,74,60,extended

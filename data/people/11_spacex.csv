@@ -1,0 +1,35 @@
+company,ticker,name,title,year_joined,origin_country,origin_region,immigrant,role_category,total_compensation_usd,comp_fiscal_year,documented_adversity,potential_index,mental_strength,adversity_origin_score,data_tier
+SpaceX,SPACEX,Elon Musk,Founder CEO & Chief Engineer,2002.0,South Africa,Africa,Yes,Founder/CEO,,,Immigrant via Canada; publicly described a difficult childhood,100,92,72,core
+SpaceX,SPACEX,Gwynne Shotwell,President & COO,2002.0,USA,North America,No,C-suite,,,none documented,88,82,48,core
+SpaceX,SPACEX,Tom Mueller,Founding employee (former VP Propulsion),2002.0,USA,North America,No,Tech Leader,,,Logger's son; worked as a logger to fund education; built engines in his garage,86,82,72,core
+SpaceX,SPACEX,Hans Koenigsmann,Former VP Build & Flight Reliability,2002.0,Germany,Europe,Yes,Tech Leader,,,Immigrant; abandoned pilot ambition due to eyesight,82,78,56,core
+SpaceX,SPACEX,Mark Juncosa,VP Vehicle Engineering,2005.0,USA,North America,No,Tech Leader,,,none documented,82,80,45,core
+SpaceX,SPACEX,Kiko Dontchev,VP Launch,2010.0,Bulgaria,Europe,Yes,Tech Leader,,,Immigrant from Bulgaria; arrived in US at age 3,82,80,60,core
+SpaceX,SPACEX,Bill Gerstenmaier,VP Build & Flight Reliability,2020.0,USA,North America,No,Tech Leader,,,none documented,80,78,45,core
+SpaceX,SPACEX,Jessica Jensen,VP Customer Operations & Integration,2006.0,USA,North America,No,C-suite,,,none documented,78,76,45,core
+SpaceX,SPACEX,Jonathan Hofeller,VP Starlink Commercial Sales,2007.0,USA,North America,No,C-suite,,,none documented,76,74,45,core
+SpaceX,SPACEX,Stephanie Bednarek,VP Commercial Sales,2008.0,USA,North America,No,C-suite,,,none documented,76,74,45,core
+SpaceX,SPACEX,Bret Johnsen,Chief Financial Officer,2011.0,USA,North America,No,CFO,,,none documented,78,76,45,core
+SpaceX,SPACEX,Lars Blackmore,Senior Principal Mars Landing Engineer,2011.0,UK,Europe,Yes,Tech Leader,,,none documented,82,78,50,core
+SpaceX,SPACEX,Tim Hughes,SVP Global Business & Government Affairs,2005.0,USA,North America,No,C-suite,,,none documented,78,76,45,core
+SpaceX,SPACEX,Garrett Reisman,Former Director of Space Operations,2011.0,USA,North America,No,Tech Leader,,,none documented (former NASA astronaut),80,82,45,core
+SpaceX,SPACEX,Bill Riley,VP Starship Engineering,2010.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Jon Edwards,Senior VP Falcon and Dragon,2004.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Jacob McKenzie,VP Raptor,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Stuart Keech,VP Starship Engineering,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Benjamin Reed,Senior Director Human Spaceflight Programs,,United States,North America,No,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Sarah Walker,Director Dragon Mission Management,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,John Insprucker,Principal Integration Engineer,2006.0,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Kate Tice,Senior Manager Quality Systems Engineering,,United States,North America,No,Tech Leader,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Jessie Anderson,Senior Production and Engineering Manager Starship,2015.0,United States,North America,No,Tech Leader,,,Underrepresented-background engineer; humble origin (unverified),76,80,78,extended
+SpaceX,SPACEX,Siva Bharadvaj,Space Operations Engineer / Webcast Host,,United States,North America,No,Tech Leader,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Lauren Lyons,Senior Engineer / Webcast Host (former),,United States,North America,No,Tech Leader,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Anil Menon,Lead Flight Surgeon (former),2018.0,United States,North America,No,Tech Leader,,,Children of immigrants (Indian and Ukrainian parents),76,80,78,extended
+SpaceX,SPACEX,Kathryn Lueders,Starbase General Manager (former),2023.0,United States,North America,No,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,James Gleeson,VP Communications,,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Will Heltsley,VP Propulsion (former),2009.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Lee Rosen,VP Mission and Launch Operations (former),2013.0,United States,North America,No,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Ricky Lim,Senior Director Mission and Launch Operations (former),2008.0,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Tom Ochinero,Senior VP Commercial Business (former),,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Sam Patel,Director Starbase Build (former),,,Unknown,Unknown,C-suite,,,none documented,76,74,45,extended
+SpaceX,SPACEX,Andy Tran,Avionics Production Supervisor / Webcast Host,,,Unknown,Unknown,Tech Leader,,,none documented,76,74,45,extended

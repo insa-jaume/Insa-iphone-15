@@ -1,0 +1,74 @@
+name,title,year_joined,origin_country,education,prior_company,notable,documented_adversity
+Dina Powell McCormick,President and Vice Chairman,2025,Egypt,University of Texas,Goldman Sachs; BDT & MSD Partners,Former US deputy national security advisor; Egyptian-born immigrant,Immigrant from Egypt to US as a child
+Joel Kaplan,Chief Global Affairs Officer,2011,USA,Harvard; Harvard Law,White House (George W. Bush admin),Former White House deputy chief of staff; succeeded Nick Clegg,none documented
+C.J. Mahoney,Chief Legal Officer,2021,USA,Harvard; Yale Law,Office of US Trade Representative,Former Deputy USTR,none documented
+Janelle Gale,Chief People Officer,2012,,,,Long-time Meta HR leader,none documented
+Dave Wehner,Chief Strategy Officer,2012,USA,Georgetown,Allen & Company; Zynga,Former Meta CFO,none documented
+Maxine Williams,VP Accessibility and Engagement,2013,Trinidad and Tobago,Yale; Oxford (Rhodes Scholar),,Former chief diversity officer; Rhodes Scholar,Born in Trinidad and Tobago
+Naomi Gleit,Head of Product,2005,USA,Stanford,,One of Meta's longest-serving employees (joined ~2005),none documented
+Santosh Janardhan,Head of Infrastructure,,India,,,Leads Meta global data-center and infra organization,none documented
+Erin Egan,Chief Privacy Officer Policy,,USA,,,Leads privacy policy at Meta,none documented
+Michel Protti,Chief Compliance and Privacy Officer Product,,,,,Leads product compliance and privacy,none documented
+Alex Schultz,Chief Marketing Officer and VP Analytics,2007,United Kingdom,Cambridge,,Growth and analytics leader; openly gay executive,none documented
+Tom Alison,Head of Facebook,2016,USA,,Microsoft,Leads the core Facebook app,none documented
+Justin Osofsky,Head of Partnerships and Business Development,2008,USA,,,Long-time Meta partnerships leader,none documented
+John Hegeman,Chief Revenue Officer,2007,USA,,,Rose through ads and Feed; named CRO 2024,none documented
+Nicola Mendelsohn,Head of Global Business Group,2013,United Kingdom,,Karmarama,Leads global ad sales; UK advertising veteran,Has spoken publicly about her follicular lymphoma diagnosis
+Guy Rosen,Chief Information Security Officer (former),2013,Israel,,Onavo (acquired by Facebook),Co-founded Onavo; led integrity; departed ~2025,none documented
+Vishal Shah,VP AI Products,,India,,,Former VP Metaverse; earlier led Instagram product,none documented
+David Marcus,VP Messaging / Head of Libra (former),2014,France,,PayPal,Former PayPal president; led Messenger and Libra/Diem; left 2021,none documented
+Stephane Kasriel,Head of Commerce and Fintech,,France,Stanford; INSEAD,Upwork,Former Upwork CEO; took over Meta financial services,none documented
+Marne Levine,Chief Business Officer (former),2010,USA,Harvard; Harvard,US Treasury,Former Instagram COO; left Meta 2023,none documented
+Sheryl Sandberg,Chief Operating Officer (former),2008,USA,Harvard; Harvard MBA,Google; US Treasury,Author of Lean In; Meta COO 2008-2022; board member,Widowed suddenly in 2015 (husband Dave Goldberg)
+Nick Clegg,President Global Affairs (former),2018,United Kingdom,Cambridge; College of Europe,UK Government,Former UK Deputy Prime Minister; left Meta 2025,none documented
+Mike Schroepfer,Senior Fellow (former CTO),2008,USA,Stanford,Mozilla,Meta CTO 2013-2022; led AI push; now climate philanthropy,none documented
+Alexandr Wang,Chief AI Officer,2025,USA,MIT (dropped out),Scale AI,Co-founder and former CEO of Scale AI; leads Meta Superintelligence Labs,none documented
+Nat Friedman,Leader AI Products (MSL),2025,USA,MIT,GitHub; Microsoft,Former GitHub CEO; co-leads MSL,none documented
+Daniel Gross,Leader (MSL),2025,Israel,,Safe Superintelligence; Apple; Y Combinator,Former CEO of Safe Superintelligence; Israeli-born,Immigrant; born in Jerusalem Israel
+Yann LeCun,Chief AI Scientist (former),2013,France,ESIEE Paris; Université Pierre et Marie Curie,Bell Labs; NYU,Turing Award winner; founded FAIR; left Dec 2025 to start AMI Labs,none documented
+Joelle Pineau,Head of AI Research / FAIR lead (former),2017,Canada,Waterloo; Carnegie Mellon,McGill University,Led FAIR; left 2025 for Cohere,none documented
+Robert Fergus,Head of FAIR,2025,United Kingdom,Cambridge; Oxford; Caltech,Google DeepMind; NYU,Co-founded FAIR in 2014; returned 2025 to lead FAIR,none documented
+Jerome Pesenti,VP of AI (former),2018,France,,IBM Watson; Vivisimo,Led Meta AI 2018-2022; PhD in mathematics,none documented
+Michael Abrash,Chief Scientist Reality Labs,2014,USA,University of Pennsylvania,Valve; id Software; Microsoft,Renowned graphics programmer; Quake and Half-Life engine work,none documented
+Manohar Paluri,VP AI,2014,India,IIIT Hyderabad; Georgia Tech (PhD),Google; IBM Watson; SRI,Co-founder of FAIR; leads media applied research in MSL; led Llama,Grew up in India
+Ahmad Al-Dahle,VP Head of GenAI (former),,USA,,Apple,Led Llama and GenAI org; left for Airbnb Jan 2026,none documented
+Aparna Ramani,VP Engineering AI Infrastructure (former),,India,,,Long-time infra VP; led MSL infra; departed 2026,none documented
+Devi Parikh,Senior Director GenAI (former),2016,India,Rowan University; Carnegie Mellon (PhD),Virginia Tech; Georgia Tech,Computer vision researcher; left 2024 to co-found Yutori,Immigrant from India to US
+Soumith Chintala,Distinguished Engineer / PyTorch lead (former),2014,India,VIT University; NYU,,Co-creator and lead of PyTorch; left Meta Nov 2025,Rejected by 12 US universities; from a tier-2 Indian college
+Hugo Touvron,Research Scientist,,France,,,First author of the original LLaMA paper,none documented
+Xavier Martinet,Research Engineer,,France,,,Co-author of original LLaMA paper; remained at Meta,none documented
+Faisal Azhar,Technical Program Lead,,,,,Co-author of original LLaMA paper; remained at Meta,none documented
+Aaron Grattafiori,Research Scientist,,USA,,,Lead author of The Llama 3 Herd of Models paper,none documented
+Laurens van der Maaten,Distinguished Research Scientist (former),,Netherlands,Delft University of Technology,,Inventor of t-SNE; Llama 3 technical co-lead; left for Anthropic,none documented
+Nikhila Ravi,Director MSL,,,University of Cambridge,,Co-leads Segment Anything (SAM/SAM 2) team,none documented
+Piotr Dollar,Research Scientist Lead,,,Caltech (PhD),,Directional lead on Segment Anything; computer vision researcher,none documented
+Ross Girshick,Research Scientist (former),,USA,University of Chicago (PhD),,Creator of R-CNN; directional lead on Segment Anything,none documented
+Alexander Kirillov,Research Scientist (former),,,,,Project lead on Segment Anything paper,none documented
+Vishrav Chaudhary,Research Scientist,,,,Microsoft,Meta AI research scientist on language models,none documented
+Rohit Patel,Director MSL,,,Northwestern (Kellogg),PwC Strategy&,Director in Meta Superintelligence Labs; worked on Llama 3,none documented
+Andrew Tulloch,AI Researcher (MSL),2025,Australia,University of Sydney; Cambridge,Thinking Machines Lab; OpenAI,Co-founder of Thinking Machines Lab; rejoined Meta 2025,none documented
+Shengjia Zhao,Research Scientist (MSL),2025,China,Tsinghua University; Stanford (PhD),OpenAI,Contributed to ChatGPT GPT-4o and o1,none documented
+Jack Rae,Principal Research Scientist (MSL),2025,United Kingdom,University College London,Google DeepMind,Worked on Gemini 2.5,none documented
+Jason Wei,Research Scientist (MSL former),2025,USA,Dartmouth,OpenAI; Google Brain,Known for chain-of-thought prompting research; helped build o1/o3,none documented
+Hyung Won Chung,Research Scientist (MSL),2025,South Korea,MIT (PhD),OpenAI,Worked on o1 and o3 reasoning models,none documented
+Shuchao Bi,Research Scientist (MSL),2025,China,,OpenAI; Google,Co-creator of GPT-4o mini and GPT-4o voice mode,none documented
+Joel Pobar,Engineer (MSL),2025,Australia,,Anthropic,Worked on AI inference; earlier long Facebook tenure,none documented
+Ruoming Pang,AI Infrastructure Lead MSL (former),2025,China,Shanghai Jiao Tong University; USC (PhD),Apple; Google,Former head of Apple foundation models; left Meta for OpenAI 2026,Immigrant from China to US
+Trapit Bansal,Research Scientist (MSL),2025,India,IIT Kanpur; UMass Amherst (PhD),OpenAI,Reasoning-model researcher; high-profile Meta hire,none documented
+Pei Sun,Research Scientist (MSL),2025,China,,Google DeepMind,Former DeepMind researcher hired into MSL,none documented
+Jiahui Yu,Research Scientist (MSL),2025,China,USTC; University of Illinois (PhD),OpenAI; Google,Multimodal and perception researcher,none documented
+Hongyu Ren,Research Scientist (MSL),2025,China,Peking University; Stanford (PhD),OpenAI,OpenAI alum hired into MSL,none documented
+Adam Paszke,PyTorch creator (former),,Poland,University of Warsaw,,Created PyTorch as an intern project; core author,none documented
+Sam Gross,Research Engineer (former),,USA,,,Core original PyTorch author at FAIR,none documented
+Gregory Chanan,Engineer PyTorch,,USA,,,Core PyTorch maintainer at Meta,none documented
+Edward Yang,Research Engineer PyTorch,,USA,MIT,,Core PyTorch developer at Meta,none documented
+Zachary DeVito,Research Scientist PyTorch,,USA,Stanford (PhD),,Core PyTorch architecture developer at Meta,none documented
+Dustin Moskovitz,Co-founder (former),2004,USA,Harvard (dropped out),,Co-founded Facebook; later founded Asana,none documented
+Andrew McCollum,Co-founder (former),2004,USA,Harvard,,Co-founded Facebook; CEO of Philo,none documented
+Chris Hughes,Co-founder (former),2004,USA,Harvard,,Co-founded Facebook; later co-chair of Economic Security Project,none documented
+Will Cathcart,Head of WhatsApp,2010,USA,Stanford; Stanford MBA,,Leads WhatsApp,none documented
+Adam Mosseri,Head of Instagram,2008,USA,NYU,,Leads Instagram,none documented
+Javier Olivan,Chief Operating Officer,2007,Spain,University of Navarra; Stanford MBA,Siemens; NTT,Spanish-born; led Meta growth team before becoming COO,Immigrant from Spain to US
+Susan Li,Chief Financial Officer,2008,USA,Stanford,Morgan Stanley,Rose internally to CFO,none documented
+Chris Cox,Chief Product Officer,2005,USA,Stanford (dropped out),,One of Meta's longest-tenured product leaders,none documented
+Andrew Bosworth,Chief Technology Officer,2006,USA,Harvard,Microsoft,Head of Reality Labs; built early News Feed,none documented

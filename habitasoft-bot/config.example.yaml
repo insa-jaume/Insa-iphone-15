@@ -1,0 +1,77 @@
+# Configuración del bot de HabitatSoft.
+# Copia este archivo a config.yaml y ajústalo.
+#
+# Los selectores del LOGIN ya están confirmados contra gestion.habitatsoft.com.
+# Los de "alta_propiedad" son PLACEHOLDERS: ejecuta `calibrar` para descubrir
+# los selectores reales del formulario de tu cuenta y pégalos aquí.
+
+login:
+  url: "https://gestion.habitatsoft.com"
+  selector_usuario: "#Alias"
+  selector_password: "#Password"
+  # Campo de licencia/inmobiliaria (sólo se rellena si HABITASOFT_INMOBILIARIA tiene valor).
+  selector_inmobiliaria: "#Inmobiliaria"
+  selector_boton: "#submitValidation"
+  # Si tras el login aparece este selector, asumimos sesión iniciada correctamente.
+  selector_login_ok: "a[href*='logout'], .menu-usuario, #menu-principal"
+  # Si este selector es visible, hay un captcha que debes resolver a mano (modo --headful).
+  selector_captcha: "#hs-captcha iframe"
+
+alta_propiedad:
+  # URL directa al formulario de "nueva propiedad" (calíbrala).
+  url: "https://gestion.habitatsoft.com/inmueble/nuevo"   # <-- AJUSTAR
+
+  # Si en vez de URL directa hay que pulsar un botón "Nuevo", indícalo aquí (opcional).
+  selector_boton_nuevo: ""   # ej: "#btnNuevoInmueble"
+
+  # Mapeo de campos: cada entrada conecta un dato del YAML de la propiedad
+  # con un selector y un tipo de control. AJUSTAR con la salida de `calibrar`.
+  # tipos soportados: text | textarea | select | checkbox | radio | number
+  campos:
+    - dato: referencia
+      selector: "#Referencia"        # <-- AJUSTAR
+      tipo: text
+    - dato: tipo_operacion
+      selector: "#TipoOperacion"     # <-- AJUSTAR
+      tipo: select
+      # opcional: traduce el valor del YAML al value/label real del <option>
+      mapa_valores:
+        venta: "1"
+        alquiler: "2"
+    - dato: tipo_inmueble
+      selector: "#TipoInmueble"      # <-- AJUSTAR
+      tipo: select
+    - dato: precio
+      selector: "#Precio"            # <-- AJUSTAR
+      tipo: number
+    - dato: superficie_m2
+      selector: "#Superficie"        # <-- AJUSTAR
+      tipo: number
+    - dato: habitaciones
+      selector: "#Habitaciones"      # <-- AJUSTAR
+      tipo: number
+    - dato: banos
+      selector: "#Banos"             # <-- AJUSTAR
+      tipo: number
+    - dato: provincia
+      selector: "#Provincia"         # <-- AJUSTAR
+      tipo: select
+    - dato: poblacion
+      selector: "#Poblacion"         # <-- AJUSTAR
+      tipo: text
+    - dato: direccion
+      selector: "#Direccion"         # <-- AJUSTAR
+      tipo: text
+    - dato: descripcion
+      selector: "#Descripcion"       # <-- AJUSTAR
+      tipo: textarea
+
+  fotos:
+    # input[type=file] donde se suben las imágenes (calíbralo).
+    selector_input_file: "input[type='file']"   # <-- AJUSTAR
+
+  guardar:
+    # Botón para guardar/crear la propiedad (calíbralo).
+    selector_boton: "#btnGuardar"   # <-- AJUSTAR
+    # Selector que confirma que se guardó bien (mensaje de éxito, etc.).
+    selector_confirmacion: ".alert-success, .mensaje-ok"   # <-- AJUSTAR

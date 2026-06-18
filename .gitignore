@@ -2,3 +2,11 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Bot de HabitatSoft: datos sensibles / generados
+.env
+habitasoft-bot/config.yaml
+habitasoft-bot/capturas/
+habitasoft-bot/calibracion/
+habitasoft-bot/propiedades/fotos/*
+!habitasoft-bot/propiedades/fotos/.gitkeep

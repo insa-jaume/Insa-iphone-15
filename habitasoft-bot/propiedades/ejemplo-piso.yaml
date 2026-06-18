@@ -1,0 +1,23 @@
+# Ficha de una propiedad. Crea un archivo así por cada inmueble.
+# Las claves deben coincidir con los "dato:" de config.yaml -> alta_propiedad.campos
+
+referencia: "REF-001"
+tipo_operacion: venta          # venta | alquiler (según tu mapa_valores)
+tipo_inmueble: "Piso"
+precio: 185000
+superficie_m2: 90
+habitaciones: 3
+banos: 2
+provincia: "Barcelona"
+poblacion: "Terrassa"
+direccion: "Carrer Example, 12"
+descripcion: >
+  Luminoso piso de 90 m² reformado, 3 habitaciones y 2 baños.
+  Cocina office, balcón orientación sur y mucha luz natural.
+  Cerca de transporte y servicios.
+
+# Rutas a las fotos (relativas a esta carpeta o absolutas).
+fotos:
+  - fotos/salon.jpg
+  - fotos/cocina.jpg
+  - fotos/dormitorio.jpg

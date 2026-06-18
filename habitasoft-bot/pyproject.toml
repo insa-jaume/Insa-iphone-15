@@ -1,0 +1,20 @@
+[project]
+name = "habitasoft-bot"
+version = "0.1.0"
+description = "Automatización del alta de propiedades en HabitatSoft"
+requires-python = ">=3.10"
+dependencies = [
+    "playwright>=1.44",
+    "PyYAML>=6.0",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+habitasoft-bot = "habitasoft_bot.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

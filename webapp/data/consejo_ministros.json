@@ -1,0 +1,182 @@
+{
+  "ejercicio": 2025,
+  "nota": "Acuerdos de cooperación adoptados en Consejo de Ministros (martes), cotejados con desembolsos registrados.",
+  "resumen": {
+    "ok": 12,
+    "parcial": 4,
+    "sin_rastro": 3
+  },
+  "acuerdos": [
+    {
+      "fecha": "2025-01-14",
+      "instrumento": "FONPRODE",
+      "iso": "SEN",
+      "titulo": "Crédito FONPRODE para agua y saneamiento en Senegal",
+      "eur": 20000000,
+      "match": "ok",
+      "riesgo": 60.0
+    },
+    {
+      "fecha": "2025-01-28",
+      "instrumento": "AECID",
+      "iso": "HND",
+      "titulo": "Subvención AECID seguridad alimentaria Honduras",
+      "eur": 8000000,
+      "match": "parcial",
+      "riesgo": 70.0
+    },
+    {
+      "fecha": "2025-02-11",
+      "instrumento": "Humanitaria",
+      "iso": "SYR",
+      "titulo": "Ayuda humanitaria de emergencia Siria (terremoto/conflicto)",
+      "eur": 6000000,
+      "match": "ok",
+      "riesgo": 55.0
+    },
+    {
+      "fecha": "2025-02-25",
+      "instrumento": "Deuda",
+      "iso": "MRT",
+      "titulo": "Conversión de deuda por desarrollo con Mauritania",
+      "eur": 15000000,
+      "match": "sin_rastro",
+      "riesgo": 66.5
+    },
+    {
+      "fecha": "2025-03-11",
+      "instrumento": "Multilateral",
+      "iso": null,
+      "titulo": "Contribución al Programa Mundial de Alimentos (PMA)",
+      "eur": 40000000,
+      "match": "ok",
+      "riesgo": null
+    },
+    {
+      "fecha": "2025-03-25",
+      "instrumento": "AECID",
+      "iso": "COL",
+      "titulo": "Programa de paz y reincorporación en Colombia",
+      "eur": 12000000,
+      "match": "ok",
+      "riesgo": 61.5
+    },
+    {
+      "fecha": "2025-04-08",
+      "instrumento": "FONPRODE",
+      "iso": "MAR",
+      "titulo": "Apoyo presupuestario sectorial educación Marruecos",
+      "eur": 18000000,
+      "match": "parcial",
+      "riesgo": 77.5
+    },
+    {
+      "fecha": "2025-04-22",
+      "instrumento": "Humanitaria",
+      "iso": "PSE",
+      "titulo": "Ayuda humanitaria Territorios Palestinos (UNRWA)",
+      "eur": 14000000,
+      "match": "ok",
+      "riesgo": 46.5
+    },
+    {
+      "fecha": "2025-05-13",
+      "instrumento": "AECID",
+      "iso": "BOL",
+      "titulo": "Programa de agua y saneamiento rural en Bolivia",
+      "eur": 10000000,
+      "match": "ok",
+      "riesgo": 67.0
+    },
+    {
+      "fecha": "2025-05-27",
+      "instrumento": "Multilateral",
+      "iso": null,
+      "titulo": "Aportación al Fondo Verde para el Clima",
+      "eur": 35000000,
+      "match": "ok",
+      "riesgo": null
+    },
+    {
+      "fecha": "2025-06-10",
+      "instrumento": "FONPRODE",
+      "iso": "GNQ",
+      "titulo": "Cooperación técnica Guinea Ecuatorial",
+      "eur": 6000000,
+      "match": "sin_rastro",
+      "riesgo": 68.5
+    },
+    {
+      "fecha": "2025-06-24",
+      "instrumento": "Humanitaria",
+      "iso": "UKR",
+      "titulo": "Ayuda humanitaria a Ucrania",
+      "eur": 12000000,
+      "match": "ok",
+      "riesgo": 43.5
+    },
+    {
+      "fecha": "2025-09-09",
+      "instrumento": "AECID",
+      "iso": "MOZ",
+      "titulo": "Programa de salud materno-infantil Mozambique",
+      "eur": 9000000,
+      "match": "parcial",
+      "riesgo": 69.0
+    },
+    {
+      "fecha": "2025-09-23",
+      "instrumento": "Deuda",
+      "iso": "CUB",
+      "titulo": "Reestructuración de deuda con Cuba",
+      "eur": 8000000,
+      "match": "sin_rastro",
+      "riesgo": 43.5
+    },
+    {
+      "fecha": "2025-10-14",
+      "instrumento": "Multilateral",
+      "iso": null,
+      "titulo": "Contribución a ACNUR para crisis de refugiados",
+      "eur": 28000000,
+      "match": "ok",
+      "riesgo": null
+    },
+    {
+      "fecha": "2025-10-28",
+      "instrumento": "AECID",
+      "iso": "PER",
+      "titulo": "Programa de gobernanza democrática Perú",
+      "eur": 7000000,
+      "match": "ok",
+      "riesgo": 65.0
+    },
+    {
+      "fecha": "2025-11-11",
+      "instrumento": "FONPRODE",
+      "iso": "DZA",
+      "titulo": "Ayuda a la población saharaui (campamentos de Tinduf)",
+      "eur": 11000000,
+      "match": "ok",
+      "riesgo": 43.5
+    },
+    {
+      "fecha": "2025-11-25",
+      "instrumento": "Humanitaria",
+      "iso": "HTI",
+      "titulo": "Respuesta humanitaria en Haití",
+      "eur": 6000000,
+      "match": "parcial",
+      "riesgo": 53.0
+    },
+    {
+      "fecha": "2025-12-16",
+      "instrumento": "AECID",
+      "iso": "GTM",
+      "titulo": "Programa de salud y nutrición Guatemala",
+      "eur": 8000000,
+      "match": "ok",
+      "riesgo": 59.0
+    }
+  ]
+}

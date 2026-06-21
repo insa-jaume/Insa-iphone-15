@@ -1,0 +1,81 @@
+{
+  "ejercicio": 2025,
+  "total": 3190000000,
+  "categorias": [
+    {
+      "sector": "multilateral",
+      "label": "Contribuciones multilaterales",
+      "eur": 1960000000
+    },
+    {
+      "sector": "in_donor",
+      "label": "Costes en país donante",
+      "eur": 410000000
+    },
+    {
+      "sector": "medio_ambiente",
+      "label": "Medio ambiente y clima",
+      "eur": 186750000
+    },
+    {
+      "sector": "humanitaria",
+      "label": "Ayuda humanitaria y emergencia",
+      "eur": 95500000
+    },
+    {
+      "sector": "deuda",
+      "label": "Operaciones de deuda",
+      "eur": 95000000
+    },
+    {
+      "sector": "gobernanza",
+      "label": "Gobernanza y sociedad civil",
+      "eur": 76400000
+    },
+    {
+      "sector": "agua",
+      "label": "Agua y saneamiento",
+      "eur": 73050000
+    },
+    {
+      "sector": "salud",
+      "label": "Salud y población",
+      "eur": 69350000
+    },
+    {
+      "sector": "educacion",
+      "label": "Educación",
+      "eur": 66500000
+    },
+    {
+      "sector": "desarrollo_rural",
+      "label": "Agricultura y desarrollo rural",
+      "eur": 55700000
+    },
+    {
+      "sector": "seguridad_alimentaria",
+      "label": "Seguridad alimentaria",
+      "eur": 40850000
+    },
+    {
+      "sector": "genero",
+      "label": "Igualdad de género",
+      "eur": 35250000
+    },
+    {
+      "sector": "paz",
+      "label": "Construcción de paz",
+      "eur": 14500000
+    },
+    {
+      "sector": "migracion",
+      "label": "Migración y movilidad",
+      "eur": 6950000
+    },
+    {
+      "sector": "pesca",
+      "label": "Pesca y recursos marinos",
+      "eur": 4200000
+    }
+  ]
+}

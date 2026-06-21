@@ -1,0 +1,633 @@
+{
+  "ejercicio": 2025,
+  "moneda": "EUR",
+  "total_aod": 3190000000,
+  "total_bilateral_geografico": 545000000,
+  "total_multilateral": 2645000000,
+  "riesgo_medio_ponderado": 58.7,
+  "destinos": [
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "lat": 4.6,
+      "lng": -74.1,
+      "eur": 58000000,
+      "cpi": 40,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "gobernanza": 0.3,
+        "paz": 0.25,
+        "desarrollo_rural": 0.2,
+        "genero": 0.15,
+        "educacion": 0.1
+      },
+      "riesgo": 61.5,
+      "nivel": "alto"
+    },
+    {
+      "iso": "MAR",
+      "name": "Marruecos",
+      "lat": 34.0,
+      "lng": -6.8,
+      "eur": 42000000,
+      "cpi": 38,
+      "channel": "estado",
+      "modality": "apoyo_presup",
+      "sectores": {
+        "agua": 0.25,
+        "educacion": 0.2,
+        "gobernanza": 0.2,
+        "desarrollo_rural": 0.2,
+        "genero": 0.15
+      },
+      "riesgo": 77.5,
+      "nivel": "muy_alto"
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "lat": 14.7,
+      "lng": -17.5,
+      "eur": 33000000,
+      "cpi": 43,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "desarrollo_rural": 0.3,
+        "agua": 0.25,
+        "educacion": 0.2,
+        "migracion": 0.15,
+        "genero": 0.1
+      },
+      "riesgo": 60.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "lat": -12.0,
+      "lng": -77.0,
+      "eur": 31000000,
+      "cpi": 33,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "agua": 0.3,
+        "gobernanza": 0.2,
+        "desarrollo_rural": 0.2,
+        "educacion": 0.15,
+        "salud": 0.15
+      },
+      "riesgo": 65.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "lat": -16.5,
+      "lng": -68.1,
+      "eur": 27000000,
+      "cpi": 29,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "agua": 0.3,
+        "desarrollo_rural": 0.25,
+        "salud": 0.2,
+        "gobernanza": 0.15,
+        "genero": 0.1
+      },
+      "riesgo": 67.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "PSE",
+      "name": "Territorios Palestinos",
+      "lat": 31.9,
+      "lng": 35.2,
+      "eur": 26000000,
+      "cpi": 30,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.45,
+        "salud": 0.2,
+        "educacion": 0.2,
+        "gobernanza": 0.15
+      },
+      "riesgo": 46.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "HND",
+      "name": "Honduras",
+      "lat": 14.1,
+      "lng": -87.2,
+      "eur": 24000000,
+      "cpi": 23,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "seguridad_alimentaria": 0.3,
+        "gobernanza": 0.25,
+        "agua": 0.2,
+        "genero": 0.15,
+        "salud": 0.1
+      },
+      "riesgo": 70.0,
+      "nivel": "muy_alto"
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "lat": 14.6,
+      "lng": -90.5,
+      "eur": 22000000,
+      "cpi": 23,
+      "channel": "ong",
+      "modality": "proyecto",
+      "sectores": {
+        "seguridad_alimentaria": 0.3,
+        "salud": 0.25,
+        "educacion": 0.2,
+        "gobernanza": 0.15,
+        "genero": 0.1
+      },
+      "riesgo": 59.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "MRT",
+      "name": "Mauritania",
+      "lat": 18.1,
+      "lng": -15.9,
+      "eur": 21000000,
+      "cpi": 30,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "seguridad_alimentaria": 0.3,
+        "agua": 0.25,
+        "pesca": 0.2,
+        "salud": 0.15,
+        "gobernanza": 0.1
+      },
+      "riesgo": 66.5,
+      "nivel": "alto"
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "lat": -25.9,
+      "lng": 32.6,
+      "eur": 20000000,
+      "cpi": 25,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "salud": 0.3,
+        "educacion": 0.25,
+        "agua": 0.2,
+        "desarrollo_rural": 0.15,
+        "gobernanza": 0.1
+      },
+      "riesgo": 69.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "ECU",
+      "name": "Ecuador",
+      "lat": -0.2,
+      "lng": -78.5,
+      "eur": 19000000,
+      "cpi": 34,
+      "channel": "ong",
+      "modality": "proyecto",
+      "sectores": {
+        "educacion": 0.3,
+        "salud": 0.25,
+        "desarrollo_rural": 0.25,
+        "gobernanza": 0.2
+      },
+      "riesgo": 53.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "UKR",
+      "name": "Ucrania",
+      "lat": 50.4,
+      "lng": 30.5,
+      "eur": 18000000,
+      "cpi": 36,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.6,
+        "salud": 0.2,
+        "gobernanza": 0.2
+      },
+      "riesgo": 43.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "ETH",
+      "name": "Etiopía",
+      "lat": 9.0,
+      "lng": 38.7,
+      "eur": 16000000,
+      "cpi": 37,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.5,
+        "seguridad_alimentaria": 0.3,
+        "salud": 0.2
+      },
+      "riesgo": 43.0,
+      "nivel": "medio"
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "lat": 13.7,
+      "lng": -89.2,
+      "eur": 14000000,
+      "cpi": 31,
+      "channel": "ong",
+      "modality": "proyecto",
+      "sectores": {
+        "gobernanza": 0.3,
+        "genero": 0.25,
+        "educacion": 0.25,
+        "agua": 0.2
+      },
+      "riesgo": 55.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "lat": 12.6,
+      "lng": -8.0,
+      "eur": 14000000,
+      "cpi": 28,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.45,
+        "seguridad_alimentaria": 0.3,
+        "salud": 0.25
+      },
+      "riesgo": 47.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "VEN",
+      "name": "Venezuela",
+      "lat": 10.5,
+      "lng": -66.9,
+      "eur": 13000000,
+      "cpi": 13,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.55,
+        "salud": 0.25,
+        "seguridad_alimentaria": 0.2
+      },
+      "riesgo": 55.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "DOM",
+      "name": "Rep. Dominicana",
+      "lat": 18.5,
+      "lng": -69.9,
+      "eur": 12000000,
+      "cpi": 35,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "agua": 0.35,
+        "gobernanza": 0.25,
+        "educacion": 0.2,
+        "medio_ambiente": 0.2
+      },
+      "riesgo": 64.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "NER",
+      "name": "Níger",
+      "lat": 13.5,
+      "lng": 2.1,
+      "eur": 12000000,
+      "cpi": 32,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.45,
+        "seguridad_alimentaria": 0.3,
+        "agua": 0.25
+      },
+      "riesgo": 45.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "SYR",
+      "name": "Siria",
+      "lat": 33.5,
+      "lng": 36.3,
+      "eur": 12000000,
+      "cpi": 13,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.7,
+        "salud": 0.2,
+        "agua": 0.1
+      },
+      "riesgo": 55.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "PRY",
+      "name": "Paraguay",
+      "lat": -25.3,
+      "lng": -57.6,
+      "eur": 11000000,
+      "cpi": 28,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "desarrollo_rural": 0.3,
+        "gobernanza": 0.25,
+        "agua": 0.25,
+        "educacion": 0.2
+      },
+      "riesgo": 67.5,
+      "nivel": "alto"
+    },
+    {
+      "iso": "DZA",
+      "name": "Argelia (camp. saharauis)",
+      "lat": 27.7,
+      "lng": -8.1,
+      "eur": 11000000,
+      "cpi": 36,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.6,
+        "seguridad_alimentaria": 0.25,
+        "salud": 0.15
+      },
+      "riesgo": 43.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "HTI",
+      "name": "Haití",
+      "lat": 18.6,
+      "lng": -72.3,
+      "eur": 10000000,
+      "cpi": 17,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.6,
+        "salud": 0.25,
+        "agua": 0.15
+      },
+      "riesgo": 53.0,
+      "nivel": "medio"
+    },
+    {
+      "iso": "JOR",
+      "name": "Jordania",
+      "lat": 31.9,
+      "lng": 35.9,
+      "eur": 10000000,
+      "cpi": 46,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.5,
+        "educacion": 0.3,
+        "agua": 0.2
+      },
+      "riesgo": 38.5,
+      "nivel": "bajo"
+    },
+    {
+      "iso": "NIC",
+      "name": "Nicaragua",
+      "lat": 12.1,
+      "lng": -86.3,
+      "eur": 9000000,
+      "cpi": 17,
+      "channel": "ong",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.4,
+        "salud": 0.3,
+        "agua": 0.3
+      },
+      "riesgo": 56.0,
+      "nivel": "alto"
+    },
+    {
+      "iso": "CPV",
+      "name": "Cabo Verde",
+      "lat": 14.9,
+      "lng": -23.5,
+      "eur": 9000000,
+      "cpi": 64,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "agua": 0.3,
+        "medio_ambiente": 0.25,
+        "educacion": 0.25,
+        "gobernanza": 0.2
+      },
+      "riesgo": 49.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "LBN",
+      "name": "Líbano",
+      "lat": 33.9,
+      "lng": 35.5,
+      "eur": 9000000,
+      "cpi": 24,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.55,
+        "salud": 0.25,
+        "educacion": 0.2
+      },
+      "riesgo": 49.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "CUB",
+      "name": "Cuba",
+      "lat": 23.1,
+      "lng": -82.4,
+      "eur": 8000000,
+      "cpi": 42,
+      "channel": "ong",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.4,
+        "seguridad_alimentaria": 0.35,
+        "salud": 0.25
+      },
+      "riesgo": 43.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "TUN",
+      "name": "Túnez",
+      "lat": 36.8,
+      "lng": 10.2,
+      "eur": 8000000,
+      "cpi": 40,
+      "channel": "estado",
+      "modality": "proyecto",
+      "sectores": {
+        "gobernanza": 0.3,
+        "migracion": 0.25,
+        "educacion": 0.25,
+        "genero": 0.2
+      },
+      "riesgo": 61.5,
+      "nivel": "alto"
+    },
+    {
+      "iso": "NGA",
+      "name": "Nigeria",
+      "lat": 9.1,
+      "lng": 7.4,
+      "eur": 7000000,
+      "cpi": 25,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.55,
+        "salud": 0.25,
+        "genero": 0.2
+      },
+      "riesgo": 49.0,
+      "nivel": "medio"
+    },
+    {
+      "iso": "AFG",
+      "name": "Afganistán",
+      "lat": 34.5,
+      "lng": 69.2,
+      "eur": 7000000,
+      "cpi": 20,
+      "channel": "un_human",
+      "modality": "humanitaria",
+      "sectores": {
+        "humanitaria": 0.65,
+        "salud": 0.2,
+        "genero": 0.15
+      },
+      "riesgo": 51.5,
+      "nivel": "medio"
+    },
+    {
+      "iso": "GNQ",
+      "name": "Guinea Ecuatorial",
+      "lat": 3.8,
+      "lng": 8.8,
+      "eur": 6000000,
+      "cpi": 17,
+      "channel": "estado",
+      "modality": "especie",
+      "sectores": {
+        "educacion": 0.4,
+        "salud": 0.35,
+        "gobernanza": 0.25
+      },
+      "riesgo": 68.5,
+      "nivel": "alto"
+    },
+    {
+      "iso": "PHL",
+      "name": "Filipinas",
+      "lat": 14.6,
+      "lng": 121.0,
+      "eur": 6000000,
+      "cpi": 34,
+      "channel": "ong",
+      "modality": "proyecto",
+      "sectores": {
+        "medio_ambiente": 0.35,
+        "desarrollo_rural": 0.3,
+        "educacion": 0.2,
+        "genero": 0.15
+      },
+      "riesgo": 53.5,
+      "nivel": "medio"
+    }
+  ],
+  "multilateral": [
+    {
+      "name": "Unión Europea (FED / presupuesto)",
+      "eur": 1350000000,
+      "sector": "multilateral"
+    },
+    {
+      "name": "Organismos ONU (PMA, ACNUR, UNICEF, OMS…)",
+      "eur": 320000000,
+      "sector": "multilateral"
+    },
+    {
+      "name": "Bancos de desarrollo (BM, BID, BAfD)",
+      "eur": 290000000,
+      "sector": "multilateral"
+    },
+    {
+      "name": "Fondos climáticos y medioambientales",
+      "eur": 180000000,
+      "sector": "medio_ambiente"
+    },
+    {
+      "name": "Operaciones de deuda (condonación/conversión)",
+      "eur": 95000000,
+      "sector": "deuda"
+    },
+    {
+      "name": "Costes refugiados en España (in-donor)",
+      "eur": 410000000,
+      "sector": "in_donor"
+    }
+  ],
+  "modelo_riesgo": {
+    "pesos": {
+      "gobernanza": 0.5,
+      "modalidad": 0.3,
+      "canal": 0.2
+    },
+    "modalidad_riesgo": {
+      "apoyo_presup": 95,
+      "deuda": 70,
+      "proyecto": 45,
+      "especie": 30,
+      "humanitaria": 25
+    },
+    "canal_riesgo": {
+      "estado": 90,
+      "deuda": 65,
+      "multi_ear": 45,
+      "ong": 35,
+      "un_human": 20
+    }
+  }
+}

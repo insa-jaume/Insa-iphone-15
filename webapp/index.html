@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>¿A dónde va la ayuda exterior de España? · Mapa + riesgo de corrupción</title>
+<meta name="description" content="Web app que muestra a dónde va la AOD española, cotejada con los acuerdos del Consejo de Ministros, con un mapa de euros y un riesgo estimado de corrupción por destino.">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <h1>
+      <span class="flag"><i class="red"></i><i class="yel"></i><i class="red"></i></span>
+      ¿A dónde va la ayuda exterior de España?
+      <small>Seguimiento de la Ayuda Oficial al Desarrollo (AOD) · cotejo con el Consejo de Ministros (martes) · mapa de euros y riesgo estimado de corrupción · ejercicio <span id="ej">—</span></small>
+    </h1>
+    <div class="disclaimer" id="disclaimer">Cargando…</div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="grid">
+    <div class="card" id="map-card">
+      <h2>🗺️ Mapa del dinero — AOD bilateral por país</h2>
+      <div class="sub">El tamaño de cada burbuja es proporcional a los euros; el color, al riesgo de corrupción estimado. Pasa el cursor o pulsa un país.</div>
+      <div id="map-wrap">
+        <svg id="map" viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mapa mundial de la ayuda española"></svg>
+      </div>
+      <div class="legend" id="legend">
+        <div class="it"><span class="dot" style="background:var(--r-bajo)"></span>Bajo</div>
+        <div class="it"><span class="dot" style="background:var(--r-medio)"></span>Medio</div>
+        <div class="it"><span class="dot" style="background:var(--r-alto)"></span>Alto</div>
+        <div class="it"><span class="dot" style="background:var(--r-muy_alto)"></span>Muy alto</div>
+        <div class="it sz">Tamaño:
+          <span><span class="c" style="width:10px;height:10px"></span>5 M€</span>
+          <span><span class="c" style="width:20px;height:20px"></span>25 M€</span>
+          <span><span class="c" style="width:30px;height:30px"></span>60 M€</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" id="detail">
+      <div class="empty">Selecciona un país en el mapa para ver el desglose por sectores, el canal de entrega y el riesgo de corrupción estimado.</div>
+    </div>
+  </section>
+
+  <section class="card" style="margin-bottom:22px">
+    <h2>📊 Categorías de gasto en ayuda exterior</h2>
+    <div class="sub">Reparto de la AOD por sector (incluye contribuciones multilaterales y costes en país donante).</div>
+    <div id="cats"></div>
+  </section>
+
+  <section class="card" style="margin-bottom:22px">
+    <h2>🏛️ Cotejo con el Consejo de Ministros (martes)</h2>
+    <div class="sub">Acuerdos de cooperación adoptados en Consejo de Ministros, comparados con los desembolsos registrados. <span class="m-ok">●</span> coincide · <span class="m-parcial">●</span> parcial · <span class="m-sin_rastro">●</span> sin rastro trazable.</div>
+    <div class="toolbar" id="cm-filters">
+      <span class="chip on" data-f="all">Todos</span>
+      <span class="chip" data-f="ok">Coincide</span>
+      <span class="chip" data-f="parcial">Parcial</span>
+      <span class="chip" data-f="sin_rastro">Sin rastro</span>
+    </div>
+    <table id="cm-table">
+      <thead><tr>
+        <th data-s="fecha">Fecha</th>
+        <th data-s="instrumento">Instrumento</th>
+        <th data-s="titulo">Acuerdo</th>
+        <th data-s="eur" class="num">Importe</th>
+        <th data-s="riesgo" class="num">Riesgo</th>
+        <th data-s="match">Cotejo</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="card" style="margin-bottom:22px">
+    <h2>🧮 Cómo se calcula el riesgo de corrupción</h2>
+    <div class="sub">Es un <b>indicador de vulnerabilidad</b> (probabilidad de desvío de fondos dada la gobernanza y el canal), <b>no</b> una acusación de corrupción sobre un fondo concreto.</div>
+    <p style="font-size:.9rem;color:var(--muted)">
+      Riesgo (0–100) = <b>0,50 ·</b> (100 − CPI del país receptor) + <b>0,30 ·</b> riesgo de la modalidad + <b>0,20 ·</b> riesgo del canal de entrega.
+      <br>El <b>CPI</b> es el Índice de Percepción de la Corrupción de Transparency International (2023). La modalidad más vulnerable es el <b>apoyo presupuestario</b> (dinero al presupuesto del receptor); la menos, la <b>ayuda humanitaria</b> canalizada por agencias de la ONU. Detalle completo en <a href="METODOLOGIA.md">METODOLOGIA.md</a>.
+    </p>
+  </section>
+
+</main>
+
+<div id="tip"></div>
+
+<footer>
+  <div class="wrap">
+    <p><b>Cifras ilustrativas y representativas</b> de los patrones públicos de la AOD española (AECID, FONPRODE, contribuciones multilaterales, operaciones de deuda) y de los países socios de la Cooperación Española. No constituyen la contabilidad oficial exacta. Para reproducir con datos reales, ver <a href="METODOLOGIA.md">METODOLOGIA.md</a> (fuentes: Info@OD / DGPOLDES, AECID, La Moncloa – Consejo de Ministros, Transparency International).</p>
+    <p>Generado con <code>scripts/build_aid_data.py</code>. App estática, sin servidor.</p>
+  </div>
+</footer>
+
+<script src="js/map.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

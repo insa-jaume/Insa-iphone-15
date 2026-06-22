@@ -1,0 +1,55 @@
+name: Deploy webapp to GitHub Pages
+
+on:
+  push:
+    branches:
+      - claude/spanish-aid-tracker-n1dabj
+    paths:
+      - "webapp/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # NOTA: el GITHUB_TOKEN no puede ACTIVAR Pages por sí solo. Hay que activarlo una
+      # vez en Settings → Pages → "Build and deployment" → Source: "GitHub Actions".
+      # Hasta entonces estos pasos se omiten con gracia (no bloquean el PR).
+      - name: Setup Pages
+        id: setup
+        continue-on-error: true
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload webapp as Pages artifact
+        if: steps.setup.outcome == 'success'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: webapp
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        if: steps.setup.outcome == 'success'
+        uses: actions/deploy-pages@v4
+
+      - name: Aviso si Pages no está activado
+        if: steps.setup.outcome != 'success'
+        run: |
+          echo "::notice::GitHub Pages aún no está activado. Actívalo en Settings → Pages → Source: 'GitHub Actions' y vuelve a ejecutar este workflow para publicar la app."

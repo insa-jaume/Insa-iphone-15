@@ -1,0 +1,64 @@
+{
+  "2020": [
+    {"sector": "salud", "label": "Salud", "eur": 196808314.13, "pct": 7.39},
+    {"sector": "educacion", "label": "Educación", "eur": 110645010.06, "pct": 4.15},
+    {"sector": "gobierno_y_sociedad_civil", "label": "Gobierno y sociedad civil", "eur": 385664762.75, "pct": 14.47},
+    {"sector": "agua_y_saneamiento", "label": "Agua y saneamiento", "eur": 108316206.96, "pct": 4.07},
+    {"sector": "otros_servicios_e_infraestructuras_sociales", "label": "Otros servicios e infraestructuras sociales", "eur": 374467891.44, "pct": 14.05},
+    {"sector": "infraestructura_economica", "label": "Infraestructura y servicios económicos", "eur": 93107549.60, "pct": 3.49},
+    {"sector": "sectores_productivos", "label": "Sectores productivos", "eur": 168341577.74, "pct": 6.32},
+    {"sector": "multisectorial", "label": "Multisectorial", "eur": 394691190.34, "pct": 14.81},
+    {"sector": "accion_humanitaria", "label": "Acción humanitaria", "eur": 97942155.20, "pct": 3.68},
+    {"sector": "refugiados_en_pais_donante", "label": "Refugiados en país donante", "eur": 170606715.01, "pct": 6.40},
+    {"sector": "costes_administrativos", "label": "Costes administrativos del donante", "eur": 96629242.72, "pct": 3.63}
+  ],
+  "2021": [
+    {"sector": "salud", "label": "Salud", "eur": 500864810.83, "pct": 16.03},
+    {"sector": "educacion", "label": "Educación", "eur": 100704436.50, "pct": 3.22},
+    {"sector": "gobierno_y_sociedad_civil", "label": "Gobierno y sociedad civil", "eur": 371923654.22, "pct": 11.91},
+    {"sector": "agua_y_saneamiento", "label": "Agua y saneamiento", "eur": 170594984.61, "pct": 5.46},
+    {"sector": "otros_servicios_e_infraestructuras_sociales", "label": "Otros servicios e infraestructuras sociales", "eur": 357765231.39, "pct": 11.45},
+    {"sector": "infraestructura_economica", "label": "Infraestructura y servicios económicos", "eur": 145750390.36, "pct": 4.67},
+    {"sector": "sectores_productivos", "label": "Sectores productivos", "eur": 179995609.22, "pct": 5.76},
+    {"sector": "multisectorial", "label": "Multisectorial", "eur": 654244879.65, "pct": 20.94},
+    {"sector": "accion_humanitaria", "label": "Acción humanitaria", "eur": 115757964.0, "pct": 3.71},
+    {"sector": "refugiados_en_pais_donante", "label": "Refugiados en país donante", "eur": 196245800.01, "pct": 6.28},
+    {"sector": "costes_administrativos", "label": "Costes administrativos del donante", "eur": 97102689.00, "pct": 3.11}
+  ],
+  "2022": [
+    {"sector": "salud", "label": "Salud", "eur": 402287622.49, "pct": 14.18},
+    {"sector": "educacion", "label": "Educación", "eur": 118649044.42, "pct": 4.18},
+    {"sector": "gobierno_y_sociedad_civil", "label": "Gobierno y sociedad civil", "eur": 582516255.43, "pct": 20.54},
+    {"sector": "agua_y_saneamiento", "label": "Agua y saneamiento", "eur": 181668337.66, "pct": 6.40},
+    {"sector": "otros_servicios_e_infraestructuras_sociales", "label": "Otros servicios e infraestructuras sociales", "eur": 417466351.24, "pct": 14.72},
+    {"sector": "infraestructura_economica", "label": "Infraestructura y servicios económicos", "eur": 163461560.48, "pct": 5.76},
+    {"sector": "sectores_productivos", "label": "Sectores productivos", "eur": 224034682.20, "pct": 7.90},
+    {"sector": "multisectorial", "label": "Multisectorial", "eur": 746351035.53, "pct": 26.31},
+    {"sector": "accion_humanitaria", "label": "Acción humanitaria", "eur": 158480000.0, "pct": null},
+    {"sector": "refugiados_en_pais_donante", "label": "Refugiados en país donante", "eur": 861970000.0, "pct": null},
+    {"sector": "costes_administrativos", "label": "Costes administrativos del donante", "eur": 106700000.0, "pct": null}
+  ],
+  "2023": [
+    {"sector": "infraestructura_servicios_sociales", "label": "Infraestructuras y servicios sociales (total)", "eur": null, "pct": 34.9},
+    {"sector": "gobierno_y_sociedad_civil", "label": "Gobierno y sociedad civil", "eur": null, "pct": 13.7},
+    {"sector": "salud", "label": "Salud", "eur": null, "pct": null},
+    {"sector": "educacion", "label": "Educación", "eur": null, "pct": null},
+    {"sector": "infraestructura_economica_produccion_multisectorial", "label": "Infraestructura económica, sectores productivos y multisectorial", "eur": null, "pct": 15.4},
+    {"sector": "accion_humanitaria", "label": "Acción humanitaria", "eur": null, "pct": 13.0},
+    {"sector": "refugiados_en_pais_donante", "label": "Refugiados en país donante", "eur": null, "pct": null},
+    {"sector": "costes_administrativos", "label": "Costes administrativos del donante", "eur": null, "pct": null},
+    {"sector": "no_asignado_no_especificado", "label": "No asignado / no especificado", "eur": null, "pct": null}
+  ],
+  "2024": [
+    {"sector": "salud", "label": "Salud", "eur": 248.3, "pct": 6.9},
+    {"sector": "educacion", "label": "Educación", "eur": null, "pct": null},
+    {"sector": "gobierno_y_sociedad_civil", "label": "Gobierno y sociedad civil", "eur": null, "pct": null},
+    {"sector": "infraestructura_servicios_sociales", "label": "Infraestructuras y servicios sociales (total)", "eur": null, "pct": null},
+    {"sector": "infraestructura_economica", "label": "Infraestructura y servicios económicos", "eur": null, "pct": null},
+    {"sector": "sectores_productivos", "label": "Sectores productivos", "eur": null, "pct": null},
+    {"sector": "multisectorial", "label": "Multisectorial", "eur": null, "pct": null},
+    {"sector": "accion_humanitaria", "label": "Acción humanitaria", "eur": 213.7, "pct": 5.9},
+    {"sector": "refugiados_en_pais_donante", "label": "Refugiados en país donante", "eur": null, "pct": 25.4},
+    {"sector": "costes_administrativos", "label": "Costes administrativos del donante", "eur": null, "pct": null}
+  ]
+}

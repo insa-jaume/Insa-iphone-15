@@ -1,0 +1,60 @@
+{
+  "anio": 2023,
+  "dimension": "GOBERNANZA",
+  "datos": {
+    "cpi": [
+      {"iso": "COL", "cpi": 40, "pais": "Colombia"},
+      {"iso": "MRT", "cpi": 30, "pais": "Mauritania"},
+      {"iso": "SEN", "cpi": 43, "pais": "Senegal"},
+      {"iso": "ETH", "cpi": 37, "pais": "Etiopia"},
+      {"iso": "MOZ", "cpi": 25, "pais": "Mozambique"},
+      {"iso": "NER", "cpi": 32, "pais": "Niger"},
+      {"iso": "MLI", "cpi": 28, "pais": "Mali"},
+      {"iso": "HND", "cpi": 23, "pais": "Honduras"},
+      {"iso": "GTM", "cpi": 23, "pais": "Guatemala"},
+      {"iso": "SLV", "cpi": 31, "pais": "El Salvador"},
+      {"iso": "BOL", "cpi": 29, "pais": "Bolivia"},
+      {"iso": "PER", "cpi": 33, "pais": "Peru"},
+      {"iso": "MAR", "cpi": 38, "pais": "Marruecos"},
+      {"iso": "DOM", "cpi": 35, "pais": "Republica Dominicana"},
+      {"iso": "CUB", "cpi": 42, "pais": "Cuba"},
+      {"iso": "ECU", "cpi": 34, "pais": "Ecuador"},
+      {"iso": "NIC", "cpi": 17, "pais": "Nicaragua"},
+      {"iso": "VEN", "cpi": 13, "pais": "Venezuela"},
+      {"iso": "JOR", "cpi": 46, "pais": "Jordania"},
+      {"iso": "LBN", "cpi": 24, "pais": "Libano"},
+      {"iso": "SYR", "cpi": 13, "pais": "Siria"},
+      {"iso": "UKR", "cpi": 36, "pais": "Ucrania"},
+      {"iso": "PSE", "cpi": null, "pais": "Palestina (no puntuada en CPI 2023 de Transparency International)"}
+    ],
+    "casos": [
+      {
+        "titulo": "Tribunal de Cuentas: Informe de Fiscalizacion de los contratos de la AECID, ejercicio 2023 (Informe N.o 1.629, aprobado por el Pleno el 28-07-2025)",
+        "fuente": "https://www.tcu.es/repositorio/90abd01a-809e-454c-ad96-a501eebb7edc/I1629.pdf",
+        "resumen": "El Tribunal de Cuentas fiscalizo la contratacion de la AECID y detecto deficiencias relevantes referidas al ejercicio 2023: bajisima ejecucion presupuestaria en contratos (de 7.469.533 EUR presupuestados solo se ejecutaron 1.580.056,36 EUR, evidenciando deficiencias de control de la ejecucion), incumplimientos de plazos de publicidad y debilidades en la planificacion y gestion contractual de la agencia."
+      },
+      {
+        "titulo": "Tribunal de Cuentas (Seccion de Enjuiciamiento, Departamento Tercero): apertura de diligencias por presunta responsabilidad contable en la AECID por 21,7 millones de euros en pagos sin justificacion documental, indicios concentrados en 2023",
+        "fuente": "https://spanish.news-pravda.com/spain/2025/12/28/702105.html",
+        "resumen": "El Tribunal de Cuentas ordeno abrir una investigacion (designando delegada instructora, Mercedes Santamaria) por sospecha de grave responsabilidad contable en la AECID, con foco en 21,7 millones de euros en pagos realizados sin la debida justificacion documental. El grueso de las irregularidades se concentra en el ejercicio 2023 (algunos desajustes arrastrados desde 2016). La AECID atribuye los retrasos a la complejidad de su red de oficinas en el exterior. La instruccion debe determinar si hubo alcance/menoscabo de fondos publicos y responsables personales."
+      },
+      {
+        "titulo": "AIReF - Estudio Cooperacion financiera / FONPRODE (Spending Review): deficiencias de planificacion estrategica, evaluacion y transparencia",
+        "fuente": "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/",
+        "resumen": "La AIReF analizo el FONPRODE (cartera en torno a 518 millones de euros en 67 paises segun datos del instrumento) y concluyo que existen ineficiencias en la planificacion estrategica y en el diseno y gestion del fondo (limitada capacidad operativa y de ejecucion), incumplimiento de las obligaciones de evaluacion previstas en la normativa y problemas de transparencia (datos dispersos en distintas memorias sin clasificacion homogenea). Formulo 19 propuestas de mejora. NOTA: el estudio se publico en diciembre de 2022; se incluye como contexto de gobernanza vigente y aplicable a la gestion de 2023, no como caso datado en 2023."
+      }
+    ]
+  },
+  "fuentes": [
+    "https://www.transparency.org/en/cpi/2023",
+    "https://files.transparencycdn.org/images/CPI-2023-Report.pdf",
+    "https://en.wikipedia.org/wiki/List_of_countries_by_Corruption_Perceptions_Index",
+    "https://www.transparency.org/en/press/2023-corruption-perceptions-index-diverting-resources-from-public-services-africa",
+    "https://www.tcu.es/repositorio/90abd01a-809e-454c-ad96-a501eebb7edc/I1629.pdf",
+    "https://spanish.news-pravda.com/spain/2025/12/28/702105.html",
+    "https://elburgado.com/el-tribunal-de-cuentas-estrecha-el-cerco-sobre-exteriores-investigando-un-agujero-de-22-millones-en-la-aecid/",
+    "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/"
+  ],
+  "confianza": "alta para CPI (scores de la edicion 2023 de Transparency International contrastados en dos fuentes: PDF oficial del informe CPI 2023 y tabla por anios de Wikipedia, sin discrepancias); media-alta para los casos AECID/Tribunal de Cuentas (informe oficial 1.629 del TCU sobre contratos AECID ejercicio 2023 verificado, y diligencias por 21,7 M EUR con indicios concentrados en 2023 documentadas en prensa y referenciadas a actuaciones del TCU)",
+  "notas": "MONEDA: cifras de los casos en EUR. CPI en escala 0-100 (0 muy corrupto, 100 muy limpio); media global 2023 = 43. Lista de receptores basada en los principales destinos de la cooperacion espanola (referencia 'los 50 principales receptores de la AOD espanola 2022', Info@OD/DGPOLDES). Palestina (Cisjordania/Gaza) y el Sahara Occidental NO se puntuan en el CPI de Transparency International, por lo que no se incluyen scores. Importante no confundir: tradingeconomics y el articulo general de Wikipedia muestran por defecto la edicion mas reciente (2025) con valores distintos (p.ej. Colombia 37, Cuba 40, Niger 31); los valores aqui son estrictamente de la edicion CPI 2023 (publicada en enero de 2024). El estudio AIReF de FONPRODE es de diciembre de 2022, incluido como contexto de gobernanza. Las diligencias del TCU por 21,7 M EUR se abrieron formalmente a finales de 2025 pero los indicios de responsabilidad contable se refieren al ejercicio 2023."
+}

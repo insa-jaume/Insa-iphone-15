@@ -1,0 +1,21 @@
+{
+  "anio": 2024,
+  "dimension": "TOTAL",
+  "datos": {
+    "total_eur": 4000000000,
+    "pct_rnb": 0.25,
+    "moneda_origen": "EUR",
+    "preliminar": true,
+    "disponible": true
+  },
+  "fuentes": [
+    "https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+    "https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2025_NOTAS_P/Exteriores-celebra-que-la-Ayuda-Oficial-al-Desarrollo-espanola-haya-crecido-un-12-en-2024-superando-los-4-000-millones-de-.aspx",
+    "https://www.aecid.es/w/la-ayuda-oficial-al-desarrollo-espa%C3%B1ola-crece-un-12-en-2024-superando-los-4.000-millones-de-euros",
+    "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2025/20250418-spanish-development-assistance.aspx",
+    "https://one.oecd.org/document/DCD(2025)6/en/pdf",
+    "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html"
+  ],
+  "confianza": "media",
+  "notas": "Datos PRELIMINARES (datos de avance) publicados por el CAD/OCDE el 16-abril-2025 y difundidos por MAEC/DGPOLDES, Exteriores, AECID y La Moncloa. AOD neta 2024: 'supera los 4.000 millones de euros', +12% (unos 430 M mas) respecto a 2023; 0,25% sobre la RNB; Espana en 12o puesto OCDE por volumen. La cifra EUR exacta no aparece desglosada en las notas de prensa (solo '>4.000 M EUR'); se registra 4.000.000.000 como cota inferior conservadora. El perfil OCDE de cooperacion da la cifra en USD: USD 4.4 mil millones (USD 4.2 mil millones en terminos constantes), 0,25% RNB. La cifra '4.430 millones' NO esta confirmada por fuente oficial (era eco del termino de busqueda). Pendiente dato DEFINITIVO/desglose de Info@OD (infoaod.maec.es) cuando publique la Comunicacion Anual / seguimiento AOD 2024. Conversion USD-EUR no aplicada; fuentes espanolas reportan directamente en EUR."
+}

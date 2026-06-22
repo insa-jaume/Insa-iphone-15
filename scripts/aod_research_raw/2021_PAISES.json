@@ -1,0 +1,29 @@
+{
+  "anio": 2021,
+  "dimension": "PAISES",
+  "datos": [
+    {"iso": "COL", "name": "Colombia",        "usd_millones": 82.833, "eur": 70037000},
+    {"iso": "BOL", "name": "Bolivia",          "usd_millones": 42.424, "eur": 35870000},
+    {"iso": "EGY", "name": "Egipto",           "usd_millones": 39.232, "eur": 33172000},
+    {"iso": "PSE", "name": "Palestina",        "usd_millones": 36.704, "eur": 31035000},
+    {"iso": "GTM", "name": "Guatemala",        "usd_millones": 35.198, "eur": 29761000},
+    {"iso": "SLV", "name": "El Salvador",      "usd_millones": 33.506, "eur": 28330000},
+    {"iso": "PER", "name": "Perú",             "usd_millones": 30.558, "eur": 25837000},
+    {"iso": "NIC", "name": "Nicaragua",        "usd_millones": 29.972, "eur": 25342000},
+    {"iso": "SEN", "name": "Senegal",          "usd_millones": 24.219, "eur": 20478000},
+    {"iso": "UGA", "name": "Uganda",           "usd_millones": 22.818, "eur": 19293000},
+    {"iso": "PRY", "name": "Paraguay",         "usd_millones": 20.108, "eur": 17002000},
+    {"iso": "AGO", "name": "Angola",           "usd_millones": 18.391, "eur": 15550000},
+    {"iso": "MLI", "name": "Malí",             "usd_millones": 17.329, "eur": 14652000},
+    {"iso": "SDN", "name": "Sudán",            "usd_millones": 16.116, "eur": 13626000},
+    {"iso": "MOZ", "name": "Mozambique",       "usd_millones": 15.823, "eur": 13379000}
+  ],
+  "fuentes": [
+    "OCDE-CAD, Tabla DAC2a (DSD_DAC2@DF_DAC2A), AOD neta bilateral por receptor, donante España (ESP), medida 206 = Total ODA Net, precios corrientes (PRICE_BASE=V), año 2021. API SDMX: https://sdmx.oecd.org/public/rest/data/OECD.DCD.FSD,DSD_DAC2@DF_DAC2A,/ESP....?startPeriod=2021&endPeriod=2021",
+    "DGPOLDES (MAEUEC), 'Informe de Seguimiento de la AOD y Otros Flujos Oficiales al Desarrollo Sostenible (TOSSD) 2021-2022': https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf (Tabla 10 distribución geográfica 2020-2022; el ranking de 50 receptores por país (Tabla 11) solo se publica para 2022 en este informe)",
+    "Portal Cooperación Española / Info@OD: https://www.cooperacionespanola.es/es/estadistica-ayuda-oficial-al-desarrollo"
+  ],
+  "confianza": "media",
+  "moneda_origen": "USD",
+  "notas": "Cifras ORIGEN en USD millones (OCDE-CAD DAC2a, AOD neta bilateral, precios corrientes 2021). La OCDE publica en USD. Conversión a EUR aplicando el tipo de cambio medio anual 2021 del BCE 1 EUR = 1.1827 USD (EUR = USD/1.1827), redondeado al millar. Se han EXCLUIDO los códigos agregados no-país que aparecen por encima en la tabla (ACP=181,76 y LDC=165,86 USD M, que son grupos, no países). No se localizó tabla oficial DGPOLDES con el ranking por país en EUR para 2021 (el informe 2021-22 solo detalla el ranking de países para 2022); por ello la fuente primaria de importes por país es OCDE-CAD en USD y los EUR son una conversión, lo que reduce la confianza. Para AOD bilateral bruta (AOD GE desembolsada) los importes en EUR serían algo mayores; DGPOLDES no publicó dicho desglose por país para 2021."
+}

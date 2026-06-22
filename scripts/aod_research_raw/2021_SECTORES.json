@@ -1,0 +1,32 @@
+{
+  "anio": 2021,
+  "dimension": "SECTORES",
+  "datos": [
+    {"sector": "infraestructuras_y_servicios_sociales_total_CAD100", "eur": 1501853117.56, "pct": 48.07},
+    {"sector": "educacion", "eur": 100704436.50, "pct": 3.22},
+    {"sector": "salud", "eur": 473609865.86, "pct": 15.16},
+    {"sector": "poblacion_y_salud_reproductiva", "eur": 27254944.97, "pct": 0.87},
+    {"sector": "agua_y_saneamiento", "eur": 170594984.61, "pct": 5.46},
+    {"sector": "gobierno_y_sociedad_civil", "eur": 371923654.22, "pct": 11.91},
+    {"sector": "otros_servicios_e_infraestructuras_sociales", "eur": 357765231.39, "pct": 11.45},
+    {"sector": "infraestructuras_y_servicios_economicos_CAD200", "eur": 145750390.36, "pct": 4.67},
+    {"sector": "sectores_productivos_CAD300", "eur": 179995609.22, "pct": 5.76},
+    {"sector": "multisectorial_CAD400", "eur": 654244879.65, "pct": 20.94},
+    {"sector": "ayuda_de_emergencia_humanitaria", "eur": 110788005.85, "pct": 3.55},
+    {"sector": "ayuda_reconstruccion_y_rehabilitacion", "eur": 4090213.95, "pct": 0.13},
+    {"sector": "prevencion_de_desastres", "eur": 879744.17, "pct": 0.03},
+    {"sector": "actividades_relacionadas_con_la_deuda", "eur": 152017845.00, "pct": 4.87},
+    {"sector": "apoyo_a_refugiados_en_pais_donante", "eur": 196245800.01, "pct": 6.28},
+    {"sector": "costes_administrativos_donantes", "eur": 97102689.00, "pct": 3.11},
+    {"sector": "sensibilizacion_educacion_para_el_desarrollo", "eur": 40306219.19, "pct": 1.29},
+    {"sector": "ayuda_alimentaria_para_el_desarrollo", "eur": 5294412.55, "pct": 0.17},
+    {"sector": "sin_especificacion_no_clasificados", "eur": 75763580.72, "pct": 2.43}
+  ],
+  "fuentes": [
+    {"nombre": "DGPOLDES - Informe de Seguimiento de la AOD y Otros Flujos Oficiales (TOSSD) 2021-22, Tabla 4 'AOD GE desembolsada distribuible sectorialmente 2020-2022' (pag. 47/PDF p.45) y Tabla 5 'AOD no distribuible sectorialmente 2020-2022' (pag. 48/PDF p.46)", "url": "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf"},
+    {"nombre": "InfoAOD / DGPOLDES - Sistema de informacion de la AOD (clasificacion sectores CAD/CRS)", "url": "https://infoaod.maec.es/"}
+  ],
+  "confianza": "alta",
+  "moneda_origen": "EUR",
+  "notas": "Cifras en EUR de la fuente oficial DGPOLDES (AOD Grant Equivalent desembolsada). Los grupos CAD principales son: Infraestructuras y Servicios Sociales (CAD 100), Infraestructuras y Servicios Economicos (CAD 200), Sectores Productivos (CAD 300) y Multisectorial (CAD 400); educacion/salud/poblacion/agua/gobierno/otros-sociales son subsectores DENTRO del grupo CAD 100 (no sumar con el total del grupo, evitar doble conteo). El campo 'pct' es porcentaje sobre el TOTAL de AOD GE desembolsada 2021 = 3.124.066.288,04 EUR (AOD distribuible sectorialmente 2.481.843.996,79 EUR + AOD no distribuible 642.222.291,25 EUR). NOTA: la fuente expresa sus porcentajes de la Tabla 4 sobre el subtotal distribuible (p.ej. salud 19,08% del distribuible = 15,16% del total AOD; educacion 4,06% = 3,22%; gobierno y sociedad civil 14,99% = 11,91%; multisectorial 26,36% = 20,94%). La ayuda de emergencia/humanitaria, deuda, refugiados, costes administrativos y sensibilizacion forman parte de la AOD 'no distribuible sectorialmente'. La OCDE-CAD publica en USD; aqui no se usa OCDE porque la fuente nacional DGPOLDES ya reporta en EUR."
+}

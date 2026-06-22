@@ -1,0 +1,56 @@
+{
+  "anio": 2020,
+  "dimension": "GOBERNANZA",
+  "datos": {
+    "cpi": [
+      {"iso": "COL", "cpi": 39, "pais": "Colombia"},
+      {"iso": "PER", "cpi": 38, "pais": "Peru"},
+      {"iso": "BOL", "cpi": 31, "pais": "Bolivia"},
+      {"iso": "HND", "cpi": 24, "pais": "Honduras"},
+      {"iso": "GTM", "cpi": 25, "pais": "Guatemala"},
+      {"iso": "MAR", "cpi": 40, "pais": "Marruecos"},
+      {"iso": "SEN", "cpi": 45, "pais": "Senegal"},
+      {"iso": "MRT", "cpi": 29, "pais": "Mauritania"},
+      {"iso": "NER", "cpi": 32, "pais": "Niger"},
+      {"iso": "MLI", "cpi": 30, "pais": "Mali"},
+      {"iso": "ETH", "cpi": 38, "pais": "Etiopia"},
+      {"iso": "MOZ", "cpi": 25, "pais": "Mozambique"},
+      {"iso": "GNQ", "cpi": 16, "pais": "Guinea Ecuatorial"}
+    ],
+    "casos": [
+      {
+        "titulo": "AIReF: descontrol y falta de seguimiento en la cooperacion financiera espanola (FONPRODE)",
+        "fuente": "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/ESTUDIO-COOPERACIO%CC%81N-FINANCIERA-FONPRODE.pdf",
+        "resumen": "Estudio de evaluacion de la AIReF (encargado por Consejo de Ministros el 11/05/2021, publicado dic-2022) sobre el sistema de cooperacion financiera y el FONPRODE. Detecta debilidades de diseno institucional, deficit de transparencia y de seguimiento de resultados, y baja ejecucion/control de las operaciones del Fondo en el periodo evaluado (incluye 2020). Emite recomendaciones (marco de resultados, simplificacion de procesos)."
+      },
+      {
+        "titulo": "AIReF: mas de 6.000 millones de AOD ejecutados fuera de la gestion directa del Gobierno",
+        "fuente": "https://theobjective.com/economia/2026-02-06/airef-falta-control-6000-millones-ayuda-desarrollo-cooperacion/",
+        "resumen": "Informe de la AIReF (spending review de AOD) que advierte que gran parte de la ayuda oficial al desarrollo espanola se ejecuta de forma delegada (organismos multilaterales/ONGD), reduciendo la visibilidad y el control directo de la Administracion sobre el destino de los fondos y limitando la medicion de resultados. El periodo de referencia mas reciente es 2021-2023, pero senala un patron estructural arrastrado de ejercicios previos (2020)."
+      },
+      {
+        "titulo": "Tribunal de Cuentas: irregularidades y falta de control en FONPRODE (instrumento financiero clave de la cooperacion espanola)",
+        "fuente": "https://www.tcu.es/gl/sala-de-prensa/noticias/APROBADO-EL-INFORME-SOBRE-EL-FONDO-PARA-LA-PROMOCION-DEL-DESARROLLO-FONPRODE-EJERCICIOS-2012-Y-2013/",
+        "resumen": "El Tribunal de Cuentas (informe FONPRODE, aprobado 12/07/2016) constato importantes irregularidades: prestamos a fondos domiciliados en paraisos fiscales (Islas Caiman gestionado desde Panama, Mauricio), incumplimiento del art. 14 de la ley del FONPRODE (formalizacion de creditos no realizada por el ICO) y ausencia de seguimiento individualizado de prestatarios de segundo nivel, impidiendo verificar el uso de los fondos. Es un caso historico del mismo instrumento (FONPRODE) que la AIReF vuelve a senalar para el periodo que incluye 2020; no es un informe especifico del ejercicio 2020."
+      },
+      {
+        "titulo": "Tribunal de Cuentas investiga pagos sin justificacion documental en la AECID por 21,7 millones de euros",
+        "fuente": "https://www.elcorreogallego.es/espana/2025/12/24/agencia-espanola-cooperacion-marcha-medidas-justificar-pagos-125121374.html",
+        "resumen": "El Tribunal de Cuentas abrio actuaciones (nombramiento de delegada instructora) por posible responsabilidad contable/malversacion ante 21,7 millones en pagos de la AECID sin justificacion documental adecuada. Aunque el grueso se concentra en 2023, los informes preliminares apuntan a problemas de justificacion acumulados desde 2016 (periodo que comprende 2020). La AECID lo atribuye a meros retrasos administrativos en la revision de justificantes."
+      }
+    ]
+  },
+  "fuentes": [
+    "https://www.transparency.org/en/cpi/2020 (Corruption Perceptions Index 2020, Transparency International)",
+    "https://files.transparencycdn.org/images/CPI2020_Report_EN_0802-WEB-1_2021-02-08-103053.pdf (informe oficial CPI 2020)",
+    "https://en.wikipedia.org/wiki/List_of_countries_by_Corruption_Perceptions_Index (tabla puntuaciones CPI por anio, basada en datos TI)",
+    "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/ (AIReF, evaluacion FONPRODE)",
+    "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/ESTUDIO-COOPERACIO%CC%81N-FINANCIERA-FONPRODE.pdf",
+    "https://www.tcu.es/gl/sala-de-prensa/noticias/APROBADO-EL-INFORME-SOBRE-EL-FONDO-PARA-LA-PROMOCION-DEL-DESARROLLO-FONPRODE-EJERCICIOS-2012-Y-2013/",
+    "https://www.eldiario.es/desalambre/cooperacion-desarrollo-criticado-tribunal-cuentas_1_3901460.html",
+    "https://theobjective.com/economia/2026-02-06/airef-falta-control-6000-millones-ayuda-desarrollo-cooperacion/",
+    "https://www.elcorreogallego.es/espana/2025/12/24/agencia-espanola-cooperacion-marcha-medidas-justificar-pagos-125121374.html"
+  ],
+  "confianza": "media-alta",
+  "notas": "CPI 2020: puntuaciones reales de Transparency International (escala 0-100, 0=muy corrupto, 100=muy limpio) para los principales paises socios/receptores de la cooperacion espanola (paises prioritarios MAP: Iberoamerica, norte de Africa, Sahel y Africa subsahariana). Verificadas con la tabla historica derivada de datos TI; recomendable contrastar con el dataset oficial .zip de TI para precision absoluta. CASOS: son reales y verificables, pero NINGUNO es un informe de fiscalizacion especifico del ejercicio 2020 sobre AECID/FONPRODE (el Tribunal de Cuentas no tiene publicado un informe dedicado exclusivamente a 2020 al cierre de esta consulta). El informe historico del TdC sobre FONPRODE cubre 2012-2013; las evaluaciones de la AIReF (2021-2022) y las actuaciones del TdC sobre la AECID (2025) abarcan periodos plurianuales que incluyen o arrastran practicas de 2020. Se ha indicado explicitamente en cada caso el periodo real cubierto para no atribuir falsamente hechos a 2020."
+}

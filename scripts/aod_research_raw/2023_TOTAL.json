@@ -1,0 +1,17 @@
+{
+  "anio": 2023,
+  "dimension": "TOTAL",
+  "datos": {
+    "total_eur": 3588000000,
+    "pct_rnb": 0.24,
+    "moneda_origen": "USD"
+  },
+  "fuentes": [
+    "https://coordinadoraongd.org/2024/04/la-ayuda-oficial-al-desarrollo-espanola-vuelve-a-caer-cuando-mas-se-necesita/",
+    "https://coordinadoraongd.org/2025/01/la-ayuda-oficial-al-desarrollo-mundial-se-estanco-en-2023-y-espana-perdio-posiciones/",
+    "https://focus2030.org/Ligero-aumento-de-la-Ayuda-Oficial-para-el-Desarrollo-en-2023",
+    "https://www.oecd.org/en/topics/oda-trends-and-statistics.html"
+  ],
+  "confianza": "alta",
+  "notas": "AOD neta total de Espana en 2023: 3.880 millones USD = 3.588 millones EUR, equivalente al 0,24% de la RNB (datos OCDE/CAD, base flujo neto / grant equivalent). Supone una caida de ~16% respecto a 2022 (aprox. -750 M), debida sobre todo a menores costes de acogida de refugiados. Muy por debajo del 0,34% comprometido en los PGE-2023 (4.419 M EUR presupuestados). La cifra original OCDE esta en USD; conversion a EUR (3.588 M) reportada por OCDE/CAD y recogida por Focus2030 y Coordinadora ONGD. Datos preliminares CAD abril 2024; cifra del 'Seguimiento de la AOD' de DGPOLDES podria ajustarse ligeramente."
+}

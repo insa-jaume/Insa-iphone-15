@@ -1,0 +1,81 @@
+{
+  "anio": 2024,
+  "dimension": "SECTORES",
+  "datos": [
+    {
+      "sector": "salud",
+      "eur": 248.3,
+      "pct": 6.9,
+      "nota": "Datos de avance DGPOLDES 2024 (millones EUR). Citado por Coordinadora ONGD / Informe Salud en la Cooperacion 2024."
+    },
+    {
+      "sector": "accion_humanitaria",
+      "eur": 213.7,
+      "pct": 5.9,
+      "nota": "Datos de avance DGPOLDES 2024 (millones EUR). OCDE: USD 209.8 M = 10.9% de la AOD bilateral bruta."
+    },
+    {
+      "sector": "infraestructura_servicios_sociales",
+      "eur": null,
+      "pct": null,
+      "usd": 564.1,
+      "nota": "OCDE: USD 564.1 M en compromisos bilaterales 2024 (incluye salud y educacion). Subcategoria gobierno y sociedad civil USD 251.7 M."
+    },
+    {
+      "sector": "gobierno_y_sociedad_civil",
+      "eur": null,
+      "pct": null,
+      "usd": 251.7,
+      "nota": "OCDE: USD 251.7 M compromisos bilaterales 2024 (mayor componente de infraestructura social)."
+    },
+    {
+      "sector": "educacion",
+      "eur": null,
+      "pct": null,
+      "nota": "Sin cifra desagregada oficial confirmada para 2024. Incluida dentro de infraestructura y servicios sociales en el perfil OCDE."
+    },
+    {
+      "sector": "infraestructura_economica",
+      "eur": null,
+      "pct": null,
+      "nota": "OCDE muestra esta macrocategoria en el grafico de compromisos por sector 2024 sin cifra exacta en el texto."
+    },
+    {
+      "sector": "sectores_productivos",
+      "eur": null,
+      "pct": null,
+      "nota": "OCDE: macrocategoria 'Production' presente en grafico de compromisos 2024 sin cifra exacta en texto."
+    },
+    {
+      "sector": "multisectorial",
+      "eur": null,
+      "pct": null,
+      "nota": "OCDE: macrocategoria 'Multi-sector' presente en grafico de compromisos 2024 sin cifra exacta en texto."
+    },
+    {
+      "sector": "otros_macrosectores_no_distribuibles",
+      "eur": null,
+      "pct": 41.2,
+      "usd": 794.9,
+      "nota": "OCDE: USD 794.9 M (41.2% de compromisos bilaterales 2024). Incluye refugiados en pais donante USD 447.3 M, costes administrativos USD 166.7 M y no asignado/no especificado USD 77.9 M."
+    },
+    {
+      "sector": "refugiados_en_pais_donante",
+      "eur": null,
+      "pct": 25.4,
+      "usd": 447.3,
+      "nota": "OCDE: USD 447 M = 25.4% de la AOD bilateral bruta 2024. Mayor partida individual (in-donor refugee costs)."
+    }
+  ],
+  "fuentes": [
+    "OCDE - Development Co-operation Profiles: Spain (edicion 2025/2026), seccion Sectors y Bilateral ODA. https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/development-co-operation-profiles_02ffa45c/spain_8757b276/63702c87-en.pdf",
+    "MAEC/Exteriores - Nota de prensa: la AOD espanola crece un 12% en 2024 superando los 4.000 M EUR (datos de avance CAD/DGPOLDES, abril 2025). https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2025_NOTAS_P/Exteriores-celebra-que-la-Ayuda-Oficial-al-Desarrollo-espanola-haya-crecido-un-12-en-2024-superando-los-4-000-millones-de-.aspx",
+    "Portal Cooperacion Espanola (DGPOLDES) - nota AOD 2024. https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+    "Coordinadora de ONGD - Informe 'La salud en la cooperacion al desarrollo y la accion humanitaria 2024' (cita salud 248,3 M EUR / 6,9% y accion humanitaria 213,7 M EUR / 5,9%, datos avance DGPOLDES). https://coordinadoraongd.org/2024/11/presentacion-de-la-salud-en-la-cooperacion-al-desarrollo-y-la-accion-humanitaria-informe-2024/",
+    "AECID en cifras / nota AECID 2024. https://www.aecid.es/w/la-ayuda-oficial-al-desarrollo-espa%C3%B1ola-crece-un-12-en-2024-superando-los-4.000-millones-de-euros"
+  ],
+  "confianza": "media",
+  "moneda_origen": "EUR_y_USD_mixto",
+  "preliminar": true,
+  "notas": "Datos preliminares/de avance 2024 (publicados abril 2025 por DGPOLDES con base CAD/OCDE). Solo se confirman en EUR las cifras de salud (248,3 M / 6,9%) y accion humanitaria (213,7 M / 5,9%) procedentes de datos de avance DGPOLDES citados por la Coordinadora ONGD; los porcentajes estan calculados sobre la AOD total (~4.030 M EUR). El resto de macrosectores procede del perfil OCDE de Espana y estan expresados en USD sobre COMPROMISOS bilaterales 2024 (no desembolsos, no AOD total), por lo que sus pct/eur NO son directamente comparables con los anteriores. El reparto CRS detallado por sector (campo 'eur' por sector salud/educacion/agua/etc en euros) NO esta publicado de forma completa y oficial a fecha de consulta; queda como null para no inventar. Para el desglose CRS completo en EUR debe consultarse Info@OD (infoaod.maec.es) cuando publique la matriz definitiva 2024. Total AOD 2024 ~4.030 M EUR (0,25% RNB); AOD bilateral bruta OCDE USD 1.800 M; multilateral mayoritaria (bilateral = 40,5% del total)."
+}

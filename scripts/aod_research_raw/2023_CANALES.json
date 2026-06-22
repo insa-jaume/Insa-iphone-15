@@ -1,0 +1,35 @@
+{
+  "anio": 2023,
+  "dimension": "CANALES",
+  "datos": {
+    "bilateral_eur": 1113815166,
+    "multilateral_eur": 2480965983,
+    "aecid_eur": 574630000,
+    "fonprode_eur": 372000000,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    {
+      "nombre": "DGPOLDES - Informe sobre la Cooperación Multilateral española 2022-2023 (datos Info@od.es)",
+      "url": "https://www.cooperacionespanola.es/wp-content/uploads/2025/12/Informe-sobre-cooperacion-multilateral-2022-2023.pdf",
+      "detalle": "Tabla 11 (pag. 22-23): AOD total GE 2023 = 3.594.781.149 EUR; Organismos Multilaterales = 2.480.965.983 EUR (69,0%). Bilateral calculado por diferencia = 1.113.815.166 EUR (31,0%). Cifras oficiales en EUR."
+    },
+    {
+      "nombre": "Cooperacion Espanola / AECID - FONPRODE record 2023",
+      "url": "https://www.cooperacionespanola.es/la-aecid-alcanza-en-2023-su-record-de-financiacion-en-favor-del-desarrollo-sostenible-en-el-exterior-con-372-millones-de-euros/",
+      "detalle": "FONPRODE 2023: 372 millones EUR de financiacion aprobada al desarrollo (record, +96% vs 190 M EUR de 2022). Cartera FONPRODE 518 M EUR en 67 paises."
+    },
+    {
+      "nombre": "Exteriores / AECID - presupuesto AECID 2023",
+      "url": "https://www.aecid.es/w/exteriores-duplica-en-dos-anos-el-presupuesto-de-la-aecid-hasta-los-700-millones",
+      "detalle": "Presupuesto AECID 2023 = 574,63 M EUR; capacidad de gasto total 698,23 M EUR (incluye cooperacion delegada UE y otros conceptos)."
+    },
+    {
+      "nombre": "OCDE-CAD / Coordinadora ONGD - datos AOD 2023",
+      "url": "https://coordinadoraongd.org/2024/04/la-ayuda-oficial-al-desarrollo-espanola-vuelve-a-caer-cuando-mas-se-necesita/",
+      "detalle": "Contexto: AOD espanola 2023 por debajo de 4.000 M USD (CAD), 0,24% de la RNB; caida ~750 M respecto a 2022. Coherente con AOD total GE de 3.594,8 M EUR de Info@od."
+    }
+  ],
+  "confianza": "ALTA para bilateral/multilateral (fuente oficial DGPOLDES en EUR via Info@od, repartos internamente consistentes: 69% multi / 31% bil). MEDIA para AECID (574,63 M EUR es presupuesto inicial, no ejecucion AOD). MEDIA para FONPRODE (372 M EUR es financiacion/aprobaciones del ciclo 2023, no necesariamente desembolso AOD computado).",
+  "notas": "El total AOD GE 2023 = 3.594.781.149 EUR (Info@od, neto). Multilateral 2.480.965.983 EUR (69%) incluye contribuciones a presupuestos ordinarios de OMUDES (2.193,4 M) + via multibilateral (287,5 M). Bilateral = 1.113.815.166 EUR obtenido por diferencia (Total - Multilateral); el informe no da una fila 'bilateral' explicita pero confirma multilateral = 69%, luego bilateral = 31%. AECID 574,63 M EUR es presupuesto institucional, distinto del concepto canal; FONPRODE 372 M EUR es financiacion aprobada al desarrollo en 2023 (record). OCDE-CAD publica en USD (<4.000 M USD); las cifras EUR proceden de la fuente espanola oficial (DGPOLDES/Info@od)."
+}

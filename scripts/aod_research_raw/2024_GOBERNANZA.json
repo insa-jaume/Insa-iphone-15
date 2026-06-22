@@ -1,0 +1,58 @@
+{
+  "anio": 2024,
+  "dimension": "GOBERNANZA",
+  "datos": {
+    "cpi": [
+      {"iso": "COL", "cpi": 39},
+      {"iso": "HND", "cpi": 22},
+      {"iso": "GTM", "cpi": 25},
+      {"iso": "SLV", "cpi": 30},
+      {"iso": "NIC", "cpi": 14},
+      {"iso": "HTI", "cpi": 16},
+      {"iso": "DOM", "cpi": 36},
+      {"iso": "PER", "cpi": 31},
+      {"iso": "BOL", "cpi": 28},
+      {"iso": "ECU", "cpi": 32},
+      {"iso": "CUB", "cpi": 41},
+      {"iso": "PRY", "cpi": 24},
+      {"iso": "VEN", "cpi": 10},
+      {"iso": "SEN", "cpi": 45},
+      {"iso": "MLI", "cpi": 27},
+      {"iso": "NER", "cpi": 34},
+      {"iso": "MOZ", "cpi": 25},
+      {"iso": "ETH", "cpi": 37},
+      {"iso": "CPV", "cpi": 62},
+      {"iso": "GNQ", "cpi": 13},
+      {"iso": "MAR", "cpi": 37}
+    ],
+    "casos": [
+      {
+        "titulo": "AIReF (Spending Review 2022-2026, Fase 2): 6.000 M EUR de AOD ejecutados fuera de la gestion directa del Gobierno",
+        "fuente": "https://www.airef.es/wp-content/uploads/2026/02/SpendingReview-2022-2026-fase-2/SR2226F2_AOD.pdf",
+        "resumen": "Estudio de la AIReF sobre Ayuda Oficial al Desarrollo (publicado en febrero de 2026, dentro de la 2 fase del Spending Review 2022-2026). Sobre un desembolso total de cooperacion espanola de 10.847 M EUR en el periodo analizado (2021-2023), el 55,7% (unos 6.000 M EUR) se canalizo a traves de organismos multilaterales, ejecutado con sistemas propios fuera de la gestion operativa directa del Gobierno espanol. La AIReF advierte que esta delegacion reduce la visibilidad administrativa directa sobre el desarrollo de proyectos, dificulta el seguimiento detallado del gasto y la medicion uniforme de resultados, e impide disponer de indicadores de impacto comparables. No es fraude penal sino debilidad de control/evaluacion. Las recomendaciones se incorporaron al reglamento del nuevo Fondo Espanol de Desarrollo Sostenible (FEDES), sucesor del FONPRODE."
+      },
+      {
+        "titulo": "FONPRODE 2024: cartera viva de 572,7 M EUR y debilidades de seguimiento individualizado de operaciones senaladas por la AIReF",
+        "fuente": "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/",
+        "resumen": "En 2024 el FONPRODE autorizo operaciones de cooperacion financiera por 210 M EUR, con desembolsos ejecutados de 58,6 M EUR y una cartera viva total al cierre de 2024 de 572,7 M EUR. La evaluacion de la AIReF sobre la cooperacion financiera (FONPRODE) detecto que el seguimiento de las operaciones resulta insuficiente: deberia realizarse al menos por muestreo de los prestamos concedidos, y el seguimiento semestral de las entidades se limita a criterios de solvencia y no al destino individualizado de los fondos prestados. Estas deficiencias motivaron reformas recogidas en el nuevo FEDES."
+      },
+      {
+        "titulo": "Tribunal de Cuentas (Informe num. 1.317): 'agujero' de mas de 2.000 M EUR en subvenciones de AOD gestionadas por la AECID por prescripcion del derecho de reintegro",
+        "fuente": "https://www.tcu.es/repositorio/18c1b8f4-8faf-41f9-a575-16d314c356bd/I1317.pdf",
+        "resumen": "Informe de fiscalizacion de las subvenciones de Ayuda Oficial al Desarrollo gestionadas por la AECID (ejercicio 2016, aprobado por el Pleno en marzo de 2019). El Tribunal de Cuentas afloro 2.038.655.925 EUR de subvenciones cuyo derecho de reintegro habia prescrito (concedidas entre 2001-2011), detectando ademas 4.005 expedientes sin actuaciones que interrumpieran el plazo de prescripcion y la falta de procedimientos e aplicaciones informaticas uniformes hasta 2011 para el seguimiento de la justificacion. No implica necesariamente uso indebido, pero el Estado ya no podia reclamar los fondos en caso de no justificacion. Caso fundacional de reparos de control sobre AOD/AECID; previo a 2024 pero estructuralmente vigente."
+      }
+    ]
+  },
+  "fuentes": [
+    "https://www.transparency.org/en/cpi/2024",
+    "https://files.transparencycdn.org/images/CPI2024_Report_Eng1.pdf",
+    "https://en.wikipedia.org/wiki/List_of_countries_by_Corruption_Perceptions_Index",
+    "https://www.airef.es/wp-content/uploads/2026/02/SpendingReview-2022-2026-fase-2/SR2226F2_AOD.pdf",
+    "https://theobjective.com/economia/2026-02-06/airef-falta-control-6000-millones-ayuda-desarrollo-cooperacion/",
+    "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/",
+    "https://www.tcu.es/repositorio/18c1b8f4-8faf-41f9-a575-16d314c356bd/I1317.pdf",
+    "https://www.vozpopuli.com/espana/tribunal-cuentas-agujero-millones-ayudas-proyectos-internacionales-exterior-aecid_0_1235576468.html"
+  ],
+  "confianza": "media-alta",
+  "notas": "CPI 2024 de Transparency International (escala 0-100, edicion publicada en febrero de 2025): valores verificados para los principales paises socios/receptores de la cooperacion espanola (prioridades geograficas 2024-2027: America Latina y Caribe + Africa Subsahariana). Palestina no figura en la edicion CPI 2024. CASOS: los reparos/irregularidades sobre cooperacion espanola tienen origen institucional (AIReF, Tribunal de Cuentas), no penal. Advertencia de fechas: el estudio de la AIReF sobre AOD (caso 1) se publico en febrero de 2026 y cubre 2021-2023; los datos de FONPRODE (caso 2) si son de cierre de 2024; el informe del Tribunal de Cuentas num. 1.317 (caso 3) audita el ejercicio 2016 y fue aprobado en 2019, incluido por ser el reparo de control mas relevante y verificable sobre AECID/AOD. No se identifico en fuentes oficiales/prensa ningun caso de fraude penal nuevo y verificable referido especificamente a 2024 sobre AECID/FONPRODE; los hallazgos disponibles son deficiencias de control, seguimiento y evaluacion del gasto, no malversacion probada."
+}

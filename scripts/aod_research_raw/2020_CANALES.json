@@ -1,0 +1,35 @@
+{
+  "anio": 2020,
+  "dimension": "CANALES",
+  "datos": {
+    "bilateral_eur": 658000000,
+    "multilateral_eur": 1730000000,
+    "aecid_eur": 323000000,
+    "fonprode_eur": null,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    {
+      "nombre": "AECID / DGPOLDES - nota 'Ligero aumento de la Ayuda Oficial al Desarrollo de España en 2020'",
+      "url": "https://www.aecid.es/w/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-",
+      "dato": "AOD bruta 2020 = 2.665 M EUR (0,24% RNB); AECID gestiona 323 M EUR; bilateral ~1/3 del total (cae 8%); multilateral en maximo historico"
+    },
+    {
+      "nombre": "ReliefWeb (reproduccion nota oficial AECID/DGPOLDES)",
+      "url": "https://reliefweb.int/report/world/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-de-espa-en-2020",
+      "dato": "Confirma cifras de la nota oficial 2020"
+    },
+    {
+      "nombre": "Coordinadora de ONGD - Analisis de la AOD en los PGE 2022",
+      "url": "https://coordinadoraongd.org/wp-content/uploads/2021/10/Analisis_AOD_PGE22.pdf",
+      "dato": "AOD bilateral neta 2020 = 658 M EUR (34% del total); AOD multilateral 2020 = 1.730 M EUR (maximo historico); total AOD neta ~2.388 M EUR"
+    },
+    {
+      "nombre": "DGPOLDES - Seguimiento de la AOD, Informe AOD 2018-2020 (MAEUEC)",
+      "url": "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/PublicacionesOficiales/Seguimiento%20de%20la%20ayuda%20oficial%20al%20desarrollo.%20Informe%20AOD%202018%20-2020-.pdf",
+      "dato": "Fuente oficial primaria de la serie; contiene tablas de canales y desembolsos FONPRODE"
+    }
+  ],
+  "confianza": "ALTA para bilateral (658 M EUR) y multilateral (1.730 M EUR) -> total neto 2.388 M EUR, y para AECID (323 M EUR), confirmados por fuentes oficiales/Coordinadora. MEDIA-BAJA para FONPRODE 2020: no se localizo cifra exacta de ejecucion/desembolsos para ese ano (se deja null).",
+  "notas": "Las cifras de bilateral (658) y multilateral (1.730) son AOD NETA; su suma (2.388 M EUR) es la AOD neta total 2020. La cifra de 2.665 M EUR corresponde a AOD BRUTA (incluye reembolsos, p.ej. del FONPRODE). Moneda original EUR (fuentes espanolas DGPOLDES/AECID/Coordinadora). OCDE-CAD publica en USD y no se uso para estas cifras. FONPRODE 2020: instrumento de cooperacion financiera reembolsable gestionado por AECID con muy baja ejecucion y peso neto en AOD frecuentemente bajo o negativo (segun AIReF y Tribunal de Cuentas); la cifra exacta de desembolsos 2020 figuraria en el Informe de Gestion del FONPRODE 2020 / Informe AOD 2018-2020, no extraida con fiabilidad en esta investigacion."
+}

@@ -1,0 +1,17 @@
+{
+  "anio": 2021,
+  "dimension": "TOTAL",
+  "datos": {
+    "total_eur": 3072840000,
+    "pct_rnb": 0.26,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "https://www.aecid.es/la-aecid/en-cifras",
+    "https://coordinadoraongd.org/2022/04/la-ayuda-al-desarrollo-lejos-del-compromiso-del-07/",
+    "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html"
+  ],
+  "confianza": "alta",
+  "notas": "AOD neta total de Espana en 2021 segun el Informe de Seguimiento de la AOD y TOSSD 2021-22 (DGPOLDES) y datos AECID: 3.072,84 millones EUR neta (3.124 M EUR bruta antes de reembolsos), equivalente al 0,26% de la RNB. Fuente oficial en EUR. Como referencia, la OCDE-CAD/Coordinadora reportan 3.542 millones USD y 0,25% de la RNB en metodologia grant-equivalent (cifra en USD, no usada como principal). Pequena divergencia de pct (0,25-0,26%) entre fuentes EUR y USD por metodologia/tipo de cambio."
+}

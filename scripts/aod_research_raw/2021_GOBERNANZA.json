@@ -1,0 +1,56 @@
+{
+  "anio": 2021,
+  "dimension": "GOBERNANZA",
+  "datos": {
+    "cpi": [
+      {"iso": "COL", "cpi": 39, "pais": "Colombia"},
+      {"iso": "PER", "cpi": 36, "pais": "Peru"},
+      {"iso": "BOL", "cpi": 30, "pais": "Bolivia"},
+      {"iso": "ECU", "cpi": 36, "pais": "Ecuador"},
+      {"iso": "DOM", "cpi": 30, "pais": "Republica Dominicana"},
+      {"iso": "SLV", "cpi": 34, "pais": "El Salvador"},
+      {"iso": "GTM", "cpi": 25, "pais": "Guatemala"},
+      {"iso": "HND", "cpi": 23, "pais": "Honduras"},
+      {"iso": "NIC", "cpi": 20, "pais": "Nicaragua"},
+      {"iso": "VEN", "cpi": 14, "pais": "Venezuela"},
+      {"iso": "MAR", "cpi": 39, "pais": "Marruecos"},
+      {"iso": "MRT", "cpi": 28, "pais": "Mauritania"},
+      {"iso": "SEN", "cpi": 43, "pais": "Senegal"},
+      {"iso": "MLI", "cpi": 29, "pais": "Mali"},
+      {"iso": "NER", "cpi": 31, "pais": "Niger"},
+      {"iso": "ETH", "cpi": 39, "pais": "Etiopia"},
+      {"iso": "MOZ", "cpi": 26, "pais": "Mozambique"}
+    ],
+    "casos": [
+      {
+        "titulo": "Tribunal de Cuentas: incumplimientos en contratacion, personal, transparencia e igualdad en la FIIAPP (fundacion estatal de la cooperacion espanola), ejercicios 2020-2021",
+        "fuente": "https://www.tcu.es/es/sala-de-prensa/noticias/El-Tribunal-de-Cuentas-recomienda-a-la-FIIAPP-intensificar-los-controles-en-los-contratos/",
+        "resumen": "Informe de fiscalizacion N.º 1.540 del Tribunal de Cuentas (aprobado en noviembre de 2023) sobre la Fundacion Internacional y para Iberoamerica de Administracion y Politicas Publicas (FIIAPP), fundacion del sector publico estatal adscrita a Exteriores que gestiona programas de cooperacion tecnica publica de la Cooperacion Espanola (Peru, Bolivia, Tanzania, Georgia, etc.). En 2020-2021 formalizo 349 contratos por 83 millones de euros mas 455 contratos menores por 4 millones. El Tribunal detecto incumplimientos de la normativa de contratos (falta de garantia de mejor relacion calidad-precio, ausencia de acreditacion de solvencia de adjudicatarios, fraccionamientos indebidos en contratos menores), deficiencias en normativa de personal (en 2021 supero los limites de contratacion de personal temporal) e incumplimientos en transparencia e igualdad. Senala persistencia de al menos diez incidencias ya advertidas por la IGAE no corregidas, debil control interno y retrasos en la rendicion de cuentas (338 dias en 2021). Texto integro: informe I1540 (tcu.es/congreso.es)."
+      },
+      {
+        "titulo": "FIIAPP figuraba en contratos/pagos a agentes de la UDEF vinculados a la 'operacion Cataluna' (cuentas 2020-2021 fiscalizadas)",
+        "fuente": "https://elmon.cat/es/politica-es/tribunales/una-fundacion-publica-pagaba-a-policias-relacionados-con-la-operacion-catalunya-975870/",
+        "resumen": "A raiz del informe del Tribunal de Cuentas sobre las cuentas 2020-2021 de la FIIAPP (fundacion publica de cooperacion presidida por el ministro de Exteriores), la prensa documento que en sus cuentas figuraban contratos y pagos a agentes de la UDEF de la Policia Nacional relacionados con la denominada 'operacion Cataluna'. El informe recoge incumplimientos de la normativa de contratos y deficiencias de control interno; ademas, un ataque ransomware (16 de abril de 2023) provoco la perdida de la contabilidad de 2020, 2021 y 2022, reconstruida solo parcialmente desde copias de seguridad. Caso de prensa que ilustra debilidades de gobernanza/control en un organo ejecutor de la cooperacion espanola en el periodo 2021."
+      },
+      {
+        "titulo": "OLAF (UE) investiga desvio de fondos de cooperacion gestionados por la AECID en Bolivia (programas de agua), con comisiones/sobornos 2021-2023",
+        "fuente": "https://eldeber.com.bo/pais/union-europea-investiga-desvio-cooperacion-debia-servir-dotar-agua_1763951035",
+        "resumen": "La Oficina Europea de Lucha contra el Fraude (OLAF) investiga el presunto desvio de fondos de cooperacion canalizados a traves de dos convenios de delegacion de la UE con la AECID en Bolivia: 'Apoyo al programa de agua y alcantarillado de areas urbanas o periurbanas' (2017) y 'Programa de gestion integral del agua en areas urbanas' (2019). Una testigo clave declaro haber cobrado comisiones del 3% sobre contratos adjudicados de forma direccionada por el Ministerio boliviano de Medio Ambiente y Agua entre 2021 y 2023, con presuntos sobornos a un exministro. Caso vinculado a fondos ejecutados por la AECID; el periodo de irregularidades 2021-2023 incluye 2021, aunque los convenios AECID son de 2017/2019 (ver notas)."
+      }
+    ]
+  },
+  "fuentes": [
+    "https://www.transparency.org/en/cpi/2021",
+    "https://files.transparencycdn.org/images/CPI2021_Report_EN-web.pdf",
+    "https://en.wikipedia.org/wiki/List_of_countries_by_Corruption_Perceptions_Index",
+    "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "https://www.tcu.es/repositorio/a9456aec-16bf-4b8e-a249-13c1f8dc5369/I1540.pdf",
+    "https://www.congreso.es/docu/inf_fiscTC/LegXV/251-83.pdf",
+    "https://www.tcu.es/es/sala-de-prensa/noticias/El-Tribunal-de-Cuentas-recomienda-a-la-FIIAPP-intensificar-los-controles-en-los-contratos/",
+    "https://elmon.cat/es/politica-es/tribunales/una-fundacion-publica-pagaba-a-policias-relacionados-con-la-operacion-catalunya-975870/",
+    "https://www.vozpopuli.com/espana/tribunal-cuentas-contratos-fundacion-tito-berni.html",
+    "https://eldeber.com.bo/pais/union-europea-investiga-desvio-cooperacion-debia-servir-dotar-agua_1763951035"
+  ],
+  "confianza": "media-alta",
+  "notas": "CPI 2021 (Transparency International, escala 0-100; 0=muy corrupto, 100=muy limpio) verificado en la tabla historica de Wikipedia derivada del informe oficial TI 2021. Paises seleccionados como principales receptores/zonas prioritarias de la cooperacion espanola (America Latina-Caribe: Colombia, Peru, Bolivia, Ecuador, R.Dominicana, El Salvador, Guatemala, Honduras, Nicaragua, Venezuela; Magreb-Sahel-Africa: Marruecos, Mauritania, Senegal, Mali, Niger, Etiopia, Mozambique); el ranking exacto de receptores 2021 esta en el Informe de Seguimiento AOD 2021-22 (no se extrajo la tabla cuantitativa, pendiente de confirmar el top-10 exacto por importes). Palestina, principal receptor humanitario, no figura con puntuacion CPI 2021 propia en la fuente consultada (se omite). CASOS: el mas solido y directamente referido a 2021 es la fiscalizacion del Tribunal de Cuentas a la FIIAPP (informe N.º 1.540, ejercicios 2020-2021), organo ejecutor de la cooperacion tecnica espanola. El caso OLAF/Bolivia se refiere a fondos UE delegados a la AECID (convenios 2017/2019) con irregularidades fechadas 2021-2023; se incluye por afectar fondos ejecutados por AECID en un pais receptor prioritario, pero su anclaje exclusivo a 2021 es parcial. Se descarto como 'caso 2021' la reclamacion de reintegro de 3,28 M EUR a 42 entidades (El Independiente, 2022) por referirse a subvenciones de 2007-2017. No se localizo un informe especifico del Tribunal de Cuentas sobre cuentas anuales de AECID/FONPRODE del ejercicio 2021 publicado de forma separada; la fiscalizacion de contratos de Exteriores/AECID con reparos (Theobjective, 2025) se refiere a contratos de 2022, fuera del ejercicio objetivo. No se inventaron datos: todos los casos son verificables en las URLs indicadas."
+}

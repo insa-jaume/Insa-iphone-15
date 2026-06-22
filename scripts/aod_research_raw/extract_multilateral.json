@@ -1,0 +1,132 @@
+{
+  "2020": [
+    {
+      "name": "Unión Europea (incl. CE+FED)",
+      "eur": 1217484789.2
+    },
+    {
+      "name": "Grupo Banco Mundial",
+      "eur": 262496627.25
+    },
+    {
+      "name": "Sistema Naciones Unidas",
+      "eur": 171339451.4
+    },
+    {
+      "name": "Bancos regionales de desarrollo",
+      "eur": 123896814.0
+    },
+    {
+      "name": "Otros",
+      "eur": 101049872.29
+    },
+    {
+      "name": "Fondo Verde del Clima",
+      "eur": 37522293.0
+    },
+    {
+      "name": "FMI",
+      "eur": 5760735.01
+    }
+  ],
+  "2021": [
+    {
+      "name": "Unión Europea (incl. CE+FED)",
+      "eur": 1293286939.0
+    },
+    {
+      "name": "Sistema Naciones Unidas",
+      "eur": 506732116.54
+    },
+    {
+      "name": "Grupo Banco Mundial",
+      "eur": 280480183.87
+    },
+    {
+      "name": "Otros",
+      "eur": 101802173.58
+    },
+    {
+      "name": "Bancos regionales de desarrollo",
+      "eur": 93274496.3
+    },
+    {
+      "name": "FMI",
+      "eur": 38727845.0
+    },
+    {
+      "name": "Fondo Verde del Clima",
+      "eur": 24000000.0
+    }
+  ],
+  "2022": [
+    {
+      "name": "Unión Europea (incl. CE+FED)",
+      "eur": 1557329892.29
+    },
+    {
+      "name": "Sistema Naciones Unidas",
+      "eur": 400995933.0
+    },
+    {
+      "name": "Grupo Banco Mundial",
+      "eur": 267053350.0
+    },
+    {
+      "name": "Otros",
+      "eur": 198282945.0
+    },
+    {
+      "name": "Bancos regionales de desarrollo",
+      "eur": 73081110.93
+    },
+    {
+      "name": "FMI",
+      "eur": 38772160.0
+    },
+    {
+      "name": "Fondo Verde del Clima",
+      "eur": 24000000.0
+    }
+  ],
+  "2023": [
+    {
+      "name": "Unión Europea (incl. CE+FED)",
+      "eur": 1478906795.0
+    },
+    {
+      "name": "Sistema Naciones Unidas",
+      "eur": 314343552.0
+    },
+    {
+      "name": "Grupo Banco Mundial",
+      "eur": 227730866.0
+    },
+    {
+      "name": "Bancos regionales de desarrollo",
+      "eur": 150458714.0
+    },
+    {
+      "name": "Fondo Verde del Clima",
+      "eur": 97000000.0
+    },
+    {
+      "name": "FMI",
+      "eur": 60500005.0
+    }
+  ],
+  "2024": [
+    {
+      "name": "Grupo Banco Mundial (compromiso AIF/IDA21, no desembolso)",
+      "eur": 400000000.0
+    },
+    {
+      "name": "Sistema Naciones Unidas (contrib. voluntarias UNFPA/ONU Mujeres/PNUD/UNICEF)",
+      "eur": 17500000.0
+    },
+    {
+      "name": "Otros (OCDE, contribución voluntaria)",
+      "eur": 625000.0
+    }
+  ]
+}

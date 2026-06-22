@@ -1,0 +1,105 @@
+{
+  "anio": 2023,
+  "dimension": "PAISES",
+  "datos": [
+    {
+      "iso": "PSE",
+      "name": "Palestinian Authority or West Bank and Gaza Strip",
+      "eur": 70050723,
+      "usd_millones": 75.746
+    },
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 42960601,
+      "usd_millones": 46.453
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 41247905,
+      "usd_millones": 44.601
+    },
+    {
+      "iso": "PER",
+      "name": "Peru",
+      "eur": 37265074,
+      "usd_millones": 40.295
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 33809477,
+      "usd_millones": 36.558
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 29986618,
+      "usd_millones": 32.425
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 23888616,
+      "usd_millones": 25.831
+    },
+    {
+      "iso": "ECU",
+      "name": "Ecuador",
+      "eur": 22287692,
+      "usd_millones": 24.1
+    },
+    {
+      "iso": "MLI",
+      "name": "Mali",
+      "eur": 18519822,
+      "usd_millones": 20.025
+    },
+    {
+      "iso": "NER",
+      "name": "Niger",
+      "eur": 17133563,
+      "usd_millones": 18.527
+    },
+    {
+      "iso": "UKR",
+      "name": "Ukraine",
+      "eur": 17117662,
+      "usd_millones": 18.509
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "eur": 16692584,
+      "usd_millones": 18.05
+    },
+    {
+      "iso": "MAR",
+      "name": "Morocco",
+      "eur": 15689658,
+      "usd_millones": 16.965
+    },
+    {
+      "iso": "ETH",
+      "name": "Ethiopia",
+      "eur": 14777874,
+      "usd_millones": 15.979
+    },
+    {
+      "iso": "CRI",
+      "name": "Costa Rica",
+      "eur": 13989693,
+      "usd_millones": 15.127
+    }
+  ],
+  "fuentes": [
+    "OCDE-CAD, DAC2A \"Aid (ODA) disbursements to countries and regions\", donante España (ESP), AOD neta (measure 206), precios corrientes, 2023. OECD Data Explorer / SDMX: https://sdmx.oecd.org/public/rest/data/OECD.DCD.FSD,DSD_DAC2@DF_DAC2A/ESP..206.. ; https://data-explorer.oecd.org/vis?df%5Bds%5D=DisseminateFinalDMZ&df%5Bid%5D=DSD_DAC2@DF_DAC2A&df%5Bag%5D=OECD.DCD.FSD",
+    "OCDE, Development Co-operation Profiles: Spain (ed. 2025, datos 2023): https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html — top 10 receptores y reparto regional (USD)",
+    "La Coordinadora de ONGD, \"La AOD mundial se estancó en 2023 y España perdió posiciones\" (ene-2025): https://coordinadoraongd.org/2025/01/la-ayuda-oficial-al-desarrollo-mundial-se-estanco-en-2023-y-espana-perdio-posiciones/",
+    "Tipo de cambio medio anual 2023 BCE: 1 EUR = 1,0813 USD"
+  ],
+  "confianza": "media",
+  "moneda_origen": "USD",
+  "notas": "Cifras de la OCDE-CAD (DAC2A) en USD corrientes, AOD NETA bilateral por receptor (desembolsos), donante España, 2023. Convertidas a EUR con el tipo de cambio medio anual del BCE 2023 (1 EUR=1,0813 USD); por tanto son cifras DERIVADAS, no oficiales en euros. Se excluyó el agregado regional ACP (143,2 M USD). PSE = Cisjordania y Franja de Gaza (Autoridad Palestina). NO se halló publicado aun el \"Libro de Seguimiento de la AOD y TOSSD\" de DGPOLDES con datos 2023 (ultima edicion disponible 21-22), ni un volcado oficial en euros por pais para 2023; Info@OD (infoaod.maec.es) no respondio. Confianza media: el orden y magnitudes coinciden con el perfil OCDE (top receptores en America Latina, Oriente Proximo y Africa) pero los importes exactos en EUR dependen de la conversion. La AOD BRUTA por pais diferiria ligeramente de la NETA aqui usada."
+}

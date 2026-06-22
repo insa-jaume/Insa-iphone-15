@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>¿A dónde va la ayuda exterior de España? · AOD real 2020–2024</title>
+<meta name="description" content="Web app con datos REALES de la Ayuda Oficial al Desarrollo (AOD) de España: mapa de euros por país y año, categorías de gasto, acuerdos del Consejo de Ministros y riesgo de corrupción.">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <h1>
+      <span class="flag"><i class="red"></i><i class="yel"></i><i class="red"></i></span>
+      ¿A dónde va la ayuda exterior de España?
+      <small>Datos <b>REALES</b> de la Ayuda Oficial al Desarrollo (AOD) · fuente DGPOLDES / Info@OD / OCDE-CAD · acuerdos del Consejo de Ministros (La Moncloa) · riesgo de corrupción por país (CPI Transparency International)</small>
+    </h1>
+    <div class="disclaimer" id="disclaimer">Cargando datos reales…</div>
+    <div class="years" id="years"></div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="grid">
+    <div class="card" id="map-card">
+      <h2>🗺️ Mapa del dinero — AOD bilateral por país (<span class="yr">—</span>)</h2>
+      <div class="sub">Tamaño de la burbuja = euros recibidos; color = riesgo de corrupción (100 − CPI del país). Pasa el cursor o pulsa un país.</div>
+      <div id="map-wrap">
+        <svg id="map" viewBox="0 0 1000 480" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mapa mundial de la ayuda española"></svg>
+      </div>
+      <div class="legend" id="legend">
+        <div class="it"><span class="dot" style="background:var(--r-bajo)"></span>Bajo</div>
+        <div class="it"><span class="dot" style="background:var(--r-medio)"></span>Medio</div>
+        <div class="it"><span class="dot" style="background:var(--r-alto)"></span>Alto</div>
+        <div class="it"><span class="dot" style="background:var(--r-muy_alto)"></span>Muy alto</div>
+      </div>
+    </div>
+
+    <div class="card" id="detail">
+      <div class="empty">Selecciona un país en el mapa para ver su importe real, el CPI y el riesgo de corrupción estimado, y los acuerdos del Consejo de Ministros que le afectan.</div>
+    </div>
+  </section>
+
+  <section class="grid2">
+    <div class="card">
+      <h2>📊 Categorías / sectores de gasto (<span class="yr">—</span>)</h2>
+      <div class="sub" id="cats-sub">Reparto de la AOD por sector CAD/CRS.</div>
+      <div id="cats"></div>
+    </div>
+    <div class="card">
+      <h2>🌐 Contribuciones multilaterales (<span class="yr">—</span>)</h2>
+      <div class="sub">Principales organismos financiados (UE, ONU, bancos de desarrollo, fondos climáticos).</div>
+      <div id="multi"></div>
+    </div>
+  </section>
+
+  <section class="card" style="margin-bottom:22px">
+    <h2>🏛️ Consejo de Ministros (martes) — acuerdos REALES de cooperación</h2>
+    <div class="sub" id="cm-sub">Extraídos de las referencias oficiales de <a href="https://www.lamoncloa.gob.es/consejodeministros/referencias/" target="_blank" rel="noopener">La Moncloa</a>. Cada fila enlaza a su referencia.</div>
+    <div class="toolbar" id="cm-filters"></div>
+    <table id="cm-table">
+      <thead><tr>
+        <th data-s="fecha">Fecha</th>
+        <th data-s="instrumento">Instrumento</th>
+        <th data-s="titulo">Acuerdo</th>
+        <th data-s="pais">País</th>
+        <th data-s="eur" class="num">Importe</th>
+        <th data-s="riesgo" class="num">Riesgo</th>
+      </tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section class="card" style="margin-bottom:22px" id="casos-card">
+    <h2>🚨 Casos reales de fraude / irregularidades en la cooperación española</h2>
+    <div class="sub">Casos documentados por el Tribunal de Cuentas, la AIReF o prensa rigurosa. Es información factual sobre control y fiscalización, no una imputación de delito.</div>
+    <div id="casos"></div>
+  </section>
+
+  <section class="card" style="margin-bottom:22px">
+    <h2>🧮 Cómo se calcula el riesgo de corrupción</h2>
+    <div class="sub">Indicador de <b>vulnerabilidad de gobernanza</b>, no una acusación sobre fondos concretos.</div>
+    <p style="font-size:.9rem;color:var(--muted)">
+      <b>Riesgo del país = 100 − CPI</b>, donde el <b>CPI</b> es el Índice de Percepción de la
+      Corrupción de <a href="https://www.transparency.org/en/cpi" target="_blank" rel="noopener">Transparency International</a>
+      (0 = muy corrupto, 100 = muy limpio). El <b>riesgo medio ponderado</b> pondera cada país
+      por los euros que recibe. Cuanto más dinero va a países con baja gobernanza, mayor es la
+      exposición de la ayuda a desvío. Detalle en <a href="METODOLOGIA.md">METODOLOGIA.md</a>.
+    </p>
+  </section>
+
+</main>
+
+<div id="tip"></div>
+
+<footer>
+  <div class="wrap">
+    <p>📊 <b>Datos REALES</b> de la AOD española recopilados de fuentes oficiales por un operativo de agentes de investigación: <b>DGPOLDES</b> (“Seguimiento de la AOD y TOSSD”, “Cooperación Multilateral”), <b>Info@OD</b>, <b>OCDE-CAD</b>, <b>AECID</b>, <b>Coordinadora de ONGD</b>, <b>La Moncloa</b> (Consejo de Ministros) y <b>Transparency International</b> (CPI). Procedencia bruta en <code>scripts/aod_research_raw/</code>.</p>
+    <p>Algunas cifras de 2024 son <b>preliminares</b> (avance CAD abril 2025); cuando una fuente publica en USD se indica en la procedencia. Generado con <code>scripts/build_aod_real.py</code> y <code>scripts/scrape_consejo_ministros.py</code>. App estática, sin servidor.</p>
+  </div>
+</footer>
+
+<script src="js/map.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

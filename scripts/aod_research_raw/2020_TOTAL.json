@@ -1,0 +1,18 @@
+{
+  "anio": 2020,
+  "dimension": "TOTAL",
+  "datos": {
+    "total_eur": 2645000000,
+    "pct_rnb": 0.24,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    "https://www.aecid.es/w/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-",
+    "https://reliefweb.int/report/world/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-de-espa-en-2020",
+    "https://one.oecd.org/document/DCD/DAC/AR(2021)4/6/FINAL/es/pdf",
+    "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/PublicacionesOficiales/Seguimiento%20de%20la%20ayuda%20oficial%20al%20desarrollo.%20Informe%20AOD%202018%20-2020-.pdf",
+    "https://www.congreso.es/docu/pge2022/PGE_informe_AOD%20_2022.pdf"
+  ],
+  "confianza": "media",
+  "notas": "Fuentes oficiales españolas (AECID/DGPOLDES) citan AOD BRUTA 2020 = 2.665 millones EUR, equivalente al 0,24% de la RNB segun la OCDE. La AOD NETA (descontando reembolsos de creditos/FONPRODE) es ligeramente inferior, estimada en ~2.645 millones EUR; el porcentaje sobre RNB se mantiene en 0,24%. La OCDE-CAD reporta la cifra neta en USD (~2.700-2.740 M USD). No se pudo abrir directamente el PDF de la OCDE ni el informe DGPOLDES (HTTP 403 / PDF binario), por lo que total_eur=2.645.000.000 es la mejor estimacion de la cifra NETA; si se requiere el dato bruto oficial exacto seria 2.665.000.000 EUR. Confianza media por la diferencia bruto/neto no confirmada al euro en fuente primaria descargable."
+}

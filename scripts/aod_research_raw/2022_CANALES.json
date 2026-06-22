@@ -1,0 +1,25 @@
+{
+  "anio": 2022,
+  "dimension": "CANALES",
+  "datos": {
+    "bilateral_eur": 1829680000,
+    "multilateral_eur": 1953360000,
+    "aecid_eur": 408660000,
+    "fonprode_eur": 3513535,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    {
+      "nombre": "DGPOLDES - Nota Avance AOD 2022 (cuestionario DAC1, en EUR)",
+      "url": "https://www.cooperacionespanola.es/wp-content/uploads/2023/04/Nota-Avance-AOD-2022.pdf",
+      "datos_extraidos": "FLOWS, base neta, millones EUR, columna 2022: AOD neta total 3.783,04; I. Bilateral ODA net (fila 1015) 1.829,68; II. Multilateral ODA net (fila 2000) 1.953,36. Comprobacion: 1.829,68 + 1.953,36 = 3.783,04. Tipo de cambio usado 2022: 1 USD = 0,95091 EUR."
+    },
+    {
+      "nombre": "DGPOLDES - Informe de Seguimiento de la AOD y otros flujos oficiales 2021-22",
+      "url": "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+      "datos_extraidos": "AECID 2022: desembolso propio 368 M EUR de AOD GE; gestiono un total de AOD GE espanola de 408,66 M EUR (9,95% del total de la AOD desembolsada espanola). FONPRODE 2022 (Tabla 36, Total general en EUR): AOD GE neta 3.513.535 EUR; AOD GE desembolsada (bruta) 36.436.438 EUR; reembolsos GE -32.922.903 EUR."
+    }
+  ],
+  "confianza": "ALTA",
+  "notas": "Cifras oficiales DGPOLDES en EUR (no requieren conversion). Reparto bilateral/multilateral en base NETA (FLOWS) del cuestionario DAC1: bilateral 1.829,68 M EUR y multilateral 1.953,36 M EUR (suma = AOD neta total 3.783,04 M EUR). En base equivalente-donacion (Grant Equivalent) las cifras 2022 difieren: bilateral GE 2.047,44 M EUR y multilateral GE 1.953,36 M EUR (total GE 4.000,80 M EUR). De la AOD multilateral, la UE absorbe 1.450,18 M EUR. aecid_eur = AOD GE total gestionada por AECID en 2022 (408,66 M EUR); su desembolso propio fue 368 M EUR; el presupuesto inicial AECID 2022 fue ~491 M EUR (12,4% de la AOD presupuestada, fuente nota de prensa Exteriores/Coordinadora). fonprode_eur = aportacion NETA de FONPRODE a la AOD GE en 2022 (3.513.535 EUR); el desembolso bruto fue 36.436.438 EUR. La OCDE-CAD publica en USD; aqui se usa el dato oficial espanol en EUR."
+}

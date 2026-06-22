@@ -1,0 +1,25 @@
+{
+  "anio": 2023,
+  "dimension": "SECTORES",
+  "datos": [
+    {"sector": "infraestructuras_y_servicios_sociales", "eur": null, "pct": 34.9, "usd_millones": 566.2, "nota": "incluye gobierno y sociedad civil, salud, educacion, agua y saneamiento, poblacion"},
+    {"sector": "gobierno_y_sociedad_civil", "eur": null, "pct": 13.7, "usd_millones": 221.8, "nota": "subsector dentro de infraestructuras sociales"},
+    {"sector": "salud", "eur": null, "pct": null, "usd_millones": null, "nota": "no desglosado por separado en el perfil OCDE; incluido dentro de infraestructuras y servicios sociales"},
+    {"sector": "educacion", "eur": null, "pct": null, "usd_millones": null, "nota": "no desglosado por separado en el perfil OCDE; incluido dentro de infraestructuras y servicios sociales"},
+    {"sector": "ayuda_humanitaria", "eur": null, "pct": 13.0, "usd_millones": 211.2},
+    {"sector": "otros_macrosectores", "eur": null, "pct": 36.6, "usd_millones": 593.1, "nota": "refugiados en pais donante 318.6, costes administrativos donantes 140.7, no asignado/no especificado 123.6"},
+    {"sector": "refugiados_en_pais_donante", "eur": null, "pct": null, "usd_millones": 318.6, "nota": "subsector de otros macrosectores"},
+    {"sector": "costes_administrativos_donantes", "eur": null, "pct": null, "usd_millones": 140.7, "nota": "subsector de otros macrosectores"},
+    {"sector": "no_asignado_no_especificado", "eur": null, "pct": null, "usd_millones": 123.6, "nota": "subsector de otros macrosectores"},
+    {"sector": "infraestructura_economica_produccion_multisectorial", "eur": null, "pct": 15.4, "usd_millones": 249.7, "nota": "residuo calculado (economica + produccion + multisectorial); total bilateral comprometido aprox. 1620.5 USD millones = 593.1/0.366"}
+  ],
+  "fuentes": [
+    {"nombre": "OCDE - Development Co-operation Profiles: Spain (edicion 2025, datos 2023)", "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/development-co-operation-profiles_02ffa45c/spain_8757b276/63702c87-en.pdf"},
+    {"nombre": "OCDE - Development Co-operation Profiles: Spain (pagina)", "url": "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html"},
+    {"nombre": "InfoAOD / DGPOLDES (portal oficial, datos 2007-2023, requiere consulta interactiva)", "url": "https://infoaod.maec.es/"},
+    {"nombre": "Cooperacion Espanola - Seguimiento de la AOD (informe 2021-22, el de 2023 aun no publicado a fecha de consulta)", "url": "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf"}
+  ],
+  "confianza": "media-alta",
+  "moneda_origen": "USD",
+  "notas": "Datos del perfil OCDE-CAD para Espana, año 2023: COMPROMISOS de AOD BILATERAL por macrosector (no desembolsos, no AOD total). Cifras en USD corrientes; la OCDE publica en USD. No se ha podido obtener conversion oficial a EUR ni el desglose CRS detallado (salud/educacion por separado) porque el perfil OCDE solo desglosa por macrosector. El total bilateral comprometido se estima en ~1.620 USD millones (other macro sectors 593.1 = 36.6%). El informe oficial DGPOLDES 'Seguimiento de la AOD 2023' (que daria importes en EUR y desglose CRS completo) no estaba publicado en la fecha de consulta; el ultimo disponible era 2021-22. AOD total neta de Espana 2023 = 3.880 USD millones / ~3.588 EUR millones (0.24% RNB), segun datos CAD citados por Coordinadora ONGD. No inventado: los porcentajes 'salud' y 'educacion' se dejan null al no estar desglosados en fuente oficial accesible."
+}

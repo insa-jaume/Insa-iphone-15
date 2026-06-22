@@ -1,0 +1,31 @@
+{
+  "anio": 2024,
+  "dimension": "PAISES",
+  "datos": [
+    {"iso": "PSE", "name": "Palestina", "eur": 57965355, "usd": 62741000},
+    {"iso": "GTM", "name": "Guatemala", "eur": 41556000, "usd": 44980000},
+    {"iso": "COL", "name": "Colombia", "eur": 36103000, "usd": 39078000},
+    {"iso": "PER", "name": "Peru", "eur": 29904000, "usd": 32368000},
+    {"iso": "BOL", "name": "Bolivia", "eur": 29847000, "usd": 32307000},
+    {"iso": "SLV", "name": "El Salvador", "eur": 29121000, "usd": 31520000},
+    {"iso": "SEN", "name": "Senegal", "eur": 22760000, "usd": 24636000},
+    {"iso": "MLI", "name": "Mali", "eur": 19910000, "usd": 21550000},
+    {"iso": "MOZ", "name": "Mozambique", "eur": 17604000, "usd": 19054000},
+    {"iso": "UKR", "name": "Ucrania", "eur": 16568000, "usd": 17933000},
+    {"iso": "ECU", "name": "Ecuador", "eur": 16405000, "usd": 17757000},
+    {"iso": "ETH", "name": "Etiopia", "eur": 15668000, "usd": 16959000},
+    {"iso": "LBN", "name": "Libano", "eur": 14998000, "usd": 16234000},
+    {"iso": "NER", "name": "Niger", "eur": 14800000, "usd": 16019000},
+    {"iso": "HND", "name": "Honduras", "eur": 13116000, "usd": 14197000}
+  ],
+  "fuentes": [
+    "OCDE-CAD, OECD Data Explorer, dataset DAC2A 'Aid (ODA) disbursements to countries and regions' (OECD.DCD.FSD:DSD_DAC2@DF_DAC2A). Consulta SDMX API: https://sdmx.oecd.org/public/rest/data/OECD.DCD.FSD,DSD_DAC2@DF_DAC2A/ESP....?startPeriod=2024&endPeriod=2024 . Donor=ESP (Spain), MEASURE=250 'ODA, total net excluding debt relief', PRICE_BASE=V (current prices), FLOW_TYPE=D (disbursements), UNIT_MEASURE=USD, UNIT_MULT=6 (millones). Datos finales 2024 publicados por la OCDE en diciembre de 2025.",
+    "OCDE, 'Final OECD statistics on ODA and other development finance flows in 2024' (dic. 2025): https://www.oecd.org/en/data/insights/data-explainers/2025/12/final-oecd-statistics-on-oda-and-other-development-finance-flows-in-2024-key-figures-and-trends.html",
+    "MAEC / AECID nota de prensa (abr. 2025): 'La AOD espanola crece un 12% en 2024 superando los 4.000 millones de euros': https://www.aecid.es/w/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-en-2024-superando-los-4.000-millones-de-euros (total AOD; sin desglose oficial por pais publicado aun)",
+    "DGPOLDES (MAEC) - Sistema Info@OD / 'Seguimiento de la AOD y Otros Flujos Oficiales al Desarrollo Sostenible (TOSSD)': https://infoaod-info.maec.es/ . NOTA: a fecha de consulta (jun. 2026) el ultimo Libro de Seguimiento publicado es el de 2021-22; el informe detallado de paises receptores 2024 de DGPOLDES aun NO esta publicado."
+  ],
+  "confianza": "media",
+  "moneda_origen": "USD",
+  "preliminar": false,
+  "notas": "IMPORTANTE: la fuente es OCDE-CAD (DAC2A), datos FINALES 2024 (publicados dic. 2025), por lo que NO son preliminares; se marca preliminar=false. La moneda de origen es USD (dolares corrientes, millones). Campo 'usd' = valor original de la OCDE; campo 'eur' = conversion al tipo de cambio medio anual BCE 2024 (1 EUR = 1,0824 USD). El importe usado es MEASURE=250 'AOD total neta excluida la condonacion de deuda', que en DAC2A corresponde a la AOD BILATERAL desembolsada por pais receptor (los datos por pais en DAC2A son inherentemente bilaterales). El total bilateral de Espana a todos los receptores (codigo ALLR) es 4.124,4 M USD; ALLMR (multilateral imputado) 2.639,0 M USD. Las cifras por pais son modestas porque buena parte de la AOD espanola es no asignable a pais (regional/multipais, costes en pais donante, refugiados). RANKING: 1 Palestina, 2 Guatemala, 3 Colombia, 4 Peru, 5 Bolivia, 6 El Salvador, 7 Senegal, 8 Mali, 9 Mozambique, 10 Ucrania, 11 Ecuador, 12 Etiopia, 13 Libano, 14 Niger, 15 Honduras. Predominio de America Latina y Caribe (prioridad geografica espanola), seguido de Africa Occidental/Sahel y Oriente Medio. DISCREPANCIA METODOLOGICA: el dato OCDE difiere de la metodologia DGPOLDES 'AOD GE bilateral' (equivalente grant) usada en el fichero 2022_PAISES.json; no son directamente comparables. Confianza MEDIA porque: (a) fuente oficial solida (OCDE) pero NO la fuente espanola primaria (DGPOLDES no ha publicado 2024 por pais); (b) conversion USD->EUR introduce incertidumbre; (c) la cifra MEASURE 250 puede no coincidir con 'AOD bruta' o 'AOD GE' segun el indicador exacto que se prefiera."
+}

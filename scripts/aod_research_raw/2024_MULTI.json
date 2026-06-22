@@ -1,0 +1,28 @@
+{
+  "anio": 2024,
+  "dimension": "MULTI",
+  "datos": [
+    {"name": "Sistema multilateral - total bruto (OCDE-CAD)", "usd": 3000000000, "eur": null, "nota": "USD 3.000 M brutos a sistema multilateral en 2024 (+9,8% real vs 2023). Perfil OCDE Cooperacion al Desarrollo: Espana."},
+    {"name": "AOD multilateral nucleo / core (OCDE-CAD)", "usd": 2600000000, "eur": null, "nota": "USD 2.600 M de contribuciones core = 59,5% de la AOD total. Resto USD 450,1 M earmarked/no-core."},
+    {"name": "Instituciones de la UE", "usd": null, "eur": null, "nota": "Mayor canal core de Espana segun OCDE; la contribucion espanola al presupuesto UE la canaliza el Ministerio de Hacienda. Importe exacto solo en grafico del perfil OCDE, sin cifra en texto -> NO cuantificado para no inventar."},
+    {"name": "Banco Mundial (incl. AIF/IDA)", "usd": null, "eur": 400000000, "nota": "EUR 400 M = COMPROMISO plurianual de Espana a la reposicion de AIF/IDA21 anunciado oct-2024 (+~37-40% vs ciclo anterior). Es compromiso, NO desembolso 2024. Banco Mundial."},
+    {"name": "Sistema Naciones Unidas - total (OCDE-CAD)", "usd": 362600000, "eur": null, "nota": "USD 362,6 M (core+earmarked) = 11,9% de aportaciones multilaterales; 53,2% earmarked."},
+    {"name": "ONU - Secretaria de NNUU", "usd": 35200000, "eur": null, "nota": "1er receptor ONU (OCDE)."},
+    {"name": "UNRWA", "usd": 26900000, "eur": null, "nota": "2o receptor ONU (OCDE)."},
+    {"name": "OMS (WHO)", "usd": 26600000, "eur": null, "nota": "3er receptor ONU (OCDE)."},
+    {"name": "Contribuciones voluntarias 4 organismos ONU (FNUAP/UNFPA, ONU Mujeres, PNUD/UNDP, UNICEF)", "usd": null, "eur": 17500000, "nota": "Paquete aprobado en Consejo de Ministros (jul-2024). UNFPA x6, ONU Mujeres x3, UNICEF x5 su contribucion regular vs 2023."},
+    {"name": "OCDE (contribucion voluntaria)", "usd": null, "eur": 625000, "nota": "Contribucion voluntaria 2024 aprobada por Consejo de Ministros."}
+  ],
+  "fuentes": [
+    "OCDE - Development Co-operation Profiles: Spain (datos finales 2024, pub. 2025/2026): https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/development-co-operation-profiles_02ffa45c/spain_8757b276/63702c87-en.pdf",
+    "La Moncloa / Exteriores (datos preliminares CAD, 18-abr-2025, AOD 2024 >4.000 M EUR): https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/exteriores/paginas/2025/180425-crece-ayuda-oficial-desarrollo.aspx",
+    "cooperacionespanola.es (DGPOLDES) nota AOD 2024 +12%: https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+    "MAEC Exteriores - contribuciones voluntarias ~19,125 M EUR a OOII (jul-2024): https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2024_NOTAS_P/20240702_NOTA036.aspx",
+    "Banco Mundial - Espana compromete 400 M EUR a la AIF/IDA (24-oct-2024): https://www.worldbank.org/en/news/press-release/2024/10/24/spain-announces-early-financial-commitment-of-400-million-to-ida-a-near-40-increase-in-pledge",
+    "OCDE - Final ODA statistics 2024 (dic-2025): https://www.oecd.org/en/data/insights/data-explainers/2025/12/final-oecd-statistics-on-oda-and-other-development-finance-flows-in-2024-key-figures-and-trends.html"
+  ],
+  "confianza": "media",
+  "moneda_origen": "USD (agregados OCDE-CAD) y EUR (contribuciones voluntarias MAEC y compromiso AIF)",
+  "preliminar": false,
+  "notas": "AOD total Espana 2024 = >4.000 M EUR (+12%), 12a OCDE. Agregados multilaterales (sistema multilateral USD 3.000 M; core USD 2.600 M = 59,5% AOD; sistema ONU USD 362,6 M) proceden del perfil OCDE con DATOS FINALES 2024, en USD. Las instituciones de la UE son el mayor canal core de Espana (contribucion al presupuesto UE via Ministerio de Hacienda) pero el perfil OCDE solo da la cifra exacta en grafico, no en texto, por lo que NO se cuantifica (evitar inventar). Banco Mundial: la cifra EUR 400 M es un COMPROMISO plurianual a AIF/IDA21 (oct-2024), NO un desembolso 2024. Las cifras EUR de contribuciones voluntarias (17,5 M a 4 organismos ONU; 0,625 M OCDE; total paquete ~19,125 M) son aportaciones puntuales aprobadas en Consejo de Ministros, NO la totalidad de la AOD canalizada a esos organismos. No mezclar agregados USD con cifras EUR puntuales sin conversion. No se localizo aun el libro 'Seguimiento AOD 2024' de DGPOLDES (a fecha de consulta solo publicado 21-22), unica fuente con desglose multilateral integro en EUR por OMUDE."
+}

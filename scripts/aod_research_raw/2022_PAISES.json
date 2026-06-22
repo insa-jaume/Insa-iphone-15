@@ -1,0 +1,28 @@
+{
+  "anio": 2022,
+  "dimension": "PAISES",
+  "datos": [
+    {"iso": "UKR", "name": "Ucrania", "eur": 596228673.84},
+    {"iso": "COL", "name": "Colombia", "eur": 118633771.32},
+    {"iso": "MAR", "name": "Marruecos", "eur": 58553894.14},
+    {"iso": "MLI", "name": "Mali", "eur": 55127313.43},
+    {"iso": "VEN", "name": "Venezuela", "eur": 53653321.02},
+    {"iso": "AFG", "name": "Afganistan", "eur": 53225354.08},
+    {"iso": "SEN", "name": "Senegal", "eur": 40476234.02},
+    {"iso": "PER", "name": "Peru", "eur": 38845436.83},
+    {"iso": "GTM", "name": "Guatemala", "eur": 38202447.97},
+    {"iso": "SLV", "name": "El Salvador", "eur": 35759281.75},
+    {"iso": "PSE", "name": "Palestina", "eur": 31978100.46},
+    {"iso": "NGA", "name": "Nigeria", "eur": 30697407.45},
+    {"iso": "BOL", "name": "Bolivia", "eur": 28409445.68},
+    {"iso": "ECU", "name": "Ecuador", "eur": 25655388.67},
+    {"iso": "SYR", "name": "Siria", "eur": 25035918.12}
+  ],
+  "fuentes": [
+    "DGPOLDES (SECIPIC, MAEC) - Informe de Seguimiento de la AOD y Otros Flujos Oficiales 2021-22, Tabla 11 'Los 50 principales receptores de la AOD espanola en 2022', pag. 103. URL: https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "DGPOLDES - Avance de la AOD 2022 (Nota Avance AOD 2022, abril 2023): https://www.cooperacionespanola.es/wp-content/uploads/2023/04/Nota-Avance-AOD-2022.pdf (tipo de cambio oficial 2022: 1 USD = 0,9509 EUR)"
+  ],
+  "confianza": "alta",
+  "moneda_origen": "EUR",
+  "notas": "Cifras en EUR. Importe = 'AOD GE desembolsada bilateral' (Ayuda Oficial al Desarrollo en equivalente de grant, desembolsada, bilateral bruta) por pais, tomado directamente de la Tabla 11 del informe oficial de DGPOLDES (datos en euros, no requiere conversion). No incluye reembolsos (columna 'AOD GE reembolsada bilateral', negativa: p.ej. Colombia -4.803.624,32; Marruecos -897.450,95). Ucrania es el 1er receptor en 2022 por la respuesta a la guerra. El total bilateral por paises de la tabla suma 1.644,3 M EUR (frente a 2.047,4 M EUR de AOD GE bilateral/multibilateral total del Avance, diferencia por importes no asignados a pais concreto / multipais / costes en pais donante). Etiquetas del V Plan Director: PARM=Pais de Asociacion Renta Media, PAMA=Pais de Asociacion Menos Avanzado, PCA=Pais de Cooperacion Avanzada, OTR=Otros. Verificacion cruzada con OECD-DAC (DAC2a) recomendada; la OCDE publica en USD."
+}

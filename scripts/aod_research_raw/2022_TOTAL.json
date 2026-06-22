@@ -1,0 +1,16 @@
+{
+  "anio": 2022,
+  "dimension": "TOTAL",
+  "datos": {
+    "total_eur": 4000800000,
+    "pct_rnb": 0.30,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    "https://www.cooperacionespanola.es/avance-aod-espanola-2022/",
+    "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "https://coordinadoraongd.org/2024/01/espana-continua-a-la-cola-en-ayuda-oficial-al-desarrollo-pese-al-esfuerzo/"
+  ],
+  "confianza": "alta",
+  "notas": "Cifra oficial DGPOLDES 'Avance AOD Espanola 2022': AOD en equivalente de subvencion (GE) = 4.000,8 M EUR, equivalente al 0,30% de la RNB (metodologia OCDE-CAD vigente desde 2018; Espana 12a en volumen y 20a en %RNB). Origen en EUR. Nota: existe una cifra alternativa de AOD 'neta' (base caja, metodologia antigua) de 4.105,3 M EUR / 0,28% RNB citada en algunas fuentes; ambas coexisten por el cambio metodologico. Se reporta la GE por ser la oficial actual del CAD. AECID gestiono 408,7 M EUR de ese total."
+}

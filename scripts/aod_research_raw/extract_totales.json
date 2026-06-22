@@ -1,0 +1,94 @@
+{
+  "2020": {
+    "total_eur": 2645000000,
+    "pct_rnb": 0.24,
+    "bilateral_eur": 658000000,
+    "multilateral_eur": 1730000000,
+    "aecid_eur": 323000000,
+    "fonprode_eur": null,
+    "preliminar": false,
+    "confianza": "media",
+    "fuentes": [
+      "https://www.aecid.es/w/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-",
+      "https://reliefweb.int/report/world/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-de-espa-en-2020",
+      "https://one.oecd.org/document/DCD/DAC/AR(2021)4/6/FINAL/es/pdf",
+      "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/PublicacionesOficiales/Seguimiento%20de%20la%20ayuda%20oficial%20al%20desarrollo.%20Informe%20AOD%202018%20-2020-.pdf",
+      "https://coordinadoraongd.org/wp-content/uploads/2021/10/Analisis_AOD_PGE22.pdf"
+    ]
+  },
+  "2021": {
+    "total_eur": 3072840000,
+    "pct_rnb": 0.26,
+    "bilateral_eur": 764657792,
+    "multilateral_eur": 2308183343,
+    "aecid_eur": 306900000,
+    "fonprode_eur": 25558463,
+    "preliminar": false,
+    "confianza": "alta",
+    "fuentes": [
+      "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+      "https://www.aecid.es/la-aecid/en-cifras",
+      "https://coordinadoraongd.org/2022/04/la-ayuda-al-desarrollo-lejos-del-compromiso-del-07/",
+      "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html"
+    ]
+  },
+  "2022": {
+    "total_eur": 4000800000,
+    "pct_rnb": 0.3,
+    "bilateral_eur": 1829680000,
+    "multilateral_eur": 1953360000,
+    "aecid_eur": 408660000,
+    "fonprode_eur": 3513535,
+    "preliminar": false,
+    "confianza": "alta",
+    "fuentes": [
+      "https://www.cooperacionespanola.es/avance-aod-espanola-2022/",
+      "https://www.cooperacionespanola.es/wp-content/uploads/2023/04/Nota-Avance-AOD-2022.pdf",
+      "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+      "https://coordinadoraongd.org/2024/01/espana-continua-a-la-cola-en-ayuda-oficial-al-desarrollo-pese-al-esfuerzo/"
+    ]
+  },
+  "2023": {
+    "total_eur": 3588000000,
+    "pct_rnb": 0.24,
+    "bilateral_eur": 1113815166,
+    "multilateral_eur": 2480965983,
+    "aecid_eur": 574630000,
+    "fonprode_eur": 372000000,
+    "preliminar": false,
+    "confianza": "media",
+    "fuentes": [
+      "https://coordinadoraongd.org/2024/04/la-ayuda-oficial-al-desarrollo-espanola-vuelve-a-caer-cuando-mas-se-necesita/",
+      "https://focus2030.org/Ligero-aumento-de-la-Ayuda-Oficial-para-el-Desarrollo-en-2023",
+      "https://www.oecd.org/en/topics/oda-trends-and-statistics.html",
+      "https://www.cooperacionespanola.es/wp-content/uploads/2025/12/Informe-sobre-cooperacion-multilateral-2022-2023.pdf",
+      "https://www.cooperacionespanola.es/la-aecid-alcanza-en-2023-su-record-de-financiacion-en-favor-del-desarrollo-sostenible-en-el-exterior-con-372-millones-de-euros/",
+      "https://www.aecid.es/w/exteriores-duplica-en-dos-anos-el-presupuesto-de-la-aecid-hasta-los-700-millones"
+    ]
+  },
+  "2024": {
+    "total_eur": 4000000000,
+    "pct_rnb": 0.25,
+    "bilateral_eur": 1600000000,
+    "multilateral_eur": 2400000000,
+    "aecid_eur": 592000000,
+    "fonprode_eur": 58613667,
+    "preliminar": true,
+    "confianza": "media",
+    "fuentes": [
+      "https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+      "https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2025_NOTAS_P/Exteriores-celebra-que-la-Ayuda-Oficial-al-Desarrollo-espanola-haya-crecido-un-12-en-2024-superando-los-4-000-millones-de-.aspx",
+      "https://www.aecid.es/w/la-ayuda-oficial-al-desarrollo-espa%C3%B1ola-crece-un-12-en-2024-superando-los-4.000-millones-de-euros",
+      "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2025/20250418-spanish-development-assistance.aspx",
+      "https://one.oecd.org/document/DCD(2025)6/en/pdf",
+      "https://www.aecid.es/documents/d/guest/informe-seguimiento-plan-de-accion-2024-final-web"
+    ]
+  },
+  "_notas": {
+    "2020": "TOTAL (2.645 M, AOD neta estimada) difiere de la suma de CANALES bilateral+multilateral (658+1.730=2.388 M, AOD neta segun Coordinadora). Se prioriza el total de _TOTAL (2.645 M). FONPRODE 2020 no localizado -> null. Cifra bruta oficial alternativa: 2.665 M EUR. Confianza media por divergencia bruto/neto no confirmada en fuente primaria descargable.",
+    "2021": "Coherente: suma CANALES bil+multi (764.657.792+2.308.183.343=3.072.841.135) coincide con TOTAL (3.072.840.000, redondeo). FONPRODE 25,56 M es desembolso bruto GE (neto tras reembolsos -13,55 M).",
+    "2022": "TOTAL prioritario = 4.000,8 M EUR en base Grant Equivalent (GE). Los CANALES bilateral (1.829,68) + multilateral (1.953,36) suman 3.783,04 M (base NETA/FLOWS DAC1), distinta metodologia que el TOTAL GE; por eso no cuadran con 4.000,8. En base GE el bilateral seria 2.047,44 M. fonprode_eur es aportacion neta GE (3,5 M; bruto 36,4 M).",
+    "2023": "TOTAL prioritario = 3.588 M EUR (origen OCDE en USD 3.880 M, conversion a EUR). La suma de CANALES (bil 1.113,82 + multi 2.480,97 = 3.594,78 M EUR) procede de DGPOLDES/Info@od (base GE) y difiere ligeramente del TOTAL (~+6,8 M) por fuente/metodologia. AECID 574,63 M es presupuesto inicial; FONPRODE 372 M es financiacion aprobada, no desembolso AOD. Confianza media.",
+    "2024": "PRELIMINAR (datos de avance CAD-OCDE abr-2025). TOTAL ~4.000 M EUR (cota inferior; real algo superior, +12% vs 2023). bilateral_eur (1.600 M) y multilateral_eur (2.400 M) son ESTIMACION propia (split estructural ~40/60 OCDE) y suman 4.000 M por convencion; no oficiales. AECID 592 M y FONPRODE 58,6 M (desembolso) son firmes."
+  }
+}

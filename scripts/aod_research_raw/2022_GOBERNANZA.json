@@ -1,0 +1,54 @@
+{
+  "anio": 2022,
+  "dimension": "GOBERNANZA",
+  "datos": {
+    "cpi": [
+      {"iso": "MAR", "cpi": 38, "pais": "Marruecos"},
+      {"iso": "COL", "cpi": 39, "pais": "Colombia"},
+      {"iso": "MRT", "cpi": 30, "pais": "Mauritania"},
+      {"iso": "SEN", "cpi": 43, "pais": "Senegal"},
+      {"iso": "ETH", "cpi": 38, "pais": "Etiopia"},
+      {"iso": "MOZ", "cpi": 26, "pais": "Mozambique"},
+      {"iso": "NER", "cpi": 32, "pais": "Niger"},
+      {"iso": "MLI", "cpi": 28, "pais": "Mali"},
+      {"iso": "TUN", "cpi": 40, "pais": "Tunez"},
+      {"iso": "HND", "cpi": 23, "pais": "Honduras"},
+      {"iso": "GTM", "cpi": 24, "pais": "Guatemala"},
+      {"iso": "BOL", "cpi": 31, "pais": "Bolivia"},
+      {"iso": "PER", "cpi": 36, "pais": "Peru"},
+      {"iso": "LBN", "cpi": 24, "pais": "Libano"},
+      {"iso": "JOR", "cpi": 47, "pais": "Jordania"},
+      {"iso": "EGY", "cpi": 30, "pais": "Egipto"},
+      {"iso": "CPV", "cpi": 60, "pais": "Cabo Verde"}
+    ],
+    "casos": [
+      {
+        "titulo": "El Tribunal de Cuentas detecta irregularidades en contratos de Politica exterior y cooperacion para el desarrollo (ejercicio 2022), 8 de ellos adjudicados por la AECID",
+        "fuente": "https://www.tcu.es/en/sala-de-prensa/noticias/Aprobado-el-Informe-de-Fiscalizacion-de-los-Contratos-de-la-Administracion-General-del-Estado-vinculados-a-las-politicas-de-gasto-11-Justicia-12-Defensa-y-14-Politica-exterior-y-cooperacion-para-el-desarrollo-ejercicio-2022/",
+        "resumen": "El Informe de Fiscalizacion de los contratos de la AGE vinculados a las politicas de gasto 11 (Justicia), 12 (Defensa) y 14 (Politica exterior y cooperacion para el desarrollo), ejercicio 2022, aprobado por el Pleno del Tribunal de Cuentas el 29 de julio de 2025, analizo 103 contratos por 363 M EUR. Detecto irregularidades en 16 contratos del area de Exteriores/cooperacion (importe analizado ~18 M EUR), de los que 8 fueron adjudicados por la AECID, 2 por el Instituto Cervantes y 6 por el MAUC. Deficiencias: falta de planificacion y de informes economicos justificativos del presupuesto, controles de ejecucion insuficientes (mas alla de la mera comprobacion de facturas), uso indebido de la experiencia como criterio de adjudicacion, falta de seguimiento de subcontratacion y vulneracion del art. 100.2 LCSP. El caso mas grave senalado fue el proyecto Subatra (Justicia y Sociedad) en Filipinas: no consta la peticion ni la aceptacion del beneficiario de la subvencion en especie y se cuestiona la justificacion del interes publico."
+      },
+      {
+        "titulo": "AIReF evalua la cooperacion financiera reembolsable (FONPRODE) y detecta debilidades de planificacion y gestion (Estudio, diciembre 2022)",
+        "fuente": "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/ESTUDIO-COOPERACIO%CC%81N-FINANCIERA-FONPRODE.pdf",
+        "resumen": "Estudio de la AIReF sobre la cooperacion financiera internacional espanola, en particular el Fondo para la Promocion del Desarrollo (FONPRODE), encargado por Acuerdo de Consejo de Ministros y publicado en diciembre de 2022. La AIReF concluye que la cooperacion financiera reembolsable espanola es muy reducida frente a su entorno (en 2020 unas 60 veces inferior a la francesa o alemana y 45 veces inferior a la neerlandesa), que los procedimientos estan excesivamente fragmentados, con un alto numero de agentes intervinientes, y que existe escasez de capital humano especializado, lo que dificulta la gestion integral del conocimiento. La AIReF formula propuestas para mejorar la planificacion y gobernanza del instrumento."
+      },
+      {
+        "titulo": "Salvedades del Tribunal de Cuentas sobre las cuentas del FONPRODE: contabilizacion de aportaciones reembolsables y valoracion de participaciones en fondos de capital riesgo",
+        "fuente": "https://www.tcu.es/en/sala-de-prensa/noticias/APROBADO-EL-INFORME-SOBRE-EL-FONDO-PARA-LA-PROMOCION-DEL-DESARROLLO-FONPRODE-EJERCICIOS-2012-Y-2013/",
+        "resumen": "En sus fiscalizaciones del FONPRODE, el Tribunal de Cuentas ha venido senalando que las cuentas reflejan la imagen fiel pero estan sujetas a salvedades que se concentran esencialmente en la contabilizacion de las aportaciones reembolsables y en la valoracion de las participaciones en fondos de capital riesgo privados, generalmente en paises de America del Sur y Africa. Nota: este informe concreto del TCU corresponde a ejercicios anteriores (2012-2013); se incluye como antecedente verificable de la naturaleza recurrente de las salvedades sobre el FONPRODE, no como informe del ejercicio 2022."
+      }
+    ]
+  },
+  "fuentes": [
+    "https://www.transparency.org/en/cpi/2022",
+    "https://files.transparencycdn.org/images/Report_CPI2022_English.pdf",
+    "https://en.wikipedia.org/wiki/List_of_countries_by_Corruption_Perceptions_Index",
+    "https://www.tcu.es/en/sala-de-prensa/noticias/Aprobado-el-Informe-de-Fiscalizacion-de-los-Contratos-de-la-Administracion-General-del-Estado-vinculados-a-las-politicas-de-gasto-11-Justicia-12-Defensa-y-14-Politica-exterior-y-cooperacion-para-el-desarrollo-ejercicio-2022/",
+    "https://theobjective.com/economia/2025-08-05/contratos-cooperacion-filtro-falta-planificacion-controles/",
+    "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/ESTUDIO-COOPERACIO%CC%81N-FINANCIERA-FONPRODE.pdf",
+    "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/PRESS-RELEASE-FONPRODE-FINANCIAL-COOPERATION-STUDY.pdf",
+    "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf"
+  ],
+  "confianza": "media-alta",
+  "notas": "CPI 2022 de Transparency International (escala 0-100, mayor = menos corrupcion); cifras verificadas en la tabla consolidada de Wikipedia que cita la fuente oficial TI 2022. Paises seleccionados como principales receptores/prioritarios de la cooperacion espanola (Marruecos, Colombia, Mauritania, Senegal, Etiopia, Mozambique, Niger, Mali, Tunez, Honduras, Guatemala, Bolivia, Peru, Libano, Jordania, Egipto, Cabo Verde); Palestina y Venezuela, tambien receptores destacados de AOD espanola en 2022, no figuran con puntuacion CPI 2022 (Palestina no incluida; Venezuela no consultada). La lista exacta de los 50 principales receptores AOD 2022 esta en la Tabla del Informe de Seguimiento AOD 2021-22 (DGPOLDES), PDF demasiado grande para extraer automaticamente. Casos: el principal es el Informe de Fiscalizacion del TCU sobre contratos del ejercicio 2022 (aprobado 29/07/2025) con 8 contratos AECID con irregularidades; el estudio AIReF FONPRODE es de diciembre 2022; la salvedad del TCU sobre FONPRODE se cita como antecedente (informe de ejercicios 2012-13). No se han identificado en estas busquedas casos penales de fraude individualizado de cooperacion espanola referidos especificamente a 2022."
+}

@@ -1,0 +1,30 @@
+{
+  "anio": 2021,
+  "dimension": "CANALES",
+  "datos": {
+    "bilateral_eur": 764657792,
+    "multilateral_eur": 2308183343,
+    "aecid_eur": 306900000,
+    "fonprode_eur": 25558463,
+    "moneda_origen": "EUR"
+  },
+  "fuentes": [
+    {
+      "nombre": "DGPOLDES - Informe de Seguimiento de la AOD y otros flujos oficiales (TOSSD) 2021-2022",
+      "url": "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+      "detalle": "Fuente oficial primaria. AOD GE neta desembolsada 2021 = 3.072.841.135 EUR (0,26% RNB). Tabla 24 'Vias de canalizacion de la AOD GE 2020-2022': OMUDES (multilateral) 2021 = 2.308.183.343 EUR (75,1%). Bilateral (resto de vias: sector publico 185.736.419 + ONG/sociedad civil 570.883.002 + partenariado publico-privado 5.528.662 + universidades 17.384.587 + sector privado -15.921.584 + otras 1.046.706) = 764.657.792 EUR. Tabla 16: AECID desembolso propio 275 M EUR y AOD GE gestionada total 306,9 M EUR (9,8% del total). Tabla 33: FONPRODE AOD GE desembolsada (bruta) 2021 = 25.558.462,80 EUR; neta tras reembolsos (-39.110.720,96) = -13.552.258,16 EUR."
+    },
+    {
+      "nombre": "OCDE-CAD - Preliminary ODA levels in 2021 (12 abril 2022)",
+      "url": "https://www.donorplatform.org/wp-content/uploads/2022/10/ODA-2021-summary.pdf",
+      "detalle": "En USD (no EUR). Tabla 1 base equivalente-grant: Espana total ODA 3.542 M USD; bilateral grants 1.465 M + grant equiv. prestamos 7 + alivio deuda 32 = ~1.504 M; multilateral 2.093 M USD. Util como triangulacion en USD; difiere de DGPOLDES por metodologia y tipo de cambio."
+    },
+    {
+      "nombre": "Coordinadora de ONGD - 'La Ayuda al Desarrollo, lejos del compromiso del 0,7%' (abril 2022)",
+      "url": "https://coordinadoraongd.org/2022/04/la-ayuda-al-desarrollo-lejos-del-compromiso-del-07/",
+      "detalle": "Confirma AOD 2021 ~3.124 M EUR bruto / 3.072,34 M EUR neto, y que AECID gestiono ~307 M EUR."
+    }
+  ],
+  "confianza": "alta",
+  "notas": "Cifras en EUR, base AOD Grant Equivalent (GE) neta desembolsada, fuente oficial DGPOLDES. AOD total neta 2021 = 3.072.841.135 EUR. El reparto por CANAL de canalizacion (no por agente financiador) es: multilateral via OMUDES = 2.308.183.343 EUR (75,1%); bilateral+multibilateral (resto de vias) = 764.657.792 EUR (24,9%). ATENCION: DGPOLDES senala que la suma bilateral+multibilateral igualo/supero a multilateral en 2022 (50,4% vs 49,6%), pero en 2021 la via multilateral todavia dominaba (75,1%) por el peso de contribuciones COVID/UE; el desglose 50,4/49,6 corresponde a 2022, NO a 2021. La cifra bilateral incluye un valor neto negativo del sector privado (-15,9 M) por reembolsos. AECID: 275 M EUR desembolso propio y 306,9 M EUR gestionados (se reporta el total gestionado como aecid_eur). FONPRODE: 25,56 M EUR AOD GE desembolsada bruta (neta -13,55 M tras reembolsos); ademas en 2021 el Consejo de Ministros autorizo 12 operaciones reembolsables por ~101 M EUR (compromiso, no desembolso). La cifra OCDE-CAD esta en USD y no es directamente comparable."
+}

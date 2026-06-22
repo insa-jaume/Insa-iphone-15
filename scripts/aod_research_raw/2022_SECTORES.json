@@ -1,0 +1,23 @@
+{
+  "anio": 2022,
+  "dimension": "SECTORES",
+  "datos": [
+    {"sector": "educacion", "cad_crs": "110", "eur": 118649044.42, "pct": 4.18},
+    {"sector": "salud", "cad_crs": "120", "eur": 368253776.44, "pct": 12.98},
+    {"sector": "programas_poblacion_salud_reproductiva", "cad_crs": "130", "eur": 34033846.05, "pct": 1.20},
+    {"sector": "abastecimiento_agua_y_saneamiento", "cad_crs": "140", "eur": 181668337.66, "pct": 6.40},
+    {"sector": "gobierno_y_sociedad_civil", "cad_crs": "150", "eur": 582516255.43, "pct": 20.54},
+    {"sector": "otros_servicios_e_infraestructuras_sociales", "cad_crs": "160", "eur": 417466351.24, "pct": 14.72},
+    {"sector": "infraestructuras_sociales_y_servicios_TOTAL_grupo_100", "cad_crs": "100", "eur": 1702587611.23, "pct": 60.03},
+    {"sector": "infraestructuras_economicas_y_servicios", "cad_crs": "200", "eur": 163461560.48, "pct": 5.76},
+    {"sector": "sectores_productivos", "cad_crs": "300", "eur": 224034682.20, "pct": 7.90},
+    {"sector": "multisectorial", "cad_crs": "400", "eur": 746351035.53, "pct": 26.31}
+  ],
+  "fuentes": [
+    "DGPOLDES (MAEUEC). 'Informe de Seguimiento de la AOD y Otros Flujos Oficiales al Desarrollo Sostenible (TOSSD) 2021-2022'. Tabla 4 'AOD GE desembolsada distribuible sectorialmente 2020-2022', pag. 47. https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "Portal Cooperacion Espanola / Info@OD: https://www.cooperacionespanola.es/es/estadistica-ayuda-oficial-al-desarrollo"
+  ],
+  "confianza": "alta",
+  "moneda_origen": "EUR",
+  "notas": "Cifras OFICIALES en EUR extraidas de la Tabla 4 del Informe de Seguimiento AOD/TOSSD 2021-22 (DGPOLDES). Corresponden a la AOD GE BILATERAL distribuible sectorialmente, cuyo total = 2.836.434.889,44 EUR. Los porcentajes (pct) son la cuota de cada sector sobre ese total bilateral distribuible (suma verificada: grupos 100+200+300+400 = 2.836.434.889,44 EUR; grupo 100 = 1.702.587.611,24 EUR coincide con lo reportado). NO son porcentajes sobre la AOD total (4.105,28 M EUR), que incluye ademas multilateral pura y AOD no distribuible sectorialmente (Tabla 5: ayuda humanitaria/emergencias cod.700=158,48 M EUR, apoyo a refugiados en pais donante cod.930=861,97 M EUR, costes administrativos cod.910=106,70 M EUR, ayuda alimentaria cod.520=8,01 M EUR, sensibilizacion/EpD cod.99820=39,34 M EUR; total bilateral no distribuible=1.268,85 M EUR). La ayuda humanitaria/emergencia NO aparece como sector CAD distribuible sino dentro de la AOD no distribuible (codigos 700-740)."
+}

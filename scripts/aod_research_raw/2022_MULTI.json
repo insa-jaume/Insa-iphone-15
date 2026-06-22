@@ -1,0 +1,34 @@
+{
+  "anio": 2022,
+  "dimension": "MULTI",
+  "datos": [
+    {"name": "Unión Europea (total AOD multilateral)", "eur": 1557329892.29},
+    {"name": "  - Presupuesto Comisión Europea (cooperación internacional al desarrollo)", "eur": 1258739892.29},
+    {"name": "  - Fondo Europeo de Desarrollo (FED)", "eur": 198000000},
+    {"name": "  - Facilidad UE para refugiados en Turquía (voluntaria)", "eur": 22000000},
+    {"name": "Naciones Unidas (total OMUDES NN.UU. no financieros)", "eur": 400995933},
+    {"name": "  - Organización Mundial de la Salud (OMS)", "eur": 166000000},
+    {"name": "  - ONU (Secretaría/Naciones Unidas)", "eur": 25000000},
+    {"name": "  - ACNUR (Alto Comisionado para los Refugiados)", "eur": 23000000},
+    {"name": "  - UNDPKO (Operaciones de Mantenimiento de la Paz)", "eur": 18000000},
+    {"name": "Grupo Banco Mundial (principalmente AIF/IDA)", "eur": 267053350},
+    {"name": "Fondo Monetario Internacional (FMI)", "eur": 38772160},
+    {"name": "Bancos Regionales de Desarrollo (total)", "eur": 73081110.93},
+    {"name": "  - Fondo Africano de Desarrollo (FAfD)", "eur": 38000000},
+    {"name": "  - Banco de Desarrollo del Consejo de Europa (CEB)", "eur": 13000000},
+    {"name": "  - Banco Centroamericano de Integración Económica (BCIE)", "eur": 2000000},
+    {"name": "  - Banco Interamericano de Desarrollo (BID)", "eur": 500000},
+    {"name": "Otros organismos multilaterales (total)", "eur": 198282945},
+    {"name": "  - Fondo Verde del Clima (GCF)", "eur": 24000000},
+    {"name": "  - OSCE", "eur": 16000000},
+    {"name": "  - Fondo para el Medio Ambiente Mundial (FMAM/GEF)", "eur": 11000000},
+    {"name": "TOTAL AOD desembolsada vía UE y OMUDES 2022", "eur": 2535515390.77}
+  ],
+  "fuentes": [
+    "DGPOLDES, 'Informe de Seguimiento de la AOD y Otros Flujos Oficiales 2021-2022' (Libro Seguimiento AOD y TOSSD 21-22), Cooperación Española. Tabla 26 'Evolución de la AOD desembolsada a la UE y a través de OMUDES', Tabla 27 'Distribución porcentual de las contribuciones AOD entre OMUDES', Tabla 28 'Principales contribuciones a UE y OMUDES por actor público en 2022'. https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+    "DGPOLDES/MAEC, 'Informe sobre la Cooperación Multilateral Española 2022-2023'. https://www.cooperacionespanola.es/wp-content/uploads/2025/12/Informe-sobre-cooperacion-multilateral-2022-2023.pdf"
+  ],
+  "confianza": "alta para los agregados de Tabla 26 (UE 1.557,33M; NN.UU. 400,99M; Grupo Banco Mundial 267,05M; FMI 38,77M; Bancos Regionales 73,08M; Otros 198,28M; TOTAL 2.535,52M) y para el desglose UE (CE 1.258,74M; FED 198M; Turquía 22M). Media para los desgloses por organismo (OMS, ONU, ACNUR, UNDPKO, FAfD, CEB, BCIE, BID, GCF, OSCE, FMAM): cifras citadas en el texto narrativo del informe redondeadas a millones (ej. 'OMS con 166 millones', 'ACNUR con 23 millones').",
+    "moneda_origen": "EUR",
+  "notas": "Datos oficiales DGPOLDES en EUR (no requieren conversión). Cifras son DESEMBOLSOS de AOD 2022 vía UE y OMUDES. Las contribuciones a NN.UU. (OMS, ACNUR, etc.) corresponden a aportaciones generales multilaterales; NO incluyen los más de 250M€ de donación de vacunas COVID-19 canalizados como AOD multibilateral (vía UNICEF, PMA y otros), que en las tablas detalladas elevan los totales por organismo (p.ej. UNICEF y PMA aparecen con cifras agregadas mayores al mezclar multilateral + multibilateral). La contribución a la UE supuso el 61,42% del total multilateral; las contribuciones multilaterales 'puras' fueron el 79,61% del total (de ellas 64% obligatorias a la UE). El FED de 198M decrece -43,04% vs 2020. Importes de subpartidas con '  -' son componentes del agregado superior, no sumar dos veces."
+}

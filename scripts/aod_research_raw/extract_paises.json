@@ -1,0 +1,387 @@
+{
+  "2020": [
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 70884857
+    },
+    {
+      "iso": "VEN",
+      "name": "Venezuela",
+      "eur": 49365819
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 41331399
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 26655413
+    },
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "eur": 25389208
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "eur": 25263307
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "eur": 20585373
+    },
+    {
+      "iso": "HND",
+      "name": "Honduras",
+      "eur": 19666810
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 19443523
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 17257451
+    },
+    {
+      "iso": "NIC",
+      "name": "Nicaragua",
+      "eur": 15896263
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "eur": 14473445
+    },
+    {
+      "iso": "SYR",
+      "name": "Siria",
+      "eur": 14265427
+    },
+    {
+      "iso": "NER",
+      "name": "Níger",
+      "eur": 11530215
+    },
+    {
+      "iso": "HTI",
+      "name": "Haití",
+      "eur": 10665518
+    }
+  ],
+  "2021": [
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 70037000
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 35870000
+    },
+    {
+      "iso": "EGY",
+      "name": "Egipto",
+      "eur": 33172000
+    },
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "eur": 31035000
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 29761000
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 28330000
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "eur": 25837000
+    },
+    {
+      "iso": "NIC",
+      "name": "Nicaragua",
+      "eur": 25342000
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 20478000
+    },
+    {
+      "iso": "UGA",
+      "name": "Uganda",
+      "eur": 19293000
+    },
+    {
+      "iso": "PRY",
+      "name": "Paraguay",
+      "eur": 17002000
+    },
+    {
+      "iso": "AGO",
+      "name": "Angola",
+      "eur": 15550000
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "eur": 14652000
+    },
+    {
+      "iso": "SDN",
+      "name": "Sudán",
+      "eur": 13626000
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "eur": 13379000
+    }
+  ],
+  "2022": [
+    {
+      "iso": "UKR",
+      "name": "Ucrania",
+      "eur": 596228673.84
+    },
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 118633771.32
+    },
+    {
+      "iso": "MAR",
+      "name": "Marruecos",
+      "eur": 58553894.14
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "eur": 55127313.43
+    },
+    {
+      "iso": "VEN",
+      "name": "Venezuela",
+      "eur": 53653321.02
+    },
+    {
+      "iso": "AFG",
+      "name": "Afganistán",
+      "eur": 53225354.08
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 40476234.02
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "eur": 38845436.83
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 38202447.97
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 35759281.75
+    },
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "eur": 31978100.46
+    },
+    {
+      "iso": "NGA",
+      "name": "Nigeria",
+      "eur": 30697407.45
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 28409445.68
+    },
+    {
+      "iso": "ECU",
+      "name": "Ecuador",
+      "eur": 25655388.67
+    },
+    {
+      "iso": "SYR",
+      "name": "Siria",
+      "eur": 25035918.12
+    }
+  ],
+  "2023": [
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "eur": 70050723
+    },
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 42960601
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 41247905
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "eur": 37265074
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 33809477
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 29986618
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 23888616
+    },
+    {
+      "iso": "ECU",
+      "name": "Ecuador",
+      "eur": 22287692
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "eur": 18519822
+    },
+    {
+      "iso": "NER",
+      "name": "Níger",
+      "eur": 17133563
+    },
+    {
+      "iso": "UKR",
+      "name": "Ucrania",
+      "eur": 17117662
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "eur": 16692584
+    },
+    {
+      "iso": "MAR",
+      "name": "Marruecos",
+      "eur": 15689658
+    },
+    {
+      "iso": "ETH",
+      "name": "Etiopía",
+      "eur": 14777874
+    },
+    {
+      "iso": "CRI",
+      "name": "Costa Rica",
+      "eur": 13989693
+    }
+  ],
+  "2024": [
+    {
+      "iso": "PSE",
+      "name": "Palestina",
+      "eur": 57965355
+    },
+    {
+      "iso": "GTM",
+      "name": "Guatemala",
+      "eur": 41556000
+    },
+    {
+      "iso": "COL",
+      "name": "Colombia",
+      "eur": 36103000
+    },
+    {
+      "iso": "PER",
+      "name": "Perú",
+      "eur": 29904000
+    },
+    {
+      "iso": "BOL",
+      "name": "Bolivia",
+      "eur": 29847000
+    },
+    {
+      "iso": "SLV",
+      "name": "El Salvador",
+      "eur": 29121000
+    },
+    {
+      "iso": "SEN",
+      "name": "Senegal",
+      "eur": 22760000
+    },
+    {
+      "iso": "MLI",
+      "name": "Malí",
+      "eur": 19910000
+    },
+    {
+      "iso": "MOZ",
+      "name": "Mozambique",
+      "eur": 17604000
+    },
+    {
+      "iso": "UKR",
+      "name": "Ucrania",
+      "eur": 16568000
+    },
+    {
+      "iso": "ECU",
+      "name": "Ecuador",
+      "eur": 16405000
+    },
+    {
+      "iso": "ETH",
+      "name": "Etiopía",
+      "eur": 15668000
+    },
+    {
+      "iso": "LBN",
+      "name": "Líbano",
+      "eur": 14998000
+    },
+    {
+      "iso": "NER",
+      "name": "Níger",
+      "eur": 14800000
+    },
+    {
+      "iso": "HND",
+      "name": "Honduras",
+      "eur": 13116000
+    }
+  ]
+}

@@ -1,0 +1,1407 @@
+{
+  "titulo": "AOD española — datos reales por año",
+  "generado": "2026-06-22T10:00:46",
+  "moneda": "EUR",
+  "anios": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "nota_riesgo": "El riesgo de corrupción por país = 100 − CPI (Índice de Percepción de la Corrupción de Transparency International). Es un indicador de vulnerabilidad de gobernanza del receptor, no una acusación.",
+  "por_anio": {
+    "2020": {
+      "total_eur": 2645000000,
+      "pct_rnb": 0.24,
+      "bilateral_eur": 658000000,
+      "multilateral_eur": 1730000000,
+      "aecid_eur": 323000000,
+      "fonprode_eur": null,
+      "preliminar": false,
+      "confianza": "media",
+      "fuentes": [
+        "https://www.aecid.es/w/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-",
+        "https://reliefweb.int/report/world/ligero-aumento-de-la-ayuda-oficial-al-desarrollo-de-espa-en-2020",
+        "https://one.oecd.org/document/DCD/DAC/AR(2021)4/6/FINAL/es/pdf",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/PublicacionesOficiales/Seguimiento%20de%20la%20ayuda%20oficial%20al%20desarrollo.%20Informe%20AOD%202018%20-2020-.pdf",
+        "https://coordinadoraongd.org/wp-content/uploads/2021/10/Analisis_AOD_PGE22.pdf"
+      ],
+      "riesgo_medio_ponderado": 73.2,
+      "paises": [
+        {
+          "iso": "COL",
+          "name": "Colombia",
+          "lat": 4.6,
+          "lng": -74.1,
+          "eur": 70884857,
+          "cpi": 39,
+          "riesgo": 61,
+          "nivel": "alto"
+        },
+        {
+          "iso": "VEN",
+          "name": "Venezuela",
+          "lat": 10.5,
+          "lng": -66.9,
+          "eur": 49365819,
+          "cpi": 10,
+          "riesgo": 90,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SLV",
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -89.2,
+          "eur": 41331399,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "GTM",
+          "name": "Guatemala",
+          "lat": 14.6,
+          "lng": -90.5,
+          "eur": 26655413,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "PSE",
+          "name": "Palestina",
+          "lat": 31.9,
+          "lng": 35.2,
+          "eur": 25389208,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "PER",
+          "name": "Perú",
+          "lat": -12.0,
+          "lng": -77.0,
+          "eur": 25263307,
+          "cpi": 31,
+          "riesgo": 69,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MLI",
+          "name": "Malí",
+          "lat": 12.6,
+          "lng": -8.0,
+          "eur": 20585373,
+          "cpi": 27,
+          "riesgo": 73,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "HND",
+          "name": "Honduras",
+          "lat": 14.1,
+          "lng": -87.2,
+          "eur": 19666810,
+          "cpi": 22,
+          "riesgo": 78,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "BOL",
+          "name": "Bolivia",
+          "lat": -16.5,
+          "lng": -68.1,
+          "eur": 19443523,
+          "cpi": 28,
+          "riesgo": 72,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SEN",
+          "name": "Senegal",
+          "lat": 14.7,
+          "lng": -17.5,
+          "eur": 17257451,
+          "cpi": 45,
+          "riesgo": 55,
+          "nivel": "alto"
+        },
+        {
+          "iso": "NIC",
+          "name": "Nicaragua",
+          "lat": 12.1,
+          "lng": -86.3,
+          "eur": 15896263,
+          "cpi": 14,
+          "riesgo": 86,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "MOZ",
+          "name": "Mozambique",
+          "lat": -25.9,
+          "lng": 32.6,
+          "eur": 14473445,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SYR",
+          "name": "Siria",
+          "lat": 33.5,
+          "lng": 36.3,
+          "eur": 14265427,
+          "cpi": 13,
+          "riesgo": 87,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "NER",
+          "name": "Níger",
+          "lat": 13.5,
+          "lng": 2.1,
+          "eur": 11530215,
+          "cpi": 34,
+          "riesgo": 66,
+          "nivel": "alto"
+        },
+        {
+          "iso": "HTI",
+          "name": "Haití",
+          "lat": 18.6,
+          "lng": -72.3,
+          "eur": 10665518,
+          "cpi": 16,
+          "riesgo": 84,
+          "nivel": "muy_alto"
+        }
+      ],
+      "sectores": [
+        {
+          "sector": "salud",
+          "label": "Salud",
+          "eur": 196808314.13,
+          "pct": 7.39
+        },
+        {
+          "sector": "educacion",
+          "label": "Educación",
+          "eur": 110645010.06,
+          "pct": 4.15
+        },
+        {
+          "sector": "gobierno_y_sociedad_civil",
+          "label": "Gobierno y sociedad civil",
+          "eur": 385664762.75,
+          "pct": 14.47
+        },
+        {
+          "sector": "agua_y_saneamiento",
+          "label": "Agua y saneamiento",
+          "eur": 108316206.96,
+          "pct": 4.07
+        },
+        {
+          "sector": "otros_servicios_e_infraestructuras_sociales",
+          "label": "Otros servicios e infraestructuras sociales",
+          "eur": 374467891.44,
+          "pct": 14.05
+        },
+        {
+          "sector": "infraestructura_economica",
+          "label": "Infraestructura y servicios económicos",
+          "eur": 93107549.6,
+          "pct": 3.49
+        },
+        {
+          "sector": "sectores_productivos",
+          "label": "Sectores productivos",
+          "eur": 168341577.74,
+          "pct": 6.32
+        },
+        {
+          "sector": "multisectorial",
+          "label": "Multisectorial",
+          "eur": 394691190.34,
+          "pct": 14.81
+        },
+        {
+          "sector": "accion_humanitaria",
+          "label": "Acción humanitaria",
+          "eur": 97942155.2,
+          "pct": 3.68
+        },
+        {
+          "sector": "refugiados_en_pais_donante",
+          "label": "Refugiados en país donante",
+          "eur": 170606715.01,
+          "pct": 6.4
+        },
+        {
+          "sector": "costes_administrativos",
+          "label": "Costes administrativos del donante",
+          "eur": 96629242.72,
+          "pct": 3.63
+        }
+      ],
+      "multilateral": [
+        {
+          "name": "Unión Europea (incl. CE+FED)",
+          "eur": 1217484789.2
+        },
+        {
+          "name": "Grupo Banco Mundial",
+          "eur": 262496627.25
+        },
+        {
+          "name": "Sistema Naciones Unidas",
+          "eur": 171339451.4
+        },
+        {
+          "name": "Bancos regionales de desarrollo",
+          "eur": 123896814.0
+        },
+        {
+          "name": "Otros",
+          "eur": 101049872.29
+        },
+        {
+          "name": "Fondo Verde del Clima",
+          "eur": 37522293.0
+        },
+        {
+          "name": "FMI",
+          "eur": 5760735.01
+        }
+      ]
+    },
+    "2021": {
+      "total_eur": 3072840000,
+      "pct_rnb": 0.26,
+      "bilateral_eur": 764657792,
+      "multilateral_eur": 2308183343,
+      "aecid_eur": 306900000,
+      "fonprode_eur": 25558463,
+      "preliminar": false,
+      "confianza": "alta",
+      "fuentes": [
+        "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+        "https://www.aecid.es/la-aecid/en-cifras",
+        "https://coordinadoraongd.org/2022/04/la-ayuda-al-desarrollo-lejos-del-compromiso-del-07/",
+        "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html"
+      ],
+      "riesgo_medio_ponderado": 69.6,
+      "paises": [
+        {
+          "iso": "COL",
+          "name": "Colombia",
+          "lat": 4.6,
+          "lng": -74.1,
+          "eur": 70037000,
+          "cpi": 39,
+          "riesgo": 61,
+          "nivel": "alto"
+        },
+        {
+          "iso": "BOL",
+          "name": "Bolivia",
+          "lat": -16.5,
+          "lng": -68.1,
+          "eur": 35870000,
+          "cpi": 28,
+          "riesgo": 72,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "EGY",
+          "name": "Egipto",
+          "lat": 30.0,
+          "lng": 31.2,
+          "eur": 33172000,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "PSE",
+          "name": "Palestina",
+          "lat": 31.9,
+          "lng": 35.2,
+          "eur": 31035000,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "GTM",
+          "name": "Guatemala",
+          "lat": 14.6,
+          "lng": -90.5,
+          "eur": 29761000,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SLV",
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -89.2,
+          "eur": 28330000,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "PER",
+          "name": "Perú",
+          "lat": -12.0,
+          "lng": -77.0,
+          "eur": 25837000,
+          "cpi": 31,
+          "riesgo": 69,
+          "nivel": "alto"
+        },
+        {
+          "iso": "NIC",
+          "name": "Nicaragua",
+          "lat": 12.1,
+          "lng": -86.3,
+          "eur": 25342000,
+          "cpi": 14,
+          "riesgo": 86,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SEN",
+          "name": "Senegal",
+          "lat": 14.7,
+          "lng": -17.5,
+          "eur": 20478000,
+          "cpi": 45,
+          "riesgo": 55,
+          "nivel": "alto"
+        },
+        {
+          "iso": "PRY",
+          "name": "Paraguay",
+          "lat": -25.3,
+          "lng": -57.6,
+          "eur": 17002000,
+          "cpi": 24,
+          "riesgo": 76,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "AGO",
+          "name": "Angola",
+          "lat": -8.8,
+          "lng": 13.2,
+          "eur": 15550000,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "MLI",
+          "name": "Malí",
+          "lat": 12.6,
+          "lng": -8.0,
+          "eur": 14652000,
+          "cpi": 27,
+          "riesgo": 73,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SDN",
+          "name": "Sudán",
+          "lat": 15.5,
+          "lng": 32.5,
+          "eur": 13626000,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "MOZ",
+          "name": "Mozambique",
+          "lat": -25.9,
+          "lng": 32.6,
+          "eur": 13379000,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        }
+      ],
+      "sectores": [
+        {
+          "sector": "salud",
+          "label": "Salud",
+          "eur": 500864810.83,
+          "pct": 16.03
+        },
+        {
+          "sector": "educacion",
+          "label": "Educación",
+          "eur": 100704436.5,
+          "pct": 3.22
+        },
+        {
+          "sector": "gobierno_y_sociedad_civil",
+          "label": "Gobierno y sociedad civil",
+          "eur": 371923654.22,
+          "pct": 11.91
+        },
+        {
+          "sector": "agua_y_saneamiento",
+          "label": "Agua y saneamiento",
+          "eur": 170594984.61,
+          "pct": 5.46
+        },
+        {
+          "sector": "otros_servicios_e_infraestructuras_sociales",
+          "label": "Otros servicios e infraestructuras sociales",
+          "eur": 357765231.39,
+          "pct": 11.45
+        },
+        {
+          "sector": "infraestructura_economica",
+          "label": "Infraestructura y servicios económicos",
+          "eur": 145750390.36,
+          "pct": 4.67
+        },
+        {
+          "sector": "sectores_productivos",
+          "label": "Sectores productivos",
+          "eur": 179995609.22,
+          "pct": 5.76
+        },
+        {
+          "sector": "multisectorial",
+          "label": "Multisectorial",
+          "eur": 654244879.65,
+          "pct": 20.94
+        },
+        {
+          "sector": "accion_humanitaria",
+          "label": "Acción humanitaria",
+          "eur": 115757964.0,
+          "pct": 3.71
+        },
+        {
+          "sector": "refugiados_en_pais_donante",
+          "label": "Refugiados en país donante",
+          "eur": 196245800.01,
+          "pct": 6.28
+        },
+        {
+          "sector": "costes_administrativos",
+          "label": "Costes administrativos del donante",
+          "eur": 97102689.0,
+          "pct": 3.11
+        }
+      ],
+      "multilateral": [
+        {
+          "name": "Unión Europea (incl. CE+FED)",
+          "eur": 1293286939.0
+        },
+        {
+          "name": "Sistema Naciones Unidas",
+          "eur": 506732116.54
+        },
+        {
+          "name": "Grupo Banco Mundial",
+          "eur": 280480183.87
+        },
+        {
+          "name": "Otros",
+          "eur": 101802173.58
+        },
+        {
+          "name": "Bancos regionales de desarrollo",
+          "eur": 93274496.3
+        },
+        {
+          "name": "FMI",
+          "eur": 38727845.0
+        },
+        {
+          "name": "Fondo Verde del Clima",
+          "eur": 24000000.0
+        }
+      ]
+    },
+    "2022": {
+      "total_eur": 4000800000,
+      "pct_rnb": 0.3,
+      "bilateral_eur": 1829680000,
+      "multilateral_eur": 1953360000,
+      "aecid_eur": 408660000,
+      "fonprode_eur": 3513535,
+      "preliminar": false,
+      "confianza": "alta",
+      "fuentes": [
+        "https://www.cooperacionespanola.es/avance-aod-espanola-2022/",
+        "https://www.cooperacionespanola.es/wp-content/uploads/2023/04/Nota-Avance-AOD-2022.pdf",
+        "https://www.cooperacionespanola.es/wp-content/uploads/2026/01/Libro-Seguimiento-AOD-y-TOSSD-21-22.pdf",
+        "https://coordinadoraongd.org/2024/01/espana-continua-a-la-cola-en-ayuda-oficial-al-desarrollo-pese-al-esfuerzo/"
+      ],
+      "riesgo_medio_ponderado": 66.6,
+      "paises": [
+        {
+          "iso": "UKR",
+          "name": "Ucrania",
+          "lat": 50.4,
+          "lng": 30.5,
+          "eur": 596228673.84,
+          "cpi": 36,
+          "riesgo": 64,
+          "nivel": "alto"
+        },
+        {
+          "iso": "COL",
+          "name": "Colombia",
+          "lat": 4.6,
+          "lng": -74.1,
+          "eur": 118633771.32,
+          "cpi": 39,
+          "riesgo": 61,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MAR",
+          "name": "Marruecos",
+          "lat": 34.0,
+          "lng": -6.8,
+          "eur": 58553894.14,
+          "cpi": 37,
+          "riesgo": 63,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MLI",
+          "name": "Malí",
+          "lat": 12.6,
+          "lng": -8.0,
+          "eur": 55127313.43,
+          "cpi": 27,
+          "riesgo": 73,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "VEN",
+          "name": "Venezuela",
+          "lat": 10.5,
+          "lng": -66.9,
+          "eur": 53653321.02,
+          "cpi": 10,
+          "riesgo": 90,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "AFG",
+          "name": "Afganistán",
+          "lat": 34.5,
+          "lng": 69.2,
+          "eur": 53225354.08,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "SEN",
+          "name": "Senegal",
+          "lat": 14.7,
+          "lng": -17.5,
+          "eur": 40476234.02,
+          "cpi": 45,
+          "riesgo": 55,
+          "nivel": "alto"
+        },
+        {
+          "iso": "PER",
+          "name": "Perú",
+          "lat": -12.0,
+          "lng": -77.0,
+          "eur": 38845436.83,
+          "cpi": 31,
+          "riesgo": 69,
+          "nivel": "alto"
+        },
+        {
+          "iso": "GTM",
+          "name": "Guatemala",
+          "lat": 14.6,
+          "lng": -90.5,
+          "eur": 38202447.97,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SLV",
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -89.2,
+          "eur": 35759281.75,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "PSE",
+          "name": "Palestina",
+          "lat": 31.9,
+          "lng": 35.2,
+          "eur": 31978100.46,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "NGA",
+          "name": "Nigeria",
+          "lat": 9.1,
+          "lng": 7.4,
+          "eur": 30697407.45,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "BOL",
+          "name": "Bolivia",
+          "lat": -16.5,
+          "lng": -68.1,
+          "eur": 28409445.68,
+          "cpi": 28,
+          "riesgo": 72,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "ECU",
+          "name": "Ecuador",
+          "lat": -0.2,
+          "lng": -78.5,
+          "eur": 25655388.67,
+          "cpi": 32,
+          "riesgo": 68,
+          "nivel": "alto"
+        },
+        {
+          "iso": "SYR",
+          "name": "Siria",
+          "lat": 33.5,
+          "lng": 36.3,
+          "eur": 25035918.12,
+          "cpi": 13,
+          "riesgo": 87,
+          "nivel": "muy_alto"
+        }
+      ],
+      "sectores": [
+        {
+          "sector": "salud",
+          "label": "Salud",
+          "eur": 402287622.49,
+          "pct": 14.18
+        },
+        {
+          "sector": "educacion",
+          "label": "Educación",
+          "eur": 118649044.42,
+          "pct": 4.18
+        },
+        {
+          "sector": "gobierno_y_sociedad_civil",
+          "label": "Gobierno y sociedad civil",
+          "eur": 582516255.43,
+          "pct": 20.54
+        },
+        {
+          "sector": "agua_y_saneamiento",
+          "label": "Agua y saneamiento",
+          "eur": 181668337.66,
+          "pct": 6.4
+        },
+        {
+          "sector": "otros_servicios_e_infraestructuras_sociales",
+          "label": "Otros servicios e infraestructuras sociales",
+          "eur": 417466351.24,
+          "pct": 14.72
+        },
+        {
+          "sector": "infraestructura_economica",
+          "label": "Infraestructura y servicios económicos",
+          "eur": 163461560.48,
+          "pct": 5.76
+        },
+        {
+          "sector": "sectores_productivos",
+          "label": "Sectores productivos",
+          "eur": 224034682.2,
+          "pct": 7.9
+        },
+        {
+          "sector": "multisectorial",
+          "label": "Multisectorial",
+          "eur": 746351035.53,
+          "pct": 26.31
+        },
+        {
+          "sector": "accion_humanitaria",
+          "label": "Acción humanitaria",
+          "eur": 158480000.0,
+          "pct": null
+        },
+        {
+          "sector": "refugiados_en_pais_donante",
+          "label": "Refugiados en país donante",
+          "eur": 861970000.0,
+          "pct": null
+        },
+        {
+          "sector": "costes_administrativos",
+          "label": "Costes administrativos del donante",
+          "eur": 106700000.0,
+          "pct": null
+        }
+      ],
+      "multilateral": [
+        {
+          "name": "Unión Europea (incl. CE+FED)",
+          "eur": 1557329892.29
+        },
+        {
+          "name": "Sistema Naciones Unidas",
+          "eur": 400995933.0
+        },
+        {
+          "name": "Grupo Banco Mundial",
+          "eur": 267053350.0
+        },
+        {
+          "name": "Otros",
+          "eur": 198282945.0
+        },
+        {
+          "name": "Bancos regionales de desarrollo",
+          "eur": 73081110.93
+        },
+        {
+          "name": "FMI",
+          "eur": 38772160.0
+        },
+        {
+          "name": "Fondo Verde del Clima",
+          "eur": 24000000.0
+        }
+      ]
+    },
+    "2023": {
+      "total_eur": 3588000000,
+      "pct_rnb": 0.24,
+      "bilateral_eur": 1113815166,
+      "multilateral_eur": 2480965983,
+      "aecid_eur": 574630000,
+      "fonprode_eur": 372000000,
+      "preliminar": false,
+      "confianza": "media",
+      "fuentes": [
+        "https://coordinadoraongd.org/2024/04/la-ayuda-oficial-al-desarrollo-espanola-vuelve-a-caer-cuando-mas-se-necesita/",
+        "https://focus2030.org/Ligero-aumento-de-la-Ayuda-Oficial-para-el-Desarrollo-en-2023",
+        "https://www.oecd.org/en/topics/oda-trends-and-statistics.html",
+        "https://www.cooperacionespanola.es/wp-content/uploads/2025/12/Informe-sobre-cooperacion-multilateral-2022-2023.pdf",
+        "https://www.cooperacionespanola.es/la-aecid-alcanza-en-2023-su-record-de-financiacion-en-favor-del-desarrollo-sostenible-en-el-exterior-con-372-millones-de-euros/",
+        "https://www.aecid.es/w/exteriores-duplica-en-dos-anos-el-presupuesto-de-la-aecid-hasta-los-700-millones"
+      ],
+      "riesgo_medio_ponderado": 67.5,
+      "paises": [
+        {
+          "iso": "PSE",
+          "name": "Palestina",
+          "lat": 31.9,
+          "lng": 35.2,
+          "eur": 70050723,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "COL",
+          "name": "Colombia",
+          "lat": 4.6,
+          "lng": -74.1,
+          "eur": 42960601,
+          "cpi": 39,
+          "riesgo": 61,
+          "nivel": "alto"
+        },
+        {
+          "iso": "SLV",
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -89.2,
+          "eur": 41247905,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "PER",
+          "name": "Perú",
+          "lat": -12.0,
+          "lng": -77.0,
+          "eur": 37265074,
+          "cpi": 31,
+          "riesgo": 69,
+          "nivel": "alto"
+        },
+        {
+          "iso": "GTM",
+          "name": "Guatemala",
+          "lat": 14.6,
+          "lng": -90.5,
+          "eur": 33809477,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "BOL",
+          "name": "Bolivia",
+          "lat": -16.5,
+          "lng": -68.1,
+          "eur": 29986618,
+          "cpi": 28,
+          "riesgo": 72,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SEN",
+          "name": "Senegal",
+          "lat": 14.7,
+          "lng": -17.5,
+          "eur": 23888616,
+          "cpi": 45,
+          "riesgo": 55,
+          "nivel": "alto"
+        },
+        {
+          "iso": "ECU",
+          "name": "Ecuador",
+          "lat": -0.2,
+          "lng": -78.5,
+          "eur": 22287692,
+          "cpi": 32,
+          "riesgo": 68,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MLI",
+          "name": "Malí",
+          "lat": 12.6,
+          "lng": -8.0,
+          "eur": 18519822,
+          "cpi": 27,
+          "riesgo": 73,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "NER",
+          "name": "Níger",
+          "lat": 13.5,
+          "lng": 2.1,
+          "eur": 17133563,
+          "cpi": 34,
+          "riesgo": 66,
+          "nivel": "alto"
+        },
+        {
+          "iso": "UKR",
+          "name": "Ucrania",
+          "lat": 50.4,
+          "lng": 30.5,
+          "eur": 17117662,
+          "cpi": 36,
+          "riesgo": 64,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MOZ",
+          "name": "Mozambique",
+          "lat": -25.9,
+          "lng": 32.6,
+          "eur": 16692584,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "MAR",
+          "name": "Marruecos",
+          "lat": 34.0,
+          "lng": -6.8,
+          "eur": 15689658,
+          "cpi": 37,
+          "riesgo": 63,
+          "nivel": "alto"
+        },
+        {
+          "iso": "ETH",
+          "name": "Etiopía",
+          "lat": 9.0,
+          "lng": 38.7,
+          "eur": 14777874,
+          "cpi": 37,
+          "riesgo": 63,
+          "nivel": "alto"
+        },
+        {
+          "iso": "CRI",
+          "name": "Costa Rica",
+          "lat": 9.9,
+          "lng": -84.1,
+          "eur": 13989693,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        }
+      ],
+      "sectores": [
+        {
+          "sector": "infraestructura_servicios_sociales",
+          "label": "Infraestructuras y servicios sociales (total)",
+          "eur": null,
+          "pct": 34.9
+        },
+        {
+          "sector": "gobierno_y_sociedad_civil",
+          "label": "Gobierno y sociedad civil",
+          "eur": null,
+          "pct": 13.7
+        },
+        {
+          "sector": "salud",
+          "label": "Salud",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "educacion",
+          "label": "Educación",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "infraestructura_economica_produccion_multisectorial",
+          "label": "Infraestructura económica, sectores productivos y multisectorial",
+          "eur": null,
+          "pct": 15.4
+        },
+        {
+          "sector": "accion_humanitaria",
+          "label": "Acción humanitaria",
+          "eur": null,
+          "pct": 13.0
+        },
+        {
+          "sector": "refugiados_en_pais_donante",
+          "label": "Refugiados en país donante",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "costes_administrativos",
+          "label": "Costes administrativos del donante",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "no_asignado_no_especificado",
+          "label": "No asignado / no especificado",
+          "eur": null,
+          "pct": null
+        }
+      ],
+      "multilateral": [
+        {
+          "name": "Unión Europea (incl. CE+FED)",
+          "eur": 1478906795.0
+        },
+        {
+          "name": "Sistema Naciones Unidas",
+          "eur": 314343552.0
+        },
+        {
+          "name": "Grupo Banco Mundial",
+          "eur": 227730866.0
+        },
+        {
+          "name": "Bancos regionales de desarrollo",
+          "eur": 150458714.0
+        },
+        {
+          "name": "Fondo Verde del Clima",
+          "eur": 97000000.0
+        },
+        {
+          "name": "FMI",
+          "eur": 60500005.0
+        }
+      ]
+    },
+    "2024": {
+      "total_eur": 4000000000,
+      "pct_rnb": 0.25,
+      "bilateral_eur": 1600000000,
+      "multilateral_eur": 2400000000,
+      "aecid_eur": 592000000,
+      "fonprode_eur": 58613667,
+      "preliminar": true,
+      "confianza": "media",
+      "fuentes": [
+        "https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+        "https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2025_NOTAS_P/Exteriores-celebra-que-la-Ayuda-Oficial-al-Desarrollo-espanola-haya-crecido-un-12-en-2024-superando-los-4-000-millones-de-.aspx",
+        "https://www.aecid.es/w/la-ayuda-oficial-al-desarrollo-espa%C3%B1ola-crece-un-12-en-2024-superando-los-4.000-millones-de-euros",
+        "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2025/20250418-spanish-development-assistance.aspx",
+        "https://one.oecd.org/document/DCD(2025)6/en/pdf",
+        "https://www.aecid.es/documents/d/guest/informe-seguimiento-plan-de-accion-2024-final-web"
+      ],
+      "riesgo_medio_ponderado": 68.8,
+      "paises": [
+        {
+          "iso": "PSE",
+          "name": "Palestina",
+          "lat": 31.9,
+          "lng": 35.2,
+          "eur": 57965355,
+          "cpi": null,
+          "riesgo": null,
+          "nivel": "n_d"
+        },
+        {
+          "iso": "GTM",
+          "name": "Guatemala",
+          "lat": 14.6,
+          "lng": -90.5,
+          "eur": 41556000,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "COL",
+          "name": "Colombia",
+          "lat": 4.6,
+          "lng": -74.1,
+          "eur": 36103000,
+          "cpi": 39,
+          "riesgo": 61,
+          "nivel": "alto"
+        },
+        {
+          "iso": "PER",
+          "name": "Perú",
+          "lat": -12.0,
+          "lng": -77.0,
+          "eur": 29904000,
+          "cpi": 31,
+          "riesgo": 69,
+          "nivel": "alto"
+        },
+        {
+          "iso": "BOL",
+          "name": "Bolivia",
+          "lat": -16.5,
+          "lng": -68.1,
+          "eur": 29847000,
+          "cpi": 28,
+          "riesgo": 72,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SLV",
+          "name": "El Salvador",
+          "lat": 13.7,
+          "lng": -89.2,
+          "eur": 29121000,
+          "cpi": 30,
+          "riesgo": 70,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "SEN",
+          "name": "Senegal",
+          "lat": 14.7,
+          "lng": -17.5,
+          "eur": 22760000,
+          "cpi": 45,
+          "riesgo": 55,
+          "nivel": "alto"
+        },
+        {
+          "iso": "MLI",
+          "name": "Malí",
+          "lat": 12.6,
+          "lng": -8.0,
+          "eur": 19910000,
+          "cpi": 27,
+          "riesgo": 73,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "MOZ",
+          "name": "Mozambique",
+          "lat": -25.9,
+          "lng": 32.6,
+          "eur": 17604000,
+          "cpi": 25,
+          "riesgo": 75,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "UKR",
+          "name": "Ucrania",
+          "lat": 50.4,
+          "lng": 30.5,
+          "eur": 16568000,
+          "cpi": 36,
+          "riesgo": 64,
+          "nivel": "alto"
+        },
+        {
+          "iso": "ECU",
+          "name": "Ecuador",
+          "lat": -0.2,
+          "lng": -78.5,
+          "eur": 16405000,
+          "cpi": 32,
+          "riesgo": 68,
+          "nivel": "alto"
+        },
+        {
+          "iso": "ETH",
+          "name": "Etiopía",
+          "lat": 9.0,
+          "lng": 38.7,
+          "eur": 15668000,
+          "cpi": 37,
+          "riesgo": 63,
+          "nivel": "alto"
+        },
+        {
+          "iso": "LBN",
+          "name": "Líbano",
+          "lat": 33.9,
+          "lng": 35.5,
+          "eur": 14998000,
+          "cpi": 24,
+          "riesgo": 76,
+          "nivel": "muy_alto"
+        },
+        {
+          "iso": "NER",
+          "name": "Níger",
+          "lat": 13.5,
+          "lng": 2.1,
+          "eur": 14800000,
+          "cpi": 34,
+          "riesgo": 66,
+          "nivel": "alto"
+        },
+        {
+          "iso": "HND",
+          "name": "Honduras",
+          "lat": 14.1,
+          "lng": -87.2,
+          "eur": 13116000,
+          "cpi": 22,
+          "riesgo": 78,
+          "nivel": "muy_alto"
+        }
+      ],
+      "sectores": [
+        {
+          "sector": "salud",
+          "label": "Salud",
+          "eur": 248.3,
+          "pct": 6.9
+        },
+        {
+          "sector": "educacion",
+          "label": "Educación",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "gobierno_y_sociedad_civil",
+          "label": "Gobierno y sociedad civil",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "infraestructura_servicios_sociales",
+          "label": "Infraestructuras y servicios sociales (total)",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "infraestructura_economica",
+          "label": "Infraestructura y servicios económicos",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "sectores_productivos",
+          "label": "Sectores productivos",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "multisectorial",
+          "label": "Multisectorial",
+          "eur": null,
+          "pct": null
+        },
+        {
+          "sector": "accion_humanitaria",
+          "label": "Acción humanitaria",
+          "eur": 213.7,
+          "pct": 5.9
+        },
+        {
+          "sector": "refugiados_en_pais_donante",
+          "label": "Refugiados en país donante",
+          "eur": null,
+          "pct": 25.4
+        },
+        {
+          "sector": "costes_administrativos",
+          "label": "Costes administrativos del donante",
+          "eur": null,
+          "pct": null
+        }
+      ],
+      "multilateral": [
+        {
+          "name": "Grupo Banco Mundial (compromiso AIF/IDA21, no desembolso)",
+          "eur": 400000000.0
+        },
+        {
+          "name": "Sistema Naciones Unidas (contrib. voluntarias UNFPA/ONU Mujeres/PNUD/UNICEF)",
+          "eur": 17500000.0
+        },
+        {
+          "name": "Otros (OCDE, contribución voluntaria)",
+          "eur": 625000.0
+        }
+      ]
+    }
+  },
+  "gobernanza": {
+    "cpi": {
+      "COL": 39,
+      "HND": 22,
+      "GTM": 25,
+      "SLV": 30,
+      "NIC": 14,
+      "HTI": 16,
+      "DOM": 36,
+      "PER": 31,
+      "BOL": 28,
+      "ECU": 32,
+      "CUB": 41,
+      "PRY": 24,
+      "VEN": 10,
+      "SEN": 45,
+      "MLI": 27,
+      "NER": 34,
+      "MOZ": 25,
+      "ETH": 37,
+      "CPV": 62,
+      "GNQ": 13,
+      "MAR": 37,
+      "MRT": 30,
+      "TUN": 40,
+      "LBN": 24,
+      "JOR": 46,
+      "EGY": 30,
+      "SYR": 13,
+      "UKR": 36
+    },
+    "casos": [
+      {
+        "anio": 2024,
+        "titulo": "FONPRODE 2024: cartera viva de 572,7 M EUR y debilidades de seguimiento individualizado de operaciones senaladas por la AIReF",
+        "fuente": "https://www.airef.es/es/estudios-observatorio/cooperacion-financiera-fonprode/",
+        "resumen": "En 2024 el FONPRODE autorizo operaciones por 210 M EUR (58,6 M EUR desembolsados) con una cartera viva al cierre de 572,7 M EUR. La AIReF detecto que el seguimiento de las operaciones es insuficiente: el control semestral se limita a criterios de solvencia y no al destino individualizado de los fondos prestados, lo que motivo reformas en el nuevo FEDES."
+      },
+      {
+        "anio": 2023,
+        "titulo": "Tribunal de Cuentas: Informe de Fiscalizacion de los contratos de la AECID, ejercicio 2023 (Informe N.o 1.629, aprobado el 28-07-2025)",
+        "fuente": "https://www.tcu.es/repositorio/90abd01a-809e-454c-ad96-a501eebb7edc/I1629.pdf",
+        "resumen": "El Tribunal de Cuentas fiscalizo la contratacion de la AECID en 2023 y detecto bajisima ejecucion presupuestaria (de 7.469.533 EUR presupuestados solo se ejecutaron 1.580.056,36 EUR), incumplimientos de plazos de publicidad y debilidades de planificacion y gestion contractual."
+      },
+      {
+        "anio": 2023,
+        "titulo": "Tribunal de Cuentas: diligencias por presunta responsabilidad contable en la AECID por 21,7 M EUR en pagos sin justificacion documental (indicios concentrados en 2023)",
+        "fuente": "https://spanish.news-pravda.com/spain/2025/12/28/702105.html",
+        "resumen": "El Tribunal de Cuentas abrio una investigacion (designando delegada instructora) por sospecha de responsabilidad contable en la AECID, con foco en 21,7 millones de euros en pagos sin la debida justificacion documental, irregularidades concentradas en el ejercicio 2023 (algunos desajustes arrastrados desde 2016)."
+      },
+      {
+        "anio": 2022,
+        "titulo": "El Tribunal de Cuentas detecta irregularidades en contratos de Politica exterior y cooperacion para el desarrollo (ejercicio 2022), 8 de ellos adjudicados por la AECID",
+        "fuente": "https://www.tcu.es/en/sala-de-prensa/noticias/Aprobado-el-Informe-de-Fiscalizacion-de-los-Contratos-de-la-Administracion-General-del-Estado-vinculados-a-las-politicas-de-gasto-11-Justicia-12-Defensa-y-14-Politica-exterior-y-cooperacion-para-el-desarrollo-ejercicio-2022/",
+        "resumen": "Informe de fiscalizacion de los contratos de la AGE en politica exterior y cooperacion (ejercicio 2022, aprobado el 29/07/2025): de 103 contratos por 363 M EUR, detecto irregularidades en 16 del area de Exteriores/cooperacion, de los que 8 fueron adjudicados por la AECID (falta de planificacion, controles de ejecucion insuficientes, uso indebido de la experiencia como criterio, vulneracion del art. 100.2 LCSP). Caso mas grave: proyecto Subatra en Filipinas."
+      },
+      {
+        "anio": 2022,
+        "titulo": "AIReF evalua la cooperacion financiera reembolsable (FONPRODE) y detecta debilidades de planificacion y gestion (Estudio, diciembre 2022)",
+        "fuente": "https://www.airef.es/wp-content/uploads/2022/12/FONPRODE/ESTUDIO-COOPERACIO%CC%81N-FINANCIERA-FONPRODE.pdf",
+        "resumen": "Estudio de la AIReF sobre el FONPRODE (publicado en diciembre de 2022): concluye que la cooperacion financiera reembolsable espanola es muy reducida frente a su entorno, con procedimientos excesivamente fragmentados, multiples agentes y escasez de capital humano especializado. Formula propuestas para mejorar la planificacion y gobernanza del instrumento."
+      },
+      {
+        "anio": 2021,
+        "titulo": "Tribunal de Cuentas: incumplimientos en contratacion, personal, transparencia e igualdad en la FIIAPP (ejercicios 2020-2021)",
+        "fuente": "https://www.tcu.es/es/sala-de-prensa/noticias/El-Tribunal-de-Cuentas-recomienda-a-la-FIIAPP-intensificar-los-controles-en-los-contratos/",
+        "resumen": "Informe N.o 1.540 del Tribunal de Cuentas (aprobado en noviembre de 2023) sobre la FIIAPP, fundacion estatal de cooperacion tecnica. En 2020-2021 formalizo 349 contratos por 83 M EUR mas 455 contratos menores; el Tribunal detecto incumplimientos de la normativa de contratos (fraccionamientos indebidos, falta de acreditacion de solvencia), exceso de personal temporal, debil control interno y retrasos en la rendicion de cuentas."
+      },
+      {
+        "anio": 2021,
+        "titulo": "FIIAPP figuraba en contratos/pagos a agentes de la UDEF vinculados a la 'operacion Cataluna' (cuentas 2020-2021 fiscalizadas)",
+        "fuente": "https://elmon.cat/es/politica-es/tribunales/una-fundacion-publica-pagaba-a-policias-relacionados-con-la-operacion-catalunya-975870/",
+        "resumen": "A raiz del informe del Tribunal de Cuentas sobre las cuentas 2020-2021 de la FIIAPP, la prensa documento que en sus cuentas figuraban contratos y pagos a agentes de la UDEF relacionados con la 'operacion Cataluna'. Un ataque ransomware de abril de 2023 provoco ademas la perdida de la contabilidad de 2020-2022, reconstruida solo parcialmente."
+      },
+      {
+        "anio": 2021,
+        "titulo": "OLAF (UE) investiga desvio de fondos de cooperacion gestionados por la AECID en Bolivia (programas de agua), con comisiones/sobornos 2021-2023",
+        "fuente": "https://eldeber.com.bo/pais/union-europea-investiga-desvio-cooperacion-debia-servir-dotar-agua_1763951035",
+        "resumen": "La OLAF investiga el presunto desvio de fondos de cooperacion canalizados via dos convenios de delegacion UE con la AECID en Bolivia (agua y alcantarillado). Una testigo declaro haber cobrado comisiones del 3% sobre contratos direccionados por el Ministerio boliviano de Medio Ambiente y Agua entre 2021 y 2023, con presuntos sobornos a un exministro."
+      },
+      {
+        "anio": 2022,
+        "titulo": "AIReF (Spending Review 2022-2026, Fase 2): 6.000 M EUR de AOD ejecutados fuera de la gestion directa del Gobierno",
+        "fuente": "https://www.airef.es/wp-content/uploads/2026/02/SpendingReview-2022-2026-fase-2/SR2226F2_AOD.pdf",
+        "resumen": "Estudio de la AIReF sobre AOD (Spending Review 2022-2026, fase 2): sobre 10.847 M EUR desembolsados en 2021-2023, el 55,7% (unos 6.000 M EUR) se canalizo via organismos multilaterales con sistemas propios, fuera de la gestion directa del Gobierno, lo que reduce la visibilidad administrativa, dificulta el seguimiento del gasto e impide indicadores de impacto comparables. No es fraude penal sino debilidad de control."
+      },
+      {
+        "anio": 2016,
+        "titulo": "Tribunal de Cuentas: irregularidades y salvedades en el FONPRODE (ejercicios 2012-2013)",
+        "fuente": "https://www.tcu.es/gl/sala-de-prensa/noticias/APROBADO-EL-INFORME-SOBRE-EL-FONDO-PARA-LA-PROMOCION-DEL-DESARROLLO-FONPRODE-EJERCICIOS-2012-Y-2013/",
+        "resumen": "Informe del Tribunal de Cuentas sobre el FONPRODE (ejercicios 2012-2013, aprobado el 12/07/2016): constato prestamos a fondos domiciliados en paraisos fiscales (Islas Caiman gestionado desde Panama, Mauricio), incumplimiento del art. 14 de la ley del FONPRODE y ausencia de seguimiento individualizado de prestatarios de segundo nivel. Antecedente recurrente de las salvedades sobre el instrumento."
+      },
+      {
+        "anio": 2016,
+        "titulo": "Tribunal de Cuentas (Informe num. 1.317): 'agujero' de mas de 2.000 M EUR en subvenciones de AOD gestionadas por la AECID por prescripcion del derecho de reintegro",
+        "fuente": "https://www.tcu.es/repositorio/18c1b8f4-8faf-41f9-a575-16d314c356bd/I1317.pdf",
+        "resumen": "Informe de fiscalizacion de las subvenciones de AOD gestionadas por la AECID (ejercicio 2016, aprobado en marzo de 2019). El Tribunal aforo 2.038.655.925 EUR de subvenciones (concedidas 2001-2011) cuyo derecho de reintegro habia prescrito, con 4.005 expedientes sin actuaciones que interrumpieran la prescripcion y falta de sistemas uniformes de seguimiento hasta 2011."
+      }
+    ]
+  }
+}

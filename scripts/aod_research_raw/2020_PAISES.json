@@ -1,0 +1,30 @@
+{
+  "anio": 2020,
+  "dimension": "PAISES",
+  "datos": [
+    {"iso": "COL", "name": "Colombia", "eur": 70884857, "usd_millones_origen": 80.965},
+    {"iso": "VEN", "name": "Venezuela", "eur": 49365819, "usd_millones_origen": 56.386},
+    {"iso": "SLV", "name": "El Salvador", "eur": 41331399, "usd_millones_origen": 47.209},
+    {"iso": "GTM", "name": "Guatemala", "eur": 26655413, "usd_millones_origen": 30.446},
+    {"iso": "PSE", "name": "Palestina (Cisjordania y Franja de Gaza)", "eur": 25389208, "usd_millones_origen": 29.000},
+    {"iso": "PER", "name": "Perú", "eur": 25263307, "usd_millones_origen": 28.856},
+    {"iso": "MLI", "name": "Malí", "eur": 20585373, "usd_millones_origen": 23.513},
+    {"iso": "HND", "name": "Honduras", "eur": 19666810, "usd_millones_origen": 22.463},
+    {"iso": "BOL", "name": "Bolivia", "eur": 19443523, "usd_millones_origen": 22.208},
+    {"iso": "SEN", "name": "Senegal", "eur": 17257451, "usd_millones_origen": 19.711},
+    {"iso": "NIC", "name": "Nicaragua", "eur": 15896263, "usd_millones_origen": 18.157},
+    {"iso": "MOZ", "name": "Mozambique", "eur": 14473445, "usd_millones_origen": 16.532},
+    {"iso": "SYR", "name": "Siria", "eur": 14265427, "usd_millones_origen": 16.294},
+    {"iso": "NER", "name": "Níger", "eur": 11530215, "usd_millones_origen": 13.170},
+    {"iso": "HTI", "name": "Haití", "eur": 10665518, "usd_millones_origen": 12.182}
+  ],
+  "fuentes": [
+    "OECD-DAC, DAC2a 'Aid (ODA) disbursements to countries and regions', donante ESP=Spain, MEASURE=206 (Memo: ODA Total, Net), PRICE_BASE=Q (precios corrientes), periodo 2020, USD millones. SDMX API (dataflow OECD.DCD.FSD,DSD_DAC2@DF_DAC2A): https://sdmx.oecd.org/public/rest/data/OECD.DCD.FSD,DSD_DAC2@DF_DAC2A/ESP..206.USD.Q?startPeriod=2020&endPeriod=2020&format=csvfilewithlabels",
+    "OECD Data Explorer DAC2a: https://data-explorer.oecd.org/vis?df[id]=DSD_DAC2@DF_DAC2A&df[ag]=OECD.DCD.FSD",
+    "DGPOLDES, 'Seguimiento de la AOD' / Info@OD (fuente oficial alternativa en EUR): https://infoaod-info.maec.es/ y https://www.cooperacionespanola.es/",
+    "Tipo de cambio: BCE, media anual 2020 = 1 EUR = 1,1422 USD"
+  ],
+  "confianza": "media-alta",
+  "moneda_origen": "USD",
+  "notas": "Top 15 receptores de AOD bilateral NETA de Espana en 2020, segun OCDE-DAC DAC2a (MEASURE=206, AOD neta total), donante Espana, en USD millones corrientes. El campo 'eur' es una CONVERSION (USD / 1,1422, tipo medio BCE 2020), no un dato primario en euros; 'usd_millones_origen' conserva el valor oficial OCDE. Ordenado por AOD neta descendente. Se excluyen paises con AOD neta negativa (reembolsos de prestamos, p.ej. China, Argelia, Tunez, Indonesia). NOTA DE METODOLOGIA: si se usara AOD BRUTA (Gross ODA) en vez de NETA, el ranking incluiria ademas a Marruecos, Turquia y Ecuador (excluidos aqui por presentar valores netos menores o negativos). Las cifras oficiales en EUR de DGPOLDES pueden diferir por metodologia (bruta vs neta, AOD especificable por pais) y tipo de cambio. ISO-3 estandar; PSE=Palestina."
+}

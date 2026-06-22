@@ -1,0 +1,41 @@
+{
+  "anio": 2024,
+  "dimension": "CANALES",
+  "datos": {
+    "bilateral_eur": 1600000000,
+    "multilateral_eur": 2400000000,
+    "aecid_eur": 592000000,
+    "fonprode_eur": 58613667,
+    "moneda_origen": "EUR",
+    "preliminar": true
+  },
+  "fuentes": [
+    {
+      "nombre": "MAEUEC / Exteriores - Nota de prensa 'La AOD española crece un 12% en 2024, superando los 4.000 millones de euros' (datos avance CAD-OCDE, 16-18 abr 2025)",
+      "url": "https://www.exteriores.gob.es/es/Comunicacion/NotasPrensa/Paginas/2025_NOTAS_P/Exteriores-celebra-que-la-Ayuda-Oficial-al-Desarrollo-espanola-haya-crecido-un-12-en-2024-superando-los-4-000-millones-de-.aspx",
+      "uso": "Total AOD 2024 (>4.000 M EUR, +12%, 0,25% RNB); AECID 592 M EUR (15% del total); AGE >3.600 M EUR"
+    },
+    {
+      "nombre": "Cooperacion Espanola / DGPOLDES - 'La AOD espanola crece un 12% y supera los 4.000 millones de euros en 2024'",
+      "url": "https://www.cooperacionespanola.es/la-ayuda-oficial-al-desarrollo-espanola-crece-un-12-y-supera-los-4-000-millones-de-euros-en-2024/",
+      "uso": "Confirma total ~4.000 M EUR, AECID 592 M EUR (15%), 0,25% RNB, MAEUEC 21% del total"
+    },
+    {
+      "nombre": "La Moncloa - nota equivalente (18/04/2025)",
+      "url": "https://www.lamoncloa.gob.es/lang/en/gobierno/news/paginas/2025/20250418-spanish-development-assistance.aspx",
+      "uso": "Total >4.000 M EUR; AGE >3.600 M EUR; AECID >592 M EUR"
+    },
+    {
+      "nombre": "OCDE-CAD - Development Co-operation Profiles: Spain (perfil estructural)",
+      "url": "https://www.oecd.org/en/publications/development-co-operation-profiles_04b376d7-en/spain_63702c87-en.html",
+      "uso": "Reparto estructural reciente: AOD bilateral bruta ~39,8% y multilateral ~60% del total (datos 2023, en USD); usado para estimar el split 2024"
+    },
+    {
+      "nombre": "AECID - Plan de Accion 2024, Informe final de seguimiento (FONPRODE)",
+      "url": "https://www.aecid.es/documents/d/guest/informe-seguimiento-plan-de-accion-2024-final-web",
+      "uso": "FONPRODE 2024: operaciones autorizadas por Consejo de Ministros 210 M EUR; desembolsos 58.613.667,62 EUR; reembolsos 61.921.508,03 EUR; cartera viva fin 2024 572,7 M EUR. AECID ejecucion presupuesto propio 96,6% (603.862.023 EUR)"
+    }
+  ],
+  "confianza": "MEDIA. Total AOD 2024 (~4.000 M EUR), AECID (592 M EUR) y FONPRODE (210 M autorizado / 58,6 M desembolsado) son cifras OFICIALES y firmes. El desglose exacto bilateral/multilateral en EUR de 2024 NO esta publicado aun en las notas oficiales; las cifras bilateral_eur y multilateral_eur son ESTIMACION propia aplicando el reparto estructural OCDE-CAD (~40% bilateral / ~60% multilateral) sobre un total redondeado de 4.000 M EUR. Confianza ALTA en total/AECID/FONPRODE, BAJA en el split EUR exacto.",
+  "notas": "Cifras de avance CAD-OCDE anunciadas 16-18 abr 2025 (preliminar=true). Total real algo superior a 4.000 M EUR (+430 M vs 2023). El detalle definitivo bilateral/multilateral y por OMUDES llega con el 'Volcado de datos / Seguimiento AOD 2024' de DGPOLDES (Info@OD) y con las estadisticas finales OCDE-CAD de dic-2025 (en USD); la OCDE situa la AOD 2024 de Espana en ~USD 4,4 mil M (preliminar). bilateral_eur=1.600 M y multilateral_eur=2.400 M son ESTIMADOS, no oficiales; sumar exactamente 4.000 M es convencion del redondeo. FONPRODE: el desembolso real (58,6 M) fue muy inferior a lo planificado (361,1 M)."
+}

@@ -6,44 +6,59 @@ española**, lo **cojeta con los acuerdos del Consejo de Ministros** (los martes
 **probabilidad estimada de corrupción** (indicador de vulnerabilidad).
 
 ### ▶️ Abrir
-```bash
-pip install requests
-python3 scripts/build_aid_data.py            # mapa + categorías (ilustrativos)
-python3 scripts/scrape_consejo_ministros.py  # Consejo de Ministros (DATOS REALES, La Moncloa)
-cd webapp && python3 -m http.server 8000     # http://localhost:8000
-```
+- **Online (GitHub Pages):** se publica automáticamente desde `webapp/` en cada push
+  (workflow `.github/workflows/pages.yml`). URL del proyecto:
+  **https://insa-jaume.github.io/Insa-iphone-15/**
+- **Sin servidor (un solo archivo):** abre con doble clic `webapp/dist/index_standalone.html`
+  (CSS + JS + datos + mapamundi embebidos, funciona offline).
+- **Local:**
+  ```bash
+  cd webapp && python3 -m http.server 8000   # http://localhost:8000
+  ```
+
 El front-end no tiene build ni dependencias: HTML + CSS + JavaScript vanilla. El mapa se
 renderiza en **SVG puro** (proyección equirectangular) sobre un GeoJSON mundial vendorizado,
 sin servidores de tiles ni librerías externas.
 
-### Qué incluye
-- **🗺️ Mapa del dinero** — una burbuja por país: tamaño = euros, color = riesgo de corrupción.
-- **📊 Categorías de gasto** — humanitaria, salud, agua, gobernanza, multilateral, deuda…
-- **🏛️ Consejo de Ministros (DATOS REALES)** — acuerdos de cooperación (FONPRODE / AECID /
-  humanitaria / multilateral / deuda / marco país) **extraídos automáticamente de las
-  referencias oficiales de [La Moncloa](https://www.lamoncloa.gob.es/consejodeministros/referencias/)**.
-  Cada fila enlaza a su referencia. Filtrable por instrumento y ordenable.
-- **🧮 Riesgo de corrupción** — `0,50·(100−CPI) + 0,30·modalidad + 0,20·canal`. Es un
-  **indicador de vulnerabilidad**, no una acusación. Detalle en
-  [`webapp/METODOLOGIA.md`](webapp/METODOLOGIA.md).
+### Qué incluye — DATOS REALES, 5 años (2020–2024)
+- **📅 Selector de año** 2020–2024 (2024 preliminar).
+- **🗺️ Mapa del dinero** — una burbuja por país receptor: tamaño = euros reales recibidos
+  (AOD bilateral), color = riesgo de corrupción (100 − CPI del país).
+- **📊 Categorías / sectores** — salud, educación, gobierno y sociedad civil, agua,
+  multisectorial, humanitaria… con importes reales por año.
+- **🌐 Contribuciones multilaterales** — UE, sistema ONU, Banco Mundial, bancos regionales,
+  Fondo Verde del Clima… con importes reales.
+- **🏛️ Consejo de Ministros (martes)** — 77 acuerdos reales de cooperación extraídos de
+  [La Moncloa](https://www.lamoncloa.gob.es/consejodeministros/referencias/) (cada fila enlaza a su referencia).
+- **🚨 Casos reales de fraude / control** — Tribunal de Cuentas, AIReF (FONPRODE, AECID…).
+- **🧮 Riesgo de corrupción** = `100 − CPI` (Transparency International). Indicador de
+  vulnerabilidad de gobernanza, **no una acusación**.
 
-> ⚠️ El **mapa y las categorías** usan **cifras ilustrativas** de los patrones de la AOD
-> (no es la contabilidad oficial exacta). La sección del **Consejo de Ministros es real**.
-> Fuentes y método en la metodología.
+### Procedencia de los datos
+Recopilados por un **operativo de 30 agentes de investigación** (5 años × 6 dimensiones)
+desde fuentes oficiales — **DGPOLDES** (“Seguimiento de la AOD/TOSSD”, “Cooperación
+Multilateral”), **Info@OD**, **OCDE-CAD** (DAC1/DAC2a vía API SDMX), **AECID**,
+**Coordinadora de ONGD**, **La Moncloa** y **Transparency International** (CPI) — consolidados
+por **5 agentes extractores** y verificados por un **agente jefe** (veredicto: APTO).
+La investigación bruta queda en `scripts/aod_research_raw/` para trazabilidad.
+
+> ⚠️ Cifras reales de fuentes oficiales. Algunas de **2024 son preliminares** (avance CAD,
+> abril 2025) y, cuando solo había dato de la OCDE en USD, se convirtió a EUR (anotado en la
+> procedencia). Detalle en [`webapp/METODOLOGIA.md`](webapp/METODOLOGIA.md).
 
 ```
 webapp/
-  index.html                      # la app
-  css/styles.css
-  js/map.js                       # mapa SVG (proyección + render de países)
-  js/app.js                       # carga de datos, KPIs, detalle, categorías, tabla del Consejo
-  data/aid.json                   # destinos, importes, sectores y riesgo (ilustrativo, generado)
-  data/categories.json            # totales por sector (ilustrativo, generado)
-  data/consejo_ministros_real.json# acuerdos REALES del Consejo de Ministros (scrapeado)
-  data/world-countries.geo.json   # mapamundi vendorizado
-  METODOLOGIA.md                  # modelo de riesgo, scraping y fuentes
-scripts/build_aid_data.py         # genera mapa+categorías + calcula el riesgo
-scripts/scrape_consejo_ministros.py # descarga y extrae los acuerdos reales de La Moncloa
+  index.html · css/styles.css · js/map.js · js/app.js
+  data/aod_real.json                  # AOD real por año: países, sectores, multilateral, CPI, casos
+  data/consejo_ministros_real.json    # 77 acuerdos reales del Consejo de Ministros
+  data/world-countries.geo.json       # mapamundi vendorizado
+  dist/index_standalone.html          # la app en un solo archivo (offline)
+  METODOLOGIA.md
+scripts/
+  build_aod_real.py + coords.py       # ensambla aod_real.json desde la investigación
+  scrape_consejo_ministros.py         # scraping de La Moncloa
+  build_standalone.py                 # empaqueta la app en un archivo
+  aod_research_raw/                   # procedencia: salidas brutas de los agentes
 ```
 
 ---

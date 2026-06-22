@@ -30,6 +30,26 @@ h1 small{font-weight:400;color:var(--muted);font-size:.95rem;width:100%;margin-t
   background:#1a1f10;border:1px solid #3a3413;border-left:3px solid var(--accent);
   padding:9px 13px;border-radius:6px}
 
+/* Year selector */
+.years{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.ytab{background:var(--panel);border:1px solid var(--border);color:var(--muted);
+  border-radius:8px;padding:7px 16px;font-size:.95rem;font-weight:600;cursor:pointer;transition:.12s}
+.ytab:hover{color:var(--txt);border-color:#3a4654}
+.ytab.on{background:var(--accent);color:#0a0f16;border-color:var(--accent)}
+.ytab .prelim{font-size:.62rem;font-weight:600;opacity:.8}
+.prelim{color:#e8590c}
+
+/* two-column grid */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:22px}
+@media(max-width:900px){.grid2{grid-template-columns:1fr}}
+
+/* casos de fraude */
+.caso{border-left:3px solid var(--r-alto);background:var(--panel2);border-radius:0 8px 8px 0;
+  padding:11px 14px;margin:10px 0}
+.caso-h{font-size:.95rem;margin-bottom:5px}
+.caso-b{font-size:.85rem;color:var(--muted);margin-bottom:6px}
+.caso a{font-size:.78rem}
+
 /* KPI row */
 .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0}
 .kpi{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:16px 18px}

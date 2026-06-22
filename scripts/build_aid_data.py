@@ -300,25 +300,14 @@ def build():
     ]
     categories = {"ejercicio": EJERCICIO, "total": round(sum(cat_tot.values())), "categorias": categorias}
 
-    # --- consejo_ministros.json (cotejo) ---
-    by_iso = {d["iso"]: d for d in destinos}
-    items = []
-    for c in CONSEJO:
-        riesgo = by_iso[c["iso"]]["riesgo"] if c["iso"] in by_iso else None
-        items.append({**c, "riesgo": riesgo})
-    consejo = {
-        "ejercicio": EJERCICIO,
-        "nota": "Acuerdos de cooperación adoptados en Consejo de Ministros (martes), cotejados con desembolsos registrados.",
-        "resumen": {
-            "ok": sum(1 for c in CONSEJO if c["match"] == "ok"),
-            "parcial": sum(1 for c in CONSEJO if c["match"] == "parcial"),
-            "sin_rastro": sum(1 for c in CONSEJO if c["match"] == "sin_rastro"),
-        },
-        "acuerdos": items,
-    }
+    # NOTA: los datos del Consejo de Ministros que usa la web app son REALES y los
+    # genera scripts/scrape_consejo_ministros.py -> webapp/data/consejo_ministros_real.json
+    # (descargados de La Moncloa). Este script solo produce el mapa (AOD ilustrativa)
+    # y las categorías. La tabla CONSEJO de abajo se conserva como referencia histórica
+    # del prototipo, pero ya no se vuelca a disco.
 
     os.makedirs(OUT, exist_ok=True)
-    for fname, obj in [("aid.json", aid), ("categories.json", categories), ("consejo_ministros.json", consejo)]:
+    for fname, obj in [("aid.json", aid), ("categories.json", categories)]:
         path = os.path.join(OUT, fname)
         with open(path, "w", encoding="utf-8") as f:
             json.dump(obj, f, ensure_ascii=False, indent=2)

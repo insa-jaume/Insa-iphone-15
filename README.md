@@ -7,39 +7,43 @@ española**, lo **cojeta con los acuerdos del Consejo de Ministros** (los martes
 
 ### ▶️ Abrir
 ```bash
-python3 scripts/build_aid_data.py            # genera webapp/data/*.json
+pip install requests
+python3 scripts/build_aid_data.py            # mapa + categorías (ilustrativos)
+python3 scripts/scrape_consejo_ministros.py  # Consejo de Ministros (DATOS REALES, La Moncloa)
 cd webapp && python3 -m http.server 8000     # http://localhost:8000
 ```
-Sin build ni dependencias: HTML + CSS + JavaScript vanilla. El mapa se renderiza en **SVG
-puro** (proyección equirectangular) sobre un GeoJSON mundial vendorizado, sin servidores de
-tiles ni librerías externas.
+El front-end no tiene build ni dependencias: HTML + CSS + JavaScript vanilla. El mapa se
+renderiza en **SVG puro** (proyección equirectangular) sobre un GeoJSON mundial vendorizado,
+sin servidores de tiles ni librerías externas.
 
 ### Qué incluye
 - **🗺️ Mapa del dinero** — una burbuja por país: tamaño = euros, color = riesgo de corrupción.
 - **📊 Categorías de gasto** — humanitaria, salud, agua, gobernanza, multilateral, deuda…
-- **🏛️ Cotejo con el Consejo de Ministros** — cada acuerdo (FONPRODE/AECID/humanitaria/deuda)
-  marcado como *coincide · parcial · sin rastro* frente al desembolso.
+- **🏛️ Consejo de Ministros (DATOS REALES)** — acuerdos de cooperación (FONPRODE / AECID /
+  humanitaria / multilateral / deuda / marco país) **extraídos automáticamente de las
+  referencias oficiales de [La Moncloa](https://www.lamoncloa.gob.es/consejodeministros/referencias/)**.
+  Cada fila enlaza a su referencia. Filtrable por instrumento y ordenable.
 - **🧮 Riesgo de corrupción** — `0,50·(100−CPI) + 0,30·modalidad + 0,20·canal`. Es un
   **indicador de vulnerabilidad**, no una acusación. Detalle en
   [`webapp/METODOLOGIA.md`](webapp/METODOLOGIA.md).
 
-> ⚠️ **Cifras ilustrativas** que reproducen patrones públicos de la AOD española (no es la
-> contabilidad oficial exacta). Fuentes para datos reales — Info@OD/DGPOLDES, AECID,
-> OCDE-CAD, La Moncloa (Consejo de Ministros), Transparency International (CPI) — en la
-> metodología.
+> ⚠️ El **mapa y las categorías** usan **cifras ilustrativas** de los patrones de la AOD
+> (no es la contabilidad oficial exacta). La sección del **Consejo de Ministros es real**.
+> Fuentes y método en la metodología.
 
 ```
 webapp/
-  index.html              # la app
+  index.html                      # la app
   css/styles.css
-  js/map.js               # mapa SVG (proyección + render de países)
-  js/app.js               # carga de datos, KPIs, detalle, categorías, tabla del Consejo
-  data/aid.json           # destinos, importes, sectores y riesgo (generado)
-  data/categories.json    # totales por sector (generado)
-  data/consejo_ministros.json  # acuerdos cotejados (generado)
-  data/world-countries.geo.json # mapamundi vendorizado
-  METODOLOGIA.md          # modelo de riesgo, cotejo y fuentes
-scripts/build_aid_data.py # genera los datos + calcula el riesgo (reproducible)
+  js/map.js                       # mapa SVG (proyección + render de países)
+  js/app.js                       # carga de datos, KPIs, detalle, categorías, tabla del Consejo
+  data/aid.json                   # destinos, importes, sectores y riesgo (ilustrativo, generado)
+  data/categories.json            # totales por sector (ilustrativo, generado)
+  data/consejo_ministros_real.json# acuerdos REALES del Consejo de Ministros (scrapeado)
+  data/world-countries.geo.json   # mapamundi vendorizado
+  METODOLOGIA.md                  # modelo de riesgo, scraping y fuentes
+scripts/build_aid_data.py         # genera mapa+categorías + calcula el riesgo
+scripts/scrape_consejo_ministros.py # descarga y extrae los acuerdos reales de La Moncloa
 ```
 
 ---

@@ -21,26 +21,28 @@
     [AID, CATS, CM] = await Promise.all([
       fetch("data/aid.json").then(r => r.json()),
       fetch("data/categories.json").then(r => r.json()),
-      fetch("data/consejo_ministros.json").then(r => r.json()),
+      fetch("data/consejo_ministros_real.json").then(r => r.json()),
     ]);
 
     $("#ej").textContent = AID.ejercicio;
     $("#disclaimer").innerHTML =
-      "⚠️ <b>Datos ilustrativos</b> basados en los patrones públicos de la AOD española. El “riesgo de corrupción” es un " +
-      "<b>indicador de vulnerabilidad estimado</b> (probabilidad de desvío de fondos por gobernanza y canal), no una acusación. Ver metodología.";
+      "ℹ️ La sección del <b>Consejo de Ministros es de datos REALES</b>, extraídos de las referencias de La Moncloa. " +
+      "El mapa y las categorías usan cifras <b>ilustrativas</b> de los patrones de la AOD. El “riesgo de corrupción” es un " +
+      "<b>indicador de vulnerabilidad estimado</b> (probabilidad de desvío por gobernanza y canal), no una acusación. Ver metodología.";
 
     renderKPIs();
     await renderMap();
     renderCategories();
+    renderConsejoControls();
     renderConsejo();
   }
 
   /* ---------------- KPIs ---------------- */
   function renderKPIs() {
     const k = [
-      { v: eurM(AID.total_aod), l: "AOD total (ejercicio " + AID.ejercicio + ")" },
-      { v: eurM(AID.total_bilateral_geografico), l: "Bilateral geolocalizada (mapa)" },
-      { v: AID.destinos.length, l: "Países receptores en el mapa" },
+      { v: eurM(AID.total_aod), l: "AOD total ilustrativa (ej. " + AID.ejercicio + ")" },
+      { v: CM.n_acuerdos, l: "Acuerdos reales de cooperación del Consejo de Min." },
+      { v: eurM(CM.total_eur_identificado), l: "€ reales identificados (" + CM.rango.desde + "→" + CM.rango.hasta + ")" },
       { v: AID.riesgo_medio_ponderado + "/100", l: "Riesgo medio ponderado por €", risk: true },
     ];
     $("#kpis").innerHTML = k.map(x =>
@@ -125,10 +127,10 @@
 
   function consejoFor(iso) {
     const items = CM.acuerdos.filter(a => a.iso === iso);
-    if (!items.length) return `<div class="sub">— sin acuerdos registrados —</div>`;
+    if (!items.length) return `<div class="sub">— sin acuerdos reales registrados para este país —</div>`;
     return items.map(a =>
-      `<div class="det-row"><span>${a.fecha} · ${a.titulo}</span>
-        <b class="m-${a.match}">${eur(a.eur)}</b></div>`).join("");
+      `<div class="det-row"><span><a href="${a.url}" target="_blank" rel="noopener">${a.fecha}</a> · ${a.titulo.slice(0, 90)}</span>
+        <b>${a.eur ? eur(a.eur) : "—"}</b></div>`).join("");
   }
 
   /* ---------------- Categorías ---------------- */
@@ -142,31 +144,48 @@
       </div>`).join("");
   }
 
-  /* ---------------- Consejo de Ministros (tabla) ---------------- */
-  let cmFilter = "all", cmSort = { key: "fecha", dir: 1 };
-  const MATCH_LABEL = { ok: "Coincide", parcial: "Parcial", sin_rastro: "Sin rastro" };
+  /* ---------------- Consejo de Ministros (tabla) — datos reales ---------------- */
+  let cmFilter = "all", cmSort = { key: "fecha", dir: -1 };
+
+  function riskOf(iso) {
+    const d = AID.destinos.find(x => x.iso === iso);
+    return d ? d : null;
+  }
+
+  function renderConsejoControls() {
+    // chips dinámicos por instrumento + nota de fuente
+    const insts = [...new Set(CM.acuerdos.map(a => a.instrumento))].sort();
+    $("#cm-filters").innerHTML =
+      `<span class="chip on" data-f="all">Todos (${CM.acuerdos.length})</span>` +
+      insts.map(i => `<span class="chip" data-f="${i}">${i} (${CM.acuerdos.filter(a => a.instrumento === i).length})</span>`).join("");
+    $("#cm-sub").innerHTML +=
+      ` <br><b>${CM.n_referencias}</b> referencias analizadas · <b>${CM.n_acuerdos}</b> acuerdos de cooperación ` +
+      `(<b>${CM.n_acuerdos_con_importe}</b> con importe) · <b>${eurM(CM.total_eur_identificado)}</b> identificados. ` +
+      `Descargado el ${(CM.descargado || "").slice(0, 10)} con <code>scripts/scrape_consejo_ministros.py</code>.`;
+  }
 
   function renderConsejo() {
     const tbody = $("#cm-table tbody");
     let rows = CM.acuerdos.slice();
-    if (cmFilter !== "all") rows = rows.filter(r => r.match === cmFilter);
+    if (cmFilter !== "all") rows = rows.filter(r => r.instrumento === cmFilter);
     rows.sort((a, b) => {
-      let va = a[cmSort.key], vb = b[cmSort.key];
-      if (va == null) va = -1; if (vb == null) vb = -1;
+      let va = cmSort.key === "riesgo" ? (riskOf(a.iso)?.riesgo ?? -1) : a[cmSort.key];
+      let vb = cmSort.key === "riesgo" ? (riskOf(b.iso)?.riesgo ?? -1) : b[cmSort.key];
+      if (va == null) va = (typeof vb === "number" ? -1 : ""); if (vb == null) vb = (typeof va === "number" ? -1 : "");
       return (va > vb ? 1 : va < vb ? -1 : 0) * cmSort.dir;
     });
-    tbody.innerHTML = rows.map(r =>
-      `<tr>
-        <td>${r.fecha}</td>
+    tbody.innerHTML = rows.map(r => {
+      const d = riskOf(r.iso);
+      const riesgo = d ? `<span class="mini" style="background:${RISK_HEX[d.nivel]};color:#0a0f16">${d.riesgo}</span>` : "—";
+      return `<tr>
+        <td><a href="${r.url}" target="_blank" rel="noopener" title="Ver referencia oficial">${r.fecha || "—"}</a></td>
         <td><span class="tag">${r.instrumento}</span></td>
-        <td>${r.titulo}</td>
-        <td class="num">${eur(r.eur)}</td>
-        <td class="num">${r.riesgo != null ? r.riesgo : "—"}</td>
-        <td><span class="mini m-${r.match}" style="background:${matchBg(r.match)}">${MATCH_LABEL[r.match]}</span></td>
-      </tr>`).join("");
-  }
-  function matchBg(m) {
-    return m === "ok" ? "#10331b" : m === "parcial" ? "#33290a" : "#330f12";
+        <td title="${(r.detalle || r.titulo).replace(/"/g, "&quot;").slice(0, 280)}">${r.titulo}</td>
+        <td>${r.pais || "—"}</td>
+        <td class="num">${r.eur ? eur(r.eur) : "—"}</td>
+        <td class="num">${riesgo}</td>
+      </tr>`;
+    }).join("");
   }
 
   $("#cm-filters").addEventListener("click", e => {

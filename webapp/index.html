@@ -56,22 +56,17 @@
   </section>
 
   <section class="card" style="margin-bottom:22px">
-    <h2>🏛️ Cotejo con el Consejo de Ministros (martes)</h2>
-    <div class="sub">Acuerdos de cooperación adoptados en Consejo de Ministros, comparados con los desembolsos registrados. <span class="m-ok">●</span> coincide · <span class="m-parcial">●</span> parcial · <span class="m-sin_rastro">●</span> sin rastro trazable.</div>
-    <div class="toolbar" id="cm-filters">
-      <span class="chip on" data-f="all">Todos</span>
-      <span class="chip" data-f="ok">Coincide</span>
-      <span class="chip" data-f="parcial">Parcial</span>
-      <span class="chip" data-f="sin_rastro">Sin rastro</span>
-    </div>
+    <h2>🏛️ Consejo de Ministros (martes) — datos REALES</h2>
+    <div class="sub" id="cm-sub">Acuerdos de cooperación / ayuda exterior extraídos automáticamente de las referencias del Consejo de Ministros en <a href="https://www.lamoncloa.gob.es/consejodeministros/referencias/" target="_blank" rel="noopener">La Moncloa</a>. Cada fila enlaza a su referencia oficial.</div>
+    <div class="toolbar" id="cm-filters"></div>
     <table id="cm-table">
       <thead><tr>
         <th data-s="fecha">Fecha</th>
         <th data-s="instrumento">Instrumento</th>
         <th data-s="titulo">Acuerdo</th>
+        <th data-s="pais">País</th>
         <th data-s="eur" class="num">Importe</th>
         <th data-s="riesgo" class="num">Riesgo</th>
-        <th data-s="match">Cotejo</th>
       </tr></thead>
       <tbody></tbody>
     </table>
@@ -92,8 +87,9 @@
 
 <footer>
   <div class="wrap">
-    <p><b>Cifras ilustrativas y representativas</b> de los patrones públicos de la AOD española (AECID, FONPRODE, contribuciones multilaterales, operaciones de deuda) y de los países socios de la Cooperación Española. No constituyen la contabilidad oficial exacta. Para reproducir con datos reales, ver <a href="METODOLOGIA.md">METODOLOGIA.md</a> (fuentes: Info@OD / DGPOLDES, AECID, La Moncloa – Consejo de Ministros, Transparency International).</p>
-    <p>Generado con <code>scripts/build_aid_data.py</code>. App estática, sin servidor.</p>
+    <p>🏛️ <b>Consejo de Ministros: datos REALES</b> extraídos automáticamente de las referencias oficiales de <a href="https://www.lamoncloa.gob.es/consejodeministros/referencias/" target="_blank" rel="noopener">La Moncloa</a> con <code>scripts/scrape_consejo_ministros.py</code> (cada acuerdo enlaza a su referencia).</p>
+    <p>🗺️ <b>Mapa y categorías: cifras ilustrativas</b> y representativas de los patrones públicos de la AOD española (AECID, FONPRODE, multilateral, deuda) y de los países socios de la Cooperación Española; no son la contabilidad oficial exacta. Fuentes para sustituirlas por datos reales (Info@OD / DGPOLDES, AECID, OCDE-CAD, Transparency International) en <a href="METODOLOGIA.md">METODOLOGIA.md</a>.</p>
+    <p>Generado con <code>scripts/build_aid_data.py</code> y <code>scripts/scrape_consejo_ministros.py</code>. App estática, sin servidor.</p>
   </div>
 </footer>
 

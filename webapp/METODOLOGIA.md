@@ -7,13 +7,16 @@ Desarrollo (AOD) española, cotejo con el Consejo de Ministros y riesgo de corru
 
 ## 1. Naturaleza de los datos
 
-Las cifras incluidas en `webapp/data/*.json` son **ilustrativas y representativas**:
-reproducen los **patrones públicos** de la AOD española (volumen total ~3.000–4.000 M€,
-predominio de la vía multilateral, países socios prioritarios del Plan Director, peso de la
-ayuda humanitaria y de las operaciones de deuda), pero **no son la contabilidad oficial
-exacta de un ejercicio concreto**. Sirven para demostrar el producto y la metodología.
+Hay **dos tipos de datos** en `webapp/data/`:
 
-Para sustituirlas por **datos reales**, ver §4 (fuentes) y §5 (reproducción).
+- 🏛️ **`consejo_ministros_real.json` — DATOS REALES.** Acuerdos de cooperación / ayuda
+  exterior extraídos automáticamente de las referencias oficiales del Consejo de Ministros
+  en La Moncloa (ver §3). Cada acuerdo enlaza a su fuente.
+- 🗺️ **`aid.json` y `categories.json` — ilustrativos.** Reproducen los **patrones públicos**
+  de la AOD española (volumen total ~3.000–4.000 M€, predominio de la vía multilateral,
+  países socios del Plan Director, peso de la ayuda humanitaria y de las operaciones de
+  deuda), pero **no son la contabilidad oficial exacta**. Sirven para el mapa y el desglose
+  por categorías. Para sustituirlos por datos reales, ver §4 y §5.
 
 ---
 
@@ -68,16 +71,46 @@ sentencia.
 
 ---
 
-## 3. Cotejo con el Consejo de Ministros
+## 3. Consejo de Ministros — datos REALES (scraping de La Moncloa)
 
-El Consejo de Ministros se reúne habitualmente los **martes** y aprueba periódicamente
-acuerdos de cooperación (créditos FONPRODE, subvenciones AECID, ayuda humanitaria,
-contribuciones multilaterales, operaciones de deuda). En `consejo_ministros.json` cada
-acuerdo se compara con los desembolsos registrados:
+A diferencia del mapa y las categorías (ilustrativos), la sección del **Consejo de
+Ministros usa datos REALES** descargados de las referencias oficiales de La Moncloa
+(`https://www.lamoncloa.gob.es/consejodeministros/referencias/`) con el script
+`scripts/scrape_consejo_ministros.py`. Salida: `webapp/data/consejo_ministros_real.json`.
 
-- `ok` — el importe acordado coincide con el desembolso registrado.
-- `parcial` — ejecutado parcialmente o pendiente de justificar.
-- `sin_rastro` — acordado pero **sin desembolso trazable** todavía (señal de seguimiento).
+### Cómo se extrae
+1. **Enumeración.** El listado se filtra por mes/año mediante el formulario ASP.NET
+   (`SummarySearchByDate`, postback con `__VIEWSTATE`/`__EVENTVALIDATION`). Se recorre
+   todo el rango (por defecto 2024-01 → mes actual) y se recogen las URL de cada Consejo.
+   Los *slugs* y formatos de fecha varían (`YYYYMMDD-referencia-…`, `refcYYYYMMDD`,
+   `DDMMYYYY-…`, `YYMMDD-…`) y el parser los normaliza.
+2. **Descarga** de cada referencia (con caché local en `/tmp/cm_cache`).
+3. **Extracción en dos niveles**, por unidades de acuerdo (`<h4>`+detalle y `<li>`):
+   - Dentro de la sección *“Asuntos Exteriores, Unión Europea y Cooperación”* se acepta
+     toda unidad con una **señal fuerte** de ayuda (AECID, FONPRODE, ayuda humanitaria,
+     contribución a un organismo internacional, condonación/conversión de deuda, etc.).
+   - Fuera de esa sección solo se aceptan unidades cuyo **título** contiene un término
+     **inequívoco** (AECID, FONPRODE, UNRWA, ACNUR, UNICEF, FIDA, “marco de asociación
+     para el desarrollo”…), para no arrastrar asuntos internos (deuda de las CC.AA.,
+     empleo, salvamento marítimo, economía circular…).
+4. **Limpieza.** Se descartan nombramientos, tratados, declaraciones institucionales,
+   biografías de cargos y el Fondo de la asignación tributaria del IRPF (gasto social
+   interno). De cada acuerdo se extraen importes en euros (formato español), instrumento
+   (AECID/FONPRODE/Humanitaria/Multilateral/Deuda/Marco país) y país receptor (si se cita
+   en el título o al inicio del detalle). Se deduplican los acuerdos que aparecen a la vez
+   en la agenda y en la ampliación detallada.
+
+### Limitaciones del scraping
+Es una extracción **heurística** sobre texto en lenguaje natural: puede omitir algún
+acuerdo redactado de forma atípica o, en casos raros, capturar un importe contextual.
+Cada fila enlaza a su **referencia oficial** para verificación. La atribución de país es
+el primer país citado en el título/inicio del detalle (puede fallar en textos que listan
+varios países). El importe es el mayor euro detectado en el acuerdo.
+
+### Uso del scraper
+```bash
+python3 scripts/scrape_consejo_ministros.py 2024-01 2026-06
+```
 
 ---
 
@@ -97,8 +130,9 @@ acuerdo se compara con los desembolsos registrados:
 ## 5. Reproducir / actualizar
 
 ```bash
-python3 scripts/build_aid_data.py     # regenera webapp/data/*.json
-cd webapp && python3 -m http.server 8000   # abre http://localhost:8000
+python3 scripts/build_aid_data.py            # mapa + categorías (ilustrativos)
+python3 scripts/scrape_consejo_ministros.py  # Consejo de Ministros (REAL, La Moncloa)
+cd webapp && python3 -m http.server 8000     # abre http://localhost:8000
 ```
 
 Para datos reales: sustituir las tablas `DESTINOS`, `MULTILATERAL` y `CONSEJO` de

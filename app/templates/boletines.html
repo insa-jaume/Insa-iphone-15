@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Boletines vigilados{% endblock %}
+{% block body %}
+<section class="container">
+  <h2>Boletines oficiales que vigilamos</h2>
+  <p class="muted">Cobertura actual y hoja de ruta. Los marcados como
+    <span class="badge ok">activo</span> ya se indexan a diario; el resto se
+    incorporan progresivamente con el mismo motor de búsqueda.</p>
+  <table>
+    <thead><tr><th>Código</th><th>Boletín</th><th>Ámbito</th><th>Territorio</th><th>Estado</th></tr></thead>
+    <tbody>
+    {% for s in sources %}
+      <tr>
+        <td><b>{{ s.code }}</b></td>
+        <td><a href="{{ s.homepage }}" target="_blank" rel="noopener">{{ s.name }}</a></td>
+        <td>{{ s.scope.value }}</td>
+        <td>{{ s.region }}</td>
+        <td>{% if s.implemented %}<span class="badge ok">activo</span>{% else %}<span class="badge warn">hoja de ruta</span>{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endblock %}

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Aviso legal{% endblock %}
+{% block body %}
+<section class="container legal">
+  <h1>Aviso legal e información general</h1>
+  <p class="muted">Última actualización: 2026. En cumplimiento de la Ley 34/2002,
+    de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio
+    Electrónico (LSSI-CE).</p>
+
+  <h2>1. Titular del sitio y del servicio</h2>
+  <ul class="clean">
+    <li><b>Titular:</b> {{ provider_name }}</li>
+    <li><b>NIF:</b> {{ provider_nif }}</li>
+    <li><b>Condición:</b> empresario individual (autónomo), dado de alta en el
+      epígrafe del IAE correspondiente a la prestación de servicios online.</li>
+    <li><b>Domicilio:</b> {{ provider_address }}</li>
+    <li><b>Correo de contacto:</b> {{ provider_email }}</li>
+    <li><b>Sitio web:</b> {{ settings.site_url }}</li>
+  </ul>
+
+  <h2>2. Objeto del servicio</h2>
+  <p>{{ site_name }} es un servicio informativo de alertas que vigila la aparición
+  de los datos identificativos facilitados por el propio usuario (nombre, DNI,
+  NIE, NIF o CIF) en boletines y diarios oficiales públicos de España, y le avisa
+  cuando detecta una coincidencia. <b>El servicio no presta asesoramiento jurídico,
+  fiscal ni de ningún otro tipo</b>, no representa al usuario ante las
+  administraciones y no garantiza la detección del 100 % de las publicaciones.
+  El usuario debe verificar siempre la información en la fuente oficial.</p>
+
+  <h2>3. Fuentes de información</h2>
+  <p>La información procede de los boletines oficiales públicos (entre otros, el
+  Boletín Oficial del Estado a través de su API de datos abiertos), que son de
+  acceso público. La reutilización se realiza conforme a las condiciones de
+  reutilización publicadas por cada organismo. Las marcas y denominaciones de los
+  boletines pertenecen a sus respectivos organismos.</p>
+
+  <h2>4. Propiedad intelectual</h2>
+  <p>El software, el diseño y los contenidos propios de este sitio son titularidad
+  del prestador, salvo los contenidos procedentes de fuentes oficiales, que
+  pertenecen a sus organismos emisores.</p>
+
+  <h2>5. Responsabilidad</h2>
+  <p>El prestador no se hace responsable de los perjuicios derivados de demoras,
+  errores u omisiones en las fuentes oficiales, de interrupciones del servicio,
+  ni del uso que el usuario haga de la información. El servicio es un apoyo y
+  <b>no sustituye</b> la consulta directa de los boletines ni los canales
+  oficiales de notificación.</p>
+
+  <h2>6. Legislación aplicable</h2>
+  <p>Estas condiciones se rigen por la legislación española. Para cualquier
+  controversia, las partes se someten a los juzgados y tribunales que
+  correspondan conforme a la normativa de consumidores y usuarios.</p>
+
+  <p class="muted"><i>Documento orientativo. Antes de operar comercialmente,
+  conviene su revisión por un profesional del Derecho.</i></p>
+</section>
+{% endblock %}

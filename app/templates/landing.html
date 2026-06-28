@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Que no te sorprendan{% endblock %}
+{% block body %}
+<div class="hero">
+  <div class="container">
+    <h1>Que no te sorprenda un embargo o una sanción<br>que nunca te llegó a casa.</h1>
+    <p class="lead">
+      Las administraciones pueden notificarte legalmente publicando tu nombre, DNI,
+      NIE, NIF o CIF en un boletín oficial. Si no lo ves, los plazos corren igual.
+      Nosotros vigilamos esos boletines por ti y te avisamos por email el mismo día.
+    </p>
+    <p style="margin-top:26px">
+      <a class="btn" href="/registro">Empezar — {{ price_eur }} €/mes</a>
+      <a class="btn ghost" href="/boletines">Ver boletines vigilados</a>
+    </p>
+  </div>
+</div>
+
+<section class="container">
+  <div class="grid cols-3">
+    <div class="card">
+      <h3>🔎 Búsqueda preliminar</h3>
+      <p class="muted">Al darte de alta buscamos tu nombre e identificadores en el
+      histórico ya indexado y te decimos dónde has aparecido.</p>
+    </div>
+    <div class="card">
+      <h3>📨 Aviso el mismo día</h3>
+      <p class="muted">Cada día revisamos los boletines nuevos. Si apareces, recibes
+      un email con el enlace a la publicación oficial.</p>
+    </div>
+    <div class="card">
+      <h3>🛡️ Tus datos, tu control</h3>
+      <p class="muted">Solo vigilamos los datos que tú nos indicas como titular o
+      representante autorizado. Puedes borrarlos cuando quieras.</p>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <div class="grid cols-2">
+    <div class="card">
+      <h2>¿Qué vigilamos?</h2>
+      <ul>
+        <li><b>BOE — Tablón Edictal Único (TEU)</b>: notificaciones de Hacienda
+          (AEAT), Seguridad Social (TGSS), DGT, ayuntamientos... cuando no te
+          localizan. El punto más crítico para embargos y sanciones.</li>
+        <li><b>BORME</b>: situaciones mercantiles (concursos, administradores).</li>
+        <li><b>Boletines autonómicos y provinciales</b>: incorporación progresiva
+          (ver <a href="/boletines">cobertura</a>).</li>
+      </ul>
+    </div>
+    <div class="card" style="text-align:center">
+      <h2>Precio</h2>
+      <p class="price">{{ price_eur }} €<small>/mes</small></p>
+      <p class="muted">Sin permanencia. Cancela cuando quieras desde tu panel.
+        Pago seguro con tarjeta a través de Stripe.</p>
+      <p><a class="btn" href="/registro">Crear cuenta</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <div class="alert info">
+    <b>Transparencia:</b> el BOE ofrece un servicio oficial y gratuito
+    («Mi BOE») de avisos del TEU por NIF que requiere identificación electrónica
+    (Cl@ve/certificado). Nuestro valor es la <b>agregación de múltiples boletines</b>,
+    la <b>búsqueda histórica</b>, los avisos por <b>nombre además de identificador</b>
+    y una experiencia sencilla sin necesidad de certificado.
+  </div>
+</section>
+{% endblock %}

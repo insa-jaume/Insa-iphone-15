@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ site_name }}{% endblock %} · {{ site_name }}</title>
+  <meta name="description" content="Avisos por email si tu nombre, DNI, NIE, NIF o CIF aparece en el BOE u otros boletines oficiales de España. No dejes que te sorprendan embargos o sanciones.">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="container">
+    <a class="brand" href="/">Alertas<span>Oficiales</span></a>
+    <nav class="links">
+      <a href="/boletines">Boletines</a>
+      {% if user %}
+        <a href="/panel">Mi panel</a>
+        <a href="/salir">Salir</a>
+      {% else %}
+        <a href="/acceso">Acceso</a>
+        <a href="/registro">Crear cuenta</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>
+
+<main>
+  {% block body %}{% endblock %}
+</main>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="/aviso-legal">Aviso legal</a>
+      <a href="/privacidad">Privacidad</a>
+      <a href="/terminos">Términos</a>
+      <a href="/contrato">Condiciones del servicio</a>
+      <a href="/cookies">Cookies</a>
+    </p>
+    <p class="muted" style="color:#64748b">
+      Servicio prestado por {{ provider_name }} (NIF {{ provider_nif }}). {{ provider_address }}.
+      Servicio informativo independiente; no sustituye la consulta oficial ni el
+      asesoramiento jurídico. Las fuentes son los boletines oficiales públicos.
+    </p>
+  </div>
+</footer>
+</body>
+</html>

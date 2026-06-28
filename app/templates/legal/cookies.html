@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Política de cookies{% endblock %}
+{% block body %}
+<section class="container legal">
+  <h1>Política de cookies</h1>
+  <p>{{ site_name }} utiliza únicamente <b>cookies técnicas estrictamente
+  necesarias</b> para el funcionamiento del servicio:</p>
+  <table>
+    <thead><tr><th>Cookie</th><th>Finalidad</th><th>Duración</th><th>Tipo</th></tr></thead>
+    <tbody>
+      <tr><td>session</td><td>Mantener la sesión iniciada del usuario</td><td>30 días</td><td>Técnica propia</td></tr>
+    </tbody>
+  </table>
+  <p>Estas cookies están exentas del deber de consentimiento previo conforme al
+  artículo 22.2 de la LSSI-CE y a las directrices de la AEPD, por ser
+  imprescindibles para prestar el servicio solicitado por el usuario.</p>
+  <p>No utilizamos cookies de analítica, publicidad ni de terceros. Si en el futuro
+  se incorporaran, se solicitaría el consentimiento mediante un banner de gestión.</p>
+  <p>El proceso de pago se realiza en el dominio de Stripe, que aplica su propia
+  política de cookies.</p>
+</section>
+{% endblock %}

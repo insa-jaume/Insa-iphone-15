@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}Términos y condiciones{% endblock %}
+{% block body %}
+<section class="container legal">
+  <h1>Términos y condiciones de uso</h1>
+
+  <h2>1. Aceptación</h2>
+  <p>El registro y el uso de {{ site_name }} implican la aceptación de estos
+  términos, del <a href="/aviso-legal">aviso legal</a> y de la
+  <a href="/privacidad">política de privacidad</a>.</p>
+
+  <h2>2. Descripción y limitaciones del servicio</h2>
+  <p>{{ site_name }} vigila boletines oficiales públicos y avisa al usuario cuando
+  detecta los datos que este ha solicitado vigilar. El servicio se presta «tal
+  cual», con la máxima diligencia pero <b>sin garantía de exhaustividad ni de
+  ausencia de errores</b>. Pueden existir retrasos, falsos positivos (homónimos)
+  o falsos negativos. <b>El servicio no sustituye</b> a las notificaciones
+  oficiales ni exime al usuario de atender sus obligaciones y plazos.</p>
+
+  <h2>3. Obligaciones del usuario</h2>
+  <ul>
+    <li>Facilitar datos veraces y vigilar únicamente datos propios o de personas
+      a las que represente legítimamente.</li>
+    <li>No utilizar el servicio para vigilar a terceros sin legitimación.</li>
+    <li>Custodiar sus credenciales de acceso.</li>
+  </ul>
+
+  <h2>4. Precio, pago y duración</h2>
+  <p>El servicio tiene un precio de {{ price_eur }} € al mes (IVA incluido cuando
+  proceda), abonado por adelantado mediante suscripción recurrente gestionada por
+  Stripe. La suscripción se renueva automáticamente cada mes hasta que el usuario
+  la cancele. <b>Sin permanencia.</b></p>
+
+  <h2>5. Cancelación y reembolsos</h2>
+  <p>El usuario puede cancelar en cualquier momento desde su panel; el servicio
+  permanece activo hasta el fin del periodo ya pagado. Al tratarse de un servicio
+  digital de ejecución continuada, el usuario reconoce que el derecho de
+  desistimiento puede no aplicar una vez iniciada la prestación del periodo, sin
+  perjuicio de los derechos que le reconozca la normativa de consumidores.</p>
+
+  <h2>6. Suspensión y baja</h2>
+  <p>El prestador podrá suspender el servicio por impago o por uso fraudulento.
+  El usuario puede darse de baja y eliminar sus datos cuando lo desee.</p>
+
+  <h2>7. Responsabilidad</h2>
+  <p>En la máxima medida permitida por la ley, la responsabilidad del prestador se
+  limita al importe abonado por el usuario en los últimos tres meses. No se
+  responde de daños indirectos derivados de notificaciones no detectadas, siendo
+  responsabilidad del usuario el seguimiento de sus asuntos oficiales.</p>
+
+  <h2>8. Modificaciones</h2>
+  <p>El prestador podrá modificar estos términos notificándolo con antelación
+  razonable. Si el usuario no está de acuerdo, podrá darse de baja.</p>
+
+  <h2>9. Ley y jurisdicción</h2>
+  <p>Legislación española y fueros que correspondan según la normativa de
+  consumidores y usuarios.</p>
+
+  <p class="muted"><i>Documento orientativo a revisar por un profesional.</i></p>
+</section>
+{% endblock %}

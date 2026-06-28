@@ -1,0 +1,7 @@
+# Proxy inverso con HTTPS automático.
+# Define SITE_DOMAIN en tu entorno (p. ej. alertas.tudominio.es).
+# Para pruebas locales usa "localhost" (Caddy emite un certificado interno).
+{$SITE_DOMAIN} {
+	encode gzip
+	reverse_proxy web:8000
+}

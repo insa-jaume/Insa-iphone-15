@@ -1,0 +1,72 @@
+# ============================================================================
+#  Alertas Oficiales — despliegue en VPS
+#
+#  Servicios:
+#    db      -> PostgreSQL (almacén de publicaciones, usuarios, coincidencias)
+#    web     -> API + web (FastAPI/uvicorn)
+#    worker  -> ingesta programada de boletines + envío de notificaciones
+#    caddy   -> proxy inverso con HTTPS automático (Let's Encrypt)
+#
+#  Uso:
+#    cp .env.example .env   # y rellenar
+#    docker compose up -d --build
+#    docker compose run --rm worker python -m scripts.backfill 2024-01-01 2024-12-31
+# ============================================================================
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: alertas
+      POSTGRES_PASSWORD: alertas
+      POSTGRES_DB: alertas
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U alertas"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  web:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      db:
+        condition: service_healthy
+    command: >
+      sh -c "python -m scripts.init_db &&
+             uvicorn app.main:app --host 0.0.0.0 --port 8000 --proxy-headers"
+    expose:
+      - "8000"
+
+  worker:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      db:
+        condition: service_healthy
+    # Scheduler: ingesta diaria + notificaciones. No expone puertos.
+    command: python -m app.scheduler
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    depends_on:
+      - web
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      SITE_DOMAIN: ${SITE_DOMAIN:-localhost}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  postgres_data:
+  caddy_data:
+  caddy_config:

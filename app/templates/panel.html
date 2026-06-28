@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+{% block title %}Mi panel{% endblock %}
+{% block body %}
+<section class="container">
+  <h2>Mi panel</h2>
+
+  {% if checkout == "ok" %}<div class="alert ok">¡Suscripción activada! Ya recibirás avisos cuando aparezcas en un boletín.</div>{% endif %}
+  {% if checkout == "cancel" %}<div class="alert info">Has cancelado el proceso de pago. Puedes suscribirte cuando quieras.</div>{% endif %}
+
+  <!-- Estado de suscripción -->
+  <div class="card" style="margin-bottom:22px">
+    {% if has_sub %}
+      <span class="badge ok">Suscripción activa</span>
+      <p class="muted">Recibirás avisos por email. Gestiona tu pago o cancela cuando quieras.</p>
+      {% if stripe_enabled %}<a class="btn sm" href="/facturacion">Gestionar suscripción</a>{% endif %}
+    {% else %}
+      <span class="badge warn">Sin suscripción activa</span>
+      <p class="muted">Puedes añadir identidades y ver la búsqueda preliminar, pero
+        para recibir <b>avisos continuos</b> necesitas la suscripción ({{ price_eur }} €/mes).</p>
+      {% if stripe_enabled %}
+        <a class="btn" href="/suscribir">Suscribirme — {{ price_eur }} €/mes</a>
+      {% else %}
+        <span class="muted">(Pagos aún no configurados por el administrador.)</span>
+      {% endif %}
+    {% endif %}
+  </div>
+
+  <!-- Añadir identidad vigilada -->
+  <div class="card" style="margin-bottom:22px">
+    <h3>Añadir identidad a vigilar</h3>
+    <form class="stack" method="post" action="/panel/identidad">
+      <div class="grid cols-2">
+        <div>
+          <label>Tipo</label>
+          <select name="kind">
+            <option value="person">Persona física</option>
+            <option value="company">Empresa / autónomo (razón social)</option>
+          </select>
+        </div>
+        <div>
+          <label>DNI / NIE / NIF / CIF</label>
+          <input type="text" name="identifier" placeholder="12345678Z">
+        </div>
+      </div>
+      <label>Nombre y apellidos o razón social</label>
+      <input type="text" name="display_name" required placeholder="Jaume Insa Pérez">
+      <div class="check">
+        <input type="checkbox" name="monitor_name" id="mn" value="1" checked>
+        <label for="mn" style="font-weight:400;margin:0">Vigilar también por nombre
+          (puede generar coincidencias de homónimos a revisar).</label>
+      </div>
+      <div class="check">
+        <input type="checkbox" name="is_self" id="self" value="1" checked>
+        <label for="self" style="font-weight:400;margin:0">Estos datos son míos.</label>
+      </div>
+      <div class="check">
+        <input type="checkbox" name="consent" id="consent" value="1" required>
+        <label for="consent" style="font-weight:400;margin:0">Confirmo que soy el
+          titular de estos datos o su representante autorizado y consiento su
+          tratamiento para vigilar boletines oficiales.</label>
+      </div>
+      <button class="btn" type="submit" style="margin-top:10px">Añadir y buscar</button>
+    </form>
+  </div>
+
+  <!-- Identidades y coincidencias -->
+  {% for subject, matches in subjects_data %}
+  <div class="card" style="margin-bottom:18px">
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <div>
+        <h3 style="margin:0">{{ subject.display_name }}</h3>
+        <span class="muted">
+          {{ subject.id_kind or "sin identificador" }}
+          {% if subject.normalized_id %}· {{ subject.normalized_id }}{% endif %}
+          · {{ matches|length }} coincidencia(s)
+        </span>
+      </div>
+      <form method="post" action="/panel/identidad/{{ subject.id }}/baja"
+            onsubmit="return confirm('¿Eliminar esta identidad y sus coincidencias?')">
+        <button class="btn sm danger" type="submit">Eliminar</button>
+      </form>
+    </div>
+
+    {% if matches %}
+    <table style="margin-top:14px">
+      <thead><tr><th>Fecha</th><th>Boletín</th><th>Tipo</th><th>Publicación</th></tr></thead>
+      <tbody>
+      {% for m, pub, src in matches %}
+        <tr>
+          <td>{{ pub.pub_date if pub else "" }}</td>
+          <td>{{ src.code if src else "" }}</td>
+          <td>
+            {% if m.match_type.value == "identifier" %}
+              <span class="badge id">Identificador</span>
+            {% else %}
+              <span class="badge warn">Nombre (revisar)</span>
+            {% endif %}
+          </td>
+          <td>
+            {{ (pub.title[:160] ~ "…") if pub and pub.title|length > 160 else (pub.title if pub else "") }}
+            {% if pub and (pub.url_html or pub.url_pdf) %}
+              <br><a href="{{ pub.url_html or pub.url_pdf }}" target="_blank" rel="noopener">Ver oficial</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+      <p class="muted" style="margin-top:12px">Sin coincidencias en lo indexado hasta ahora. Te avisaremos si apareces.</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  <div class="card" style="margin-top:24px;border-color:#fecaca">
+    <h3>Tus derechos (RGPD)</h3>
+    <p class="muted">Puedes acceder, rectificar y suprimir tus datos en cualquier
+      momento. Eliminar tu cuenta borra todas tus identidades y coincidencias.</p>
+    <form method="post" action="/cuenta/baja"
+          onsubmit="return confirm('Esto eliminará tu cuenta y todos tus datos de forma permanente. ¿Continuar?')">
+      <button class="btn sm danger" type="submit">Eliminar mi cuenta y datos</button>
+    </form>
+  </div>
+</section>
+{% endblock %}

@@ -90,7 +90,8 @@ def require_user(user: User | None = Depends(current_user)) -> User:
 
 
 def render(name: str, request: Request, **extra) -> HTMLResponse:
-    return templates.TemplateResponse(name, _ctx(request, **extra))
+    # Starlette >= 0.29 usa la firma (request, name, context).
+    return templates.TemplateResponse(request, name, _ctx(request, **extra))
 
 
 # --- Páginas públicas ---------------------------------------------------------

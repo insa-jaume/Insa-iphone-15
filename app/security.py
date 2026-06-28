@@ -3,25 +3,29 @@ from __future__ import annotations
 
 from datetime import datetime, timedelta, timezone
 
+import bcrypt
 import jwt
-from passlib.context import CryptContext
 
 from app.config import settings
 
-_pwd = CryptContext(schemes=["bcrypt"], deprecated="auto")
 _ALGO = "HS256"
 SESSION_COOKIE = "session"
 _SESSION_DAYS = 30
 
 
+def _to_bytes(password: str) -> bytes:
+    # bcrypt solo considera los primeros 72 bytes; truncamos explícitamente.
+    return password.encode("utf-8")[:72]
+
+
 def hash_password(password: str) -> str:
-    return _pwd.hash(password)
+    return bcrypt.hashpw(_to_bytes(password), bcrypt.gensalt()).decode("utf-8")
 
 
 def verify_password(password: str, password_hash: str) -> bool:
     try:
-        return _pwd.verify(password, password_hash)
-    except ValueError:
+        return bcrypt.checkpw(_to_bytes(password), password_hash.encode("utf-8"))
+    except (ValueError, TypeError):
         return False
 
 

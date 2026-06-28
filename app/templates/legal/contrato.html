@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Condiciones del servicio y consentimiento{% endblock %}
+{% block body %}
+<section class="container legal">
+  <h1>Condiciones de contratación y consentimiento del titular</h1>
+
+  <h2>1. Partes</h2>
+  <p>De una parte, <b>{{ provider_name }}</b> (NIF {{ provider_nif }}), como
+  prestador del servicio. De otra, el <b>usuario</b> que se registra y contrata.</p>
+
+  <h2>2. Naturaleza del consentimiento</h2>
+  <p>Para que la vigilancia sea lícita, el usuario declara y garantiza que los
+  datos identificativos que introduce para ser vigilados (nombre, DNI, NIE, NIF o
+  CIF) <b>son propios</b> o corresponden a una persona física o jurídica a la que
+  <b>representa legítimamente</b> y en cuyo nombre presta su consentimiento. Este
+  consentimiento es la base jurídica del tratamiento (art. 6.1.a RGPD) y puede
+  retirarse en cualquier momento eliminando la identidad o la cuenta.</p>
+
+  <h2>3. Qué hace el servicio</h2>
+  <ol>
+    <li>Realiza una <b>búsqueda preliminar</b> de los datos en el histórico de
+      boletines ya indexado y muestra las coincidencias encontradas.</li>
+    <li>Revisa periódicamente los boletines nuevos y <b>avisa por email</b> de
+      nuevas coincidencias mientras la suscripción esté activa.</li>
+  </ol>
+
+  <h2>4. Qué NO hace el servicio</h2>
+  <ul>
+    <li>No presta asesoramiento jurídico ni fiscal.</li>
+    <li>No actúa ante las administraciones en nombre del usuario.</li>
+    <li>No garantiza detectar todas las publicaciones ni sustituye las
+      notificaciones oficiales ni el cómputo de plazos.</li>
+  </ul>
+
+  <h2>5. Precio y forma de pago</h2>
+  <p>{{ price_eur }} €/mes mediante suscripción recurrente con Stripe. Renovación
+  automática mensual sin permanencia, cancelable desde el panel.</p>
+
+  <h2>6. Protección de datos</h2>
+  <p>El tratamiento se rige por la <a href="/privacidad">política de privacidad</a>.
+  Stripe y los proveedores de alojamiento y correo actúan como encargados del
+  tratamiento conforme al art. 28 RGPD.</p>
+
+  <h2>7. Vigencia</h2>
+  <p>El contrato se perfecciona con el registro y la activación de la suscripción,
+  y se mantiene hasta su cancelación por cualquiera de las partes.</p>
+
+  <p class="muted"><i>Documento orientativo. Se recomienda su revisión por un
+  profesional del Derecho y, dada la naturaleza de los datos, valorar una consulta
+  previa o evaluación de impacto si se amplía el alcance del tratamiento.</i></p>
+</section>
+{% endblock %}

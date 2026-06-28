@@ -1,4 +1,24 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 .venv/
+venv/
+.pytest_cache/
+
+# Env / secrets
+.env
+*.local
+
+# Data / runtime
+*.db
+*.sqlite3
+/logs/
+caddy_data/
+caddy_config/
+postgres_data/
+
+# OS / editors
 .DS_Store
+.idea/
+.vscode/

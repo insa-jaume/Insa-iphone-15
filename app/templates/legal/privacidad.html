@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block title %}Política de privacidad{% endblock %}
+{% block body %}
+<section class="container legal">
+  <h1>Política de privacidad</h1>
+  <p class="muted">Conforme al Reglamento (UE) 2016/679 (RGPD) y a la Ley Orgánica
+    3/2018, de 5 de diciembre (LOPDGDD).</p>
+
+  <h2>1. Responsable del tratamiento</h2>
+  <p>{{ provider_name }} — NIF {{ provider_nif }}. {{ provider_address }}.
+  Contacto: {{ provider_email }}.</p>
+
+  <h2>2. Qué datos tratamos</h2>
+  <ul>
+    <li><b>Datos de cuenta:</b> nombre, correo electrónico y contraseña (cifrada).</li>
+    <li><b>Datos de las identidades a vigilar:</b> nombre/razón social y, en su caso,
+      DNI/NIE/NIF/CIF que <b>tú</b> nos facilitas para vigilar.</li>
+    <li><b>Coincidencias detectadas:</b> referencias a publicaciones oficiales
+      públicas en las que aparecen esos datos.</li>
+    <li><b>Datos de facturación:</b> gestionados por Stripe (no almacenamos el
+      número de tarjeta en nuestros servidores).</li>
+  </ul>
+
+  <h2>3. Base jurídica y finalidad</h2>
+  <p>Tratamos tus datos para <b>ejecutar el contrato</b> de prestación del servicio
+  de alertas (art. 6.1.b RGPD) y, en lo relativo a la vigilancia, sobre la base de
+  tu <b>consentimiento explícito</b> (art. 6.1.a RGPD), que confirmas declarando ser
+  el titular de los datos o su representante autorizado. La finalidad es localizar
+  esos datos en boletines oficiales y avisarte.</p>
+  <p><b>Importante:</b> solo vigilamos datos que el propio interesado (o su
+  representante) nos solicita vigilar sobre sí mismo. No elaboramos perfiles de
+  terceros ni cedemos datos con fines de marketing.</p>
+
+  <h2>4. Origen de los datos de coincidencias</h2>
+  <p>Las coincidencias proceden de boletines oficiales de acceso público. El
+  tratamiento se limita a localizar en ellos los datos que tú nos has pedido
+  vigilar, sobre la base de tu consentimiento.</p>
+
+  <h2>5. Destinatarios y encargados del tratamiento</h2>
+  <ul>
+    <li><b>Stripe Payments Europe, Ltd.</b> — pasarela de pago.</li>
+    <li><b>Proveedor de servidor (VPS) y de correo electrónico</b> — alojamiento y
+      envío de avisos.</li>
+  </ul>
+  <p>No se realizan cesiones a terceros salvo obligación legal. No se prevén
+  transferencias internacionales fuera del EEE; si algún encargado las realizara,
+  se ampararían en garantías adecuadas (cláusulas contractuales tipo).</p>
+
+  <h2>6. Conservación</h2>
+  <p>Conservamos tus datos mientras mantengas la cuenta. Si te das de baja, los
+  eliminamos salvo los mínimos exigidos por obligaciones legales (p. ej.
+  facturación), que se bloquean durante los plazos legales.</p>
+
+  <h2>7. Tus derechos</h2>
+  <p>Puedes ejercer los derechos de acceso, rectificación, supresión, oposición,
+  limitación y portabilidad escribiendo a {{ provider_email }}, o eliminando tu
+  cuenta desde el panel. Tienes derecho a presentar una reclamación ante la
+  Agencia Española de Protección de Datos (<a href="https://www.aepd.es" target="_blank" rel="noopener">www.aepd.es</a>).</p>
+
+  <h2>8. Seguridad</h2>
+  <p>Aplicamos medidas técnicas y organizativas razonables: cifrado de contraseñas,
+  conexión HTTPS, control de acceso y minimización de datos.</p>
+
+  <p class="muted"><i>Documento orientativo que debe adaptarse y revisarse por un
+  profesional antes de su uso en producción.</i></p>
+</section>
+{% endblock %}

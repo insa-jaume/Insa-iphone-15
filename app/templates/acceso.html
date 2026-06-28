@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Acceso{% endblock %}
+{% block body %}
+<section class="container" style="max-width:520px">
+  <div class="card">
+    <h2>Acceder</h2>
+    {% if error %}<div class="alert err">{{ error }}</div>{% endif %}
+    <form class="stack" method="post" action="/acceso">
+      <label>Correo electrónico</label>
+      <input type="email" name="email" required autocomplete="email">
+      <label>Contraseña</label>
+      <input type="password" name="password" required autocomplete="current-password">
+      <button class="btn" type="submit" style="margin-top:14px;width:100%">Entrar</button>
+    </form>
+    <p class="muted" style="margin-top:14px">¿No tienes cuenta? <a href="/registro">Crea una</a>.</p>
+  </div>
+</section>
+{% endblock %}

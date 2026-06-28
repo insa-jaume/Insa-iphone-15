@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Crear cuenta{% endblock %}
+{% block body %}
+<section class="container" style="max-width:520px">
+  <div class="card">
+    <h2>Crear cuenta</h2>
+    {% if error %}<div class="alert err">{{ error }}</div>{% endif %}
+    <form class="stack" method="post" action="/registro">
+      <label>Nombre y apellidos</label>
+      <input type="text" name="full_name" autocomplete="name">
+      <label>Correo electrónico</label>
+      <input type="email" name="email" required autocomplete="email">
+      <label>Contraseña (mín. 8 caracteres)</label>
+      <input type="password" name="password" required minlength="8" autocomplete="new-password">
+      <div class="check">
+        <input type="checkbox" name="accept" id="accept" value="1" required>
+        <label for="accept" style="font-weight:400;margin:0">
+          He leído y acepto las <a href="/terminos" target="_blank">condiciones del
+          servicio</a> y la <a href="/privacidad" target="_blank">política de
+          privacidad</a>, y consiento el tratamiento de mis datos para prestarme el
+          servicio de alertas.
+        </label>
+      </div>
+      <button class="btn" type="submit" style="margin-top:10px;width:100%">Crear cuenta</button>
+    </form>
+    <p class="muted" style="margin-top:14px">¿Ya tienes cuenta? <a href="/acceso">Accede</a>.</p>
+  </div>
+</section>
+{% endblock %}
